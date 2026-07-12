@@ -119,6 +119,14 @@ gold answers, and model answers contain short factual excerpts from these public
 included for evaluation and research purposes. All documents remain the property of their
 issuers. Removal requests: contact@ur-ai.net.
 
+## Acknowledgements
+
+Nebula Sovereign is fine-tuned from Qwen3-VL-32B, an open-weights model by the Qwen
+team (Alibaba Cloud); the base model is also evaluated here in unmodified form. We
+thank the Qwen team and the maintainers of every system evaluated. All model and
+product names are trademarks of their respective owners and appear solely for factual
+benchmarking.
+
 ## License & citation
 
 Code and data are released under the Apache License 2.0 (see `LICENSE`). Source
