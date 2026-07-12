@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの表題は何ですか。",
+    "answer": "物件別収支",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q00"
+  },
+  {
+    "question": "不動産賃貸事業収益の合計はいくらですか。",
+    "answer": "11,115百万円",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q01"
+  },
+  {
+    "question": "NOIの合計はいくらですか。",
+    "answer": "7,104百万円",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q02"
+  },
+  {
+    "question": "取得価格の合計はいくらですか。",
+    "answer": "292,114百万円",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q03"
+  },
+  {
+    "question": "注記（※4）で収支の明細を開示していない理由は何ですか。",
+    "answer": "エンドテナントから同意が得られていないためです。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q04"
+  },
+  {
+    "question": "エリア別内訳で第39期NOI利回りが最も高いエリアはどこですか。",
+    "answer": "エリアⅣ合計です。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q05"
+  },
+  {
+    "question": "エリア別内訳で第38期NOI利回りが最も低いエリアはどこですか。",
+    "answer": "エリアⅠ合計です。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q06"
+  },
+  {
+    "question": "エリアⅠ合計のNOI利回りは第38期から第39期に何ポイント変化しましたか。",
+    "answer": "0.1ポイント上昇しました。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q07"
+  },
+  {
+    "question": "エリアⅣ合計の第39期NOI利回り7.4%と第38期NOI利回り7.6%の差は何ポイントですか。",
+    "answer": "0.2ポイントです。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q08"
+  },
+  {
+    "question": "エリアⅡ合計のNOI 572百万円と取得価格22,761百万円から、表に記載の第39期NOI利回りは何%ですか。",
+    "answer": "5.0%です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p042_q09"
+  }
+]

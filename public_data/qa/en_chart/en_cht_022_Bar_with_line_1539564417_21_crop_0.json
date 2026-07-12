@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Average Loans\".",
+    "level": "L1",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q00"
+  },
+  {
+    "question": "What unit is shown under the chart title?",
+    "answer": "The unit is \"($ in millions)\".",
+    "level": "L1",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q01"
+  },
+  {
+    "question": "What label appears in the legend for the line series?",
+    "answer": "The line series is labeled \"Actual MBA Mortgage Origination Volumes¹,²\".",
+    "level": "L1",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q02"
+  },
+  {
+    "question": "What is the value shown for 4Q15?",
+    "answer": "The value for 4Q15 is \"1,742\".",
+    "level": "L1",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q03"
+  },
+  {
+    "question": "Which quarter shows the highest bar value on the chart?",
+    "answer": "4Q15 shows the highest bar value at \"2,136\".",
+    "level": "L2",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q04"
+  },
+  {
+    "question": "Which quarter shows the lowest bar value on the chart?",
+    "answer": "1Q14 shows the lowest bar value at \"886\".",
+    "level": "L2",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q05"
+  },
+  {
+    "question": "During which quarter does the line series appear to reach its peak?",
+    "answer": "The line series appears to peak around 1Q13.",
+    "level": "L2",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q06"
+  },
+  {
+    "question": "How many quarters are displayed in total on the chart?",
+    "answer": "There are 20 quarters displayed, from 1Q11 through 4Q15.",
+    "level": "L3",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the highest and lowest bar values shown?",
+    "answer": "The difference is 1,250, calculated from 2,136 minus 886.",
+    "level": "L3",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q08"
+  },
+  {
+    "question": "How many quarters in 2015 have bar values above 2,000?",
+    "answer": "Two quarters in 2015 are above 2,000: 1Q15 at \"2,089\" and 2Q15 at \"2,136\".",
+    "level": "L3",
+    "doc_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_022_Bar_with_line_1539564417_21_crop_0_q09"
+  }
+]

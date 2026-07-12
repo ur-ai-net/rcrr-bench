@@ -1,0 +1,102 @@
+[
+  {
+    "question": "On what date did Ulta Beauty announce these fourth quarter fiscal 2022 results?",
+    "answer": "March 9, 2023.",
+    "level": "L1",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q00"
+  },
+  {
+    "question": "What was Ulta Beauty's net sales for the thirteen weeks ended January 28, 2023?",
+    "answer": "$3,226.8 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q01"
+  },
+  {
+    "question": "What was the diluted earnings per share for the fifty-two weeks ended January 28, 2023?",
+    "answer": "$24.01.",
+    "level": "L1",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q02"
+  },
+  {
+    "question": "How many new store openings, net, did Ulta Beauty report for the fourth quarter of fiscal 2022?",
+    "answer": "12.",
+    "level": "L1",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q03"
+  },
+  {
+    "question": "What did Dave Kimbell say Ulta Beauty exceeded for the first time in its 33-year history?",
+    "answer": "Annual revenue surpassed ten billion dollars, annual net income exceeded one billion dollars, and Ulta Beauty exceeded 40 million Ultamate Rewards members.",
+    "level": "L2",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q04"
+  },
+  {
+    "question": "According to the page, what were the main reasons for the 18.2% increase in fourth quarter net sales?",
+    "answer": "The favorable impact from the continued resilience of the beauty category, retail price increases, and the impact of new brands and product innovation.",
+    "level": "L2",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q05"
+  },
+  {
+    "question": "What does the page say about Ulta Beauty's outlook as it moves into fiscal 2023?",
+    "answer": "It says the company remains optimistic about the strength and resiliency of the beauty category and is excited about opportunities to expand leadership, capture market share gains, and drive long term value.",
+    "level": "L2",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q06"
+  },
+  {
+    "question": "By how much did net sales increase from the fourth quarter of fiscal 2021 to the fourth quarter of fiscal 2022?",
+    "answer": "Net sales increased by $497.4 million, from $2,729.4 million to $3,226.8 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q07"
+  },
+  {
+    "question": "What was the change in diluted earnings per share from the fifty-two weeks ended January 29, 2022 to the fifty-two weeks ended January 28, 2023?",
+    "answer": "Diluted earnings per share increased by $6.03, from $17.98 to $24.01.",
+    "level": "L3",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q08"
+  },
+  {
+    "question": "How many more new store openings, net, were reported for fiscal 2022 than for fiscal 2021?",
+    "answer": "37 more stores, increasing from 10 to 47.",
+    "level": "L3",
+    "doc_id": "en_tbl_015_ultabeauty_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_015_ultabeauty_p001_q09"
+  }
+]

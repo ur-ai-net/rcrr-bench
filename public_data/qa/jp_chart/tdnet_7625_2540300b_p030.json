@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの表題は何ですか？",
+    "answer": "（国内）コンセプト別 営業利益率５期推移",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q00"
+  },
+  {
+    "question": "ラ・ボエムの2021年の営業利益率は何%ですか？",
+    "answer": "17.6%",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q01"
+  },
+  {
+    "question": "権八の2025年の営業利益率は何%ですか？",
+    "answer": "27.5%",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q02"
+  },
+  {
+    "question": "ゼストの2022年の営業利益率は何%ですか？",
+    "answer": "▲7.4%",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q03"
+  },
+  {
+    "question": "このページで2021年から2025年にかけて営業利益率が一貫して上昇しているコンセプトはどれですか？",
+    "answer": "権八",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q04"
+  },
+  {
+    "question": "2021年に営業利益率がマイナスだったコンセプトはどれですか？",
+    "answer": "ゼスト",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q05"
+  },
+  {
+    "question": "2025年の営業利益率が最も高いコンセプトはどれですか？",
+    "answer": "権八",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q06"
+  },
+  {
+    "question": "ラ・ボエムの2021年から2025年への営業利益率の上昇幅は何ポイントですか？",
+    "answer": "1.9ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q07"
+  },
+  {
+    "question": "ゼストの2022年から2023年への営業利益率の改善幅は何ポイントですか？",
+    "answer": "12.5ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q08"
+  },
+  {
+    "question": "2025年の権八とラ・ボエムの営業利益率の差は何ポイントですか？",
+    "answer": "8.0ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_q09"
+  }
+]

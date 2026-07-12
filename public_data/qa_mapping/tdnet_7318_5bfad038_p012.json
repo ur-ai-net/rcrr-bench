@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「PMI全体進捗状況」において、「進行中」の項目の割合は何％ですか？",
+    "answer": "25%",
+    "evidence": "完了 70％ / 進行中 25％ / 保留・未着手 5％",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_m00"
+  },
+  {
+    "question": "「PMI全体進捗状況」において、「保留・未着手」の項目の割合は何％ですか？",
+    "answer": "5%",
+    "evidence": "完了 70％ / 進行中 25％ / 保留・未着手 5％",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_m01"
+  },
+  {
+    "question": "STEP1〜STEP3のうち、ステータスが「完了」と示されているステップの取り組み名は何ですか？",
+    "answer": "経営基盤の整備",
+    "evidence": "STEP1 経営基盤の整備 完了 / STEP2 製造現場改善 進行中 / STEP3 企業価値の向上 進行中",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_m02"
+  }
+]

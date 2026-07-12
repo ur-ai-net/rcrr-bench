@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「転職求人倍率の推移」に記載されている単位は何ですか。",
+    "answer": "倍",
+    "evidence": "グラフタイトル「転職求人倍率の推移」の直下に「（単位：倍）」と記載されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_m00"
+  },
+  {
+    "question": "「転職求人倍率の推移」の出所として、どの会社の公表データより作成と記載されていますか。",
+    "answer": "パーソルキャリア株式会社",
+    "evidence": "グラフ右下の注記に「※ パーソルキャリア株式会社公表 「転職求人倍率レポート（データ）」より作成」と記載されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_m01"
+  },
+  {
+    "question": "「転職求人倍率の推移」で示されている期間の起点（最初の月）はいつですか。",
+    "answer": "Jan-19（2019年1月）",
+    "evidence": "グラフ横軸のラベルは「Jan-19」から始まり「Nov-25」まで並んでいる。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_m02"
+  }
+]

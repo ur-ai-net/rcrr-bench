@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"PAA Capital Spend: M&A + Organic Growth\".",
+    "level": "L1",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q00"
+  },
+  {
+    "question": "What years are shown on the x-axis?",
+    "answer": "The x-axis shows 2003 through 2015.",
+    "level": "L1",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q01"
+  },
+  {
+    "question": "What does the left y-axis measure?",
+    "answer": "It measures \"In Billions\".",
+    "level": "L1",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q02"
+  },
+  {
+    "question": "What does the right y-axis measure?",
+    "answer": "It measures \"Crude Oil Price (WTI)\".",
+    "level": "L1",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q03"
+  },
+  {
+    "question": "Which two capital spend categories are shown in the bars?",
+    "answer": "The bars show \"M&A\" and \"Organic Growth\".",
+    "level": "L2",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q04"
+  },
+  {
+    "question": "What note appears below the legend about the green bars?",
+    "answer": "The note says \"(Green bars do not include maintenance capex)\".",
+    "level": "L2",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q05"
+  },
+  {
+    "question": "Which year appears to have the highest WTI Crude Oil Price on the line chart?",
+    "answer": "2008 appears to have the highest WTI Crude Oil Price.",
+    "level": "L2",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q06"
+  },
+  {
+    "question": "In which year does the total capital spend bar appear highest?",
+    "answer": "The total capital spend bar appears highest in 2012.",
+    "level": "L3",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q07"
+  },
+  {
+    "question": "How many years are displayed in the chart?",
+    "answer": "There are 13 years displayed, from 2003 to 2015.",
+    "level": "L3",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q08"
+  },
+  {
+    "question": "Which years show only green bars with no blue M&A portion?",
+    "answer": "2013 and 2015 show only green bars with no blue M&A portion.",
+    "level": "L3",
+    "doc_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_021_Bar_with_line_1276023793_12_crop_2_q09"
+  }
+]

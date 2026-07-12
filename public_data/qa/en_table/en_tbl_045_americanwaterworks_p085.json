@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statements of Comprehensive Income.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q00"
+  },
+  {
+    "question": "Which company and subsidiary companies are named in the heading?",
+    "answer": "The heading names \"American Water Works Company, Inc. and Subsidiary Companies.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q01"
+  },
+  {
+    "question": "For which years are the results presented on this page?",
+    "answer": "The years presented are 2020, 2019, and 2018.",
+    "level": "L1",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q02"
+  },
+  {
+    "question": "What is the net income attributable to common shareholders for 2020?",
+    "answer": "It is $709 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q03"
+  },
+  {
+    "question": "Which item shows a loss of (12) in 2020 and 8 in 2019?",
+    "answer": "The item is \"Change in employee benefit plan funded status, net of tax.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q04"
+  },
+  {
+    "question": "What is the only line item on this page that shows a value of (22) in 2018?",
+    "answer": "It is \"Pension reclassification from accumulated other comprehensive loss of tax effects resulting from the Tax Cuts and Jobs Act.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q05"
+  },
+  {
+    "question": "Which line item has values of (4), (13), and (2) for 2020, 2019, and 2018, respectively?",
+    "answer": "The line item is \"Unrealized loss on cash flow hedges, net of tax.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q06"
+  },
+  {
+    "question": "What is the difference between comprehensive income attributable to common shareholders and net income attributable to common shareholders in 2020?",
+    "answer": "The difference is $13 million, since comprehensive income is $696 million and net income is $709 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q07"
+  },
+  {
+    "question": "Which year had the highest net other comprehensive income (loss), and what was the amount?",
+    "answer": "2018 had the highest net other comprehensive income (loss) at 45 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q08"
+  },
+  {
+    "question": "How many line items are listed under \"Other comprehensive income (loss), net of tax:\"?",
+    "answer": "There are 6 line items listed under that section.",
+    "level": "L3",
+    "doc_id": "en_tbl_045_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_045_americanwaterworks_p085_q09"
+  }
+]

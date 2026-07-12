@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart shown on the page?",
+    "answer": "The title is \"2015 Total FICC S&T Revenue Mix\".",
+    "level": "L1",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q00"
+  },
+  {
+    "question": "What subtitle appears directly under the chart title?",
+    "answer": "The subtitle is \"(excl. net DVA) 2\".",
+    "level": "L1",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q01"
+  },
+  {
+    "question": "What percentage is shown for \"Credit / other\"?",
+    "answer": "\"Credit / other\" is 59%.",
+    "level": "L1",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q02"
+  },
+  {
+    "question": "What percentage is shown for \"Macro 3\"?",
+    "answer": "\"Macro 3\" is 41%.",
+    "level": "L1",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q03"
+  },
+  {
+    "question": "Which category has the larger share of the revenue mix?",
+    "answer": "\"Credit / other\" has the larger share at 59%, compared with \"Macro 3\" at 41%.",
+    "level": "L2",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q04"
+  },
+  {
+    "question": "How many categories are included in the pie chart?",
+    "answer": "There are 2 categories: \"Credit / other\" and \"Macro 3\".",
+    "level": "L2",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q05"
+  },
+  {
+    "question": "What does the chart indicate about the revenue mix in 2015?",
+    "answer": "It shows that the 2015 Total FICC S&T Revenue Mix is split between \"Credit / other\" and \"Macro 3\".",
+    "level": "L2",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q06"
+  },
+  {
+    "question": "What is the difference in percentage points between the two categories?",
+    "answer": "The difference is 18 percentage points, because 59% minus 41% equals 18%.",
+    "level": "L3",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q07"
+  },
+  {
+    "question": "What is the combined percentage of the two categories shown in the pie chart?",
+    "answer": "The combined percentage is 100%.",
+    "level": "L3",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q08"
+  },
+  {
+    "question": "What is the ratio of \"Credit / other\" to \"Macro 3\"?",
+    "answer": "The ratio is 59:41.",
+    "level": "L3",
+    "doc_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_047_Pie_with_num_1522348161_19_crop_1_q09"
+  }
+]

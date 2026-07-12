@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart shown on this page?",
+    "answer": "The title is \"Performance Graph\" and it presents a \"Comparison of Five-Year Cumulative Total Returns.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q00"
+  },
+  {
+    "question": "Which three entities are compared in the performance graph?",
+    "answer": "The graph compares \"Advanced Micro Devices, Inc.\", the \"S&P 500 Index\", and the \"S&P 500 Semiconductors Index.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q01"
+  },
+  {
+    "question": "What base period date is used for the comparison table?",
+    "answer": "The base period date is \"12/30/2017.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q02"
+  },
+  {
+    "question": "On what date did AMD issue warrants to purchase 300,260 shares of common stock to a commercial partner?",
+    "answer": "The warrants were issued on \"January 3, 2023.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q03"
+  },
+  {
+    "question": "How did Advanced Micro Devices, Inc. perform relative to the S&P 500 Index and the S&P 500 Semiconductors Index by 12/31/2022?",
+    "answer": "Advanced Micro Devices, Inc. had an index value of \"630\", which was higher than the \"S&P 500 Index\" at \"157\" and the \"S&P 500 Semiconductors Index\" at \"185\".",
+    "level": "L2",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q04"
+  },
+  {
+    "question": "What happened to the warrants after the February 9, 2023 exercise?",
+    "answer": "The warrants were exercised in full for \"42,260\" shares, and \"As a result, the Warrants are no longer outstanding.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q05"
+  },
+  {
+    "question": "Which Securities Act provisions are cited for the two equity issuances on this page?",
+    "answer": "The January 3, 2023 warrant issuance was pursuant to \"Section 4(a)(2) of the Securities Act of 1933,\" and the February 9, 2023 share issuance was pursuant to \"Section 3(a)(9) of the Securities Act of 1933.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q06"
+  },
+  {
+    "question": "By how much did Advanced Micro Devices, Inc.'s index value change from 12/25/2021 to 12/31/2022?",
+    "answer": "It changed from \"1,422\" to \"630\", a decrease of \"792\".",
+    "level": "L3",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q07"
+  },
+  {
+    "question": "How many more shares were issued on January 3, 2023 than on February 9, 2023?",
+    "answer": "AMD issued \"300,260\" shares on January 3, 2023 and \"27,230\" shares on February 9, 2023, so the difference is \"273,030\" shares.",
+    "level": "L3",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q08"
+  },
+  {
+    "question": "What is the structural relationship between the table and the chart on this page?",
+    "answer": "The table lists the exact index values for each year, while the chart visually plots the same five-year cumulative total return comparison for the three indices.",
+    "level": "L3",
+    "doc_id": "en_tbl_005_amd_p042",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_005_amd_p042_q09"
+  }
+]

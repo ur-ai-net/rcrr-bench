@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is shown at the top left of the page?",
+    "answer": "overstock.com",
+    "level": "L1",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q00"
+  },
+  {
+    "question": "What is the title of the chart?",
+    "answer": "Annual Contribution & Growth*",
+    "level": "L1",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q01"
+  },
+  {
+    "question": "What year has the contribution value of 169,598?",
+    "answer": "2014.",
+    "level": "L1",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q02"
+  },
+  {
+    "question": "What does the footnote define \"Contribution dollars\" as?",
+    "answer": "gross profit less sales & marketing expense.",
+    "level": "L1",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q03"
+  },
+  {
+    "question": "Which year shows the lowest contribution growth (yoy), and what is that growth rate?",
+    "answer": "2011, at -9%.",
+    "level": "L2",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q04"
+  },
+  {
+    "question": "Which year has the highest contribution value, and what is the corresponding growth rate shown on the line?",
+    "answer": "2014 has the highest contribution value, and the growth rate is 9%.",
+    "level": "L2",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q05"
+  },
+  {
+    "question": "Between 2012 and 2013, did both contribution and contribution growth increase?",
+    "answer": "Yes. Contribution rose from 134,963 to 156,051, and growth increased from 15% to 16%.",
+    "level": "L2",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q06"
+  },
+  {
+    "question": "By how much did contribution increase from 2010 to 2014?",
+    "answer": "It increased by 41,292, from 128,306 to 169,598.",
+    "level": "L3",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the highest and lowest contribution growth (yoy) values shown?",
+    "answer": "The difference is 26 percentage points, from 17% to -9%.",
+    "level": "L3",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q08"
+  },
+  {
+    "question": "How many years are displayed on the chart, and what are they?",
+    "answer": "Five years are displayed: 2010, 2011, 2012, 2013, and 2014.",
+    "level": "L3",
+    "doc_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_023_Bar_with_line_1256808641_20_crop_0_q09"
+  }
+]

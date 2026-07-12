@@ -1,0 +1,38 @@
+[
+  {
+    "question": "【訪問看護】延べ訪問件数が積み上がるモデルのページにおいて、１利用者あたりの平均サービス継続期間は何日前後とされていますか。",
+    "answer": "590日前後",
+    "evidence": "１利用者あたり平均サービス継続期間は 590日 前後と長期のサービス提供",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_m00"
+  },
+  {
+    "question": "「延べ訪問件数が積み上がるモデル」に示されている契約の２区分は何ですか。",
+    "answer": "新規契約と既存契約",
+    "evidence": "凡例：■新規契約 ■既存契約",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_m01"
+  },
+  {
+    "question": "「延べ訪問件数が積み上がるモデル」で示されている期間のうち、最も長いのは何か月ですか。",
+    "answer": "12か月",
+    "evidence": "横軸：２か月 ４か月 ６か月 ８か月 10か月 12か月",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_m02"
+  }
+]

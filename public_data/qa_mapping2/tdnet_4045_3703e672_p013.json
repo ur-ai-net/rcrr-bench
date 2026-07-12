@@ -1,0 +1,15 @@
+[
+ {
+  "question": "「モビリティ分野拡販計画」において、指数の基準（100）とされているのは何年ですか。",
+  "answer": "2025年",
+  "evidence": "「モビリティ分野拡販計画」の中に「2025年を100とする」と記載されている。",
+  "source_element": "in-chart annotation",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_4045_3703e672_p013",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_4045_3703e672_p013_m03"
+ }
+]

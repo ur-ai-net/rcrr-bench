@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "事業別セグメント実績（四半期推移）",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q00"
+  },
+  {
+    "question": "FY2025の連結売上高Q4はいくらですか？",
+    "answer": "915",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q01"
+  },
+  {
+    "question": "FY2024の色材・機能材の日本Q2営業利益はいくらですか？",
+    "answer": "5",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q02"
+  },
+  {
+    "question": "FY2025のパッケージ合計Q3売上高はいくらですか？",
+    "answer": "236",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q03"
+  },
+  {
+    "question": "FY2025の連結営業利益はQ1からQ4にかけてどう変化していますか？",
+    "answer": "45、49、55、59と増加しています",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q04"
+  },
+  {
+    "question": "FY2025の各四半期で、連結売上高が最も高いのはどの四半期ですか？",
+    "answer": "Q4です",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q05"
+  },
+  {
+    "question": "FY2025の印刷・情報の海外営業利益で最も高い四半期はどれですか？",
+    "answer": "Q1です",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q06"
+  },
+  {
+    "question": "FY2025の色材・機能材の合計売上高はQ1からQ4で合計いくらですか？",
+    "answer": "844",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q07"
+  },
+  {
+    "question": "FY2025のポリマー・塗加工の合計営業利益はQ1からQ4で合計いくらですか？",
+    "answer": "84",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q08"
+  },
+  {
+    "question": "FY2025の連結売上高はQ1からQ4で合計いくらですか？",
+    "answer": "3499",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_q09"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "FORECAST四谷の所在地はどこですか？",
+    "answer": "FORECAST四谷は東京都新宿区に所在します。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q00"
+  },
+  {
+    "question": "FORECAST四谷で総額16百万円が予定されている工事の目的は何ですか？",
+    "answer": "FORECAST四谷で総額16百万円が予定されている工事の目的は「10階会議室新設工事」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q01"
+  },
+  {
+    "question": "グリーンオーク茅場町における「全館LED改修工事」の総額はいくらですか？",
+    "answer": "グリーンオーク茅場町における「全館LED改修工事」の総額は56百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q02"
+  },
+  {
+    "question": "FORECAST高田馬場における「駐車場増車計画に伴う受水槽改修工事」の予定期間はいつからいつまでですか？",
+    "answer": "FORECAST高田馬場における「駐車場増車計画に伴う受水槽改修工事」の予定期間は、自2026年1月至2026年6月です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q03"
+  },
+  {
+    "question": "東京都港区に所在し、「8階給湯室・トイレリニューアル工事」が目的の一つである不動産等の名称は何ですか？",
+    "answer": "東京都港区に所在し、「8階給湯室・トイレリニューアル工事」が目的の一つである不動産等は「ラ・ベリテ AKASAKA」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q04"
+  },
+  {
+    "question": "ラ・ベリテ AKASAKAにおける「セキュリティ新設工事」の総額はいくらですか？",
+    "answer": "ラ・ベリテ AKASAKAにおける「セキュリティ新設工事」の総額は26百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q05"
+  },
+  {
+    "question": "FORECAST五反田WESTで総額97百万円が予定されている工事の目的は何ですか？",
+    "answer": "FORECAST五反田WESTで総額97百万円が予定されている工事の目的は「共用部リニューアル工事 (2期)」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q06"
+  },
+  {
+    "question": "NORE伏見の所在地はどこですか？",
+    "answer": "NORE伏見は愛知県名古屋市に所在します。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q07"
+  },
+  {
+    "question": "「機械式駐車場部品交換工事」が計画されている不動産等をすべて挙げてください。",
+    "answer": "「機械式駐車場部品交換工事」が計画されている不動産等は、FORECAST四谷、大宮センタービル、マックヴィラージュ平安です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q08"
+  },
+  {
+    "question": "愛知県名古屋市に所在する不動産等と、それぞれの計画されている目的を挙げてください。",
+    "answer": "愛知県名古屋市に所在する不動産等は、NORE伏見（空調設備・LED改修工事(2期)）、NORE名駅（4階空調設備更新工事）、マックヴィラージュ平安（機械式駐車場部品交換工事、受変電設備改修工事(4期)）です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q09"
+  },
+  {
+    "question": "「LED改修工事」が目的の一部として明記されている不動産等をすべて挙げてください。",
+    "answer": "「LED改修工事」が目的の一部として明記されている不動産等は、グリーンオーク茅場町、FORECAST早稲田FIRST、大宮センタービル、NORE伏見、Primegate 飯田橋です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q10"
+  },
+  {
+    "question": "予定期間が2025年に開始する不動産等はどれですか？また、その目的は何ですか？",
+    "answer": "予定期間が2025年に開始する不動産等は広尾ONビルで、その目的は「外壁改修工事」です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q11"
+  },
+  {
+    "question": "東京都新宿区に所在する不動産等の中で、最も総額の工事予定金額が高いのはどれですか？",
+    "answer": "東京都新宿区に所在する不動産等の中で、最も総額の工事予定金額が高いのはFORECAST早稲田FIRSTで、合計54百万円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q12"
+  },
+  {
+    "question": "表に記載されている中で、3つの異なる目的が計画されている不動産等はどれですか？",
+    "answer": "表に記載されている中で、3つの異なる目的が計画されている不動産等は、ラ・ベリテ AKASAKAとFORECAST早稲田FIRSTです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q13"
+  },
+  {
+    "question": "FORECAST五反田WESTとFORECAST早稲田FIRSTの計画されている工事目的には、どのような共通点と相違点がありますか？",
+    "answer": "両者ともに複数の目的が計画されています。FORECAST五反田WESTは「共用部リニューアル工事」と「消火ポンプ4台更新工事」が目的である一方、FORECAST早稲田FIRSTは「セキュリティ新設工事」、「8階原状回復工事」、「2階・3階・4階専有部LED改修工事」が目的です。共通点は複数目的の計画があること、相違点は具体的な工事内容が異なる点です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q14"
+  },
+  {
+    "question": "東京都新宿区に所在するすべての不動産等の工事予定金額の総額を計算してください。",
+    "answer": "東京都新宿区に所在するすべての不動産等の工事予定金額の総額は、FORECAST四谷(29百万円) + FORECAST早稲田FIRST(54百万円) + 30山京ビル(22百万円) + Primegate 飯田橋(31百万円) = 136百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q15"
+  },
+  {
+    "question": "表に記載されているすべての「機械式駐車場部品交換工事」の工事予定金額の合計を計算してください。",
+    "answer": "表に記載されているすべての「機械式駐車場部品交換工事」の工事予定金額の合計は、FORECAST四谷(13百万円) + 大宮センタービル(24百万円) + マックヴィラージュ平安(19百万円) = 56百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q16"
+  },
+  {
+    "question": "記載されているすべての不動産等の中で、最も工事予定金額の総額が高い不動産等はどれですか？また、その金額はいくらですか？",
+    "answer": "最も工事予定金額の総額が高い不動産等はFORECAST五反田WESTで、その金額は113百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q17"
+  },
+  {
+    "question": "工事予定金額の総額が80百万円を超える不動産等はいくつありますか？",
+    "answer": "工事予定金額の総額が80百万円を超える不動産等は、FORECAST五反田WEST (113百万円)、大宮センタービル (88百万円)、NORE伏見 (86百万円)、広尾ONビル (82百万円) の4つです。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q18"
+  },
+  {
+    "question": "表に明記されているすべての「LED改修工事」に関連する工事予定金額の合計を計算してください。",
+    "answer": "表に明記されているすべての「LED改修工事」に関連する工事予定金額の合計は、グリーンオーク茅場町(56百万円) + FORECAST早稲田FIRST(12百万円) + 大宮センタービル(64百万円) + NORE伏見(86百万円) + Primegate 飯田橋(17百万円) = 235百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p065",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p065_q19"
+  }
+]

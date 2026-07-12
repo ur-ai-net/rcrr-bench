@@ -1,0 +1,698 @@
+[
+ {
+  "task_id": "tdnet_146A_dc6ce612_p006_m05",
+  "question": "「営業利益計画差異分析」に示されている、通期営利実績の修正計画差異はいくらですか。",
+  "answer": "+428百万円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_146A_dc6ce612_p006_m06",
+  "question": "「営業利益計画差異分析」において、期初営利予算から通期営利実績への増加率として付記されている値はいくつですか。",
+  "answer": "+27.5%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_146A_dc6ce612_p011_m03",
+  "question": "「都内期待利回り推移」において、無担保コールレートは何の金利として示されていますか。",
+  "answer": "政策金利",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_146A_dc6ce612_p011_m04",
+  "question": "「都内期待利回り推移」に示されている銀行約定平均金利は、どの区分の約定平均金利ですか。",
+  "answer": "国内銀行/新規/総合",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_146A_dc6ce612_p011_m05",
+  "question": "「都内期待利回り推移」の期待利回りの系列のうち、「ファミリー」と「ワンルーム」に共通して付記されているエリア名は何ですか。",
+  "answer": "城南",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_146A_dc6ce612_p011_m07",
+  "question": "「都内期待利回り推移」において、スプレッドについてどのような注記が付されていますか。",
+  "answer": "スプレッドは縮小",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_146A_dc6ce612_p012_m05",
+  "question": "開発期間を示す帯において、不動産開発の開発期間はどのくらいと示されていますか。",
+  "answer": "2年〜3年",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_146A_dc6ce612_p012_m06",
+  "question": "開発期間を示す帯において、「バリューアップ」と「不動産開発」のうち、開発期間が長く示されているのはどちらですか。",
+  "answer": "不動産開発",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3623_afb0e583_p035_m04",
+  "question": "「実質FCF」という系列が示されているのは、「過去5年のキャッシュフロー推移」と「預り金影響を除いた実態ベースのキャッシュフロー推移」のどちらですか。",
+  "answer": "「預り金影響を除いた実態ベースのキャッシュフロー推移」",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3623_afb0e583_p035_m05",
+  "question": "「預り金影響を除いた実態ベースのキャッシュフロー推移」において、系列名に「実質」が付されている系列は何と何ですか。",
+  "answer": "実質営業CFと実質FCF",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3623_afb0e583_p035_m06",
+  "question": "「過去5年のキャッシュフロー推移」に付されている※の注記では、何によるCF減少とされていますか。",
+  "answer": "預り金の期末精算タイミング",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p044_m03",
+  "question": "「当社の成長戦略」の推移の中に区分名として示されている3つのグロースは何ですか。",
+  "answer": "オーガニックグロース、M&Aグロース、投資グロース",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p044_m04",
+  "question": "「当社の成長戦略」において、推移はFY2021からどの期まで示されていますか。",
+  "answer": "FY2026以降",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p048_m03",
+  "question": "「Japan Cybersecurity Market 2025-2033」において、市場規模の推移が示されているのは何年から何年までですか。",
+  "answer": "2024年から2033年まで",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p049_m03",
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」において、中位シナリオの場合の2030年の人材不足数は約何万人と示されていますか。",
+  "answer": "約59万人",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p049_m04",
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」において、低位シナリオの場合の2030年の人材不足数は約何万人と示されていますか。",
+  "answer": "約41万人",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p049_m05",
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」において、中位シナリオの数値は、どの年を基準とした市場規模の指数とされていますか。",
+  "answer": "2015年",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p012_m03",
+  "question": "「仮固定粘着剤」は「当社販売製品」と「現在開発品」のどちらに分類されていますか。",
+  "answer": "現在開発品",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p012_m04",
+  "question": "工程の流れの中で「工業化世界初」と付されて示されているのはどの製品ですか。",
+  "answer": "六塩化二珪素（HCD）",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p012_m05",
+  "question": "工程の流れの中で「世界シェアNo.1」と付されて示されているのはどの製品ですか。",
+  "answer": "高純度液化塩化水素（クリーニングガス）",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p012_m06",
+  "question": "「透明基板用絶縁接着剤」と「イオン捕捉剤」のうち、「現在開発品」に分類されているのはどちらですか。",
+  "answer": "透明基板用絶縁接着剤",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p013_m04",
+  "question": "「モビリティ分野拡販計画」において、「（計画）」と付されているのは何年ですか。",
+  "answer": "2028年",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p013_m05",
+  "question": "自動車の各部位への引出し表示のうち、「ヘッドライト」に括弧書きで付されている名称は何ですか。",
+  "answer": "アロニックス",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p013_m06",
+  "question": "自動車の各部位への引出し表示のうち、「感圧センサー、パッキン」に括弧書きで付されている材料区分は何ですか。",
+  "answer": "エラストマー",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p013_m07",
+  "question": "「内装材向け再生PETマスターバッチ」と「補修用塗料可塑剤」の引出し表示に共通して「」書きで示されている製品名は何ですか。",
+  "answer": "ARUFON",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p015_m03",
+  "question": "「国土強靭化対応製品の拡販計画」において、「（目標）」と付されているのは何年ですか。",
+  "answer": "2030年",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p015_m04",
+  "question": "「国土強靭化対応製品の拡販計画」の縦方向の目盛りに示されている値のうち、最も大きい値は何ですか。",
+  "answer": "130%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_421A_647269b7_p004_m03",
+  "question": "「転職求人倍率の推移」で示されている期間の最後の月はいつですか。",
+  "answer": "Nov-25（2025年11月）",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_421A_647269b7_p004_m04",
+  "question": "「転職求人倍率の推移」の縦方向の目盛りに示されている値のうち、最も大きい値はいくつですか。",
+  "answer": "3.50",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_421A_647269b7_p006_m03",
+  "question": "「転職支援1件当たりの平均成約単価」の期間の目盛りに示されている年度をすべて挙げてください。",
+  "answer": "FY23、FY24、FY25",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_421A_647269b7_p006_m04",
+  "question": "「転職支援1件当たりの平均成約単価」では、各年度はどのような期の区分で示されていますか。",
+  "answer": "上期と下期",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_421A_647269b7_p006_m05",
+  "question": "「転職支援1件当たりの平均成約単価」の縦方向の目盛りに示されている値のうち、最も大きい値はいくつですか。",
+  "answer": "3.7",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4248_a8829d58_p022_m04",
+  "question": "沿革と売上高の推移において、金額の目盛りに付されている単位は何ですか。",
+  "answer": "億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4248_a8829d58_p022_m05",
+  "question": "沿革と売上高の推移の年の目盛りで、最初に示されている年はいつですか。",
+  "answer": "1976年",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4248_a8829d58_p022_m06",
+  "question": "沿革に重ねて示されている段階の流れで、「製造機能の内製化」の次に示されている段階は何ですか。",
+  "answer": "東証への上場",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4248_a8829d58_p022_m07",
+  "question": "沿革に重ねて示されている「国内販売の拡充」から始まる段階の流れで、最後に示されている段階を2つ挙げてください。",
+  "answer": "海外展開の強化、資源循環型への転換",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p007_m06",
+  "question": "第４四半期の「物流費等」要因に付された内訳のうち、「流通コスト」として示されている額はいくらですか。",
+  "answer": "▲8億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p007_m07",
+  "question": "「事業利益増減要因（第４四半期）」において、「タイヤ」全体の増減として示されている額はいくらですか。",
+  "answer": "+137億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p014_m05",
+  "question": "通期予想の「価格/MIX」要因に付された内訳のうち、「MIX」として示されている額はいくらですか。",
+  "answer": "+40億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p014_m06",
+  "question": "通期予想の「OHT」要因に付された「（OHT内訳）」のうち、「G-OTR」として示されている額はいくらですか。",
+  "answer": "+32億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p014_m07",
+  "question": "「事業利益増減要因（通期）」において、「タイヤ」全体の増減として示されている額はいくらですか。",
+  "answer": "+196億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p017_m05",
+  "question": "「事業利益増減要因（上期）」の「原料価格」要因の内訳として付されている項目のうち、「配合剤」の金額はいくらですか。",
+  "answer": "+36億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p017_m06",
+  "question": "「(OHT内訳)」に示されている項目のうち、「G-OTR」の増減額はいくらですか。",
+  "answer": "+25億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_5101_4a22a7ec_p017_m07",
+  "question": "「事業利益増減要因（上期）」の「物流費等」要因の内訳として付されている「海上運賃」の増減額はいくらですか。",
+  "answer": "+7億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p023_m03",
+  "question": "「成長のビジョン」において、医療人材コンサルティングは何億円市場（何年予想）と示されていますか。",
+  "answer": "790億円市場（2026年予想）",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p023_m04",
+  "question": "「成長のビジョン」において、FY2026の時点に位置付けられている取り組みは何ですか。",
+  "answer": "グループ共有プラットフォーム構築",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p023_m06",
+  "question": "「成長のビジョン」において、「海外」の区分に位置付けられている取り組みは何ですか。",
+  "answer": "医療人材 医療DX プラットフォーム ASEAN展開",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p023_m07",
+  "question": "「成長のビジョン」において、「医療人材基幹システム構築」に付されている投資の区分名は何ですか。",
+  "answer": "システム投資",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p028_m03",
+  "question": "「医療分野における医師人材／教育・情報プラットフォーム／データビジネスの国内市場」に示されている3つの系列名は何ですか。",
+  "answer": "医師人材ビジネス、教育・情報プラットフォームビジネス、データビジネス",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p028_m04",
+  "question": "「医療分野における医師人材／教育・情報プラットフォーム／データビジネスの国内市場」で金額の単位として付されている表記は何ですか。",
+  "answer": "（億円）",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p028_m05",
+  "question": "「医療分野における医師人材／教育・情報プラットフォーム／データビジネスの国内市場」に示されている年のうち、「見込」と付されているのは何年ですか。",
+  "answer": "2025年",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6561_7b30a815_p031_m03",
+  "question": "「ROICとWACCの推移」に示されている期間は、どの年度からどの年度までですか。",
+  "answer": "FY17からFY28まで",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6561_7b30a815_p031_m04",
+  "question": "「ROICとWACCの推移」において、期間の区分として付されている2つの名称は何ですか。",
+  "answer": "実績と計画",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6561_7b30a815_p031_m05",
+  "question": "「ROICとWACCの推移」の目盛に示されている値のうち、最も高い値は何％ですか。",
+  "answer": "17.0%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6561_e67178ee_p025_m03",
+  "question": "「ROICとWACCの推移」に示されている期間は、どの年度からどの年度までですか。",
+  "answer": "FY17からFY28まで",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6561_e67178ee_p025_m04",
+  "question": "「ROICとWACCの推移」において、期間の区分として付されている2つの名称は何ですか。",
+  "answer": "実績と計画",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6561_e67178ee_p025_m05",
+  "question": "「ROICとWACCの推移」の目盛に示されている値のうち、最も低い値は何％ですか。",
+  "answer": "-18.0%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7314_1d47d4d8_p016_m03",
+  "question": "「デジタルバス停システム」の構成において、「SIMレスデジタルバス停」に付されている記載は何ですか。",
+  "answer": "電源確保や貼替業務が不要",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7314_1d47d4d8_p016_m04",
+  "question": "「デジタルバス停システム」の構成要素のうち、「データの管理」の役割が付されているのはどれですか。",
+  "answer": "データ配信基盤",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7314_1d47d4d8_p016_m05",
+  "question": "「デジタルバス停システム」の構成において、貼替工数の削減とあわせて低減するとされているのは何のコストですか。",
+  "answer": "データ送受信コスト",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p007_m03",
+  "question": "「自己資本比率の見通し」において、2027年3月想定の自己資本比率は何％ですか。",
+  "answer": "27.6％",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p007_m04",
+  "question": "「自己資本比率の見通し」において、2028年3月想定の自己資本比率は何％ですか。",
+  "answer": "31.1％",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p007_m05",
+  "question": "「自己資本比率の見通し」において、各時点の構成要素として示されている名称は何ですか。",
+  "answer": "総資産、負債（借入）、純資産（自己資本）",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p007_m06",
+  "question": "「自己資本比率の見通し」において、「借入返済」とともに増減の要因として付されている項目は何ですか。",
+  "answer": "利益増加",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p011_m03",
+  "question": "「システムインテグレーション事業のスマイルカーブ」において、工程「業務要件」に対応する役割区分はどれですか？",
+  "answer": "コンサル",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p011_m04",
+  "question": "「システムインテグレーション事業のスマイルカーブ」において、「高収益」と示されている工程はどれとどれですか？",
+  "answer": "業務要件と保守・サポート",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p011_m05",
+  "question": "「システムインテグレーション事業のスマイルカーブ」において、工程の流れの起点と終点として印字されている区分は何ですか？",
+  "answer": "起点は上流工程、終点は下流工程",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p012_m03",
+  "question": "「PMI全体進捗状況」において、「完了」の項目の割合は何％ですか？",
+  "answer": "70%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p012_m04",
+  "question": "企業価値の推移イメージにおいて、STEP2として示されている取り組み名は何ですか？",
+  "answer": "製造現場改善",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p012_m05",
+  "question": "企業価値の推移イメージにおいて、STEP3として示されている取り組み名は何ですか？",
+  "answer": "企業価値の向上",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p012_m06",
+  "question": "企業価値の推移イメージにおいて、時間の経過を示す目盛として印字されている2つの値は何ですか？",
+  "answer": "～6ヶ月と12ヶ月",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p013_m03",
+  "question": "「株価推移」に示されている2つの系列名は何ですか？",
+  "answer": "出来高と株価",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p013_m04",
+  "question": "「株価推移」において、「株価（円）」の目盛として印字されている最大の値はいくつですか？",
+  "answer": "2,000円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p013_m05",
+  "question": "「株価推移」において、「出来高（株）」の目盛として印字されている最大の値はいくつですか？",
+  "answer": "1,800,000株",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p013_m06",
+  "question": "「株価推移」において、「M＆A3社の業績取り込み」の注記が指し示している決算はどれですか？",
+  "answer": "FY2025通期決算",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p013_m07",
+  "question": "「株価推移」において、サーテックカリヤの業績が通期で反映されると注記されているのは何年何月ですか？",
+  "answer": "2026年5月",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p003_m06",
+  "question": "「AeroEdgeの成長戦略」の成長イメージにおいて、期の目盛として印字されているもののうち最も早い期はどれですか？",
+  "answer": "16/6期",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p013_m03",
+  "question": "「業績進捗」において、26/6期の売上高の2Q実績はいくらですか？",
+  "answer": "2,473百万円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p013_m04",
+  "question": "「業績進捗」において、26/6期の営業利益の通期予想（修正後）はいくらですか？",
+  "answer": "1,070百万円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p013_m05",
+  "question": "「業績進捗」において、25/6期の営業利益の通期実績はいくらですか？",
+  "answer": "655百万円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p013_m06",
+  "question": "「業績進捗」において、25/6期2Q時点の営業利益の進捗率は何％ですか？",
+  "answer": "42.3%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p013_m07",
+  "question": "「四半期毎の売上高見込イメージ」において、2Qに示されている「受託開発売上」の金額はいくらですか？",
+  "answer": "約3億円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p033_m03",
+  "question": "「チタンアルミブレード販売シェアと収益構造イメージ」において、期間ごとのシェア水準として印字されている2つの区分は何ですか？",
+  "answer": "シェア40%とシェア40%台後半",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p033_m04",
+  "question": "収益構造の変化イメージにおいて、「加工のみ」の次の段階として示されている構成は何ですか？",
+  "answer": "加工+新材料",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p033_m05",
+  "question": "販売数量の推移において、内訳として示されている2つの品目名は何ですか？",
+  "answer": "加工と新材料",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p033_m06",
+  "question": "販売数量の目盛として印字されている最大の値はいくつですか？",
+  "answer": "2,000",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p033_m07",
+  "question": "収益構造の変化イメージにおいて、「加工のみ」「加工+新材料」それぞれの内訳が示されている2つの項目は何ですか？",
+  "answer": "売上と利益",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p013_m03",
+  "question": "月次売上高推移において、「ハロウィン開始」が示されているのは何月ですか？",
+  "answer": "10月",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p013_m04",
+  "question": "月次売上高推移において、「ビアガーデン」「ファーマーズマーケット」と併せて開始と示されている取り組みは何ですか？",
+  "answer": "ライブイベント",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p013_m05",
+  "question": "月次売上高推移において、金額の目盛として印字されている値はいくつですか？",
+  "answer": "5千万円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p013_m06",
+  "question": "月次売上高推移において、「夏季行楽期」が示されているのは何月ですか？",
+  "answer": "8月",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p020_m03",
+  "question": "「売上高成長イメージ」において、期間の目盛として最初に印字されている時期はいつですか？",
+  "answer": "2025年3月",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p025_m03",
+  "question": "「（国内）2025年 通期 売上高前年対比率 月次推移」に示されている3つの系列名は何ですか？",
+  "answer": "国内全店合計、国内既存店合計、外食業界全体",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p025_m04",
+  "question": "「（国内）2025年 通期 売上高前年対比率 月次推移」において、前年対比率の目盛として印字されている最大の値はいくつですか？",
+  "answer": "+20.0%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p025_m05",
+  "question": "「（国内）2025年 通期 売上高前年対比率 月次推移」の目盛は、何月から何月まで印字されていますか？",
+  "answer": "1月から12月まで",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p026_m03",
+  "question": "「客単価」の月次推移において、前年対比率の目盛として印字されている最大の値はいくつですか？",
+  "answer": "+8.0%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p026_m04",
+  "question": "「客数」の月次推移において、前年対比率の目盛として印字されている最も低い値はいくつですか？",
+  "answer": "▲5.0%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p026_m05",
+  "question": "「客単価」の月次推移に示されている3つの系列名は何ですか？",
+  "answer": "国内全店合計、国内既存店合計、外食業界全体",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p030_m03",
+  "question": "「（国内）コンセプト別 営業利益率５期推移」に営業利益率の推移が示されている系列名をすべて挙げてください。",
+  "answer": "ラ・ボエム、モンスーン、権八、ゼスト、Dinner、FC&Other",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p030_m04",
+  "question": "「（国内）コンセプト別 営業利益率５期推移」の系列のうち、系列名がアルファベットで表記されているものはどれとどれですか。",
+  "answer": "DinnerとFC&Other",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p030_m05",
+  "question": "「（国内）コンセプト別 営業利益率５期推移」において、営業利益率の目盛はいくつからいくつまで印字されていますか。",
+  "answer": "▲20.0%から30.0%まで",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7625_2540300b_p030_m06",
+  "question": "「（国内）コンセプト別 営業利益率５期推移」が対象としている期間は何年から何年までですか。",
+  "answer": "2021年から2025年まで",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8359_ac03550c_p023_m03",
+  "question": "「キャピタルアロケーション」において、配当制限として示されている水準はいくつですか。",
+  "answer": "10.5%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8359_ac03550c_p023_m04",
+  "question": "「キャピタルアロケーション」で配当制限の内訳として印字されている「国際統一基準行所要最低水準」と「資本保全バッファ」は、それぞれいくつですか。",
+  "answer": "国際統一基準行所要最低水準8.0%、資本保全バッファ2.5%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8359_ac03550c_p023_m05",
+  "question": "「攻め」と「守り」の備えのうち、「M&A・戦略投資」に対して示されている金額規模はいくらですか。",
+  "answer": "1,500億円程度",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8359_ac03550c_p023_m06",
+  "question": "「攻め」と「守り」の備えとして併記されている2つの項目は何ですか。",
+  "answer": "M&A・戦略投資と自然災害リスク",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8359_ac03550c_p023_m07",
+  "question": "「キャピタルアロケーション」において、2024年度から2028年度にかけてのCET１比率の変動要因として示されている項目をすべて挙げてください。",
+  "answer": "利益（株式売却益）、リスクアセット増加、株主還元、資本控除・資産圧縮",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8987_20158790_p014_m05",
+  "question": "第39期（2025/12）のDPUに含まれる譲渡益はいくらですか。",
+  "answer": "58円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8987_20158790_p014_m07",
+  "question": "第41期（2026/12予想）のDPUに含まれる内部留保はいくらですか。",
+  "answer": "88円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8987_20158790_p037_m03",
+  "question": "「投資口価格と東証REIT指数の推移」において、投資口価格の目盛に付されている単位は何ですか。",
+  "answer": "千円",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8987_20158790_p037_m04",
+  "question": "「投資口価格と東証REIT指数の推移」において、東証REIT指数と併せて推移が示されているもう一つの系列は何ですか。",
+  "answer": "ジャパンエクセレント投資法人の投資口価格",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8987_20158790_p037_m05",
+  "question": "「投資口価格と東証REIT指数の推移」が対象とする期間の最後の年は何年ですか。",
+  "answer": "2025年",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_9214_c6158887_p022_m07",
+  "question": "「看護職員規模別の事業所割合の推移」で示されている看護職員数の区分のうち、人数が最も大きい区分は何ですか。",
+  "answer": "20人以上",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_9214_c6158887_p031_m04",
+  "question": "「ポジショニング」において、各社の位置づけの評価に用いられている2つの観点は何ですか。",
+  "answer": "満足度とDX",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_9214_c6158887_p031_m05",
+  "question": "「ポジショニング」において、当社を示す位置に添えられている言葉は何ですか。",
+  "answer": "寄り添いを可能に",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_9214_c6158887_p035_m03",
+  "question": "「延べ訪問件数が積み上がるモデル」に示されている期間区分のうち、最も短いのは何か月ですか。",
+  "answer": "２か月",
+  "reason": "owner_review_drop"
+ }
+]

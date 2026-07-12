@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Contract vs Spot Revenue\".",
+    "level": "L1",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q00"
+  },
+  {
+    "question": "Which years are shown on the x-axis?",
+    "answer": "The years shown are 2009, 2010, 2011, 2012, 2013, and 2014.",
+    "level": "L1",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q01"
+  },
+  {
+    "question": "What are the three legend categories in the chart?",
+    "answer": "The legend categories are \"Contract\", \"SPOT\", and \"MRE\".",
+    "level": "L1",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q02"
+  },
+  {
+    "question": "What is the average revenue shown for 2014?",
+    "answer": "The average revenue for 2014 is \"R$158/MWhr\".",
+    "level": "L1",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q03"
+  },
+  {
+    "question": "How does the average revenue change from 2009 to 2014?",
+    "answer": "It increases from \"R$97/MWhr\" in 2009 to \"R$158/MWhr\" in 2014. This shows a steady rise over the period.",
+    "level": "L2",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q04"
+  },
+  {
+    "question": "Which year has the highest average revenue, and what is it?",
+    "answer": "2014 has the highest average revenue at \"R$158/MWhr\".",
+    "level": "L2",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q05"
+  },
+  {
+    "question": "Which year has the lowest average revenue, and what is it?",
+    "answer": "2009 has the lowest average revenue at \"R$97/MWhr\".",
+    "level": "L2",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q06"
+  },
+  {
+    "question": "What is the difference in average revenue between 2014 and 2009?",
+    "answer": "The difference is \"R$61/MWhr\".",
+    "level": "L3",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q07"
+  },
+  {
+    "question": "Which revenue category appears to make up the largest share in every year?",
+    "answer": "\"Contract\" appears to make up the largest share in every year.",
+    "level": "L3",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q08"
+  },
+  {
+    "question": "How many years are displayed, and how many legend categories are shown?",
+    "answer": "There are 6 years displayed and 3 legend categories shown.",
+    "level": "L3",
+    "doc_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_014_Bar_with_num_1271539195_61_crop_1_q09"
+  }
+]

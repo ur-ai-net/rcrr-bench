@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Diverse Sources of Deposits\".",
+    "level": "L1",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q00"
+  },
+  {
+    "question": "What subtitle appears under the title?",
+    "answer": "The subtitle is \"(Actual Deposits at March 31)\".",
+    "level": "L1",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q01"
+  },
+  {
+    "question": "What is the total deposit amount shown for 2012?",
+    "answer": "The total deposit amount for 2012 is \"$10.7B\".",
+    "level": "L1",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q02"
+  },
+  {
+    "question": "What is the total deposit amount shown for 2016?",
+    "answer": "The total deposit amount for 2016 is \"$15.4B\".",
+    "level": "L1",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q03"
+  },
+  {
+    "question": "Which year has the highest total deposits on the chart?",
+    "answer": "2016 has the highest total deposits at \"$15.4B\".",
+    "level": "L2",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q04"
+  },
+  {
+    "question": "Which year shows the largest Commercial share, and what is that percentage?",
+    "answer": "2014 shows the largest Commercial share at \"33.2%\".",
+    "level": "L2",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q05"
+  },
+  {
+    "question": "In which year does Healthcare first exceed 8%?",
+    "answer": "Healthcare first exceeds 8% in 2016, at \"9.3%\".",
+    "level": "L2",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q06"
+  },
+  {
+    "question": "By how much did total deposits increase from 2012 to 2016?",
+    "answer": "Total deposits increased by \"$4.7B\" from \"$10.7B\" to \"$15.4B\".",
+    "level": "L3",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q07"
+  },
+  {
+    "question": "Which year has the highest combined percentage for Commercial and Consumer, and what is that combined share?",
+    "answer": "2014 has the highest combined Commercial and Consumer share at \"59.9%\".",
+    "level": "L3",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q08"
+  },
+  {
+    "question": "What are the three legend categories shown at the bottom of the chart?",
+    "answer": "The visible legend categories are \"Commercial\", \"Healthcare\", and \"Institutional - IBIS\".",
+    "level": "L3",
+    "doc_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_000_Bar_with_num_1602203815_29_crop_0_q09"
+  }
+]

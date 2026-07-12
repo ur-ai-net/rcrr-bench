@@ -1,0 +1,102 @@
+[
+  {
+    "question": "11月末に上方修正された業績予想に対して、着地はどうなりましたか。",
+    "answer": "さらにそれを上回りました。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q00"
+  },
+  {
+    "question": "上振れ要因は全部でいくつ挙げられていますか。",
+    "answer": "3つです。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q01"
+  },
+  {
+    "question": "3つ目の上振れ要因として挙げられた会社名は何ですか。",
+    "answer": "サンクス沖縄社です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q02"
+  },
+  {
+    "question": "11月末時点では何がほぼ固まっていたと説明されていますか。",
+    "answer": "販売価格と原価です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q03"
+  },
+  {
+    "question": "11月末時点で保守的に見込んでいた理由として、何を重視していたと述べていますか。",
+    "answer": "間違ったガイダンスを出さないことです。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q04"
+  },
+  {
+    "question": "外部からの評価が想定以上に伸びた結果、何につながったと説明されていますか。",
+    "answer": "外部受託につながりました。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q05"
+  },
+  {
+    "question": "中内さんは今回の上振れをどう捉えていますか。",
+    "answer": "保守的な見立てを丁寧に実行できた結果だと捉えています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q06"
+  },
+  {
+    "question": "営業利益は計画の4,729百万円から着地の6,028百万円へ増えましたが、増加額はいくらですか。",
+    "answer": "1,299百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q07"
+  },
+  {
+    "question": "計画の5,600百万円から着地の6,028百万円への増加率は何％ですか。",
+    "answer": "約7.6％です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q08"
+  },
+  {
+    "question": "営業利益の計画差異分析で、計画比の増加額が最も大きい要因は何ですか。",
+    "answer": "不動産賃貸事業・アセットマネジメント事業です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_q09"
+  }
+]

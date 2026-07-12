@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "自己資本比率の見通し",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q00"
+  },
+  {
+    "question": "2025年12月時点の自己資本比率は何％ですか？",
+    "answer": "21.0％",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q01"
+  },
+  {
+    "question": "2026年3月想定の自己資本比率は何％ですか？",
+    "answer": "23.6％",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q02"
+  },
+  {
+    "question": "借入のうち、資本性を有すると説明されているものは何ですか？",
+    "answer": "メザニン",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q03"
+  },
+  {
+    "question": "M&Aで自己資本比率は一時的にどうなると説明されていますか？",
+    "answer": "一時的に低下する",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q04"
+  },
+  {
+    "question": "自己資本比率が増加する要因として、本文で挙げられている2つは何ですか？",
+    "answer": "安定した利益と借入返済",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q05"
+  },
+  {
+    "question": "2025年12月末時点の数値を据え置いて使用すると注記されている項目は何ですか？",
+    "answer": "その他有価証券評価差額金",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q06"
+  },
+  {
+    "question": "2025年12月から2029年3月想定までの自己資本比率の上昇幅は何ポイントですか？",
+    "answer": "13.3ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q07"
+  },
+  {
+    "question": "2027年3月想定の自己資本比率は2026年3月想定より何ポイント高いですか？",
+    "answer": "4.0ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q08"
+  },
+  {
+    "question": "2028年3月想定の自己資本比率は2029年3月想定より何ポイント低いですか？",
+    "answer": "3.2ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_q09"
+  }
+]

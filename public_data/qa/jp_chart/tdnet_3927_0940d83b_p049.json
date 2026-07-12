@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの見出しは何ですか？",
+    "answer": "当社ITサービス事業：IT人材需要で市場は拡大",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q00"
+  },
+  {
+    "question": "ITエンジニア人材は2018年時点で何人不足しているとされていますか？",
+    "answer": "約22万人",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q01"
+  },
+  {
+    "question": "2030年にはITエンジニア人材が最大で何人不足する可能性があるとされていますか？",
+    "answer": "約79万人",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q02"
+  },
+  {
+    "question": "このページで、現代のビジネスにおいて必須とされているものは何ですか？",
+    "answer": "IT利活用",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q03"
+  },
+  {
+    "question": "このページの内容から、今後IT人材の需要はどうなると考えられますか？",
+    "answer": "増す一方です",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q04"
+  },
+  {
+    "question": "このページは、IT人材市場についてどのような方向性を示していますか？",
+    "answer": "需要拡大",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q05"
+  },
+  {
+    "question": "このページで示されている不足人数の将来予測は、現在より大きいですか小さいですか？",
+    "answer": "大きいです",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q06"
+  },
+  {
+    "question": "2018年時点の不足人数約22万人と2030年最大不足人数約79万人の差は何万人ですか？",
+    "answer": "約57万人",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q07"
+  },
+  {
+    "question": "2030年最大不足人数約79万人は、2018年時点の不足人数約22万人の何倍ですか？",
+    "answer": "約3.6倍",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q08"
+  },
+  {
+    "question": "2018年時点の不足人数約22万人に対して、2030年最大不足人数約79万人は何万人増えますか？",
+    "answer": "約57万人増えます",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p049",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p049_q09"
+  }
+]

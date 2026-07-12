@@ -1,0 +1,202 @@
+[
+  {
+    "question": "25年12月期の1件当たり単価の計画はいくらですか？",
+    "answer": "21億です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q00"
+  },
+  {
+    "question": "25年12月期の新規投資額の期初計画はいくらですか？",
+    "answer": "580億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q01"
+  },
+  {
+    "question": "24年12月期の不動産開発事業売上実績はいくらですか？",
+    "answer": "19,180百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q02"
+  },
+  {
+    "question": "25年12月期3Q実績の1件あたり単価はいくらですか？",
+    "answer": "3,542です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q03"
+  },
+  {
+    "question": "水山氏によると、25年12月期の投資実績はいくらですか？",
+    "answer": "450億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q04"
+  },
+  {
+    "question": "中内氏によると、賃料が上がり始めたのはいつ頃ですか？",
+    "answer": "昨年ぐらいからです。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q05"
+  },
+  {
+    "question": "25年12月期4Q実績/計画の販売件数（自社：不動産開発）はいくつですか？",
+    "answer": "2/5です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q06"
+  },
+  {
+    "question": "25年12月期2Q実績の仕入件数（自社：バリューアップ）はいくつですか？",
+    "answer": "2です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q07"
+  },
+  {
+    "question": "25年12月期の新規投資額は期初計画に対してビハインドしていると説明されていますが、その具体的な金額と理由は何ですか？",
+    "answer": "期初計画580億円に対し、投資実績は450億円でビハインドしています。これは、期初時点で建設費高騰による利益率低下を懸念し保守的に見ていたものを、実際の事業環境で利益率が取れることを確認した上で投資を抑制した結果です。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q08"
+  },
+  {
+    "question": "水山氏が投資を抑制した理由として挙げている財務に関する2つの要素は何ですか？",
+    "answer": "財務バランスと資本効率です。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q09"
+  },
+  {
+    "question": "中内氏によると、東京のマンション価格と賃料の現在の動向はそれぞれどのような状況ですか？",
+    "answer": "マンション価格はここ数年急激に上がってきており、現在は若干踊り場に来ていると感じています。賃料は昨年ぐらいから上がり始め、もう少し上がっていくと見ています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q10"
+  },
+  {
+    "question": "25年12月期において、販売件数全体の実績と計画はそれぞれいくつですか？",
+    "answer": "実績は16件、計画は19件です。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q11"
+  },
+  {
+    "question": "25年12月期3Q実績の新規投資額は、2Q実績と比較してどのように変化しましたか？",
+    "answer": "2Q実績が8,610百万円であったのに対し、3Q実績は7,983百万円と減少しました。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q12"
+  },
+  {
+    "question": "25年12月期の棚卸資産残高の期初計画と4Q実績はそれぞれいくらですか？",
+    "answer": "期初計画は44,890百万円、4Q実績も44,890百万円です。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q13"
+  },
+  {
+    "question": "25年12月期の不動産開発事業売上は「計画達成に対しては充足」とありますが、KPI表の「25年12月期実績/計画」の数値はいくらですか？",
+    "answer": "33,600/非 と記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q14"
+  },
+  {
+    "question": "25年12月期における新規投資額の1Qから4Qまでの実績合計はいくらですか？",
+    "answer": "1Q: 10,081百万円、2Q: 8,610百万円、3Q: 7,983百万円、4Q: 19,085百万円の合計で、45,759百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q15"
+  },
+  {
+    "question": "25年12月期の新規投資額の期初計画580億円に対し、水山氏が言及した投資実績450億円は、計画の約何パーセントに相当しますか？",
+    "answer": "450億円を580億円で割ると約0.7758となり、計画の約77.6%に相当します。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q16"
+  },
+  {
+    "question": "25年12月期の販売件数（自社：不動産開発）の計画に対する実績の達成率は何パーセントですか？",
+    "answer": "計画5件に対し実績2件なので、達成率は40%です (2/5 * 100)。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q17"
+  },
+  {
+    "question": "25年12月期の販売件数（自社：バリューアップ）の計画に対する実績の達成率は何パーセントですか？",
+    "answer": "計画9件に対し実績7件なので、達成率は約77.8%です (7/9 * 100)。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q18"
+  },
+  {
+    "question": "25年12月期の不動産開発事業売上について、1Qから4Qまでの実績合計はいくらですか？また、この実績合計は計画33,600百万円に対してどの程度の達成率ですか？",
+    "answer": "1Qから4Qまでの実績合計は33,705百万円です (4,983 + 3,505 + 17,712 + 7,505)。計画33,600百万円に対する達成率は約100.3%です (33,705 / 33,600 * 100)。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p010_q19"
+  }
+]

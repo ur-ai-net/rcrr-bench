@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Overall Lease Rate Index (CEU) (1)\".",
+    "level": "L1",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q00"
+  },
+  {
+    "question": "What is the y-axis range shown on the chart?",
+    "answer": "The y-axis runs from \"-12%\" to \"10%\".",
+    "level": "L1",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q01"
+  },
+  {
+    "question": "What is the first quarter shown on the x-axis?",
+    "answer": "The first quarter shown is \"Q1 '07\".",
+    "level": "L1",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q02"
+  },
+  {
+    "question": "What is the last quarter shown on the x-axis?",
+    "answer": "The last quarter shown is \"Q4 '15\".",
+    "level": "L1",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q03"
+  },
+  {
+    "question": "Around which quarter does the line reach its lowest point, and what is that approximate value?",
+    "answer": "The lowest point appears around \"Q1 '10\" at approximately \"-9%\".",
+    "level": "L2",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q04"
+  },
+  {
+    "question": "Around which quarter does the line reach its highest point, and what is that approximate value?",
+    "answer": "The highest point appears around \"Q3 '11\" at approximately \"7%\" to \"8%\".",
+    "level": "L2",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q05"
+  },
+  {
+    "question": "Does the index end above or below 0% at the final quarter shown?",
+    "answer": "It ends below 0%, at about \"-10%\" in \"Q4 '15\".",
+    "level": "L2",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q06"
+  },
+  {
+    "question": "What is the approximate change from the lowest point to the highest point on the chart?",
+    "answer": "The index rises by roughly \"16%\" to \"17%\" from about \"-9%\" to about \"7%\" or \"8%\".",
+    "level": "L3",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q07"
+  },
+  {
+    "question": "How many quarters are shown from \"Q1 '07\" through \"Q4 '15\"?",
+    "answer": "There are 36 quarters shown.",
+    "level": "L3",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q08"
+  },
+  {
+    "question": "Between \"Q1 '11\" and \"Q1 '14\", did the index move from negative to positive and then back to negative?",
+    "answer": "Yes. It moves from negative in \"Q1 '11\" to positive by \"Q1 '11\"/\"Q2 '11\" and returns to negative by \"Q1 '14\".",
+    "level": "L3",
+    "doc_id": "en_cht_038_Line_1550982239_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_038_Line_1550982239_6_crop_1_q09"
+  }
+]

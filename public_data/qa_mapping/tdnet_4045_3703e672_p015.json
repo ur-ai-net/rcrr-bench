@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「国土強靭化対応製品の拡販計画」で、指数の基準（100）とされているのは何年ですか。",
+    "answer": "2025年",
+    "evidence": "グラフ内に「2025年を100とする」と記載され、横軸の「2025年（実績）」の棒が100%の位置に示されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_m00"
+  },
+  {
+    "question": "「国土強靭化対応製品の拡販計画」において、「（計画）」と付されているのは何年ですか。",
+    "answer": "2028年",
+    "evidence": "グラフの横軸に「2025年（実績） 2028年（計画） 2030年（目標）」と示されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_m01"
+  },
+  {
+    "question": "図中で「マッピングカメラで管路の補修箇所を解析」すると説明されているシステムの名称は何ですか。",
+    "answer": "マッピングシステム",
+    "evidence": "「下水道の管路調査・診断事業への参入 「マッピングシステム」」の図に「マッピングカメラで管路の補修箇所を解析」と付記されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_m02"
+  }
+]

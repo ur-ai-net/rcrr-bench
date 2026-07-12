@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「業績進捗」において、26/6期の営業利益の2Q実績はいくらですか？",
+    "answer": "737百万円",
+    "evidence": "単位：百万円 / 営業利益 … 26/6期2Q 2Q実績 737",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_m00"
+  },
+  {
+    "question": "「業績進捗」において、26/6期の売上高の通期予想（修正後）はいくらですか？",
+    "answer": "5,050百万円",
+    "evidence": "単位：百万円 / 売上高 … 通期予想(修正後） 5,050",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_m01"
+  },
+  {
+    "question": "「業績進捗」において、25/6期2Q時点の売上高の進捗率は何％ですか？",
+    "answer": "47.0%",
+    "evidence": "25/6期2Q 売上高 … 通期実績 3,602 2Q実績 1,694 進捗率 47.0%",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_m02"
+  }
+]

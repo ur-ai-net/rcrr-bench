@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2025年の前期事業利益はいくらですか。",
+    "answer": "1,666億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q00"
+  },
+  {
+    "question": "2026年の当期事業利益はいくらですか。",
+    "answer": "1,880億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q01"
+  },
+  {
+    "question": "通期の為替差による増減は何億円ですか。",
+    "answer": "▲10億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q02"
+  },
+  {
+    "question": "通期の固定費による増減は何億円ですか。",
+    "answer": "▲71億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q03"
+  },
+  {
+    "question": "通期で最も大きい増益要因は何ですか。",
+    "answer": "原料価格の+141億円です。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q04"
+  },
+  {
+    "question": "通期で最も大きい減益要因は何ですか。",
+    "answer": "固定費の▲71億円です。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q05"
+  },
+  {
+    "question": "2026年の通期予想では、タイヤ事業の増益額はMB/その他より何億円大きいですか。",
+    "answer": "178億円大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q06"
+  },
+  {
+    "question": "通期の増減要因の合計は何億円ですか。",
+    "answer": "+214億円です。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q07"
+  },
+  {
+    "question": "上期と下期の合計増減額は何億円ですか。",
+    "answer": "+214億円です。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q08"
+  },
+  {
+    "question": "通期の販売量+77億円と固定費▲71億円を合計すると何億円ですか。",
+    "answer": "+6億円です。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_q09"
+  }
+]

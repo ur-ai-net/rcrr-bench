@@ -1,0 +1,202 @@
+[
+  {
+    "question": "第3特定期間における営業利益又は営業損失(△)の金額はいくらですか？",
+    "answer": "15,356,412円です。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q00"
+  },
+  {
+    "question": "有価証券の評価基準及び評価方法において、親投資信託受益証券はどのように評価されますか？",
+    "answer": "移動平均法に基づき、基準価額で評価されます。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q01"
+  },
+  {
+    "question": "第3特定期間（2025年7月11日現在）における受益権の総数は何口ですか？",
+    "answer": "160,000口です。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q02"
+  },
+  {
+    "question": "第4特定期間（2026年1月11日現在）における1口当たり純資産額はいくらですか？",
+    "answer": "2,646円です。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q03"
+  },
+  {
+    "question": "第3特定期間の第4期（自2025年1月12日 至2025年4月11日）における1口当たり分配金額はいくらですか？",
+    "answer": "28円です。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q04"
+  },
+  {
+    "question": "第4特定期間の第6期（自2025年7月12日 至2025年10月11日）における収益分配金金額Gはいくらですか？",
+    "answer": "4,320,000円です。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q05"
+  },
+  {
+    "question": "第3特定期間の第5期（自2025年4月12日 至2025年7月11日）における分配準備積立金Cはいくらですか？",
+    "answer": "7,877円です。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q06"
+  },
+  {
+    "question": "第4特定期間の第7期（自2025年10月12日 至2026年1月11日）における次期繰越金(分配準備積立金)Hはいくらですか？",
+    "answer": "103,008円です。",
+    "level": "L1",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q07"
+  },
+  {
+    "question": "第3特定期間と第4特定期間で、営業利益、経常利益、当期純利益の金額はどのように変化しましたか？",
+    "answer": "第3特定期間では15,356,412円でしたが、第4特定期間では99,273,750円に増加しています。",
+    "level": "L2",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q08"
+  },
+  {
+    "question": "第3特定期間と第4特定期間における期首剰余金又は期首欠損金(△)の金額を比較してください。",
+    "answer": "第3特定期間では▲2,192,837円（欠損金）でしたが、第4特定期間では8,363,575円（剰余金）に改善しています。",
+    "level": "L2",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q09"
+  },
+  {
+    "question": "第3特定期間と第4特定期間で、受益権の総数に変化はありましたか？",
+    "answer": "いいえ、どちらの特定期間も受益権の総数は160,000口で変化はありません。",
+    "level": "L2",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q10"
+  },
+  {
+    "question": "第3特定期間の第4期から第5期にかけて、分配準備積立金はどのように変化しましたか？",
+    "answer": "第4期では57,108円でしたが、第5期では7,877円に減少しています。",
+    "level": "L2",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q11"
+  },
+  {
+    "question": "第4特定期間の第6期と第7期で、収益分配金金額はどのように変化しましたか？",
+    "answer": "第6期では4,320,000円でしたが、第7期では「一円」となり、大幅に減少しています。",
+    "level": "L2",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q12"
+  },
+  {
+    "question": "第3特定期間の第4期と第5期で、配当等収益合計額が大きく異なる主な要因は何ですか？",
+    "answer": "親ファンドの配当等収益額が、第4期では4,837,617円であったのに対し、第5期では755,057円と大幅に減少したことが主な要因です。",
+    "level": "L2",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q13"
+  },
+  {
+    "question": "第4特定期間の第6期と第7期における経費を比較してください。",
+    "answer": "第6期では462,313円でしたが、第7期では497,964円に増加しています。",
+    "level": "L2",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q14"
+  },
+  {
+    "question": "第3特定期間の期末剰余金又は期末欠損金(△)は、期首剰余金、当期純利益、分配金を用いてどのように計算されますか？",
+    "answer": "期末剰余金は、期首剰余金(▲2,192,837円)に当期純利益(15,356,412円)を加え、分配金(4,800,000円)を差し引くことで計算されます。この計算により、8,363,575円となります。",
+    "level": "L3",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q15"
+  },
+  {
+    "question": "第3特定期間の第4期における配当等収益合計額D（4,895,066円）が、当期配当等収益額A、親ファンドの配当等収益額B、分配準備積立金Cの合計と一致することを確認してください。",
+    "answer": "A(341円) + B(4,837,617円) + C(57,108円) = 4,895,066円となり、配当等収益合計額Dと一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q16"
+  },
+  {
+    "question": "第4特定期間の第6期における収益分配可能額F（4,358,281円）が、配当等収益合計額Dと経費Eの差額と一致することを確認してください。",
+    "answer": "D(4,820,594円) - E(462,313円) = 4,358,281円となり、収益分配可能額Fと一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q17"
+  },
+  {
+    "question": "第3特定期間の第5期における次期繰越金(分配準備積立金)H（49,985円）が、収益分配可能額Fと収益分配金金額Gの差額と一致することを確認してください。",
+    "answer": "F(369,985円) - G(320,000円) = 49,985円となり、次期繰越金Hと一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q18"
+  },
+  {
+    "question": "第4特定期間の第7期において、収益分配金金額Gが「一円」と記載されていますが、これはどのような状況を示唆していますか？",
+    "answer": "収益分配金が支払われなかったことを示唆しています。この期の収益分配可能額は103,008円ですが、分配金は支払われず、全額が次期繰越金（103,008円）に回されています。",
+    "level": "L3",
+    "doc_id": "tdnet_170A_e053d364_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_170A_e053d364_p002_q19"
+  }
+]

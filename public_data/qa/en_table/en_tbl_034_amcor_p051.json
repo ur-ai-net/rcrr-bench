@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statements of Comprehensive Income.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q00"
+  },
+  {
+    "question": "Which company is named at the top of the page?",
+    "answer": "The company is \"Amcor plc and Subsidiaries.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q01"
+  },
+  {
+    "question": "For which years are the results presented?",
+    "answer": "The results are presented for the years ended June 30, 2023, 2022, and 2021.",
+    "level": "L1",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q02"
+  },
+  {
+    "question": "What was total comprehensive income in 2023?",
+    "answer": "Total comprehensive income was $ 1,076 million in 2023.",
+    "level": "L1",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q03"
+  },
+  {
+    "question": "How much comprehensive income was attributable to Amcor plc in 2022?",
+    "answer": "Comprehensive income attributable to Amcor plc was $ 691 million in 2022.",
+    "level": "L2",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q04"
+  },
+  {
+    "question": "What was the net income attributable to the company for 2021, and how does it compare with total comprehensive income for that year?",
+    "answer": "Net income was $ 951 million in 2021, while total comprehensive income was $ 1,234 million. Total comprehensive income was higher by $ 283 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q05"
+  },
+  {
+    "question": "Which other comprehensive income/(loss) item was negative in 2023 but positive in 2022?",
+    "answer": "\"Pension, net of tax (c)\" was negative at (50) in 2023 and positive at 94 in 2022.",
+    "level": "L2",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q06"
+  },
+  {
+    "question": "What is the change in net gains/(losses) on cash flow hedges, net of tax (a), from 2022 to 2023?",
+    "answer": "The amount changed from (7) in 2022 to (1) in 2023, an increase of 6 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q07"
+  },
+  {
+    "question": "What is the sum of the three other comprehensive income/(loss) components for 2023, and does it match the reported total?",
+    "answer": "The sum is 18 million: (1) + 69 + (50) = 18. It matches the reported \"Other comprehensive income/(loss)\" of 18.",
+    "level": "L3",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q08"
+  },
+  {
+    "question": "By how much did comprehensive income attributable to Amcor plc exceed comprehensive income attributable to non-controlling interests in 2021?",
+    "answer": "It exceeded non-controlling interests by $ 1,234 million, since Amcor plc was $ 1,222 million and non-controlling interests were (12).",
+    "level": "L3",
+    "doc_id": "en_tbl_034_amcor_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_034_amcor_p051_q09"
+  }
+]

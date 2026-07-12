@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What was the Company's consolidated property, plant and equipment balance as of December 31, 2022?",
+    "answer": "It was \"$9.2 billion\" as of December 31, 2022.",
+    "level": "L1",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q00"
+  },
+  {
+    "question": "What was the Company's goodwill balance as of December 31, 2022?",
+    "answer": "It was \"$12.8 billion\" as of December 31, 2022.",
+    "level": "L1",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q01"
+  },
+  {
+    "question": "In what month and year did the Company commit to a plan to exit PFAS manufacturing?",
+    "answer": "The Company committed to the plan in \"December 2022.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q02"
+  },
+  {
+    "question": "What pre-tax charge did the Company record in the fourth quarter of 2022 related to the PFAS exit plan?",
+    "answer": "The Company recorded a pre-tax charge of \"$0.8 billion.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q03"
+  },
+  {
+    "question": "Why did the auditors consider the property, plant and equipment and goodwill impairment assessments for the Advanced Materials Division to be a critical audit matter?",
+    "answer": "Because management's fair value estimates involved significant judgment, which led to significant auditor judgment, subjectivity, and effort, and the audit also required professionals with specialized skill and knowledge.",
+    "level": "L2",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q04"
+  },
+  {
+    "question": "What types of assumptions were used to determine the underlying fair values for the Advanced Materials Division?",
+    "answer": "The fair values were determined primarily using discounted cash flow models based on assumptions of projected sales, EBITDA margins, capital expenditures, discount rate, and other applicable items.",
+    "level": "L2",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q05"
+  },
+  {
+    "question": "What procedures did the auditors perform to address the impairment assessments for the Advanced Materials Division?",
+    "answer": "They tested controls over impairment assessments and fair value estimates, tested management's process for determining fair value, evaluated the discounted cash flow models, and assessed the reasonableness of key assumptions.",
+    "level": "L2",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q06"
+  },
+  {
+    "question": "How much of the $0.8 billion pre-tax charge was related to long-lived assets, and how much was related to goodwill?",
+    "answer": "The charge included \"$0.5 billion\" for impairment of long-lived assets and \"$0.3 billion\" for impairment of goodwill.",
+    "level": "L3",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q07"
+  },
+  {
+    "question": "Which impairment test is performed annually in the fourth quarter, and which is performed whenever events or changes in circumstances indicate possible impairment?",
+    "answer": "Goodwill is tested for impairment annually in the fourth quarter, while property, plant and equipment is tested whenever events or changes in circumstances indicate the carrying amount may not be recoverable.",
+    "level": "L3",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q08"
+  },
+  {
+    "question": "What is the difference between the Company's consolidated goodwill balance and consolidated property, plant and equipment balance as of December 31, 2022?",
+    "answer": "The difference is \"$3.6 billion\" ($12.8 billion minus $9.2 billion).",
+    "level": "L3",
+    "doc_id": "en_tbl_020_3m_p047",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_020_3m_p047_q09"
+  }
+]

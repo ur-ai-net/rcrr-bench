@@ -1,0 +1,102 @@
+[
+  {
+    "question": "物件番号 Cp-20 の物件名称は何ですか。",
+    "answer": "ミラキタシティ花北",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q00"
+  },
+  {
+    "question": "物件番号 Cp-23 の運用日数は何日間ですか。",
+    "answer": "184日間",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q01"
+  },
+  {
+    "question": "物件番号 Cp-21 の管理委託費はいくらですか。",
+    "answer": "1,345千円",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q02"
+  },
+  {
+    "question": "物件番号 Hp-02 の資本的支出はいくらですか。",
+    "answer": "902千円",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q03"
+  },
+  {
+    "question": "物件番号 Cp-22 のNOIは何千円ですか。",
+    "answer": "13,563千円",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q04"
+  },
+  {
+    "question": "物件番号 Ct-01 の賃貸事業利益は何千円ですか。",
+    "answer": "17,807千円",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q05"
+  },
+  {
+    "question": "物件番号 Hp-01 の減価償却費は何千円ですか。",
+    "answer": "11,329千円",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q06"
+  },
+  {
+    "question": "物件番号 Cp-21 のNOIから資本的支出を差し引いたNCFはいくらですか。",
+    "answer": "12,713千円",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q07"
+  },
+  {
+    "question": "物件番号 Cp-20 と Cp-23 のNOIの差はいくらですか。",
+    "answer": "8,293千円",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q08"
+  },
+  {
+    "question": "物件番号 Cp-24 の減価償却費は Cp-20 の何倍ですか。",
+    "answer": "約8.3倍",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p054",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p054_q09"
+  }
+]

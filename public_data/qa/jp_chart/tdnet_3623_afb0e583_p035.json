@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "預り金のキャッシュフローへの影響",
+    "level": "L1",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q00"
+  },
+  {
+    "question": "このページで示されている期間は何年から何年までですか？",
+    "answer": "2021年から2025年までです。",
+    "level": "L1",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q01"
+  },
+  {
+    "question": "過去5年のキャッシュフロー推移で示されている項目は何ですか？",
+    "answer": "営業CF、投資CF、財務CF、FCFです。",
+    "level": "L1",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q02"
+  },
+  {
+    "question": "預り金影響を除いた実態ベースのキャッシュフロー推移で示されている項目は何ですか？",
+    "answer": "実質営業CF、投資CF、財務CF、実質FCFです。",
+    "level": "L1",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q03"
+  },
+  {
+    "question": "このページでは、預り金によるキャッシュフローのブレを超えて何が恒常的に実現していると説明されていますか？",
+    "answer": "決済件数の成長が安定したキャッシュ創出を恒常的に実現しています。",
+    "level": "L2",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q04"
+  },
+  {
+    "question": "預り金の増減影響を除いた実質営業CFは、何を背景に毎年継続してポジティブだとされていますか？",
+    "answer": "決済件数の反復性・安定性です。",
+    "level": "L2",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q05"
+  },
+  {
+    "question": "事業の伸長に伴って毎期増えるとされているものは何ですか？",
+    "answer": "預り金増加分です。",
+    "level": "L2",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q06"
+  },
+  {
+    "question": "2021年の営業CFは約何百万円ですか？",
+    "answer": "約6,200百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q07"
+  },
+  {
+    "question": "2022年のFCFは2021年のFCFより何百万円低いですか？",
+    "answer": "約7,800百万円低いです。",
+    "level": "L3",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q08"
+  },
+  {
+    "question": "実質FCFは2022年から2024年にかけて何百万円増加していますか？",
+    "answer": "約130百万円増加しています。",
+    "level": "L3",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_q09"
+  }
+]

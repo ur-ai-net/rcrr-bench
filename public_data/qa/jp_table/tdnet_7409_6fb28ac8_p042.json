@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "航空機とエンジン一覧（参考）",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q00"
+  },
+  {
+    "question": "A320neoファミリーに対応するエンジンは何ですか？",
+    "answer": "LEAP、PW1100G",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q01"
+  },
+  {
+    "question": "A350に対応するエンジンは何ですか？",
+    "answer": "TrentXWB",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q02"
+  },
+  {
+    "question": "Boeing 737MAXに対応するエンジンは何ですか？",
+    "answer": "LEAP",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q03"
+  },
+  {
+    "question": "このページで「生産停止/後継機なし」と記載されている機体は何機種ありますか？",
+    "answer": "2機種",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q04"
+  },
+  {
+    "question": "AirbusのA330に対応するエンジンのうち、GE系のものは何ですか？",
+    "answer": "CF6",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q05"
+  },
+  {
+    "question": "Boeingの787に対応するエンジンのうち、PW系のものは何ですか？",
+    "answer": "PW4000",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q06"
+  },
+  {
+    "question": "A330に対応するエンジンは何種類ありますか？",
+    "answer": "3種類",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q07"
+  },
+  {
+    "question": "Boeing側で400席帯に配置されている機体は何ですか？",
+    "answer": "777",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q08"
+  },
+  {
+    "question": "このページで示されている機体のうち、Wide Bodyに分類される機体は何機種ありますか？",
+    "answer": "6機種",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p042_q09"
+  }
+]

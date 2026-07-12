@@ -1,0 +1,18 @@
+# Python deps (macOS, Python 3.11+; 3.13 recommended).  pip install -r requirements.txt
+#
+# --- core: needed for re-scoring + analysis + report data (minimal path) ---
+openai>=1.50            # GPT judge / GPT-5.x parsers (Responses API)
+google-genai>=1.0       # Gemini reader & judge & parsers   (imports as `google.genai`)
+python-dotenv>=1.0      # load API keys from .env
+httpx>=0.27             # client timeouts for google-genai
+openpyxl>=3.1           # build_excel.py  (Excel workbook)
+matplotlib>=3.8         # make_figs.py    (charts)
+#
+# --- optional: only needed to (re)generate each provider's Markdown from PDFs ---
+azure-ai-documentintelligence>=1.0.2   # commercial_ocr.py : Azure DI
+azure-core>=1.30
+llama-cloud-services>=0.6              # commercial_ocr.py : LlamaParse
+reducto>=0.5                          # commercial_ocr.py : Reducto
+boto3>=1.34                           # commercial_ocr.py : AWS Textract
+pymupdf>=1.24                         # commercial_ocr.py : render PDF page -> PNG for Textract (imports as `fitz`)
+# nebula_ocr.py uses only the Python standard library (urllib) — no package needed.

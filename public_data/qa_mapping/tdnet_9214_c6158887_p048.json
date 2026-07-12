@@ -1,0 +1,38 @@
+[
+  {
+    "question": "長期成長戦略の成長ステップの図において、【長期】の段階に位置づけられている取り組みは何ですか。",
+    "answer": "新規事業創出",
+    "evidence": "【長期】 … 新規事業創出 ノウハウ × テクノロジー による新規事業を検討",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_m00"
+  },
+  {
+    "question": "長期成長戦略の成長ステップにおいて、「直営新規拠点展開・コメディカル人材紹介事業拡大・コンサル/SaaS事業開始」の次の段階として示されているのは何ですか。",
+    "answer": "フランチャイズ",
+    "evidence": "矢印上の順序：直営新規拠点展開 コメディカル人材紹介事業拡大 コンサル / SaaS事業開始 → フランチャイズ → 【長期】新規事業創出",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_m01"
+  },
+  {
+    "question": "全国への直営／FCの新規拠点展開は、年間何拠点のペースが想定されていますか。",
+    "answer": "年間20拠点〜30拠点",
+    "evidence": "①全国へ直営 / FCの新規拠点展開（年間20拠点〜30拠点）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_m02"
+  }
+]

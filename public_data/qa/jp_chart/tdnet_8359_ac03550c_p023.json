@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか。",
+    "answer": "キャピタルアロケーション",
+    "level": "L1",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q00"
+  },
+  {
+    "question": "CET1比率（有価証券等評価差額金除く）の2024年度の水準は何％ですか。",
+    "answer": "12.3％",
+    "level": "L1",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q01"
+  },
+  {
+    "question": "CET1比率（有価証券等評価差額金除く）の2028年度の目安は何％ですか。",
+    "answer": "12.5％程度",
+    "level": "L1",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q02"
+  },
+  {
+    "question": "配当の必要最低ラインは何％ですか。",
+    "answer": "10.5％",
+    "level": "L1",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q03"
+  },
+  {
+    "question": "このページで、12.5％程度の目安に含まれる「攻め」と「守り」の備えは何％程度ですか。",
+    "answer": "2.0％程度",
+    "level": "L2",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q04"
+  },
+  {
+    "question": "「攻め」と「守り」の備えに含まれる項目を2つ挙げてください。",
+    "answer": "M&A・戦略投資と自然災害リスク",
+    "level": "L2",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q05"
+  },
+  {
+    "question": "有価証券等評価差額金を除くCET1比率を内部管理で活用する理由は何ですか。",
+    "answer": "株価等の相場影響に左右されにくい資本運営を行うためです。",
+    "level": "L2",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q06"
+  },
+  {
+    "question": "2024年度のCET1比率12.3％と、配当制限10.5％の差は何％ポイントですか。",
+    "answer": "1.8％ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q07"
+  },
+  {
+    "question": "2028年度の目安12.5％程度と配当制限10.5％の差は何％ポイントですか。",
+    "answer": "2.0％ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q08"
+  },
+  {
+    "question": "「M&A・戦略投資 1,500億円程度」と「自然災害リスク」のうち、金額が示されているのはどちらですか。",
+    "answer": "M&A・戦略投資です。",
+    "level": "L3",
+    "doc_id": "tdnet_8359_ac03550c_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8359_ac03550c_p023_q09"
+  }
+]

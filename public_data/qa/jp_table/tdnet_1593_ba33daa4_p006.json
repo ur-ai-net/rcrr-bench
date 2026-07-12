@@ -1,0 +1,202 @@
+[
+  {
+    "question": "この決算短信が対象としている上場投信の名称と証券コードは何ですか？",
+    "answer": "MAXIS JPX日経インデックス400上場投信(1593)です。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q00"
+  },
+  {
+    "question": "ページ上部の表に記載されている第23期の期間はいつからいつまでですか？",
+    "answer": "2025年1月17日から2025年7月16日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q01"
+  },
+  {
+    "question": "関連当事者の名称は何ですか？",
+    "answer": "モルガン・スタンレーMUFG証券株式会社です。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q02"
+  },
+  {
+    "question": "ページ上部の「取引により発生した債権または債務に係る主な項目別の当該計算期間の末日における残高」において、第23期の受入担保金残高はいくらですか？",
+    "answer": "36,709,540,410円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q03"
+  },
+  {
+    "question": "1口当たり情報において、第24期（2026年1月16日現在）の1口当たり純資産額はいくらですか？",
+    "answer": "33,863円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q04"
+  },
+  {
+    "question": "関連当事者との取引において、第24期の品貸料の受取金額はいくらですか？",
+    "answer": "1,223,685円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q05"
+  },
+  {
+    "question": "関連当事者との取引における第23期の末日における受入担保金残高はいくらですか？",
+    "answer": "1,798,174,717円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q06"
+  },
+  {
+    "question": "ページ上部の表に記載されている第24期の期間はいつからいつまでですか？",
+    "answer": "2025年7月17日から2026年1月16日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q07"
+  },
+  {
+    "question": "関連当事者との取引において、取引条件はどのように決定されていますか？",
+    "answer": "社内規定に基づき、市場実勢を勘案して合理的に決定されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q08"
+  },
+  {
+    "question": "関連当事者との取引における「有価証券の貸付」の取引金額が「一円」と記載されている理由は何ですか？",
+    "answer": "注記によると、有価証券の貸付の取引金額は取引に伴う洗替を日々行っているものであり、かつ金額が多額であるため記載されていないと説明されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q09"
+  },
+  {
+    "question": "関連当事者であるモルガン・スタンレーMUFG証券株式会社は、この投資信託に対してどのような役割を担っていますか？",
+    "answer": "当該投資信託財産の運用の指図を行う投資信託委託会社の利害関係人等であると記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q10"
+  },
+  {
+    "question": "関連当事者との取引において、第23期と第24期で「有価証券の貸付」の取引金額はどのように変化しましたか？",
+    "answer": "第23期、第24期ともに「一円」と記載されており、金額は変化していません。",
+    "level": "L2",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q11"
+  },
+  {
+    "question": "ページ上部の「取引により発生した債権または債務に係る主な項目別の当該計算期間の末日における残高」と、関連当事者との取引における同名の表は、それぞれどのような範囲の残高を示していますか？",
+    "answer": "ページ上部の表は投信全体の取引による残高を示し、関連当事者との取引の表は関連当事者との取引に限定された残高を示しています。",
+    "level": "L2",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q12"
+  },
+  {
+    "question": "関連当事者との取引における「取引の内容」に「有価証券の貸付、品貸料の受取、利息の支払」とありますが、これは「取引の種類別取引金額」のどの項目に対応しますか？",
+    "answer": "「有価証券の貸付」は「有価証券の貸付」に、「品貸料の受取」は「品貸料の受取」に、「利息の支払」は「利息の支払」にそれぞれ対応しています。",
+    "level": "L2",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q13"
+  },
+  {
+    "question": "関連当事者との取引において、投資信託は担保金を受入れていますが、これはどのような取引に関連していますか？",
+    "answer": "有価証券貸借取引契約を締結し、有価証券の貸付を行う際に、担保金を受入れています。",
+    "level": "L2",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q14"
+  },
+  {
+    "question": "ページ上部の「取引により発生した債権または債務に係る主な項目別の当該計算期間の末日における残高」において、第23期から第24期にかけて受入担保金の残高はどれだけ増加しましたか？",
+    "answer": "第23期は36,709,540,410円、第24期は50,137,718,062円なので、増加額は13,428,177,652円です。",
+    "level": "L3",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q15"
+  },
+  {
+    "question": "1口当たり純資産額は、第23期（26,171円）から第24期（33,863円）にかけて何パーセント増加しましたか？（小数点以下第2位を四捨五入）",
+    "answer": "増加率は約29.39%です。",
+    "level": "L3",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q16"
+  },
+  {
+    "question": "関連当事者との取引において、第23期と第24期の「品貸料の受取」と「利息の支払」の合計額を比較すると、どちらの期が多いですか？",
+    "answer": "第23期の合計は5,967,676円、第24期の合計は6,703,580円です。したがって、第24期の方が多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q17"
+  },
+  {
+    "question": "第24期において、関連当事者との取引による受入担保金残高（19,179,721,627円）は、ページ上部の表に記載されている全体の受入担保金残高（50,137,718,062円）の約何パーセントを占めますか？（小数点以下第1位を四捨五入）",
+    "answer": "約38.3%を占めます。",
+    "level": "L3",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q18"
+  },
+  {
+    "question": "関連当事者との取引における「その他未収収益」の残高は、第23期から第24期にかけてどのように変化しましたか？",
+    "answer": "第23期は74,680円、第24期は409,739円であり、335,059円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_1593_ba33daa4_p006",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1593_ba33daa4_p006_q19"
+  }
+]

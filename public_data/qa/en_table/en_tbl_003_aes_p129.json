@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What page number and year are shown at the top of the page?",
+    "answer": "The page shows \"127 | 2022 Annual Report\".",
+    "level": "L1",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q00"
+  },
+  {
+    "question": "Which audit firm signed the report?",
+    "answer": "The report was signed by \"/s/ Ernst & Young LLP\".",
+    "level": "L1",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q01"
+  },
+  {
+    "question": "Since what year has the auditor served as the Company's auditor?",
+    "answer": "The auditor has served as the Company's auditor since 2008.",
+    "level": "L1",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q02"
+  },
+  {
+    "question": "Where was the report signed?",
+    "answer": "It was signed in Tysons, Virginia.",
+    "level": "L1",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q03"
+  },
+  {
+    "question": "Why was auditing the Company's identification of impairment indicators and re-evaluation of useful lives considered complex and highly judgmental?",
+    "answer": "It was complex because of the many geographic, regulatory, and economic environments in which the Company operates, and highly judgmental because of the wide variety of events or changes in circumstances that may indicate impairment or a change in useful life.",
+    "level": "L2",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q04"
+  },
+  {
+    "question": "What two strategic factors made the audit of impairment indicators and useful lives especially subjective?",
+    "answer": "The audit was particularly subjective given the Company's decarbonization initiatives and shift towards clean energy platforms.",
+    "level": "L2",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q05"
+  },
+  {
+    "question": "What significant assumptions were included in the income approach used to determine the fair value of the asset groups?",
+    "answer": "The significant assumptions included the Company's projections of revenue growth and discount rates.",
+    "level": "L2",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q06"
+  },
+  {
+    "question": "How many categories of audit procedures are described under \"How We Addressed the Matter in Our Audit\"?",
+    "answer": "There are two categories: procedures for identifying impairment indicators and re-evaluating useful lives, and procedures for testing the impairment analyses for the Maritza and TEG TEP asset groups.",
+    "level": "L3",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q07"
+  },
+  {
+    "question": "Which asset groups were involved in the impairment analyses, and what valuation methodology was used?",
+    "answer": "The asset groups were the Maritza and TEG TEP asset groups, and the valuation methodology included the income approach.",
+    "level": "L3",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q08"
+  },
+  {
+    "question": "What specific types of specialists were involved in the audit work, and for what purpose?",
+    "answer": "Valuation specialists were involved to assist in evaluating the overall valuation methodology and the discount rates used in the fair value estimates.",
+    "level": "L3",
+    "doc_id": "en_tbl_003_aes_p129",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_003_aes_p129_q09"
+  }
+]

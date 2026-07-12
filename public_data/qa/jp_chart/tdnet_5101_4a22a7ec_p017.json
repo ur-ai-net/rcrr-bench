@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2025年の前期事業利益はいくらですか？",
+    "answer": "621億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q00"
+  },
+  {
+    "question": "2026年の当期事業利益はいくらですか？",
+    "answer": "750億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q01"
+  },
+  {
+    "question": "2026年（上期予想）の為替差は何億円の増益要因ですか？",
+    "answer": "+18億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q02"
+  },
+  {
+    "question": "2026年（上期予想）の固定費は何億円の減益要因ですか？",
+    "answer": "▲32億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q03"
+  },
+  {
+    "question": "2026年（上期予想）で最も大きい増益要因は何ですか？",
+    "answer": "原料価格の+106億円です。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q04"
+  },
+  {
+    "question": "2026年（上期予想）で最も大きい減益要因は何ですか？",
+    "answer": "固定費の▲32億円です。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q05"
+  },
+  {
+    "question": "タイヤ事業の前年差増益額はいくらですか？",
+    "answer": "+128億円です。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q06"
+  },
+  {
+    "question": "2026年（上期予想）の事業利益は、2025年の前期事業利益より何億円増えますか？",
+    "answer": "129億円増えます。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q07"
+  },
+  {
+    "question": "2026年（上期予想）の原料価格+106億円と固定費▲32億円を合計すると何億円ですか？",
+    "answer": "+74億円です。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q08"
+  },
+  {
+    "question": "2026年（上期予想）の当期事業利益750億円は、前期事業利益621億円の何倍ですか？",
+    "answer": "約1.21倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_q09"
+  }
+]

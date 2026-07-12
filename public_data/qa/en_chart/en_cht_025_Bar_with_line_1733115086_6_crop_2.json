@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Net Interest Income (FTE)\".",
+    "level": "L1",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q00"
+  },
+  {
+    "question": "What unit is used for the bar values?",
+    "answer": "The values are shown as \"($ in millions)\".",
+    "level": "L1",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q01"
+  },
+  {
+    "question": "What is the net interest income value for 3Q 2023?",
+    "answer": "The net interest income for 3Q 2023 is \"$469.4\".",
+    "level": "L1",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q02"
+  },
+  {
+    "question": "What percentage is shown for 3Q 2024 on the line chart?",
+    "answer": "The percentage shown for 3Q 2024 is \"1.68%\".",
+    "level": "L1",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q03"
+  },
+  {
+    "question": "Which quarter has the highest net interest income on the page?",
+    "answer": "3Q 2024 has the highest net interest income at \"$569.4\".",
+    "level": "L2",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q04"
+  },
+  {
+    "question": "Which quarter has the lowest percentage on the line chart, and what is that percentage?",
+    "answer": "3Q 2023 has the lowest percentage, at \"1.45%\".",
+    "level": "L2",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q05"
+  },
+  {
+    "question": "What is the overall change in net interest income from 3Q 2023 to 3Q 2024?",
+    "answer": "Net interest income increased from \"$469.4\" to \"$569.4\", a rise of \"$100.0\" million.",
+    "level": "L2",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q06"
+  },
+  {
+    "question": "By how much did net interest income change from 4Q 2023 to 1Q 2024?",
+    "answer": "It increased from \"$501.1\" to \"$535.4\", which is a gain of \"$34.3\" million.",
+    "level": "L3",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q07"
+  },
+  {
+    "question": "What is the difference between the highest and lowest percentages shown on the line chart?",
+    "answer": "The highest percentage is \"1.68%\" and the lowest is \"1.45%\", so the difference is \"0.23 percentage points\".",
+    "level": "L3",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q08"
+  },
+  {
+    "question": "How many quarters are displayed, and what are they?",
+    "answer": "There are 5 quarters displayed: \"3Q 2023\", \"4Q 2023\", \"1Q 2024\", \"2Q 2024\", and \"3Q 2024\".",
+    "level": "L3",
+    "doc_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_025_Bar_with_line_1733115086_6_crop_2_q09"
+  }
+]

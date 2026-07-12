@@ -1,0 +1,202 @@
+[
+  {
+    "question": "マリモ地方創生リート投資法人の証券コードは何ですか？",
+    "answer": "マリモ地方創生リート投資法人の証券コードは「3470」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q00"
+  },
+  {
+    "question": "この決算短信の対象となる決算期はいつですか？",
+    "answer": "この決算短信の対象となる決算期は2025年12月期です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q01"
+  },
+  {
+    "question": "2025年12月31日現在の資産総額はいくらですか？",
+    "answer": "2025年12月31日現在の資産総額は68,093百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q02"
+  },
+  {
+    "question": "信託不動産合計の対総資産比率は何%ですか？",
+    "answer": "信託不動産合計の対総資産比率は88.8%です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q03"
+  },
+  {
+    "question": "レジデンスの地方都市における保有総額はいくらですか？",
+    "answer": "レジデンスの地方都市における保有総額は16,826百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q04"
+  },
+  {
+    "question": "「東京圏」とは具体的にどの地域を指しますか？",
+    "answer": "「東京圏」とは、東京都、神奈川県、千葉県及び埼玉県を指します。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q05"
+  },
+  {
+    "question": "「保有総額」はどのように記載されていますか？",
+    "answer": "「保有総額」は当期末日現在における貸借対照表計上額によっており、百万円未満を切り捨てて記載されています。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q06"
+  },
+  {
+    "question": "2025年12月31日現在の純資産総額はいくらですか？",
+    "answer": "2025年12月31日現在の純資産総額は30,008百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q07"
+  },
+  {
+    "question": "信託不動産のうち、東京圏に保有総額が記載されている用途は何ですか？",
+    "answer": "信託不動産のうち、東京圏に保有総額が記載されている用途はレジデンス（1,698百万円）と商業施設（1,765百万円）です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q08"
+  },
+  {
+    "question": "「預金・その他の資産」には何が含まれますか？",
+    "answer": "「預金・その他の資産」には、信託建設仮勘定の金額が含まれます。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q09"
+  },
+  {
+    "question": "商業施設における地方都市とその他地域の保有総額の合計はいくらですか？",
+    "answer": "商業施設における地方都市の保有総額は10,386百万円、その他地域の保有総額は14,108百万円であり、合計は24,494百万円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q10"
+  },
+  {
+    "question": "ホテル用途の東京圏における保有総額はいくらですか？また、その理由は何ですか？",
+    "answer": "ホテル用途の東京圏における保有総額は記載されていません。これは、表の該当箇所が空欄であるためです。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q11"
+  },
+  {
+    "question": "オフィス用途のその他地域における保有総額はいくらですか？また、その理由は何ですか？",
+    "answer": "オフィス用途のその他地域における保有総額は記載されていません。これは、表の該当箇所が空欄であるためです。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q12"
+  },
+  {
+    "question": "信託不動産以外の資産の対総資産比率は何%ですか？",
+    "answer": "信託不動産以外の資産は「預金・その他の資産」であり、その対総資産比率は11.2%です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q13"
+  },
+  {
+    "question": "物流施設の地方都市とその他地域の対総資産比率の合計は何%ですか？",
+    "answer": "物流施設の地方都市の対総資産比率は1.9%、その他地域の対総資産比率は3.5%であり、合計は5.4%です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q14"
+  },
+  {
+    "question": "信託不動産のうち、地方都市に所在する物件の保有総額の合計はいくらですか？",
+    "answer": "地方都市に所在する信託不動産の保有総額は、レジデンス16,826百万円、商業施設10,386百万円、ホテル3,852百万円、オフィス4,552百万円、物流施設1,289百万円の合計で36,905百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q15"
+  },
+  {
+    "question": "信託不動産のうち、「その他地域」に所在する物件の保有総額の合計はいくらですか？",
+    "answer": "「その他地域」に所在する信託不動産の保有総額は、レジデンス1,910百万円、商業施設14,108百万円、ホテル1,669百万円、物流施設2,403百万円の合計で20,090百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q16"
+  },
+  {
+    "question": "負債総額と純資産総額を合計すると、どの金額と一致しますか？",
+    "answer": "負債総額38,084百万円と純資産総額30,008百万円を合計すると68,092百万円となり、資産総額68,093百万円とほぼ一致します（百万円未満切り捨てによる差分1百万円）。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q17"
+  },
+  {
+    "question": "レジデンスの全地域における保有総額の合計はいくらですか？",
+    "answer": "レジデンスの全地域における保有総額は、地方都市16,826百万円、その他地域1,910百万円、東京圏1,698百万円の合計で20,434百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q18"
+  },
+  {
+    "question": "資産総額から預金・その他の資産を除いた金額はいくらですか？",
+    "answer": "資産総額68,093百万円から預金・その他の資産7,630百万円を除くと、60,463百万円となります。これは信託不動産合計60,462百万円とほぼ一致します（百万円未満切り捨てによる差分1百万円）。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p035_q19"
+  }
+]

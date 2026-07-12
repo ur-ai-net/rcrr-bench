@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title at the top of the page?",
+    "answer": "The title is \"SIGNATURES\".",
+    "level": "L1",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q00"
+  },
+  {
+    "question": "Which company is listed as the registrant?",
+    "answer": "\"Johnson & Johnson\" is listed as the registrant.",
+    "level": "L1",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q01"
+  },
+  {
+    "question": "What is the date shown on the signature line?",
+    "answer": "The date shown is \"August 30, 2023\".",
+    "level": "L1",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q02"
+  },
+  {
+    "question": "Who signed the report on behalf of the registrant?",
+    "answer": "The report was signed by \"Robert J. Decker, Jr.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q03"
+  },
+  {
+    "question": "What role is Robert J. Decker, Jr. identified with on the page?",
+    "answer": "He is identified as \"Controller\" and \"(Principal Accounting Officer)\".",
+    "level": "L2",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q04"
+  },
+  {
+    "question": "What does the page say the registrant has done with respect to the report?",
+    "answer": "It says the registrant has \"duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q05"
+  },
+  {
+    "question": "Which law is referenced in the signature statement?",
+    "answer": "The page references the \"Securities Exchange Act of 1934\".",
+    "level": "L2",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q06"
+  },
+  {
+    "question": "How many named individuals appear on the page?",
+    "answer": "One named individual appears on the page: \"Robert J. Decker, Jr.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q07"
+  },
+  {
+    "question": "How many distinct date references are shown on the page?",
+    "answer": "There is one date reference: \"August 30, 2023\".",
+    "level": "L3",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q08"
+  },
+  {
+    "question": "What is the relationship between the registrant and the signer on this page?",
+    "answer": "The registrant is \"Johnson & Johnson,\" and the signer, \"Robert J. Decker, Jr.,\" signed \"on its behalf\" as the \"Controller\".",
+    "level": "L3",
+    "doc_id": "en_tbl_001_johnson_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_001_johnson_p003_q09"
+  }
+]

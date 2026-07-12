@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2025年冬ダイヤで、韓国路線の全体便数は何便/週ですか？",
+    "answer": "1,508便/週です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q00"
+  },
+  {
+    "question": "2025年冬ダイヤで、中国路線の全体便数は何便/週ですか？",
+    "answer": "1,066便/週です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q01"
+  },
+  {
+    "question": "2025年冬ダイヤで、香港路線の全体便数は何便/週ですか？",
+    "answer": "496便/週です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q02"
+  },
+  {
+    "question": "2025年冬ダイヤで、台湾路線の全体便数は何便/週ですか？",
+    "answer": "811便/週です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q03"
+  },
+  {
+    "question": "中国路線はなぜ減便していると記載されていますか？",
+    "answer": "日本への渡航自粛要請により減便です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q04"
+  },
+  {
+    "question": "「東南アジア、ハワイ、グアム」と記載がある空港エリアはどこですか？",
+    "answer": "中部です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q05"
+  },
+  {
+    "question": "「世界各国」と記載がある主要空港エリアはどこですか？",
+    "answer": "成田、羽田、関西です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q06"
+  },
+  {
+    "question": "韓国路線の全体便数1,508便/週は、主要空港の1,331便/週より何便多いですか？",
+    "answer": "177便多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q07"
+  },
+  {
+    "question": "台湾路線の全体便数811便/週は、地方空港の118便/週より何便多いですか？",
+    "answer": "693便多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q08"
+  },
+  {
+    "question": "対2024年冬ダイヤで、全体の増加率が最も高い路線はどれですか？",
+    "answer": "台湾路線で、114.8%です。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p013_q09"
+  }
+]

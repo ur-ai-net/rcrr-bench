@@ -1,0 +1,67 @@
+[
+  {
+    "question": "「FY25〜FY27 中期経営計画」において、21年12月期の営業利益はいくらですか。",
+    "answer": "1,191百万円",
+    "evidence": "営業利益 1,191百万円（21年12月期の値ラベル）",
+    "source_element": "bar data label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_m03"
+  },
+  {
+    "question": "「FY25〜FY27 中期経営計画」において、23年12月期の営業利益はいくらですか。",
+    "answer": "2,718百万円",
+    "evidence": "営業利益 2,718百万円（23年12月期の値ラベル）",
+    "source_element": "bar data label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_m04"
+  },
+  {
+    "question": "「FY25〜FY27 中期経営計画」において、25年12月期の営業利益（実績）はいくらですか。",
+    "answer": "6,028百万円",
+    "evidence": "営業利益 6,028百万円（25年12月期の値ラベル）",
+    "source_element": "bar data label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_m05"
+  },
+  {
+    "question": "「FY25〜FY27 中期経営計画」において、26年12月期の営利期初計画として示されている値はいくらですか。",
+    "answer": "7,600百万円",
+    "evidence": "営利期初計画 7,600百万円（26年12月期 業績予想の値ラベル）",
+    "source_element": "bar data label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_m06"
+  },
+  {
+    "question": "「FY25〜FY27 中期経営計画」において、24年12月期実績から25年12月期実績への営業利益の伸び率として付記されている値はいくつですか。",
+    "answer": "+54.9%",
+    "evidence": "+54.9%（営業利益 3,892百万円から営業利益 6,028百万円への増加に付記）",
+    "source_element": "in-chart annotation",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_m07"
+  }
+]

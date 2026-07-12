@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "セグメント売上高の状況および連結売上高増減分析",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q00"
+  },
+  {
+    "question": "2026年3月期3Qの連結売上高は何百万円ですか？",
+    "answer": "35,338百万円",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q01"
+  },
+  {
+    "question": "2025年3月期3Qの連結売上高は何百万円ですか？",
+    "answer": "18,911百万円",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q02"
+  },
+  {
+    "question": "インベストメント事業の2026年3月期3Q売上高は何百万円ですか？",
+    "answer": "133百万円",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q03"
+  },
+  {
+    "question": "売上高の増加に最も大きく貢献したのはどの事業ですか？",
+    "answer": "モノづくり事業です。",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q04"
+  },
+  {
+    "question": "プロフェッショナル・ソリューション事業の伸長に貢献した要因は何ですか？",
+    "answer": "DX・RX事業において案件の大型化が貢献しました。",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q05"
+  },
+  {
+    "question": "新規M&Aによる非連続的な成長を達成したとされる会社名は何ですか？",
+    "answer": "エクセルおよびサーテックカリヤです。",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q06"
+  },
+  {
+    "question": "2026年3月期3Qの連結売上高は2025年3月期3Qより何百万円増加しましたか？",
+    "answer": "16,427百万円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q07"
+  },
+  {
+    "question": "モノづくり事業の2026年3月期3Q売上高は、2025年3月期3Q比で何百万円増えましたか？",
+    "answer": "19,480百万円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q08"
+  },
+  {
+    "question": "プロフェッショナル・ソリューション事業の前年同期比は、インベストメント事業の前年同期比より何ポイント高いですか？",
+    "answer": "64.7ポイント高いです。",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_q09"
+  }
+]

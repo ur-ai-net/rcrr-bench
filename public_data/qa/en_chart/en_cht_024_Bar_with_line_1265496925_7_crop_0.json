@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are the two bar categories shown in the legend?",
+    "answer": "The two bar categories are \"CF / Other\" and \"Notes\".",
+    "level": "L1",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q00"
+  },
+  {
+    "question": "What is the line series called in the legend?",
+    "answer": "The line series is called \"Net Leverage Ratio\".",
+    "level": "L1",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q01"
+  },
+  {
+    "question": "What is the left y-axis labeled?",
+    "answer": "The left y-axis is labeled \"Millions\".",
+    "level": "L1",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q02"
+  },
+  {
+    "question": "What is the highest value shown on the right y-axis?",
+    "answer": "The highest value shown on the right y-axis is \"5.0x\".",
+    "level": "L1",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q03"
+  },
+  {
+    "question": "Which period appears first on the x-axis?",
+    "answer": "The first period on the x-axis is \"FY14 Q1\".",
+    "level": "L2",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q04"
+  },
+  {
+    "question": "Which period shows the highest orange bar for \"CF / Other\"?",
+    "answer": "\"Q3\" shows the highest orange bar for \"CF / Other\".",
+    "level": "L2",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q05"
+  },
+  {
+    "question": "During which period does the green \"Net Leverage Ratio\" line peak?",
+    "answer": "The green \"Net Leverage Ratio\" line peaks at \"FY15Q1\".",
+    "level": "L2",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q06"
+  },
+  {
+    "question": "How many periods are shown on the x-axis?",
+    "answer": "There are 7 periods shown on the x-axis.",
+    "level": "L3",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q07"
+  },
+  {
+    "question": "Between \"FY14 Q1\" and \"Q3\", by about how much do the orange bars increase?",
+    "answer": "They increase by about $100 million, from roughly $0 at \"FY14 Q1\" to about $100 million at \"Q3\".",
+    "level": "L3",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q08"
+  },
+  {
+    "question": "What is the approximate change in the green \"Net Leverage Ratio\" from \"FY15Q1\" to \"Q3\"?",
+    "answer": "It decreases by about 0.7x, from roughly 3.2x at \"FY15Q1\" to about 2.3x at \"Q3\".",
+    "level": "L3",
+    "doc_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_024_Bar_with_line_1265496925_7_crop_0_q09"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the title of the chart on this page?",
+    "answer": "The title is \"Q4 Adjusted EBITDA\".",
+    "level": "L1",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q00"
+  },
+  {
+    "question": "What unit note appears under the title?",
+    "answer": "It says \"($ in millions, % is CAGR)\".",
+    "level": "L1",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q01"
+  },
+  {
+    "question": "What is the Q4 Adjusted EBITDA value for \"Hospitality and Management Services\" in the first bar?",
+    "answer": "It is \"$21\".",
+    "level": "L1",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q02"
+  },
+  {
+    "question": "What is the value shown for \"Total Consolidated EBITDA\" in the last bar?",
+    "answer": "It is \"$79\".",
+    "level": "L1",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q03"
+  },
+  {
+    "question": "What is the difference between the first and third bars for \"Vacation Interest Sales and Financing\"?",
+    "answer": "The values go from \"$39\" to \"$76\", a difference of \"$37\".",
+    "level": "L3",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q04"
+  },
+  {
+    "question": "Which category has negative EBITDA values, and what are the three values shown?",
+    "answer": "\"Corporate and Other\" has negative values: \"($24)\", \"($38)\", and \"($25)\".",
+    "level": "L2",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q05"
+  },
+  {
+    "question": "By how much does \"Total Consolidated EBITDA\" increase from the first bar to the third bar?",
+    "answer": "It increases from \"$36\" to \"$79\", which is \"$43\".",
+    "level": "L3",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q06"
+  },
+  {
+    "question": "Which category has the smallest CAGR bubble, and what is it?",
+    "answer": "\"Hospitality and Management Services\" has the smallest CAGR bubble at \"+18%\".",
+    "level": "L2",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q07"
+  },
+  {
+    "question": "How many categories are shown on the chart, and how many bars are in each category?",
+    "answer": "There are 4 categories, and each category has 3 bars.",
+    "level": "L3",
+    "doc_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_015_Bar_with_num_1285695793_47_crop_1_q08"
+  }
+]

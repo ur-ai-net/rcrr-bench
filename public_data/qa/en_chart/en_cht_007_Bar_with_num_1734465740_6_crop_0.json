@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Adjusted Revenue\".",
+    "level": "L1",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q00"
+  },
+  {
+    "question": "What is the adjusted revenue for 3Q23?",
+    "answer": "The adjusted revenue for 3Q23 is \"$2,307\".",
+    "level": "L1",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q01"
+  },
+  {
+    "question": "What is the adjusted revenue for 4Q23?",
+    "answer": "The adjusted revenue for 4Q23 is \"$2,334\".",
+    "level": "L1",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q02"
+  },
+  {
+    "question": "What is the adjusted revenue for 3Q24?",
+    "answer": "The adjusted revenue for 3Q24 is \"$2,412\".",
+    "level": "L1",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q03"
+  },
+  {
+    "question": "Which quarter has the lowest adjusted revenue on the chart?",
+    "answer": "1Q24 has the lowest adjusted revenue at \"$2,285\".",
+    "level": "L2",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q04"
+  },
+  {
+    "question": "Which quarter has the highest adjusted revenue on the chart?",
+    "answer": "3Q24 has the highest adjusted revenue at \"$2,412\".",
+    "level": "L2",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q05"
+  },
+  {
+    "question": "Did adjusted revenue increase or decrease from 4Q23 to 1Q24?",
+    "answer": "It decreased from \"$2,334\" to \"$2,285\".",
+    "level": "L2",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q06"
+  },
+  {
+    "question": "What is the difference in adjusted revenue between 3Q24 and 1Q24?",
+    "answer": "The difference is \"$127\".",
+    "level": "L3",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q07"
+  },
+  {
+    "question": "How much did adjusted revenue change from 3Q23 to 3Q24?",
+    "answer": "It increased by \"$105\".",
+    "level": "L3",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q08"
+  },
+  {
+    "question": "What is the average adjusted revenue across the five quarters shown?",
+    "answer": "The average adjusted revenue is \"$2,343\".",
+    "level": "L3",
+    "doc_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_007_Bar_with_num_1734465740_6_crop_0_q09"
+  }
+]

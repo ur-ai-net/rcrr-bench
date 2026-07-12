@@ -1,0 +1,28 @@
+[
+ {
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」において、中位シナリオの2030年の値（市場規模の指数）はいくつですか。",
+  "answer": "132.5",
+  "evidence": "132.5（中位シナリオの2030年の値ラベル）",
+  "source_element": "line point callout",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_3927_0940d83b_p049",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_3927_0940d83b_p049_m06"
+ },
+ {
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」において、2010年（国勢調査結果）の供給人材数は何人ですか。",
+  "answer": "892,511人",
+  "evidence": "892,511（2010年（国勢調査結果）の値ラベル）、供給人材数（人）",
+  "source_element": "bar data label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_3927_0940d83b_p049",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_3927_0940d83b_p049_m07"
+ }
+]

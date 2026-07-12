@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "当社ITツール事業：セキュリティ市場の拡大",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q00"
+  },
+  {
+    "question": "出典として示されている調査会社はどこですか？",
+    "answer": "IMARCグループ",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q01"
+  },
+  {
+    "question": "日本のサイバーセキュリティ市場規模は2024年にいくらと評価されましたか？",
+    "answer": "180億米ドル",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q02"
+  },
+  {
+    "question": "2033年までの市場規模予測はいくらですか？",
+    "answer": "433億米ドル",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q03"
+  },
+  {
+    "question": "2025年から2033年にかけてのCAGRは何%ですか？",
+    "answer": "10.3%",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q04"
+  },
+  {
+    "question": "このページのグラフは何年から何年までの市場予測を示していますか？",
+    "answer": "2025年から2033年まで",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q05"
+  },
+  {
+    "question": "2024年の市場規模と2033年の市場規模を比べると、2033年の方が大きいですか？",
+    "answer": "はい、2033年の方が大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q06"
+  },
+  {
+    "question": "2024年の180億米ドルから2033年の433億米ドルへの増加額はいくらですか？",
+    "answer": "253億米ドル",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q07"
+  },
+  {
+    "question": "2033年の市場規模は2024年の何倍ですか？",
+    "answer": "約2.4倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q08"
+  },
+  {
+    "question": "2024年から2033年までの市場規模の増加率は何%ですか？",
+    "answer": "約140.6%です。",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p048_q09"
+  }
+]

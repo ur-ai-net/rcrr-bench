@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "\"Average Cap Rate/Yield*\".",
+    "level": "L1",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q00"
+  },
+  {
+    "question": "What is the y-axis label on the chart?",
+    "answer": "\"Average Yield (Cap Rate)\".",
+    "level": "L1",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q01"
+  },
+  {
+    "question": "What is the highest percentage shown on the y-axis?",
+    "answer": "8%.",
+    "level": "L1",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q02"
+  },
+  {
+    "question": "What category is labeled at the far right of the chart?",
+    "answer": "\"Money Market\".",
+    "level": "L1",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q03"
+  },
+  {
+    "question": "Which category has the highest bar on the chart?",
+    "answer": "\"Ofc. Cap\" has the highest bar.",
+    "level": "L2",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q04"
+  },
+  {
+    "question": "Which two categories appear to have the same bar height at about 6%?",
+    "answer": "\"Ret. Cap\" and \"Ind. Cap\" both appear to be at about 6%.",
+    "level": "L2",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q05"
+  },
+  {
+    "question": "Which category has the lowest bar on the chart?",
+    "answer": "\"Money Market\" has the lowest bar.",
+    "level": "L2",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q06"
+  },
+  {
+    "question": "How many categories are shown in the chart?",
+    "answer": "There are 9 categories shown.",
+    "level": "L3",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q07"
+  },
+  {
+    "question": "Approximately how much higher is \"Ofc. Cap\" than \"Money Market\"?",
+    "answer": "About 6 percentage points higher.",
+    "level": "L3",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q08"
+  },
+  {
+    "question": "Which category is closest to 4%: \"10-Year Treasury\" or \"AAA Bonds\"?",
+    "answer": "\"10-Year Treasury\" is closer to 4% because it is around 3.6%, while \"AAA Bonds\" is around 4.6%.",
+    "level": "L3",
+    "doc_id": "en_cht_040_Bar_1870568124_20_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_040_Bar_1870568124_20_crop_1_q09"
+  }
+]

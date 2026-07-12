@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What item of the report does this page introduce?",
+    "answer": "It introduces \"ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)\".",
+    "level": "L1",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q00"
+  },
+  {
+    "question": "How many reportable operating segments are named on this page?",
+    "answer": "The company has four reportable operating segments.",
+    "level": "L1",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q01"
+  },
+  {
+    "question": "What are the four reportable operating segments listed?",
+    "answer": "They are \"U.S. Consumer Services (USCS)\", \"Commercial Services (CS)\", \"International Card Services (ICS)\" and \"Global Merchant and Network Services (GMNS)\".",
+    "level": "L1",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q02"
+  },
+  {
+    "question": "Which segment includes corporate functions and certain other businesses and operations?",
+    "answer": "\"Corporate & Other\" includes corporate functions and certain other businesses and operations.",
+    "level": "L1",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q03"
+  },
+  {
+    "question": "Which revenue type is described as the company's largest revenue source?",
+    "answer": "\"Discount revenue\" is described as our largest revenue source.",
+    "level": "L2",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q04"
+  },
+  {
+    "question": "What types of customers are mentioned as being served by the company's products and services?",
+    "answer": "The products and services are offered to \"consumers, small businesses, mid-sized companies and large corporations\".",
+    "level": "L2",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q05"
+  },
+  {
+    "question": "Which channels are listed for offering the company's products and services?",
+    "answer": "They are offered through \"mobile and online applications, affiliate marketing, customer referral programs, third-party service providers and business partners, direct mail, telephone, in-house sales teams, and direct response advertising\".",
+    "level": "L2",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q06"
+  },
+  {
+    "question": "How many revenue types are listed under \"The following types of revenue are generated from our various products and services:\"?",
+    "answer": "Five revenue types are listed.",
+    "level": "L3",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q07"
+  },
+  {
+    "question": "Which revenue type is associated with \"annual card membership fees\"?",
+    "answer": "\"Net card fees\" represent revenue earned from \"annual card membership fees\".",
+    "level": "L3",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q08"
+  },
+  {
+    "question": "What is the relationship between \"service fees and other revenue\" and \"processed revenue\" in the revenue list?",
+    "answer": "\"Service fees and other revenue\" appears before \"processed revenue\" in the list, and both are among the five revenue types described.",
+    "level": "L3",
+    "doc_id": "en_tbl_042_americanexpress_p043",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_042_americanexpress_p043_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart on this page?",
+    "answer": "The title is \"Cancel Rate(1)\".",
+    "level": "L1",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q00"
+  },
+  {
+    "question": "Which years are shown in the legend?",
+    "answer": "The legend shows 2011, 2012, 2013, 2014, and 2015.",
+    "level": "L1",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q01"
+  },
+  {
+    "question": "What is the cancel rate for Q1 in 2011?",
+    "answer": "The cancel rate for Q1 in 2011 is 2.6%.",
+    "level": "L1",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q02"
+  },
+  {
+    "question": "What annotation appears near the Q4 bars?",
+    "answer": "The annotation says \"Record Low For Q4\".",
+    "level": "L1",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q03"
+  },
+  {
+    "question": "Which quarter has the lowest cancel rate in 2015?",
+    "answer": "Q2 has the lowest cancel rate in 2015 at 1.9%.",
+    "level": "L2",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q04"
+  },
+  {
+    "question": "In which quarter does 2011 have the highest cancel rate?",
+    "answer": "2011 is highest in Q1 and Q4, both at 2.6%.",
+    "level": "L2",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q05"
+  },
+  {
+    "question": "Which year shows the lowest cancel rate in Q4?",
+    "answer": "2015 shows the lowest cancel rate in Q4 at 2.06%.",
+    "level": "L2",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q06"
+  },
+  {
+    "question": "By how much did the cancel rate change from Q1 to Q4 in 2011?",
+    "answer": "It changed by 0.0 percentage points, from 2.6% to 2.6%.",
+    "level": "L3",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the highest and lowest cancel rates shown on the chart?",
+    "answer": "The highest rate is 2.6% and the lowest is 1.9%, so the difference is 0.7 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q08"
+  },
+  {
+    "question": "How many total quarter-year bars are displayed on the chart?",
+    "answer": "There are 20 bars in total, with 4 quarters and 5 years shown.",
+    "level": "L3",
+    "doc_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_013_Bar_with_num_1540003733_9_crop_0_q09"
+  }
+]

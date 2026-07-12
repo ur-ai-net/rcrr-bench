@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの対象期間はいつからいつまでですか。",
+    "answer": "自 2025年1月1日 至 2025年12月31日",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q00"
+  },
+  {
+    "question": "当期首残高の資本金はいくらですか。",
+    "answer": "14,857千円",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q01"
+  },
+  {
+    "question": "当期末残高の資本金はいくらですか。",
+    "answer": "14,857千円",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q02"
+  },
+  {
+    "question": "当期末残高の純資産合計はいくらですか。",
+    "answer": "1,131,691千円",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q03"
+  },
+  {
+    "question": "欠損填補により減少した利益剰余金の金額はいくらですか。",
+    "answer": "530,698千円",
+    "level": "L2",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q04"
+  },
+  {
+    "question": "利益準備金から剰余金への振替後、利益準備金の当期末残高はいくらですか。",
+    "answer": "0千円",
+    "level": "L2",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q05"
+  },
+  {
+    "question": "当期末残高の自己株式はいくらですか。",
+    "answer": "△10,351千円",
+    "level": "L2",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q06"
+  },
+  {
+    "question": "当期末残高の利益剰余金合計はいくらですか。",
+    "answer": "△12,025千円",
+    "level": "L3",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q07"
+  },
+  {
+    "question": "当期首残高の純資産合計236,769千円から当期末残高の純資産合計1,131,691千円への増加額はいくらですか。",
+    "answer": "894,922千円",
+    "level": "L3",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q08"
+  },
+  {
+    "question": "当期末残高のその他有価証券評価差額金1,126,289千円と新株予約権6,541千円の合計はいくらですか。",
+    "answer": "1,132,830千円",
+    "level": "L3",
+    "doc_id": "tdnet_3807_85a371f0_p011",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p011_q09"
+  }
+]

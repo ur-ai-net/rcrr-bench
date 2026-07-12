@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the 2023 service cost discount rate for Pension?",
+    "answer": "It is 5.5 %.",
+    "level": "L1",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q00"
+  },
+  {
+    "question": "What is the 2023 current health care cost trend rate for Retiree medical?",
+    "answer": "It is 5.5 %.",
+    "level": "L1",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q01"
+  },
+  {
+    "question": "In what quarter of 2022 was a U.S. qualified defined benefit pension plan remeasured?",
+    "answer": "It was remeasured in the second quarter of 2022.",
+    "level": "L1",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q02"
+  },
+  {
+    "question": "How much discretionary contribution did the company make to a U.S. qualified defined benefit plan in January 2023?",
+    "answer": "The company made a discretionary contribution of $125 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q03"
+  },
+  {
+    "question": "What factors does the review of the health care trend rate consider?",
+    "answer": "It considers factors such as demographics, plan design, new medical technologies and changes in medical carriers.",
+    "level": "L2",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q04"
+  },
+  {
+    "question": "Why does the company generally not fund its pension plans when contributions would not be currently tax deductible?",
+    "answer": "Because the contributions are made in accordance with applicable tax regulations that provide for current tax deductions and taxation to the employee only upon receipt of plan benefits.",
+    "level": "L2",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q05"
+  },
+  {
+    "question": "What is expected to increase pension and retiree medical expense in 2023, according to the page?",
+    "answer": "The recognition of fixed income losses on plan assets, partially offset by higher discount rates, is expected to increase expense in 2023.",
+    "level": "L2",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q06"
+  },
+  {
+    "question": "Which assumption would increase 2023 pre-tax pension and retiree medical expense by more: a 25-basis-point decrease in discount rates used in the calculation of expense or a 25-basis-point decrease in expected rate of return?",
+    "answer": "A 25-basis-point decrease in expected rate of return would increase expense more, by $38 versus $13 for discount rates used in the calculation of expense.",
+    "level": "L3",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q07"
+  },
+  {
+    "question": "By how much did the 2023 expected rate of return on plan assets differ between Pension and Retiree medical?",
+    "answer": "Pension was 7.0 % and Retiree medical was 7.1 %, so Retiree medical was higher by 0.1 percentage point.",
+    "level": "L3",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q08"
+  },
+  {
+    "question": "How many of the weighted-average assumptions listed for Pension and Retiree medical are exactly the same in 2023 and 2021?",
+    "answer": "Two assumptions are the same: the Pension expected rate of salary increases at 3.3 % in 2023 versus 3.1 % in 2021 is not the same, so only the Retiree medical current health care cost trend rate at 5.5 % matches. Therefore, there is 1 exact match.",
+    "level": "L3",
+    "doc_id": "en_tbl_011_pepsico_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_011_pepsico_p061_q09"
+  }
+]

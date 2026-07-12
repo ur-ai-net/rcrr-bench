@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What section of the filing is shown on this page?",
+    "answer": "Item 8. Financial Statements and Supplementary Data.",
+    "level": "L1",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q00"
+  },
+  {
+    "question": "What is the title of the index shown on the page?",
+    "answer": "Index to the Consolidated Financial Statements.",
+    "level": "L1",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q01"
+  },
+  {
+    "question": "On what page does the \"Consolidated Statements of Operations\" begin?",
+    "answer": "Page 53.",
+    "level": "L1",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q02"
+  },
+  {
+    "question": "What is the page number for \"Reports of Independent Registered Public Accounting Firm\"?",
+    "answer": "Page 115.",
+    "level": "L1",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q03"
+  },
+  {
+    "question": "Which note appears immediately after \"Note 8 - Contracts with Customers\" in the index?",
+    "answer": "\"Note 9 - Customer Financing.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q04"
+  },
+  {
+    "question": "Which page range covers the first five consolidated financial statement sections listed in the index?",
+    "answer": "They run from page 53 through page 57.",
+    "level": "L2",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q05"
+  },
+  {
+    "question": "What is the first note listed in the index, and on what page does it begin?",
+    "answer": "\"Note 1 - Summary of Significant Accounting Policies\" begins on page 59.",
+    "level": "L2",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q06"
+  },
+  {
+    "question": "How many items are listed in the index from the consolidated statements through Note 22, excluding the reports section?",
+    "answer": "There are 28 items listed, counting the five consolidated statements, the summary of business segment data, and Notes 1 through 22.",
+    "level": "L3",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q07"
+  },
+  {
+    "question": "What is the page gap between \"Consolidated Statements of Operations\" and \"Consolidated Statements of Equity\"?",
+    "answer": "The gap is 4 pages, from page 53 to page 57.",
+    "level": "L3",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q08"
+  },
+  {
+    "question": "Which note begins on the same page as \"Note 7 - Inventories,\" and what is that page?",
+    "answer": "\"Note 6 - Allowance for Losses on Financial Assets\" and \"Note 7 - Inventories\" both begin on page 76.",
+    "level": "L3",
+    "doc_id": "en_tbl_007_boeing_p054",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_007_boeing_p054_q09"
+  }
+]

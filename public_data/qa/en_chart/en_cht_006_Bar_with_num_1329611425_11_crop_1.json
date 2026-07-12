@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Combined Ratios\".",
+    "level": "L1",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q00"
+  },
+  {
+    "question": "What are the two main section headings shown above the bars?",
+    "answer": "The two section headings are \"Calendar Year\" and \"Accident Year, as Adjusted\".",
+    "level": "L1",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q01"
+  },
+  {
+    "question": "What is the total combined ratio for Calendar Year 1Q14?",
+    "answer": "The total combined ratio for Calendar Year 1Q14 is 98.9.",
+    "level": "L1",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q02"
+  },
+  {
+    "question": "What is the total combined ratio for Accident Year, as Adjusted 1Q15?",
+    "answer": "The total combined ratio for Accident Year, as Adjusted 1Q15 is 93.4.",
+    "level": "L1",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q03"
+  },
+  {
+    "question": "Which year and view shows the lowest total combined ratio on the page?",
+    "answer": "Accident Year, as Adjusted 1Q15 shows the lowest total combined ratio at 93.4.",
+    "level": "L2",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q04"
+  },
+  {
+    "question": "In Calendar Year 1Q15, which ratio component is the largest?",
+    "answer": "The largest component is the Loss Ratio at 68.1.",
+    "level": "L2",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q05"
+  },
+  {
+    "question": "What is the Severe Loss Ratio for both 1Q14 bars?",
+    "answer": "The Severe Loss Ratio is 2.9 for both 1Q14 bars.",
+    "level": "L2",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q06"
+  },
+  {
+    "question": "By how much did the Calendar Year total combined ratio change from 1Q14 to 1Q15?",
+    "answer": "It decreased by 1.8, from 98.9 to 97.1.",
+    "level": "L3",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q07"
+  },
+  {
+    "question": "What is the difference between the Loss Ratio and Acquisition Ratio in Accident Year, as Adjusted 1Q14?",
+    "answer": "The difference is 49.0, calculated as 65.2 minus 16.2.",
+    "level": "L3",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q08"
+  },
+  {
+    "question": "How many ratio categories are shown in the legend, and what are they?",
+    "answer": "There are 4 ratio categories: \"Loss Ratio\", \"Acquisition Ratio\", \"GOE Ratio\", and \"Severe Loss Ratio\".",
+    "level": "L3",
+    "doc_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_006_Bar_with_num_1329611425_11_crop_1_q09"
+  }
+]

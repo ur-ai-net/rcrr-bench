@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q00"
+  },
+  {
+    "question": "For what fiscal year-end date are the balances at the bottom of the table reported?",
+    "answer": "The final balance line is reported as \"Balances at November 27, 2015.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q01"
+  },
+  {
+    "question": "What was the amount of net income reported for 2015?",
+    "answer": "Net income for 2015 was \"$629,551\" (in thousands).",
+    "level": "L1",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q02"
+  },
+  {
+    "question": "How many common stock shares were outstanding at November 30, 2012?",
+    "answer": "Common stock shares were \"600,834\" at November 30, 2012.",
+    "level": "L1",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q03"
+  },
+  {
+    "question": "Which line item caused treasury stock shares to increase in 2013, and by how many shares?",
+    "answer": "The line item was \"Re-issuance of treasury stock under stock compensation plans,\" which increased treasury stock by \"23,732\" shares in 2013.",
+    "level": "L2",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q04"
+  },
+  {
+    "question": "What was the change in accumulated other comprehensive income (loss) from November 29, 2013 to November 28, 2014?",
+    "answer": "It changed from \"46,103\" to \"(8,094),\" a decrease of \"54,197.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q05"
+  },
+  {
+    "question": "Which year shows the largest purchase of treasury stock, and what was the amount?",
+    "answer": "2013 shows the largest purchase of treasury stock at \"(1,100,000).\"",
+    "level": "L2",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q06"
+  },
+  {
+    "question": "What is the total change in retained earnings from November 30, 2012 to November 27, 2015?",
+    "answer": "Retained earnings increased from \"$7,003,003\" to \"$7,253,431,\" a net increase of \"$250,428.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q07"
+  },
+  {
+    "question": "By how much did total stockholders’ equity change from November 29, 2013 to November 27, 2015?",
+    "answer": "Total stockholders’ equity increased from \"$6,724,634\" to \"$7,001,580,\" which is an increase of \"$276,946.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q08"
+  },
+  {
+    "question": "What is the combined amount of stock-based compensation reported across 2013, 2014, and 2015?",
+    "answer": "The combined stock-based compensation is \"$327,581\" + \"$332,553\" + \"$337,578\" = \"$997,712.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_026_adobe_p062",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_026_adobe_p062_q09"
+  }
+]

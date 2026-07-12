@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What item number is shown for the financial statements section?",
+    "answer": "ITEM 8.",
+    "level": "L1",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q00"
+  },
+  {
+    "question": "What is the title of the section listed under the table of contents?",
+    "answer": "FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.",
+    "level": "L1",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q01"
+  },
+  {
+    "question": "Which report is listed at page 97?",
+    "answer": "Report of KPMG LLP, Independent Registered Public Accounting Firm.",
+    "level": "L1",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q02"
+  },
+  {
+    "question": "What statement says that all financial statement schedules have been omitted?",
+    "answer": "All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the Consolidated Financial Statements and Notes thereto.",
+    "level": "L1",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q03"
+  },
+  {
+    "question": "Which page number is listed for the Consolidated Balance Sheets and the Consolidated Statements of Income?",
+    "answer": "57 and 58.",
+    "level": "L2",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q04"
+  },
+  {
+    "question": "Which financial statement appears immediately before the Notes to Consolidated Financial Statements in the index?",
+    "answer": "Consolidated Statements of Cash Flows.",
+    "level": "L2",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q05"
+  },
+  {
+    "question": "How many financial statement items are listed in the index before the report of KPMG LLP?",
+    "answer": "Six items are listed before the report of KPMG LLP.",
+    "level": "L2",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q06"
+  },
+  {
+    "question": "What is the page span covered by the listed consolidated financial statements and notes, excluding the report?",
+    "answer": "The listed consolidated financial statements and notes run from page 57 through page 62.",
+    "level": "L3",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q07"
+  },
+  {
+    "question": "What is the difference between the page number for the Notes to Consolidated Financial Statements and the Report of KPMG LLP?",
+    "answer": "The difference is 35 pages, from 62 to 97.",
+    "level": "L3",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q08"
+  },
+  {
+    "question": "How many total page numbers are shown in the index, including the section heading page and all listed statement pages?",
+    "answer": "Eight page numbers are shown: 56, 57, 58, 59, 60, 61, 62, and 97.",
+    "level": "L3",
+    "doc_id": "en_tbl_028_adobe_p056",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_028_adobe_p056_q09"
+  }
+]

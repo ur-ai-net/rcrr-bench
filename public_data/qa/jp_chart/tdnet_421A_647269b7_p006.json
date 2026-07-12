@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの見出しは何ですか？",
+    "answer": "足下成約単価はさらに向上",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q00"
+  },
+  {
+    "question": "成約単価は昨年後半に平均いくら程度でしたか？",
+    "answer": "360万円程度です。",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q01"
+  },
+  {
+    "question": "成約単価は前半に平均いくら程度でしたか？",
+    "answer": "340万円程度です。",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q02"
+  },
+  {
+    "question": "今年に入ってからの成約単価の傾向はどうですか？",
+    "answer": "上昇基調が継続しています。",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q03"
+  },
+  {
+    "question": "FY25下期の平均成約単価が上昇している背景として、何が挙げられていますか？",
+    "answer": "大手ファーム系顧客ファーム共に採用を活性化しており、クライアントのニーズは引き続き旺盛だからです。",
+    "level": "L2",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q04"
+  },
+  {
+    "question": "このページでは、足下の成約単価についてどのように見ていますか？",
+    "answer": "引き続き強いニーズがあると見ています。",
+    "level": "L2",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q05"
+  },
+  {
+    "question": "成約単価の上昇は、需要面について何を示唆していますか？",
+    "answer": "強いニーズが続いていることを示唆しています。",
+    "level": "L2",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q06"
+  },
+  {
+    "question": "昨年後半の360万円程度と前半の340万円程度の差はいくらですか？",
+    "answer": "20万円程度です。",
+    "level": "L3",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q07"
+  },
+  {
+    "question": "前半の340万円程度から昨年後半の360万円程度への上昇率は何％ですか？",
+    "answer": "約5.9％です。",
+    "level": "L3",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q08"
+  },
+  {
+    "question": "前半の340万円程度から20万円伸びた後の成約単価は何万円程度ですか？",
+    "answer": "360万円程度です。",
+    "level": "L3",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_q09"
+  }
+]

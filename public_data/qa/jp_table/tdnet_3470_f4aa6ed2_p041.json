@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Cp-05の物件名称は何ですか？",
+    "answer": "ヤマダデンキテックランド時津店",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q00"
+  },
+  {
+    "question": "Cp-08の所在地はどこですか？",
+    "answer": "長崎県佐世保市",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q01"
+  },
+  {
+    "question": "Cp-13の建築時期はいつですか？",
+    "answer": "1988年4月15日",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q02"
+  },
+  {
+    "question": "Cp-17のテナント数はいくつですか？",
+    "answer": "1",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q03"
+  },
+  {
+    "question": "このページで稼働率が100.0%ではない物件は何件ありますか？",
+    "answer": "2件",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q04"
+  },
+  {
+    "question": "総賃料収入が最も高い物件はどれですか？",
+    "answer": "Cp-13 光明池アクト",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q05"
+  },
+  {
+    "question": "賃貸可能面積が賃貸面積を上回っている物件はどれですか？",
+    "answer": "Cp-07 MRRくまもと",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q06"
+  },
+  {
+    "question": "Cp-07の賃貸可能面積と賃貸面積の差は何㎡ですか？",
+    "answer": "145.60㎡",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q07"
+  },
+  {
+    "question": "Cp-13の賃貸可能面積は賃貸面積より何㎡多いですか？",
+    "answer": "325.26㎡",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q08"
+  },
+  {
+    "question": "このページで建物面積が最も大きい物件と最も小さい物件の差は何㎡ですか？",
+    "answer": "11,183.39㎡",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p041",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p041_q09"
+  }
+]

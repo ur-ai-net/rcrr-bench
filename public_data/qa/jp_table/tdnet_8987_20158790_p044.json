@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの表題は何ですか。",
+    "answer": "期末鑑定評価額",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q00"
+  },
+  {
+    "question": "合計の取得価格はいくらですか。",
+    "answer": "290,534百万円",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q01"
+  },
+  {
+    "question": "合計の第39期末鑑定評価額はいくらですか。",
+    "answer": "351,603百万円",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q02"
+  },
+  {
+    "question": "合計の鑑定評価機関欄は何と記載されていますか。",
+    "answer": "-",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q03"
+  },
+  {
+    "question": "第39期末の合計鑑定評価額は第38期末より増加していますか。",
+    "answer": "増加しています",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q04"
+  },
+  {
+    "question": "エリアⅣ合計の直接還元法還元利回りは第38期末と第39期末で同じですか。",
+    "answer": "同じです",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q05"
+  },
+  {
+    "question": "第39期に追加取得したBIZCORE神保町の注記番号は何ですか。",
+    "answer": "※3",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q06"
+  },
+  {
+    "question": "合計の鑑定評価額の差異（②-①）はいくらですか。",
+    "answer": "5,137百万円",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q07"
+  },
+  {
+    "question": "合計の帳簿価額③と第39期末鑑定評価額②の差異（②-③）はいくらですか。",
+    "answer": "79,556百万円",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q08"
+  },
+  {
+    "question": "エリアⅢ合計の第39期末鑑定評価額はエリアⅡ合計よりいくら大きいですか。",
+    "answer": "52,024百万円",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p044",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p044_q09"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「M&A及び資本参加実績」の年表で、「ZENMU TECH」は何年の位置に示されていますか。",
+    "answer": "2020年",
+    "evidence": "年表の「資本参加」の行で、「2020年」の目盛りの位置に「ZENMU TECH」のロゴが示されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_m00"
+  },
+  {
+    "question": "「Knowledge Suite」は、年表の「M&A」と「資本参加」のどちらの行に示されていますか。",
+    "answer": "資本参加",
+    "evidence": "年表の下段「資本参加」の行（2013年の位置）に「Knowledge Suite」のロゴが示されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_m01"
+  },
+  {
+    "question": "「TRIPLEIZE」が資本参加として示されている年に、「M&A」の行に示されているのはどの企業ですか。",
+    "answer": "ファルコンシステムコンサルティング",
+    "evidence": "「2018年」の目盛りの位置に、資本参加の行では「TRIPLEIZE」、M&Aの行では「ファルコンシステムコンサルティング」が示されている。",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_m02"
+  }
+]

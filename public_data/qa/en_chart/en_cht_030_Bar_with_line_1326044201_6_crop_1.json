@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Adjusted Operating Income\".",
+    "level": "L1",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q00"
+  },
+  {
+    "question": "What subtitle appears directly under the title?",
+    "answer": "The subtitle is \"Operating Margin*\".",
+    "level": "L1",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q01"
+  },
+  {
+    "question": "What unit is shown in the upper-left corner of the chart?",
+    "answer": "The unit is \"($ in millions)\".",
+    "level": "L1",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q02"
+  },
+  {
+    "question": "What is the adjusted operating income shown for 1Q15?",
+    "answer": "The adjusted operating income for 1Q15 is \"$154.5\".",
+    "level": "L1",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q03"
+  },
+  {
+    "question": "Which quarter has the highest adjusted operating income on the chart?",
+    "answer": "3Q14 has the highest adjusted operating income at \"$159.8\".",
+    "level": "L2",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q04"
+  },
+  {
+    "question": "Which quarter has the lowest operating margin shown on the chart?",
+    "answer": "1Q14 has the lowest operating margin at \"21.4%\".",
+    "level": "L2",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q05"
+  },
+  {
+    "question": "What is the operating margin in 4Q14, and what is the adjusted operating income for that quarter?",
+    "answer": "The operating margin in 4Q14 is \"27.2%\" and the adjusted operating income is \"$154.7\".",
+    "level": "L2",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q06"
+  },
+  {
+    "question": "How much did adjusted operating income increase from 2Q13 to 3Q13?",
+    "answer": "It increased by \"$37.3\" million, from \"$109.0\" to \"$146.3\".",
+    "level": "L3",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q07"
+  },
+  {
+    "question": "What is the difference in operating margin between 3Q14 and 1Q14?",
+    "answer": "The difference is \"7.5\" percentage points, from \"21.4%\" to \"28.9%\".",
+    "level": "L3",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q08"
+  },
+  {
+    "question": "How many quarters on the chart show an operating margin above 27%?",
+    "answer": "Five quarters show an operating margin above 27%: 2Q13, 3Q13, 4Q13, 3Q14, and 4Q14.",
+    "level": "L3",
+    "doc_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_030_Bar_with_line_1326044201_6_crop_1_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Total Loan Reserve Rate (1)(2)\".",
+    "level": "L1",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q00"
+  },
+  {
+    "question": "What is the Total Loan Reserve Rate for 3Q23?",
+    "answer": "The Total Loan Reserve Rate for 3Q23 is 7.06%.",
+    "level": "L1",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q01"
+  },
+  {
+    "question": "What is the Total Loan Reserve Rate for 4Q23?",
+    "answer": "The Total Loan Reserve Rate for 4Q23 is 7.23%.",
+    "level": "L1",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q02"
+  },
+  {
+    "question": "What is the Total Loan Reserve Rate for 1Q24?",
+    "answer": "The Total Loan Reserve Rate for 1Q24 is 7.32%.",
+    "level": "L1",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q03"
+  },
+  {
+    "question": "Which quarter has the highest Total Loan Reserve Rate?",
+    "answer": "1Q24 has the highest Total Loan Reserve Rate at 7.32%.",
+    "level": "L2",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q04"
+  },
+  {
+    "question": "Which quarter has the lowest Total Loan Reserve Rate?",
+    "answer": "3Q23 has the lowest Total Loan Reserve Rate at 7.06%.",
+    "level": "L2",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q05"
+  },
+  {
+    "question": "Did the Total Loan Reserve Rate increase from 3Q23 to 1Q24?",
+    "answer": "Yes. It increased from 7.06% in 3Q23 to 7.32% in 1Q24.",
+    "level": "L2",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q06"
+  },
+  {
+    "question": "By how many percentage points did the Total Loan Reserve Rate change from 3Q23 to 4Q23?",
+    "answer": "It increased by 0.17 percentage points, from 7.06% to 7.23%.",
+    "level": "L3",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the highest and lowest Total Loan Reserve Rates shown on the chart?",
+    "answer": "The difference is 0.26 percentage points, from 7.06% to 7.32%.",
+    "level": "L3",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q08"
+  },
+  {
+    "question": "How many quarters are shown in the chart, and what are they?",
+    "answer": "There are 5 quarters shown: 3Q23, 4Q23, 1Q24, 2Q24, and 3Q24.",
+    "level": "L3",
+    "doc_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_003_Bar_with_num_1737367690_9_crop_0_q09"
+  }
+]

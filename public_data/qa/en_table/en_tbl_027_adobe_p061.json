@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is shown on the Consolidated Balance Sheets page?",
+    "answer": "ADOBE SYSTEMS INCORPORATED.",
+    "level": "L1",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q00"
+  },
+  {
+    "question": "What are the two balance sheet dates shown at the top of the page?",
+    "answer": "December 2, 2016 and November 27, 2015.",
+    "level": "L1",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q01"
+  },
+  {
+    "question": "What is the amount of Cash and cash equivalents for December 2, 2016?",
+    "answer": "$ 1,011,315.",
+    "level": "L1",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q02"
+  },
+  {
+    "question": "What is the total stockholders’ equity as of November 27, 2015?",
+    "answer": "$ 7,001,580.",
+    "level": "L1",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q03"
+  },
+  {
+    "question": "Which current asset is the largest on December 2, 2016, and what is its amount?",
+    "answer": "Short-term investments, at $ 3,749,985.",
+    "level": "L2",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q04"
+  },
+  {
+    "question": "Does total current assets exceed total current liabilities on December 2, 2016, and by how much?",
+    "answer": "Yes. Total current assets exceed total current liabilities by $ 3,028,139.",
+    "level": "L2",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q05"
+  },
+  {
+    "question": "What is the difference between total assets and total liabilities on December 2, 2016?",
+    "answer": "The difference is $ 7,424,835, which equals total stockholders’ equity.",
+    "level": "L2",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q06"
+  },
+  {
+    "question": "By how much did total assets increase from November 27, 2015 to December 2, 2016?",
+    "answer": "Total assets increased by $ 980,642.",
+    "level": "L3",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q07"
+  },
+  {
+    "question": "How much larger was treasury stock, at cost, on December 2, 2016 than on November 27, 2015?",
+    "answer": "It was larger by $ 864,757.",
+    "level": "L3",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q08"
+  },
+  {
+    "question": "What is the combined amount of deferred revenue reported as current and long-term liabilities on December 2, 2016?",
+    "answer": "The combined deferred revenue is $ 2,014,750.",
+    "level": "L3",
+    "doc_id": "en_tbl_027_adobe_p061",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_027_adobe_p061_q09"
+  }
+]

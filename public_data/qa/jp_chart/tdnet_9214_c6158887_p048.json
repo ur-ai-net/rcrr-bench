@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "長期成長戦略",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q00"
+  },
+  {
+    "question": "年間20拠点〜30拠点の展開対象は何ですか？",
+    "answer": "全国へ直営/FCの新規拠点展開です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q01"
+  },
+  {
+    "question": "このページで挙げられている訪問看護サービス以外の事業は何ですか？",
+    "answer": "コメディカル人材紹介です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q02"
+  },
+  {
+    "question": "新規事業創出は何を活かして検討するとされていますか？",
+    "answer": "ノウハウ×テクノロジーです。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q03"
+  },
+  {
+    "question": "この長期戦略では、既存の実践の場を何に活用すると述べていますか？",
+    "answer": "ノウハウを蓄積し、新規事業創出を検討することです。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q04"
+  },
+  {
+    "question": "フランチャイズは長期戦略の中でどの位置づけとして示されていますか？",
+    "answer": "全国展開の一部として示されています。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q05"
+  },
+  {
+    "question": "コンサル / SaaS事業開始は、どの事業展開の流れの中にありますか？",
+    "answer": "直営新規拠点展開とコメディカル人材紹介事業拡大の流れの中です。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q06"
+  },
+  {
+    "question": "年間20拠点〜30拠点を5年間続けた場合、合計何拠点になりますか？",
+    "answer": "100拠点〜150拠点です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q07"
+  },
+  {
+    "question": "年間20拠点と年間30拠点では、1年あたり何拠点の差がありますか？",
+    "answer": "10拠点です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q08"
+  },
+  {
+    "question": "このページで示された長期戦略の主な柱は何本ですか？",
+    "answer": "4本です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p048",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p048_q09"
+  }
+]

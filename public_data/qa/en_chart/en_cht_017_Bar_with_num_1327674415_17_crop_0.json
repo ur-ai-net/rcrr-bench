@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Closed-End Fund AUM ($B)\".",
+    "level": "L1",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q00"
+  },
+  {
+    "question": "What are the two categories shown in the legend?",
+    "answer": "The legend shows \"Dry Powder\" and \"Invested\".",
+    "level": "L1",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q01"
+  },
+  {
+    "question": "What is the total AUM shown for 1999?",
+    "answer": "The total AUM for 1999 is \"$46\".",
+    "level": "L1",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q02"
+  },
+  {
+    "question": "What is the total AUM shown for 2014?",
+    "answer": "The total AUM for 2014 is \"$395\".",
+    "level": "L1",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q03"
+  },
+  {
+    "question": "Which year is marked with the orange annotation \"77% Increase\"?",
+    "answer": "The orange annotation points to the change from 2005 to 2006, highlighting the increase into 2006.",
+    "level": "L2",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q04"
+  },
+  {
+    "question": "In which year does the chart first show the total AUM above \"$100\"?",
+    "answer": "The first year above \"$100\" is 2005, with a total of \"$119\".",
+    "level": "L2",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q05"
+  },
+  {
+    "question": "Which years have total AUM values of \"$214\"?",
+    "answer": "The years with total AUM of \"$214\" are 2008 and 2009.",
+    "level": "L2",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q06"
+  },
+  {
+    "question": "By how much did total AUM increase from 1999 to 2014?",
+    "answer": "It increased by \"$349\" billion, from \"$46\" to \"$395\".",
+    "level": "L3",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the total AUM in 2013 and 2012?",
+    "answer": "The difference is \"$61\" billion, rising from \"$335\" in 2012 to \"$396\" in 2013.",
+    "level": "L3",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q08"
+  },
+  {
+    "question": "In 2014, which component is larger: \"Dry Powder\" or \"Invested\"?",
+    "answer": "\"Invested\" is larger in 2014, at \"$294\" compared with \"$101\" for \"Dry Powder\".",
+    "level": "L3",
+    "doc_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_017_Bar_with_num_1327674415_17_crop_0_q09"
+  }
+]

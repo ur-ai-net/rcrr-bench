@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are the reportable operating segments listed in the table?",
+    "answer": "The reportable operating segments are USCS, CS, ICS, and GMNS.",
+    "level": "L1",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q00"
+  },
+  {
+    "question": "For 2022, what was Consolidated total non-interest revenues?",
+    "answer": "Consolidated total non-interest revenues were $ 42,967 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q01"
+  },
+  {
+    "question": "What was Corporate & Other pretax income (loss) in 2021?",
+    "answer": "Corporate & Other pretax income (loss) was $(1,008) million in 2021.",
+    "level": "L1",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q02"
+  },
+  {
+    "question": "As of 2020, what was Consolidated total assets?",
+    "answer": "Consolidated total assets were $ 191 billion.",
+    "level": "L1",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q03"
+  },
+  {
+    "question": "Which segment had the highest pretax income (loss) in 2022, and what was it?",
+    "answer": "USCS had the highest pretax income (loss) in 2022 at $ 5,400 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q04"
+  },
+  {
+    "question": "Which segment had the largest total assets in 2021, and what was the amount?",
+    "answer": "USCS had the largest total assets in 2021 at $ 77 billion.",
+    "level": "L2",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q05"
+  },
+  {
+    "question": "What does Corporate & Other include according to footnote (a)?",
+    "answer": "Corporate & Other includes adjustments and eliminations for intersegment activity.",
+    "level": "L2",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q06"
+  },
+  {
+    "question": "By how much did Consolidated total revenues net of interest expense increase from 2020 to 2022?",
+    "answer": "It increased by $ 16,775 million, from $ 36,087 million in 2020 to $ 52,862 million in 2022.",
+    "level": "L3",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q07"
+  },
+  {
+    "question": "What was the difference between USCS and CS total non-interest revenues in 2022?",
+    "answer": "USCS exceeded CS by $ 4,244 million, with $ 16,440 million versus $ 12,196 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q08"
+  },
+  {
+    "question": "How many years are shown in the table, and what are they?",
+    "answer": "Three years are shown: 2022, 2021, and 2020.",
+    "level": "L3",
+    "doc_id": "en_tbl_041_americanexpress_p154",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_041_americanexpress_p154_q09"
+  }
+]

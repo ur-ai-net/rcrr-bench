@@ -1,0 +1,15 @@
+[
+ {
+  "question": "「成長のビジョン」において、「医療人材基幹システム構築」が位置付けられているのはどの年度の時点ですか。",
+  "answer": "FY2020",
+  "evidence": "FY2020 の位置に「システム投資 医療人材基幹システム構築」",
+  "source_element": "axis label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_6034_030bbb04_p023",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_6034_030bbb04_p023_m05"
+ }
+]

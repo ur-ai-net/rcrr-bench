@@ -1,0 +1,38 @@
+[
+  {
+    "question": "物件一覧表において、「フジグラン宇部」の賃貸可能面積は何㎡ですか。",
+    "answer": "51,169.86㎡",
+    "evidence": "Cp-24 フジグラン宇部 山口県宇部市 38,469.44 49,243.53 … 51,169.86 51,169.86 1 100.0",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_m00"
+  },
+  {
+    "question": "「ミラキタシティ花北」と「ＭＲＲ麻生クリニックビル」では、どちらのテナント数が多いですか。",
+    "answer": "ミラキタシティ花北",
+    "evidence": "ミラキタシティ花北 テナント数 9 ／ ＭＲＲ麻生クリニックビル テナント数 5",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_m01"
+  },
+  {
+    "question": "このページの物件一覧表に記載された物件のうち、土地面積が最も大きい物件はどれですか。",
+    "answer": "フジグラン宇部",
+    "evidence": "フジグラン宇部 土地面積 38,469.44 ／ ＭｒＭａｘ伊勢崎店 35,832.49 ／ ＭＲＲいちはら（底地） 18,326.77",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_m02"
+  }
+]

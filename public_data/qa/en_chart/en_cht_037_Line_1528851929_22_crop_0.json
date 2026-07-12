@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the y-axis label on the chart?",
+    "answer": "The y-axis label is \"Mainline Capacity Utilization\".",
+    "level": "L1",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q00"
+  },
+  {
+    "question": "What years are shown on the x-axis?",
+    "answer": "The x-axis shows \"2011\", \"2012\", \"2013\", \"2014\", \"2015\", and \"2016B\".",
+    "level": "L1",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q01"
+  },
+  {
+    "question": "Which series is represented by the green line with square markers?",
+    "answer": "The green line with square markers is \"KMCC\".",
+    "level": "L1",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q02"
+  },
+  {
+    "question": "Which series is represented by the red line with square markers?",
+    "answer": "The red line with square markers is \"Cochin\".",
+    "level": "L1",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q03"
+  },
+  {
+    "question": "Which series appears to stay at about 100% across the chart?",
+    "answer": "\"Trans Mountain\" stays at about 100% across the chart.",
+    "level": "L2",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q04"
+  },
+  {
+    "question": "Which series begins near 0% in 2012 and rises to the mid-80% range by 2016B?",
+    "answer": "\"KMCC\" begins near 0% in 2012 and rises to the mid-80% range by 2016B.",
+    "level": "L2",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q05"
+  },
+  {
+    "question": "Which series is shown only from 2014 to 2016B and rises from the low-40% range to the mid-90% range?",
+    "answer": "\"Cochin\" is shown only from 2014 to 2016B and rises from the low-40% range to the mid-90% range.",
+    "level": "L2",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q06"
+  },
+  {
+    "question": "Which series has the lowest value at 2015, and what is that approximate value?",
+    "answer": "\"Double H\" has the lowest value at 2015, at about 50%.",
+    "level": "L3",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q07"
+  },
+  {
+    "question": "Which series shows the largest increase from 2014 to 2016B?",
+    "answer": "\"KMCC\" shows the largest increase from 2014 to 2016B.",
+    "level": "L3",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q08"
+  },
+  {
+    "question": "At 2016B, which series is highest and which is lowest?",
+    "answer": "At 2016B, \"Trans Mountain\" is highest at about 100%, and \"SFPP\" is lowest at about 63%.",
+    "level": "L3",
+    "doc_id": "en_cht_037_Line_1528851929_22_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_037_Line_1528851929_22_crop_0_q09"
+  }
+]

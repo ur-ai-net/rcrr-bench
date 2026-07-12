@@ -1,0 +1,102 @@
+[
+  {
+    "question": "In what month and year did the Company complete the intra-entity transfer of certain intellectual property rights?",
+    "answer": "The Company completed the intra-entity transfer in October 2019.",
+    "level": "L1",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q00"
+  },
+  {
+    "question": "To which country was the intellectual property transferred?",
+    "answer": "The intellectual property rights were transferred to one of its subsidiaries in the U.K.",
+    "level": "L1",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q01"
+  },
+  {
+    "question": "What amount of deferred tax asset did the Company recognize in the U.K.?",
+    "answer": "The Company recognized a $1.1 billion deferred tax asset in the U.K.",
+    "level": "L1",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q02"
+  },
+  {
+    "question": "Who signed the auditor's report on this page?",
+    "answer": "The report was signed by /s/ PricewaterhouseCoopers LLP.",
+    "level": "L1",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q03"
+  },
+  {
+    "question": "Why did the transfer not result in a taxable gain?",
+    "answer": "The page states that the transfer did not result in a taxable gain, but it does not provide a specific reason.",
+    "level": "L2",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q04"
+  },
+  {
+    "question": "What factors did management use to determine the fair value of the transferred intellectual property rights?",
+    "answer": "Management used expectations of future cash flows, long-term growth rates, and discount rates.",
+    "level": "L2",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q05"
+  },
+  {
+    "question": "Why did the auditors consider this a critical audit matter?",
+    "answer": "It was considered critical because management's fair value estimate involved significant judgment, which created significant auditor judgment, subjectivity, and effort in evaluating the assumptions.",
+    "level": "L2",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q06"
+  },
+  {
+    "question": "What was the net effect of the $1.1 billion deferred tax asset and the related $920 million deferred tax liability?",
+    "answer": "The page says the $1.1 billion deferred tax asset was partially offset by a related $920 million deferred tax liability for U.S. taxes on foreign earnings.",
+    "level": "L3",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q07"
+  },
+  {
+    "question": "How much was the one-time benefit recorded in the quarter ended December 31, 2019?",
+    "answer": "The Company recorded a one-time benefit of $230 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q08"
+  },
+  {
+    "question": "What audit procedures were performed to address the matter?",
+    "answer": "The procedures included testing controls over the valuation, testing management's process, evaluating the discounted cash flow model, testing underlying data, and evaluating significant assumptions, with specialists assisting on the model and discount rates.",
+    "level": "L3",
+    "doc_id": "en_tbl_023_activisionblizzard_p068",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_023_activisionblizzard_p068_q09"
+  }
+]

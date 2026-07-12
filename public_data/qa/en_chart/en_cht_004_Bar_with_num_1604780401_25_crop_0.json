@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Sales ($M)\".",
+    "level": "L1",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q00"
+  },
+  {
+    "question": "What is the total sales value shown for Q1:13?",
+    "answer": "The total sales value for Q1:13 is \"$123\".",
+    "level": "L1",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q01"
+  },
+  {
+    "question": "What is the total sales value shown for Q1:14?",
+    "answer": "The total sales value for Q1:14 is \"$185\".",
+    "level": "L1",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q02"
+  },
+  {
+    "question": "What are the two legend categories shown at the bottom of the chart?",
+    "answer": "The legend categories are \"US\" and \"ROW\".",
+    "level": "L1",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q03"
+  },
+  {
+    "question": "Which quarter has the highest total sales on the chart?",
+    "answer": "Q1:16 has the highest total sales at \"$225\".",
+    "level": "L2",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q04"
+  },
+  {
+    "question": "In which quarter does ROW exceed US by the largest amount?",
+    "answer": "ROW exceeds US by the largest amount in Q1:16, where ROW is \"$81\" and US is \"$144\".",
+    "level": "L2",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q05"
+  },
+  {
+    "question": "Which quarter shows the smallest gap between US and ROW sales?",
+    "answer": "Q1:13 shows the smallest gap, with US at \"$94\" and ROW at \"$29\".",
+    "level": "L2",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q06"
+  },
+  {
+    "question": "By how much did total sales increase from Q1:13 to Q1:14?",
+    "answer": "Total sales increased by \"$62\" from \"$123\" to \"$185\".",
+    "level": "L3",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q07"
+  },
+  {
+    "question": "What is the combined US sales across all four quarters?",
+    "answer": "The combined US sales are \"$539\".",
+    "level": "L3",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q08"
+  },
+  {
+    "question": "What is the difference between the highest and lowest total sales values shown?",
+    "answer": "The difference is \"$102\", between \"$225\" and \"$123\".",
+    "level": "L3",
+    "doc_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_004_Bar_with_num_1604780401_25_crop_0_q09"
+  }
+]

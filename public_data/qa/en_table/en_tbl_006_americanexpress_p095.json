@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What page number is listed for \"Consolidated Statements of Income – For the Years Ended December 31, 2022, 2021 and 2020\"?",
+    "answer": "It is listed on page \"93\".",
+    "level": "L1",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q00"
+  },
+  {
+    "question": "On what page does \"Note 1 – Summary of Significant Accounting Policies\" begin?",
+    "answer": "It begins on page \"98\".",
+    "level": "L1",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q01"
+  },
+  {
+    "question": "Which note is titled \"Debt\" and what page is it on?",
+    "answer": "\"Note 8 – Debt\" is on page \"121\".",
+    "level": "L1",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q02"
+  },
+  {
+    "question": "What is the page number for \"Note 24 – Reportable Operating Segments and Geographic Operations\"?",
+    "answer": "It is on page \"150\".",
+    "level": "L1",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q03"
+  },
+  {
+    "question": "Which consolidated financial statement appears first in the index, and what page is it on?",
+    "answer": "\"Consolidated Statements of Income – For the Years Ended December 31, 2022, 2021 and 2020\" appears first, on page \"93\".",
+    "level": "L2",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q04"
+  },
+  {
+    "question": "Which note begins on the same page as \"NOTES TO CONSOLIDATED FINANCIAL STATEMENTS\"?",
+    "answer": "\"Note 1 – Summary of Significant Accounting Policies\" begins on page \"98\", the same page where the notes section starts.",
+    "level": "L2",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q05"
+  },
+  {
+    "question": "What is the last note listed in the table of contents, and on what page does it start?",
+    "answer": "The last note listed is \"Note 25 – Parent Company\", and it starts on page \"153\".",
+    "level": "L2",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q06"
+  },
+  {
+    "question": "How many consolidated financial statement entries are listed before the notes section begins?",
+    "answer": "There are \"5\" consolidated financial statement entries before the notes section begins.",
+    "level": "L3",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q07"
+  },
+  {
+    "question": "How many note entries are listed from \"Note 1\" through \"Note 25\"?",
+    "answer": "There are \"25\" note entries listed from \"Note 1\" through \"Note 25\".",
+    "level": "L3",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q08"
+  },
+  {
+    "question": "What is the page span from the first listed consolidated financial statement to the last listed note?",
+    "answer": "The span is from page \"93\" to page \"153\", a difference of \"60\" pages.",
+    "level": "L3",
+    "doc_id": "en_tbl_006_americanexpress_p095",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_006_americanexpress_p095_q09"
+  }
+]

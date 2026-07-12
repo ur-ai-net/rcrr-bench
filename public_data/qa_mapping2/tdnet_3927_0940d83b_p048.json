@@ -1,0 +1,15 @@
+[
+ {
+  "question": "「Japan Cybersecurity Market 2025-2033」において、市場規模の金額（USD）が明記されているのは何年と何年ですか。",
+  "answer": "2024年と2033年",
+  "evidence": "USD 18 Billion（2024）、USD 43.3 Billion（2033）。その他の年の値ラベルは「XX」と表記。",
+  "source_element": "bar data label",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_3927_0940d83b_p048",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_3927_0940d83b_p048_m04"
+ }
+]

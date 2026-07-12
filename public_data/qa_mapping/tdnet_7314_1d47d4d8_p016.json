@@ -1,0 +1,38 @@
+[
+ {
+  "question": "「デジタルバス停システム」と「ダイヤ作成支援システム」のうち、暗黙知であるダイヤ改正のノウハウ可視化と移動需要の獲得を目指すとされているのはどちらですか。",
+  "answer": "ダイヤ作成支援システム",
+  "evidence": "ダイヤ作成支援システム のパネル側に「暗黙知であるダイヤ改正のノウハウ可視化と移動需要の獲得を目指す」の吹き出し",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7314_1d47d4d8_p016",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7314_1d47d4d8_p016_m00"
+ },
+ {
+  "question": "業務フローの表で、「潜在需要可視化」は「ダイヤ編成検討」と「ダイヤ改正作業」のどちらの列に対する打ち手ですか。",
+  "answer": "ダイヤ編成検討",
+  "evidence": "業務フロー ダイヤ編成検討／主な課題 潜在的な移動需要の獲得／打ち手 潜在需要可視化（ダイヤ改正作業列の打ち手はSIMレスデジタルバス停を開発など）",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7314_1d47d4d8_p016",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7314_1d47d4d8_p016_m01"
+ },
+ {
+  "question": "業務フローの「ダイヤ編成検討」列で、打ち手として開発するとされているものは何ですか。",
+  "answer": "潜在需要可視化",
+  "evidence": "ダイヤ改正作業／打ち手 … SIMレスデジタルバス停を開発",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7314_1d47d4d8_p016",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7314_1d47d4d8_p016_m02"
+ }
+]

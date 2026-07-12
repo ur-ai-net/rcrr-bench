@@ -1,0 +1,202 @@
+[
+  {
+    "question": "第2期の営業利益又は営業損失(△)はいくらですか？",
+    "answer": "第2期の営業利益又は営業損失(△)は13,559,923円です。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q00"
+  },
+  {
+    "question": "第3期の分配金はいくらですか？",
+    "answer": "第3期の分配金は1,760,000円です。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q01"
+  },
+  {
+    "question": "有価証券の評価基準は何と記載されていますか？",
+    "answer": "有価証券の評価基準は「親投資信託受益証券」と記載されています。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q02"
+  },
+  {
+    "question": "親投資信託受益証券の評価方法は何に基づいていますか？",
+    "answer": "親投資信託受益証券の評価方法は、移動平均法に基づき、基準価額で評価されています。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q03"
+  },
+  {
+    "question": "第2期（2025年7月11日現在）の受益権の総数は何口ですか？",
+    "answer": "第2期（2025年7月11日現在）の受益権の総数は160,000口です。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q04"
+  },
+  {
+    "question": "第3期（2026年1月11日現在）の1口当たり純資産額はいくらですか？",
+    "answer": "第3期（2026年1月11日現在）の1口当たり純資産額は2,808円です。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q05"
+  },
+  {
+    "question": "第2期の1口当たり分配金額はいくらですか？",
+    "answer": "第2期の1口当たり分配金額は9円です。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q06"
+  },
+  {
+    "question": "当ファンドが保有する金融商品の種類として挙げられているものは何ですか？",
+    "answer": "当ファンドが保有する金融商品の種類は、有価証券、コール・ローン等の金銭債権及び金銭債務です。",
+    "level": "L1",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q07"
+  },
+  {
+    "question": "第2期と第3期で、期首剰余金又は期首欠損金(△)はどのように変化しましたか？",
+    "answer": "第2期は25,333,889円、第3期は37,453,812円と増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q08"
+  },
+  {
+    "question": "第2期の配当等収益合計額(D)は、どの項目を合計したものですか？",
+    "answer": "第2期の配当等収益合計額(D)は、当期配当等収益額(A)、親ファンドの配当等収益額(B)、分配準備積立金(C)を合計したものです。",
+    "level": "L2",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q09"
+  },
+  {
+    "question": "第3期の収益分配可能額(F)は、どのように計算されますか？",
+    "answer": "第3期の収益分配可能額(F)は、配当等収益合計額(D)から経費(E)を差し引いて計算されます。",
+    "level": "L2",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q10"
+  },
+  {
+    "question": "第2期の次期繰越金(H)は、収益分配可能額(F)と収益分配金金額(G)からどのように算出されますか？",
+    "answer": "第2期の次期繰越金(H)は、収益分配可能額(F)から収益分配金金額(G)を差し引いて算出されます (H=F-G)。",
+    "level": "L2",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q11"
+  },
+  {
+    "question": "当ファンドの金融商品に対する取組方針は何を目的としていますか？",
+    "answer": "当ファンドは、投資信託及び投資法人に関する法律第2条第4項に定める証券投資信託として、信託約款に規定する「運用の基本方針」に従い、有価証券等の金融商品に対して投資として運用することを目的としています。",
+    "level": "L2",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q12"
+  },
+  {
+    "question": "当ファンドが保有する金融商品が晒されている市場リスクにはどのようなものがありますか？",
+    "answer": "当ファンドが保有する金融商品が晒されている市場リスクには、価格変動リスク、金利変動リスク等があります。",
+    "level": "L2",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q13"
+  },
+  {
+    "question": "第2期と第3期で、受益権の総数に変化はありましたか？",
+    "answer": "受益権の総数に変化はなく、両期ともに160,000口でした。",
+    "level": "L2",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q14"
+  },
+  {
+    "question": "第2期（2025年7月11日現在）における純資産総額はいくらですか？",
+    "answer": "第2期における純資産総額は357,440,000円です。（160,000口 × 2,234円）",
+    "level": "L3",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q15"
+  },
+  {
+    "question": "第3期（2026年1月11日現在）における純資産総額はいくらですか？",
+    "answer": "第3期における純資産総額は449,280,000円です。（160,000口 × 2,808円）",
+    "level": "L3",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q16"
+  },
+  {
+    "question": "第2期から第3期にかけて、1口当たり純資産額の増減率は約何%ですか？",
+    "answer": "約25.69%増加しました。（(2,808円 - 2,234円) / 2,234円 × 100%）",
+    "level": "L3",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q17"
+  },
+  {
+    "question": "第3期の配当等収益合計額(D)は、当期配当等収益額(A)、親ファンドの配当等収益額(B)、分配準備積立金(C)の合計と一致しますか？",
+    "answer": "一致します。A(2,447円) + B(3,398,253円) + C(80,641円) = 3,481,341円であり、Dの記載値と合致します。",
+    "level": "L3",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q18"
+  },
+  {
+    "question": "第3期の収益分配可能額(F)から収益分配金金額(G)を差し引いた次期繰越金(H)は、記載されている数値と一致しますか？",
+    "answer": "一致します。F(1,875,208円) - G(1,760,000円) = 115,208円であり、Hの記載値と合致します。",
+    "level": "L3",
+    "doc_id": "tdnet_257A_8553bdce_p002",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_257A_8553bdce_p002_q19"
+  }
+]

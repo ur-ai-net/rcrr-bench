@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "ポジショニング",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q00"
+  },
+  {
+    "question": "「訪看ST」は何の略ですか？",
+    "answer": "訪問看護ステーション",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q01"
+  },
+  {
+    "question": "当社の強みとして示されている項目を1つ挙げてください。",
+    "answer": "理念の浸透",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q02"
+  },
+  {
+    "question": "このページで示されているDXの方向性は何ですか？",
+    "answer": "時間の効率を高めること",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q03"
+  },
+  {
+    "question": "DXにより時間の効率を高めることで、何を可能にすると説明されていますか？",
+    "answer": "ご利用者様やご家族、連携先への寄り添い",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q04"
+  },
+  {
+    "question": "当社の強みのうち、人材育成力の下にある具体例を1つ挙げてください。",
+    "answer": "早期教育プログラム",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q05"
+  },
+  {
+    "question": "当社の強みのうち、DXによる訪問看護モデルの下にある具体例を1つ挙げてください。",
+    "answer": "拠点モデル",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q06"
+  },
+  {
+    "question": "満足度が高く、DXも高い位置にあるのはどの訪看STですか？",
+    "answer": "当社",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q07"
+  },
+  {
+    "question": "満足度が低く、DXが高い位置にあるのはどの訪看STですか？",
+    "answer": "大手運営訪看ST",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q08"
+  },
+  {
+    "question": "このページで示されている当社の強みは全部でいくつありますか？",
+    "answer": "3つ",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p031_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the date of report stated on the Form 8-K?",
+    "answer": "The Date of Report is May 26, 2023.",
+    "level": "L1",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q00"
+  },
+  {
+    "question": "What is the exact name of the registrant?",
+    "answer": "The registrant is PepsiCo, Inc.",
+    "level": "L1",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q01"
+  },
+  {
+    "question": "What is the registrant’s telephone number, including area code?",
+    "answer": "The registrant’s telephone number is (914) 253-2000.",
+    "level": "L1",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q02"
+  },
+  {
+    "question": "What is the address of the registrant’s principal executive offices?",
+    "answer": "The address is 700 Anderson Hill Road, Purchase, New York 10577.",
+    "level": "L1",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q03"
+  },
+  {
+    "question": "Which exchange is listed for the registrant’s Common Stock, par value 1-2/3 cents per share?",
+    "answer": "The Common Stock, par value 1-2/3 cents per share is listed on The Nasdaq Stock Market LLC.",
+    "level": "L2",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q04"
+  },
+  {
+    "question": "What is the Commission File Number and IRS Employer Identification Number shown on the page?",
+    "answer": "The Commission File Number is 1-1183 and the IRS Employer Identification Number is 13-1584302.",
+    "level": "L2",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q05"
+  },
+  {
+    "question": "Is the registrant identified as an emerging growth company?",
+    "answer": "No. The page shows the Emerging growth company box unchecked.",
+    "level": "L2",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q06"
+  },
+  {
+    "question": "How many securities are listed under \"Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934\"?",
+    "answer": "There are 13 securities listed under that section.",
+    "level": "L3",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q07"
+  },
+  {
+    "question": "Which listed senior note has the latest due date, and what is that due date?",
+    "answer": "The 1.050% Senior Notes due 2050 have the latest due date, which is 2050.",
+    "level": "L3",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q08"
+  },
+  {
+    "question": "What is the difference in years between the earliest and latest senior note due dates shown on the page?",
+    "answer": "The earliest due date shown is 2024 and the latest is 2050, so the difference is 26 years.",
+    "level": "L3",
+    "doc_id": "en_tbl_013_pepsico_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_013_pepsico_p001_q09"
+  }
+]

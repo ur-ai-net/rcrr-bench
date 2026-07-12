@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the total notional amount of the foreign currency forward contracts as of December 26, 2015?",
+    "answer": "The total notional amount was $156 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q00"
+  },
+  {
+    "question": "What was the estimated fair value gain (loss) for the Canadian Dollar forward contracts on December 26, 2015?",
+    "answer": "The estimated fair value gain (loss) was $(4.9) million.",
+    "level": "L1",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q01"
+  },
+  {
+    "question": "Which foreign currency forward contract had a notional amount of 25 as of December 26, 2015?",
+    "answer": "The Indian Rupee forward contract had a notional amount of 25.",
+    "level": "L1",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q02"
+  },
+  {
+    "question": "What was the notional amount of the interest rate swap entered into as of December 26, 2015?",
+    "answer": "The notional amount of the interest rate swap was $250 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q03"
+  },
+  {
+    "question": "Are the foreign currency forward contracts designated as hedging instruments, and how are their gains or losses recorded?",
+    "answer": "They are not designated as hedging instruments. Accordingly, the gain or loss is immediately recorded in earnings.",
+    "level": "L2",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q04"
+  },
+  {
+    "question": "What type of interest rate swap is used, and what exposure does it manage?",
+    "answer": "The company uses fixed-to-floating interest rate swaps to manage a portion of its exposure to interest rate risk.",
+    "level": "L2",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q05"
+  },
+  {
+    "question": "How are the interest rate swaps designated, and what is the net impact on the consolidated statements of operations?",
+    "answer": "The interest rate swaps are designated as a fair value hedge. All changes in fair value are recorded on the consolidated balance sheets with no net impact to the consolidated statements of operations.",
+    "level": "L2",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q06"
+  },
+  {
+    "question": "How many foreign currency forward contract categories are listed for December 26, 2015, and how many of them had negative estimated fair values?",
+    "answer": "There are 5 categories listed, and 4 of them had negative estimated fair values.",
+    "level": "L3",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q07"
+  },
+  {
+    "question": "What is the change in total notional amount of foreign currency forward contracts from December 27, 2014 to December 26, 2015?",
+    "answer": "Total notional amount decreased by $142 million, from $298 million to $156 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q08"
+  },
+  {
+    "question": "Which foreign currency forward contract had the largest absolute estimated fair value gain (loss) on December 26, 2015?",
+    "answer": "The Canadian Dollar contract had the largest absolute estimated fair value gain (loss) at $(4.9) million.",
+    "level": "L3",
+    "doc_id": "en_tbl_037_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_037_amd_p055_q09"
+  }
+]

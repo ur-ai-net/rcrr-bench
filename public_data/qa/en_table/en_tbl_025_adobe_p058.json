@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What item number is shown at the top of the page?",
+    "answer": "The page shows \"ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA\".",
+    "level": "L1",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q00"
+  },
+  {
+    "question": "What is the title of the section that lists the financial statements?",
+    "answer": "The section is titled \"INDEX TO CONSOLIDATED FINANCIAL STATEMENTS\".",
+    "level": "L1",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q01"
+  },
+  {
+    "question": "Which independent registered public accounting firm is named on the page?",
+    "answer": "\"KPMG LLP\" is named as the \"Independent Registered Public Accounting Firm\".",
+    "level": "L1",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q02"
+  },
+  {
+    "question": "What does the page say about all financial statement schedules?",
+    "answer": "It says all financial statement schedules have been omitted.",
+    "level": "L1",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q03"
+  },
+  {
+    "question": "How many consolidated financial statement sections are listed before the notes and auditor report?",
+    "answer": "There are five consolidated financial statement sections listed before the notes and auditor report.",
+    "level": "L2",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q04"
+  },
+  {
+    "question": "Which listed item appears immediately before \"Notes to Consolidated Financial Statements\"?",
+    "answer": "\"Consolidated Statements of Cash Flows\" appears immediately before \"Notes to Consolidated Financial Statements\".",
+    "level": "L2",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q05"
+  },
+  {
+    "question": "Why does the page say the financial statement schedules were omitted?",
+    "answer": "They were omitted because the required information is not applicable, not present in amounts sufficient to require submission, or is included in the Consolidated Financial Statements and Notes thereto.",
+    "level": "L2",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q06"
+  },
+  {
+    "question": "What is the page number of \"Consolidated Statements of Cash Flows\"?",
+    "answer": "The page number is \"63\".",
+    "level": "L3",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q07"
+  },
+  {
+    "question": "What is the difference between the page numbers of \"Consolidated Statements of Income\" and \"Consolidated Statements of Cash Flows\"?",
+    "answer": "The difference is 3 pages, from \"60\" to \"63\".",
+    "level": "L3",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q08"
+  },
+  {
+    "question": "How many total entries are listed in the index, including the auditor report?",
+    "answer": "There are 7 total entries listed in the index, including the auditor report.",
+    "level": "L3",
+    "doc_id": "en_tbl_025_adobe_p058",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_025_adobe_p058_q09"
+  }
+]

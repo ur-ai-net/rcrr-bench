@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "ポートフォリオ変革の2年間の進捗② ― 品種別にみた事業規模と収益性の変化 ―",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q00"
+  },
+  {
+    "question": "2年間のまとめとして、ポートフォリオの質的改善はどう進んだと記載されていますか？",
+    "answer": "ポートフォリオの質的改善が進み、広範な品種で収益性が向上。",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q01"
+  },
+  {
+    "question": "海外リキッドインキは何の面で成長ドライバーとして寄与したとされていますか？",
+    "answer": "事業規模・収益性の両面です。",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q02"
+  },
+  {
+    "question": "顔料について、どのような進展があったと記載されていますか？",
+    "answer": "構造改革の大きな進展により、収益性が改善。",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q03"
+  },
+  {
+    "question": "この図の縦軸は何を示していますか？",
+    "answer": "前中計期間と比較した営業利益水準の改善度（相対）です。",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q04"
+  },
+  {
+    "question": "この図の円サイズは何を示していますか？",
+    "answer": "営業利益規模（相対）です。",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q05"
+  },
+  {
+    "question": "凡例でオレンジ色は何を表していますか？",
+    "answer": "成長事業です。",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q06"
+  },
+  {
+    "question": "図中で最も事業規模が大きいと読み取れる品種はどれですか？",
+    "answer": "（海外）リキッドインキです。",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q07"
+  },
+  {
+    "question": "図中で収益水準の改善度が最も高い位置にある品種はどれですか？",
+    "answer": "顔料です。",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q08"
+  },
+  {
+    "question": "図中の（国内）リキッドインキと（海外）リキッドインキを比べると、どちらが事業規模が大きいですか？",
+    "answer": "（海外）リキッドインキです。",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_q09"
+  }
+]

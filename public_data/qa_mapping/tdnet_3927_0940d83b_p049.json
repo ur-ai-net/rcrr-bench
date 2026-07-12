@@ -1,0 +1,26 @@
+[
+ {
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」において、高位シナリオの場合の2030年の人材不足数は約何万人と示されていますか。",
+  "answer": "約79万人",
+  "evidence": "約79万人（高位シナリオ）　2030年の人材不足数",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_3927_0940d83b_p049",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_3927_0940d83b_p049_m00"
+ },
+ {
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」において、ピークとされる2019年の供給人材数は何人ですか。",
+  "answer": "923,273人",
+  "evidence": "923,273（2019年の棒のラベル）、人材供給は2019年をピークに減少",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_3927_0940d83b_p049",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_3927_0940d83b_p049_m01"
+ }
+]

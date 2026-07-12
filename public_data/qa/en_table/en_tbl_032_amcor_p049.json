@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statement of Comprehensive Income.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q00"
+  },
+  {
+    "question": "For which years are the results presented?",
+    "answer": "The results are presented for the years ended June 30, 2020, 2019, and 2018.",
+    "level": "L1",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q01"
+  },
+  {
+    "question": "What was Amcor plc's net income in 2020?",
+    "answer": "Amcor plc's net income in 2020 was $616.6 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q02"
+  },
+  {
+    "question": "What was the comprehensive income attributable to Amcor plc in 2019?",
+    "answer": "The comprehensive income attributable to Amcor plc in 2019 was $416.3 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q03"
+  },
+  {
+    "question": "Which other comprehensive income item had the largest negative amount in 2020, and what was it?",
+    "answer": "Foreign currency translation adjustments, net of tax (b), had the largest negative amount in 2020 at $(286.5) million.",
+    "level": "L2",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q04"
+  },
+  {
+    "question": "What was the total comprehensive income for 2018, and how does it compare with net income for that year?",
+    "answer": "Total comprehensive income for 2018 was $655.4 million, which was higher than net income of $586.6 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q05"
+  },
+  {
+    "question": "Which line item shows a positive amount in 2018 but negative amounts in 2019 and 2020?",
+    "answer": "Pension, net of tax (d) was positive in 2018 at $27.6 million and negative in 2019 and 2020 at $(59.0) million and $(16.4) million, respectively.",
+    "level": "L2",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q06"
+  },
+  {
+    "question": "By how much did net income increase from 2019 to 2020?",
+    "answer": "Net income increased by $179.2 million, from $437.4 million in 2019 to $616.6 million in 2020.",
+    "level": "L3",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q07"
+  },
+  {
+    "question": "What is the difference between total comprehensive income and comprehensive income attributable to Amcor plc in 2020?",
+    "answer": "The difference is $4.4 million, which matches the comprehensive (income) loss attributable to non-controlling interest.",
+    "level": "L3",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q08"
+  },
+  {
+    "question": "How many footnote items are listed below the main table, and what are their labels?",
+    "answer": "There are four footnote items, labeled (a), (b), (c), and (d).",
+    "level": "L3",
+    "doc_id": "en_tbl_032_amcor_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_032_amcor_p049_q09"
+  }
+]

@@ -1,0 +1,54 @@
+[
+ {
+  "question": "訪問看護業界の事業所数の推移において、2013年の事業所数はいくつですか。",
+  "answer": "7,153",
+  "evidence": "7,153（2013年の値表示）",
+  "source_element": "bar data label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p022_m03"
+ },
+ {
+  "question": "訪問看護業界の事業所数の推移において、2024年の事業所数はいくつですか。",
+  "answer": "18,042",
+  "evidence": "18,042（2024年の値表示）",
+  "source_element": "bar data label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p022_m04"
+ },
+ {
+  "question": "訪問看護業界の事業所数の推移において、2022年の事業所数はいくつですか。",
+  "answer": "14,829",
+  "evidence": "14,829（2022年の値表示）",
+  "source_element": "bar data label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p022_m05"
+ },
+ {
+  "question": "訪問看護業界の事業所数の推移において、2018年の事業所数はいくつですか。",
+  "answer": "10,884",
+  "evidence": "10,884（2018年の値表示）",
+  "source_element": "bar data label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p022_m06"
+ }
+]

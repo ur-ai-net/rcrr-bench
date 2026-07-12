@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is named in the title of the statement?",
+    "answer": "ADOBE SYSTEMS INCORPORATED.",
+    "level": "L1",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q00"
+  },
+  {
+    "question": "What is the title of this financial statement?",
+    "answer": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY.",
+    "level": "L1",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q01"
+  },
+  {
+    "question": "What period is shown for the ending balances in the last row?",
+    "answer": "Balances at December 1, 2017.",
+    "level": "L1",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q02"
+  },
+  {
+    "question": "What unit of measure is stated under the statement title?",
+    "answer": "(In thousands).",
+    "level": "L1",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q03"
+  },
+  {
+    "question": "What was the total stockholders’ equity at Balances at November 28, 2014 and at Balances at December 1, 2017?",
+    "answer": "It was $ 6,775,905 at November 28, 2014 and $ 8,459,869 at December 1, 2017.",
+    "level": "L2",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q04"
+  },
+  {
+    "question": "Which line item shows a negative impact on equity from taxes related to employee stock plans, and what amounts are shown in 2015 and 2016?",
+    "answer": "The line item is \"Tax benefit from employee stock plans.\" The amounts are $ 68,133 in 2015 and $ 75,102 in 2016.",
+    "level": "L2",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q05"
+  },
+  {
+    "question": "Which year shows the largest purchase of treasury stock, and what was the amount?",
+    "answer": "2017 shows the largest purchase of treasury stock, at $(1,100,000).",
+    "level": "L2",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q06"
+  },
+  {
+    "question": "By how much did total stockholders’ equity increase from Balances at November 28, 2014 to Balances at December 1, 2017?",
+    "answer": "It increased by $ 1,683,964, from $ 6,775,905 to $ 8,459,869.",
+    "level": "L3",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q07"
+  },
+  {
+    "question": "What is the combined amount of stock-based compensation for 2015, 2016, and 2017?",
+    "answer": "The combined amount is $ 1,140,307, consisting of $ 337,578, $ 348,981, and $ 453,748.",
+    "level": "L3",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q08"
+  },
+  {
+    "question": "How many shares of treasury stock were repurchased in total across 2015, 2016, and 2017?",
+    "answer": "A total of 26,717 shares were repurchased, based on (8,104), (10,427), and (8,186) shares.",
+    "level": "L3",
+    "doc_id": "en_tbl_029_adobe_p060",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_029_adobe_p060_q09"
+  }
+]

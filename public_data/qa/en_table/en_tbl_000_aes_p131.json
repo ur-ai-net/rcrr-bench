@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What content is visible on page 131 of 'en_tbl_000_aes_p131.pdf'?",
+    "answer": "No content could be read from the page.",
+    "level": "L1",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q00"
+  },
+  {
+    "question": "Could any text be extracted from 'en_tbl_000_aes_p131.pdf'?",
+    "answer": "No, no text could be read from the document page.",
+    "level": "L1",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q01"
+  },
+  {
+    "question": "Was any image content readable on this page?",
+    "answer": "No, no image content could be read from the page.",
+    "level": "L1",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q02"
+  },
+  {
+    "question": "What is the document name mentioned in the prompt?",
+    "answer": "'en_tbl_000_aes_p131.pdf'.",
+    "level": "L1",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q03"
+  },
+  {
+    "question": "What can be inferred about the page's usability for content extraction?",
+    "answer": "The page appears unusable for extraction because neither text nor images could be read.",
+    "level": "L2",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q04"
+  },
+  {
+    "question": "Based on the prompt, what is the only reliable conclusion about the page?",
+    "answer": "The only reliable conclusion is that no readable content was available from the page.",
+    "level": "L2",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q05"
+  },
+  {
+    "question": "What does the page number in the filename suggest about the document structure?",
+    "answer": "The filename suggests this is page 131 of the document.",
+    "level": "L2",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q06"
+  },
+  {
+    "question": "How many readable content types are reported for this page?",
+    "answer": "Two readable content types are reported as unavailable: text and images.",
+    "level": "L3",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q07"
+  },
+  {
+    "question": "If both text and images are unreadable, what is the total number of readable elements reported?",
+    "answer": "Zero readable elements are reported.",
+    "level": "L3",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q08"
+  },
+  {
+    "question": "What is the relationship between the document name and the page reference in the prompt?",
+    "answer": "The document name is 'en_tbl_000_aes_p131.pdf', and the page reference is page 131.",
+    "level": "L3",
+    "doc_id": "en_tbl_000_aes_p131",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_000_aes_p131_q09"
+  }
+]

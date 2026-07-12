@@ -1,0 +1,202 @@
+[
+  {
+    "question": "この決算短信の正式名称と対象指数は何ですか？",
+    "answer": "iFreeETF TOPIX インバース(-1倍)指数(1457)です。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q00"
+  },
+  {
+    "question": "この文書は何期の決算短信ですか？",
+    "answer": "第11期の決算短信です。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q01"
+  },
+  {
+    "question": "この決算短信の基準日（現在日）はいつですか？",
+    "answer": "2026年1月10日現在です。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q02"
+  },
+  {
+    "question": "第11期における親投資信託受益証券の評価差額はいくらですか？",
+    "answer": "25,084,952円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q03"
+  },
+  {
+    "question": "第10期における親投資信託受益証券の評価差額はいくらですか？",
+    "answer": "6,960,826円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q04"
+  },
+  {
+    "question": "第10期における株価指数先物取引（売建）の契約額等はいくらですか？",
+    "answer": "17,014,316,000円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q05"
+  },
+  {
+    "question": "第11期における株価指数先物取引（売建）の評価損益はいくらですか？",
+    "answer": "△536,681,000円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q06"
+  },
+  {
+    "question": "コール・ローン等の金銭債権及び金銭債務等の時価はどのように算定されますか？",
+    "answer": "短期間で決済されるため、帳簿価額を時価としています。",
+    "level": "L1",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q07"
+  },
+  {
+    "question": "金融商品の時価の算定方法において、有価証券とデリバティブ取引の時価算定に関する詳細はどこを参照するよう指示されていますか？",
+    "answer": "有価証券は「重要な会計方針に係る事項に関する注記」に、デリバティブ取引は「デリバティブ取引に関する注記」にそれぞれ記載されていると指示されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q08"
+  },
+  {
+    "question": "売買目的有価証券の評価差額は、第10期から第11期にかけてどのように変化しましたか？",
+    "answer": "第10期は6,960,826円でしたが、第11期には25,084,952円に増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q09"
+  },
+  {
+    "question": "株価指数先物取引の時価は、原則としてどのように評価されると記載されていますか？",
+    "answer": "原則として計算期間末日に知りうる直近の日の主たる取引所の発表する清算値段又は最終相場で評価されます。",
+    "level": "L2",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q10"
+  },
+  {
+    "question": "株価指数先物取引の残高は、何ベースで表示されると記載されていますか？",
+    "answer": "契約額ベースで表示されると記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q11"
+  },
+  {
+    "question": "契約額等および時価の合計欄の金額について、どのような注意書きがありますか？",
+    "answer": "契約額等及び時価の合計欄の金額は、各々の合計金額であると記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q12"
+  },
+  {
+    "question": "ヘッジ会計が適用されていないデリバティブ取引として、具体的にどのような取引が記載されていますか？",
+    "answer": "株式関連の「株価指数先物取引」が記載されており、その中でも「売建」の取引が示されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q13"
+  },
+  {
+    "question": "契約額等には、どのような費用が含まれていないと明記されていますか？",
+    "answer": "契約額等には手数料相当額が含まれていないと明記されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q14"
+  },
+  {
+    "question": "第10期における株価指数先物取引（売建）の時価と契約額等の差額は、評価損益と一致しますか？",
+    "answer": "第10期の契約額等17,014,316,000円から時価16,891,200,000円を引くと123,116,000円となり、評価損益123,116,000円と一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q15"
+  },
+  {
+    "question": "第11期における株価指数先物取引（売建）の時価と契約額等の差額は、評価損益と一致しますか？",
+    "answer": "第11期の契約額等12,903,094,000円から時価13,439,775,000円を引くと-536,681,000円となり、評価損益△536,681,000円と一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q16"
+  },
+  {
+    "question": "親投資信託受益証券の評価差額は、第10期から第11期にかけて何円増加しましたか？",
+    "answer": "第10期の6,960,826円から第11期の25,084,952円へ、18,124,126円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q17"
+  },
+  {
+    "question": "株価指数先物取引（売建）の契約額等は、第10期から第11期にかけて何円減少しましたか？",
+    "answer": "第10期の17,014,316,000円から第11期の12,903,094,000円へ、4,111,222,000円減少しました。",
+    "level": "L3",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q18"
+  },
+  {
+    "question": "株価指数先物取引（売建）の評価損益は、第10期から第11期にかけてどのように変化しましたか？",
+    "answer": "第10期は123,116,000円の利益でしたが、第11期は△536,681,000円の損失となり、合計で659,797,000円悪化しました。",
+    "level": "L3",
+    "doc_id": "tdnet_1457_a407969a_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1457_a407969a_p005_q19"
+  }
+]

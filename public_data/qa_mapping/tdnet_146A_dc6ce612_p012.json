@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「調達による直接的な業績効果は2027年以降」において、2025年12月期の営業利益率はいくつですか。",
+    "answer": "16.3%",
+    "evidence": "凡例「営業利益率」、2025年12月期の点のラベル「16.3」",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_m00"
+  },
+  {
+    "question": "「調達による直接的な業績効果は2027年以降」において、2026年12月期の営業利益率はいくつですか。",
+    "answer": "13.7%",
+    "evidence": "凡例「営業利益率」、2026年12月期の点のラベル「13.7」",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_m01"
+  },
+  {
+    "question": "ページ下部の開発期間を示す図において、バリューアップ（仕入）の開発期間はどのくらいと示されていますか。",
+    "answer": "〜1年",
+    "evidence": "バリューアップ 仕入 開発期間〜1年〜（不動産開発は 開発期間 2年〜3年）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_m02"
+  }
+]

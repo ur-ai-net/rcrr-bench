@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「転職支援1件当たりの平均成約単価」に記載されている単位は何ですか。",
+    "answer": "百万円",
+    "evidence": "グラフタイトル「転職支援1件当たりの平均成約単価」の直下に「（単位：百万円）」と記載されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_m00"
+  },
+  {
+    "question": "FY25の上期と下期では、転職支援1件当たりの平均成約単価が高いのはどちらですか。",
+    "answer": "下期",
+    "evidence": "スライド内に「FY25下期は上期より更に平均成約単価が向上。」と記載され、折れ線もFY25下期の点が上期より高い位置にある。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_m01"
+  },
+  {
+    "question": "「転職支援1件当たりの平均成約単価」が最も低いのはどの期ですか（年度と期で答えてください）。",
+    "answer": "FY23下期",
+    "evidence": "折れ線の最下点は横軸「FY23」の「下期」の位置にあり、それ以降の各期（FY24上期〜FY25下期）の点はいずれもそれより高い位置にある。",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_421A_647269b7_p006",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p006_m02"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの成長戦略の注力分野は何ですか？",
+    "answer": "半導体です。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q00"
+  },
+  {
+    "question": "2025年を100とした半導体分野拡販計画の2028年の値はいくつですか？",
+    "answer": "140%です。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q01"
+  },
+  {
+    "question": "2025年を100とした半導体分野拡販計画の2030年の値はいくつですか？",
+    "answer": "160%です。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q02"
+  },
+  {
+    "question": "世界シェアNo.1と記載されている製品は何ですか？",
+    "answer": "高純度液化塩化水素（クリーニングガス）です。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q03"
+  },
+  {
+    "question": "このページでは、AIやDXの活用が進むことで何の需要がさらに加速するとしていますか？",
+    "answer": "半導体の需要です。",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q04"
+  },
+  {
+    "question": "前工程の製品として示されている「工業化世界初」の製品は何ですか？",
+    "answer": "六塩化二珪素（HCD）です。",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q05"
+  },
+  {
+    "question": "後工程の枠内で示されている「仮固定粘着剤」は、何によって粘着が減ると説明されていますか？",
+    "answer": "光照射です。",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q06"
+  },
+  {
+    "question": "2025年の実績から2028年の計画まで、半導体分野拡販計画は何ポイント増加しますか？",
+    "answer": "40ポイント増加します。",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q07"
+  },
+  {
+    "question": "2028年の計画から2030年の目標まで、半導体分野拡販計画は何ポイント増加しますか？",
+    "answer": "20ポイント増加します。",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q08"
+  },
+  {
+    "question": "2025年の実績から2030年の目標まで、半導体分野拡販計画は何倍になりますか？",
+    "answer": "1.6倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p012_q09"
+  }
+]

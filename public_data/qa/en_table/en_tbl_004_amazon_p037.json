@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is named in the title of the statement?",
+    "answer": "AMAZON.COM, INC.",
+    "level": "L1",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q00"
+  },
+  {
+    "question": "What is the title of this financial statement?",
+    "answer": "CONSOLIDATED STATEMENTS OF CASH FLOWS.",
+    "level": "L1",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q01"
+  },
+  {
+    "question": "What period is shown in the table header?",
+    "answer": "Year Ended December 31, 2015, 2016, and 2017.",
+    "level": "L1",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q02"
+  },
+  {
+    "question": "What was \"CASH AND CASH EQUIVALENTS, END OF PERIOD\" in 2017?",
+    "answer": "$ 20,522.",
+    "level": "L1",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q03"
+  },
+  {
+    "question": "Which section includes \"Purchases of property and equipment, including internal-use software and website development\"?",
+    "answer": "INVESTING ACTIVITIES.",
+    "level": "L2",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q04"
+  },
+  {
+    "question": "Which line item shows a negative amount of \"(13,972)\" in 2017, and under which section does it appear?",
+    "answer": "\"Acquisitions, net of cash acquired, and other\" under INVESTING ACTIVITIES.",
+    "level": "L2",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q05"
+  },
+  {
+    "question": "Which financing activity line had the largest cash outflow in 2017, and what was the amount?",
+    "answer": "\"Principal repayments of capital lease obligations\" at \"(4,799)\".",
+    "level": "L2",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q06"
+  },
+  {
+    "question": "By how much did net cash provided by operating activities increase from 2015 to 2017?",
+    "answer": "It increased by 6,395, from 12,039 to 18,434.",
+    "level": "L3",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q07"
+  },
+  {
+    "question": "What is the difference between purchases of marketable securities and sales and maturities of marketable securities in 2017?",
+    "answer": "The difference is 3,789, calculated as 13,777 minus 9,988.",
+    "level": "L3",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q08"
+  },
+  {
+    "question": "What is the net cash provided by (used in) investing activities for 2016 and 2017 combined?",
+    "answer": "It totals (37,695), combining (9,876) and (27,819).",
+    "level": "L3",
+    "doc_id": "en_tbl_004_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_004_amazon_p037_q09"
+  }
+]

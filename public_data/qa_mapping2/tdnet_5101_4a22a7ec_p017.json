@@ -1,0 +1,28 @@
+[
+ {
+  "question": "「事業利益増減要因（上期）」において、2025年の前期事業利益はいくらですか。",
+  "answer": "621億円",
+  "evidence": "前期事業利益 621（2025年）／（億円）",
+  "source_element": "waterfall step label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_5101_4a22a7ec_p017",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_5101_4a22a7ec_p017_m03"
+ },
+ {
+  "question": "2026年上期予想の事業利益増減要因のうち、「原料価格」要因の増減額はいくらですか。",
+  "answer": "+106億円",
+  "evidence": "原料価格 +106",
+  "source_element": "waterfall step label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_5101_4a22a7ec_p017",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_5101_4a22a7ec_p017_m04"
+ }
+]

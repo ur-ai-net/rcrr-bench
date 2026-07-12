@@ -1,0 +1,102 @@
+[
+  {
+    "question": "水山は、金利が上昇すると利回りはどうなると述べていますか？",
+    "answer": "上がっていくと述べています。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q00"
+  },
+  {
+    "question": "水山によると、金利上昇時に価格にはどのような圧力がかかりますか？",
+    "answer": "下がる圧力がかかります。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q01"
+  },
+  {
+    "question": "水山は賃料の上昇基調について、どのように評価していますか？",
+    "answer": "非常に底堅いと評価しています。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q02"
+  },
+  {
+    "question": "椿原は、投資対象についてどのような期待ができると確認していますか？",
+    "answer": "まだまだ期待ができるとしています。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q03"
+  },
+  {
+    "question": "水山の発言から、エリアによる何があると読み取れますか？",
+    "answer": "二極化があります。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q04"
+  },
+  {
+    "question": "水山は、安定的な不動産市況が続く理由として何を挙げていますか？",
+    "answer": "賃料の上昇基調が底堅いことです。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q05"
+  },
+  {
+    "question": "椿原が次に話題にしたいとした投資家の関心事項は何ですか？",
+    "answer": "公募増資の影響です。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q06"
+  },
+  {
+    "question": "図表のタイトルにある対象期間は何年以降ですか？",
+    "answer": "2003年以降です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q07"
+  },
+  {
+    "question": "図表中の「2025/1時点」の期待利回りは何％ですか？",
+    "answer": "3.7％です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q08"
+  },
+  {
+    "question": "図表中の「2009/4頃」と「2025/1時点」の期待利回りを比べると、どちらが高く、差は何％ですか？",
+    "answer": "2009/4頃の方が高く、差は2.3％です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_q09"
+  }
+]

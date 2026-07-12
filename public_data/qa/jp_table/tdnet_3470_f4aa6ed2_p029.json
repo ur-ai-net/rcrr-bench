@@ -1,0 +1,202 @@
+[
+  {
+    "question": "この決算短信の対象期間は何年何月期ですか？",
+    "answer": "この決算短信は「2025年12月期決算短信」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q00"
+  },
+  {
+    "question": "前期（自2025年1月1日 至2025年6月30日）に記載されている役員の氏名は何ですか？",
+    "answer": "前期に記載されている役員の氏名は「北方隆士」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q01"
+  },
+  {
+    "question": "前期（自2025年1月1日 至2025年6月30日）における北方隆士氏への資産運用会社への資産運用報酬等の支払いの取引金額はいくらですか？",
+    "answer": "前期の取引金額は「265,770千円」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q02"
+  },
+  {
+    "question": "当期（自2025年7月1日 至2025年12月31日）における北方隆士氏への資産運用会社への資産運用報酬等の支払いの取引金額はいくらですか？",
+    "answer": "当期の取引金額は「253,473千円」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q03"
+  },
+  {
+    "question": "前期（自2025年1月1日 至2025年6月30日）における北方隆士氏への資産運用報酬等の支払いの期末残高はいくらですか？",
+    "answer": "前期の期末残高は「284,502千円」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q04"
+  },
+  {
+    "question": "当期（自2025年7月1日 至2025年12月31日）における北方隆士氏への資産運用報酬等の支払いの期末残高はいくらですか？",
+    "answer": "当期の期末残高は「260,601千円」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q05"
+  },
+  {
+    "question": "資産除去債務の概要に記載されている、本投資法人が保有する資産の名称は何ですか？",
+    "answer": "本投資法人が保有する資産の名称は「MRRおおむた」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q06"
+  },
+  {
+    "question": "資産除去債務の金額算定に使用された割引率は何%ですか？",
+    "answer": "資産除去債務の金額算定に使用された割引率は「0.214%」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q07"
+  },
+  {
+    "question": "北方隆士氏は、本投資法人においてどのような役職に就き、また他にどのような兼任をしていますか？",
+    "answer": "北方隆士氏は、本投資法人の執行役員であり、マリモ・アセットマネジメント株式会社の代表取締役社長を兼任しています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q08"
+  },
+  {
+    "question": "資産運用報酬等の額は、どのような条件に基づいて決定されていますか？",
+    "answer": "資産運用報酬等の額は、北方隆士氏が第三者（マリモ・アセットマネジメント株式会社）の代表者として行った取引であり、本投資法人の規約に定められた条件によって決定されています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q09"
+  },
+  {
+    "question": "前期と当期の資産運用報酬等には、それぞれどのような特別な報酬が含まれていますか？",
+    "answer": "前期の資産運用報酬等には「物件売却に係る報酬分 (20,732千円)」が含まれ、当期の資産運用報酬等には「物件取得に係る報酬分 (18,223千円)」が含まれています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q10"
+  },
+  {
+    "question": "役員等への取引における取引金額と期末残高の消費税等の扱いはどのように異なりますか？",
+    "answer": "取引金額には消費税等が含まれておらず、期末残高には消費税等が含まれています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q11"
+  },
+  {
+    "question": "本投資法人が資産除去債務を計上する主な理由は何ですか？",
+    "answer": "本投資法人は、保有する資産「MRRおおむた」の一部の建物に係る撤去費用について、賃貸借契約上の義務に関して資産除去債務を計上しています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q12"
+  },
+  {
+    "question": "資産除去債務の算定において、使用見込期間はどのように見積もられていますか？",
+    "answer": "使用見込期間は、借地権の残存期間により「19年」と見積もられています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q13"
+  },
+  {
+    "question": "北方隆士氏が代表取締役社長を務める資産運用会社の正式名称は何ですか？",
+    "answer": "北方隆士氏が代表取締役社長を務める資産運用会社の正式名称は「マリモ・アセットマネジメント株式会社」です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q14"
+  },
+  {
+    "question": "前期（自2025年1月1日 至2025年6月30日）と当期（自2025年7月1日 至2025年12月31日）における北方隆士氏への資産運用報酬等の支払いの取引金額の差額はいくらですか？",
+    "answer": "前期の取引金額は265,770千円、当期の取引金額は253,473千円なので、差額は「12,297千円」です (265,770 - 253,473 = 12,297)。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q15"
+  },
+  {
+    "question": "前期（自2025年1月1日 至2025年6月30日）の資産運用報酬等の取引金額から、物件売却に係る報酬分を除いた金額はいくらですか？",
+    "answer": "前期の取引金額は265,770千円で、物件売却に係る報酬分は20,732千円なので、これを除いた金額は「245,038千円」です (265,770 - 20,732 = 245,038)。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q16"
+  },
+  {
+    "question": "当期（自2025年7月1日 至2025年12月31日）の資産運用報酬等の取引金額から、物件取得に係る報酬分を除いた金額はいくらですか？",
+    "answer": "当期の取引金額は253,473千円で、物件取得に係る報酬分は18,223千円なので、これを除いた金額は「235,250千円」です (253,473 - 18,223 = 235,250)。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q17"
+  },
+  {
+    "question": "前期（自2025年1月1日 至2025年6月30日）と当期（自2025年7月1日 至2025年12月31日）における北方隆士氏への資産運用報酬等の支払いの期末残高の差額はいくらですか？",
+    "answer": "前期の期末残高は284,502千円、当期の期末残高は260,601千円なので、差額は「23,901千円」です (284,502 - 260,601 = 23,901)。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q18"
+  },
+  {
+    "question": "このページで報告されている主要な財務情報カテゴリは、大きく分けて何と何ですか？",
+    "answer": "このページで報告されている主要な財務情報カテゴリは、「役員及び個人主要投資主等」と「資産除去債務に関する注記」の二つです。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p029",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p029_q19"
+  }
+]

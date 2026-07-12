@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What page number is listed for \"ITEM 1. Business\"?",
+    "answer": "\"ITEM 1. Business\" is listed on page \"1\".",
+    "level": "L1",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q00"
+  },
+  {
+    "question": "On what page does \"ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations\" begin?",
+    "answer": "\"ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations\" begins on page \"40\".",
+    "level": "L1",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q01"
+  },
+  {
+    "question": "What is the page number for \"ITEM 15. Exhibits, Financial Statements Schedules\"?",
+    "answer": "\"ITEM 15. Exhibits, Financial Statements Schedules\" is on page \"98\".",
+    "level": "L1",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q02"
+  },
+  {
+    "question": "Which item is listed on page \"95\"?",
+    "answer": "\"ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure\" is listed on page \"95\".",
+    "level": "L1",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q03"
+  },
+  {
+    "question": "Which section comes immediately after \"PART II\" and what page number is shown for it?",
+    "answer": "\"ITEM 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities\" comes immediately after \"PART II\" and is shown on page \"38\".",
+    "level": "L2",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q04"
+  },
+  {
+    "question": "What is the first item listed under \"PART III\", and on what page does it appear?",
+    "answer": "The first item under \"PART III\" is \"ITEM 10. Directors, Executive Officers and Corporate Governance,\" and it appears on page \"97\".",
+    "level": "L2",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q05"
+  },
+  {
+    "question": "Which item under \"PART IV\" is listed first, and what page number is associated with it?",
+    "answer": "The first item under \"PART IV\" is \"ITEM 15. Exhibits, Financial Statements Schedules,\" and it is on page \"98\".",
+    "level": "L2",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q06"
+  },
+  {
+    "question": "How many items are listed under \"PART I\" in the table of contents?",
+    "answer": "There are \"4\" items listed under \"PART I\": \"ITEM 1\" through \"ITEM 4\".",
+    "level": "L3",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q07"
+  },
+  {
+    "question": "What is the page gap between \"ITEM 1A. Risk Factors\" and \"ITEM 1B. Unresolved Staff Comments\"?",
+    "answer": "\"ITEM 1A. Risk Factors\" is on page \"14\" and \"ITEM 1B. Unresolved Staff Comments\" is on page \"36\", so the gap is \"22\" pages.",
+    "level": "L3",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q08"
+  },
+  {
+    "question": "Which item appears on the latest page number in the table of contents, and what is that page number?",
+    "answer": "\"SIGNATURES.\" appears on the latest page number, which is \"105\".",
+    "level": "L3",
+    "doc_id": "en_tbl_040_amd_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_040_amd_p003_q09"
+  }
+]

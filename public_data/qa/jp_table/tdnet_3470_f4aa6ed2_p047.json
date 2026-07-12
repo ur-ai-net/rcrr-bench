@@ -1,0 +1,102 @@
+[
+  {
+    "question": "商業施設の小計に含まれる物件数はいくつですか。",
+    "answer": "10物件です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q00"
+  },
+  {
+    "question": "Cp-19の物件名称は何ですか。",
+    "answer": "ＭｒＭａｘ伊勢崎店です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q01"
+  },
+  {
+    "question": "Hp-02の鑑定評価額はいくらですか。",
+    "answer": "1,980百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q02"
+  },
+  {
+    "question": "Ct-02の鑑定機関はどこですか。",
+    "answer": "株式会社谷澤総合鑑定所です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q03"
+  },
+  {
+    "question": "商業施設の中で鑑定評価額が最も高い物件はどれですか。",
+    "answer": "Cp-24のフジグラン宇部です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q04"
+  },
+  {
+    "question": "ホテルの小計に含まれる物件は何件ですか。",
+    "answer": "4件です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q05"
+  },
+  {
+    "question": "底地の物件はこのページに何件ありますか。",
+    "answer": "2件です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q06"
+  },
+  {
+    "question": "商業施設の小計鑑定評価額31,289百万円とホテルの小計鑑定評価額6,205百万円の差はいくらですか。",
+    "answer": "25,084百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q07"
+  },
+  {
+    "question": "Cp-24の鑑定評価額6,110百万円と直接還元法による価格6,090百万円の差はいくらですか。",
+    "answer": "20百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q08"
+  },
+  {
+    "question": "ホテルの小計NOI332百万円を4物件で平均するといくらですか。",
+    "answer": "83百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p047",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p047_q09"
+  }
+]

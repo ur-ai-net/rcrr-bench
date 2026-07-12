@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの事業名は何ですか？",
+    "answer": "Hotel Business（ホテル等施設運営事業）",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q00"
+  },
+  {
+    "question": "運営しているホテルは何棟ですか？",
+    "answer": "4棟です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q01"
+  },
+  {
+    "question": "総客室数はいくつですか？",
+    "answer": "794室です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q02"
+  },
+  {
+    "question": "Tマークシティホテル東京大森の客室数はいくつですか？",
+    "answer": "288室です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q03"
+  },
+  {
+    "question": "国内外の大手旅行会社との強いパイプがあることから、主な販売面の強みは何だと考えられますか？",
+    "answer": "旅行会社との送客網が強いことです。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q04"
+  },
+  {
+    "question": "各ホテルはどの販路にも展開していますか？",
+    "answer": "国内外のOTAです。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q05"
+  },
+  {
+    "question": "Tマークシティホテル札幌の解体後について、何を検討中ですか？",
+    "answer": "ホテル再開発計画を検討中です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q06"
+  },
+  {
+    "question": "FY18からFY25までの客室販売数の増加幅は何室ですか？",
+    "answer": "142,115室です。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q07"
+  },
+  {
+    "question": "FY21の客室販売数77,128室とFY25の255,994室の差は何室ですか？",
+    "answer": "178,866室です。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q08"
+  },
+  {
+    "question": "FY25の客室販売数255,994室はFY18の113,879室の何倍ですか？",
+    "answer": "約2.25倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_q09"
+  }
+]

@@ -1,0 +1,15 @@
+[
+ {
+  "question": "「過去5年のキャッシュフロー推移」において、営業CF・投資CF・財務CFとともに系列名が示されている系列は何ですか。",
+  "answer": "FCF",
+  "evidence": "営業CF 投資CF 財務CF FCF（系列名）",
+  "source_element": "series legend",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_3623_afb0e583_p035",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_3623_afb0e583_p035_m03"
+ }
+]

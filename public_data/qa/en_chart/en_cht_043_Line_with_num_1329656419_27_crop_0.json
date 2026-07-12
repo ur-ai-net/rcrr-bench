@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"1Q'15 (M-Su Total Day) vs.Year-Ago Parallel Weeks\".",
+    "level": "L1",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q00"
+  },
+  {
+    "question": "Which three years are shown in the legend?",
+    "answer": "The legend shows 2015, 2014, and 2013.",
+    "level": "L1",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q01"
+  },
+  {
+    "question": "What is the y-axis label?",
+    "answer": "The y-axis label is \"HMM Live+SD W25-54 (000)\".",
+    "level": "L1",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q02"
+  },
+  {
+    "question": "What date is shown for Wk 1 on the x-axis?",
+    "answer": "Wk 1 is labeled \"29-Dec\".",
+    "level": "L1",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q03"
+  },
+  {
+    "question": "Which year has the highest value at Wk 1?",
+    "answer": "2015 has the highest value at Wk 1, with 48.",
+    "level": "L2",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q04"
+  },
+  {
+    "question": "At Wk 5, which year has the lowest value?",
+    "answer": "2013 has the lowest value at Wk 5, at 21.",
+    "level": "L2",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q05"
+  },
+  {
+    "question": "Which year is highest at Wk 10, and what is its value?",
+    "answer": "2015 is highest at Wk 10, with 36.",
+    "level": "L2",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q06"
+  },
+  {
+    "question": "By how much does 2015 change from Wk 1 to Wk 2?",
+    "answer": "2015 drops by 18, from 48 at Wk 1 to 30 at Wk 2.",
+    "level": "L3",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between 2014 and 2013 at Wk 7?",
+    "answer": "At Wk 7, 2014 is 37 and 2013 is 24, so the difference is 13.",
+    "level": "L3",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q08"
+  },
+  {
+    "question": "How many weeks are shown on the x-axis?",
+    "answer": "There are 13 weeks shown, from Wk 1 through Wk 13.",
+    "level": "L3",
+    "doc_id": "en_cht_043_Line_with_num_1329656419_27_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_043_Line_with_num_1329656419_27_crop_0_q09"
+  }
+]

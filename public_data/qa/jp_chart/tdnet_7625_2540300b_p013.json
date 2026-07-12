@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのテーマは何ですか？",
+    "answer": "【2025年の取り組み】国内1 〜成長投資〜です。",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q00"
+  },
+  {
+    "question": "対象施設の名称は何ですか？",
+    "answer": "『那須パラダイスヴィレッジ』です。",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q01"
+  },
+  {
+    "question": "1Fのフードコートには何業態ありますか？",
+    "answer": "13業態です。",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q02"
+  },
+  {
+    "question": "2Fのホテルは何室ですか？",
+    "answer": "37室です。",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q03"
+  },
+  {
+    "question": "工事の遅れを考慮して選択した方針は何ですか？",
+    "answer": "段階的な施設造り＆開業です。",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q04"
+  },
+  {
+    "question": "近隣住民向けに開始した割引は何割引ですか？",
+    "answer": "平日地元割15%offです。",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q05"
+  },
+  {
+    "question": "那須ガーデンアウトレットからの導線改善のために実施したことは何ですか？",
+    "answer": "案内板設置等です。",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q06"
+  },
+  {
+    "question": "1Fフードコートの業態数と2Fホテルの室数の合計はいくつですか？",
+    "answer": "50です。",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q07"
+  },
+  {
+    "question": "フードコートの業態数はホテルの室数より何多いですか？",
+    "answer": "24多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q08"
+  },
+  {
+    "question": "フードコートの業態数はホテルの室数の何倍ですか？",
+    "answer": "約0.35倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_q09"
+  }
+]

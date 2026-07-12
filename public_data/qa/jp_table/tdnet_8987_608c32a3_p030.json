@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Ⅰ－1 大森ベルポートD館の取得価格はいくらですか。",
+    "answer": "22,552百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q00"
+  },
+  {
+    "question": "Ⅰ－8 赤坂インターシティの当期末帳簿価額はいくらですか。",
+    "answer": "26,403百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q01"
+  },
+  {
+    "question": "Ⅱ－1 NHK名古屋放送センタービルの直接還元価格はいくらですか。",
+    "answer": "5,230百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q02"
+  },
+  {
+    "question": "Ⅲ－12 日石横浜ビルの投資比率は何％ですか。",
+    "answer": "8.4％です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q03"
+  },
+  {
+    "question": "エリアⅠの投資比率が最も高い物件はどれですか。",
+    "answer": "Ⅰ－1 大森ベルポートD館です。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q04"
+  },
+  {
+    "question": "エリアⅡで最も期末算定価額が高い物件はどれですか。",
+    "answer": "Ⅱ－4 グランフロント大阪（うめきた広場・南館）です。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q05"
+  },
+  {
+    "question": "Ⅲ－13 横浜弁天通第一生命ビルディングの取得価格と当期末帳簿価額を比べると、どちらが大きいですか。",
+    "answer": "当期末帳簿価額のほうが大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q06"
+  },
+  {
+    "question": "エリアⅠの取得価格合計と当期末帳簿価額合計の差はいくらですか。",
+    "answer": "12,486百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q07"
+  },
+  {
+    "question": "Ⅰ－1 大森ベルポートD館の期末算定価額のうち、DCF価格は直接還元価格よりいくら低いですか。",
+    "answer": "2,000百万円低いです。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q08"
+  },
+  {
+    "question": "エリアⅢの期末算定価額合計は、取得価格合計よりいくら高いですか。",
+    "answer": "19,492百万円高いです。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p030",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p030_q09"
+  }
+]

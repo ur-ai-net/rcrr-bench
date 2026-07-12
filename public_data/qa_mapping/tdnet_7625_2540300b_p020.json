@@ -1,0 +1,38 @@
+[
+  {
+    "question": "売上高成長イメージにおいて、閑散期と注記されているのは何月ですか？",
+    "answer": "1-2月と6月",
+    "evidence": "1-2月・6月は閑散期",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_m00"
+  },
+  {
+    "question": "売上高成長イメージにおいて、「新年度」と示されているのは何年の位置ですか？",
+    "answer": "2026年",
+    "evidence": "新年度 / 2025.3月 2026年 2027年",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_m01"
+  },
+  {
+    "question": "売上高成長イメージの対象期間は、何年まで示されていますか？",
+    "answer": "2030年",
+    "evidence": "2025.3月 2026年 2027年 2028年 2029年 2030年",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_m02"
+  }
+]

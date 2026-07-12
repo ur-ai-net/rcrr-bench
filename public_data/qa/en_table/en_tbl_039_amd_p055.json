@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statements of Comprehensive Income.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q00"
+  },
+  {
+    "question": "Which company is named at the top of the page?",
+    "answer": "The company is \"Advanced Micro Devices, Inc.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q01"
+  },
+  {
+    "question": "What year ended on December 31, 2022 is shown in the table?",
+    "answer": "The table shows the year ended \"December 31, 2022.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q02"
+  },
+  {
+    "question": "What is the total comprehensive income for December 25, 2021?",
+    "answer": "Total comprehensive income for \"December 25, 2021\" is \"$ 3,142\" million.",
+    "level": "L1",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q03"
+  },
+  {
+    "question": "How does the page present the relationship between net income and total comprehensive income for 2022?",
+    "answer": "For 2022, net income is \"$ 1,320\" million and total comprehensive income is \"$ 1,282\" million, showing total comprehensive income is lower.",
+    "level": "L2",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q04"
+  },
+  {
+    "question": "What other comprehensive income item is listed on this page?",
+    "answer": "The item listed is \"Net change in unrealized gains (losses) on cash flow hedges.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q05"
+  },
+  {
+    "question": "What does the page indicate about the sign of the net change in unrealized gains (losses) on cash flow hedges for 2021 and 2022?",
+    "answer": "It is negative in both years: \"(20)\" for 2021 and \"(38)\" for 2022.",
+    "level": "L2",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q06"
+  },
+  {
+    "question": "By how much did net income change from 2021 to 2022?",
+    "answer": "Net income decreased by \"$ 1,842\" million, from \"$ 3,162\" million in 2021 to \"$ 1,320\" million in 2022.",
+    "level": "L3",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q07"
+  },
+  {
+    "question": "What is the difference between total comprehensive income in 2021 and 2020?",
+    "answer": "Total comprehensive income increased by \"$ 635\" million, from \"$ 2,507\" million in 2020 to \"$ 3,142\" million in 2021.",
+    "level": "L3",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q08"
+  },
+  {
+    "question": "How many years are shown in the table, and what are they?",
+    "answer": "Three years are shown: \"December 31, 2022\", \"December 25, 2021\", and \"December 26, 2020.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_039_amd_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_039_amd_p055_q09"
+  }
+]

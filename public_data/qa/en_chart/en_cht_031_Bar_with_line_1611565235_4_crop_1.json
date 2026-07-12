@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart on the page?",
+    "answer": "The title is \"Property-Liability Combined Ratio\".",
+    "level": "L1",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q00"
+  },
+  {
+    "question": "What does the y-axis label indicate?",
+    "answer": "The y-axis is labeled \"(% to EP)\".",
+    "level": "L1",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q01"
+  },
+  {
+    "question": "What is the Underlying Combined Ratio for Q1 11?",
+    "answer": "The Underlying Combined Ratio for Q1 11 is 89.9.",
+    "level": "L1",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q02"
+  },
+  {
+    "question": "What is the Recorded Combined Ratio for Q1 16?",
+    "answer": "The Recorded Combined Ratio for Q1 16 is 98.4.",
+    "level": "L1",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q03"
+  },
+  {
+    "question": "Which quarter shows the highest Recorded Combined Ratio on the red line?",
+    "answer": "Q2 15 shows the highest Recorded Combined Ratio at 100.1.",
+    "level": "L2",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q04"
+  },
+  {
+    "question": "Which quarter has the lowest Underlying Combined Ratio among the blue bars?",
+    "answer": "Q1 16 has the lowest Underlying Combined Ratio at 87.2.",
+    "level": "L2",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q05"
+  },
+  {
+    "question": "What is the TTM(2) Recorded Combined Ratio for Q4 15?",
+    "answer": "The TTM(2) Recorded Combined Ratio for Q4 15 is 94.9.",
+    "level": "L2",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q06"
+  },
+  {
+    "question": "By how much does the Recorded Combined Ratio exceed the Underlying Combined Ratio in Q2 15?",
+    "answer": "In Q2 15, the Recorded Combined Ratio exceeds the Underlying Combined Ratio by 10.0 points.",
+    "level": "L3",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q07"
+  },
+  {
+    "question": "What is the change in Underlying Combined Ratio from Q1 11 to Q1 16?",
+    "answer": "The Underlying Combined Ratio decreases from 89.9 to 87.2, a decline of 2.7 points.",
+    "level": "L3",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q08"
+  },
+  {
+    "question": "How many quarters are shown on the chart, and how many of them are in 2015?",
+    "answer": "There are 9 quarters shown in total, and 4 of them are in 2015.",
+    "level": "L3",
+    "doc_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_031_Bar_with_line_1611565235_4_crop_1_q09"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「客室販売数」において、FY23の客室販売数は何室ですか。",
+    "answer": "226,427室",
+    "evidence": "客室販売数 … FY23 に 226,427（隣接するFY22は171,765、FY24は243,754）／単位：室",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_m00"
+  },
+  {
+    "question": "「客室販売数」において、FY20の客室販売数は何室ですか。",
+    "answer": "77,128室",
+    "evidence": "客室販売数 … FY20 に 77,128（隣のFY21は79,924）／単位：室",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_m01"
+  },
+  {
+    "question": "「ADR（客室平均単価）」において、FY25時点でADRが最も高いホテルはどれですか。",
+    "answer": "東京大森",
+    "evidence": "ADR（客室平均単価）の4系列：札幌／東京大森／札幌大通／金沢。FY25時点で東京大森が最も高い（15,000円付近）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p007",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p007_m02"
+  }
+]

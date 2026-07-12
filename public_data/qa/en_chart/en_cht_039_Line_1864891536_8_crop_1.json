@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart on this page?",
+    "answer": "The chart title is \"Margin (%)\".",
+    "level": "L1",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q00"
+  },
+  {
+    "question": "What are the two series names shown in the legend?",
+    "answer": "The legend shows \"Margin\" and \"Prior Margin Trajectory\".",
+    "level": "L1",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q01"
+  },
+  {
+    "question": "What is the margin value at FY'17*?",
+    "answer": "The margin at FY'17* is 0.0%.",
+    "level": "L1",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q02"
+  },
+  {
+    "question": "What is the margin value at Q2'23?",
+    "answer": "The margin at Q2'23 is 24.0%.",
+    "level": "L1",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q03"
+  },
+  {
+    "question": "Which line is shown as a dashed gold trajectory, and what does it represent?",
+    "answer": "The dashed gold line is \"Prior Margin Trajectory\". It represents the prior margin path shown on the chart.",
+    "level": "L2",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q04"
+  },
+  {
+    "question": "At which fiscal year does the blue Margin line first exceed 20.0%?",
+    "answer": "It first exceeds 20.0% at FY'21, where the margin is about 22.0%.",
+    "level": "L2",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q05"
+  },
+  {
+    "question": "What happens to the blue Margin line between FY'21 and FY'22?",
+    "answer": "It declines from about 22.0% at FY'21 to about 17.0% at FY'22.",
+    "level": "L2",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q06"
+  },
+  {
+    "question": "How much higher is the Prior Margin Trajectory than the Margin at Q2'23?",
+    "answer": "At Q2'23, the Prior Margin Trajectory is about 34.5% and the Margin is 24.0%, so it is higher by about 10.5 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q07"
+  },
+  {
+    "question": "What is the approximate increase in Margin from FY'18* to FY'21?",
+    "answer": "The Margin rises from 0.0% at FY'18* to about 22.0% at FY'21, an increase of about 22.0 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q08"
+  },
+  {
+    "question": "How many labeled x-axis points are shown, and how are they split between FY and quarter labels?",
+    "answer": "There are 8 labeled x-axis points in total. Six are FY labels (FY'17* through FY'22) and two are quarter labels (Q1'23 and Q2'23).",
+    "level": "L3",
+    "doc_id": "en_cht_039_Line_1864891536_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_039_Line_1864891536_8_crop_1_q09"
+  }
+]

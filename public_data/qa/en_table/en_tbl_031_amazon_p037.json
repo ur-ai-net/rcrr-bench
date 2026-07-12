@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is shown on the \"CONSOLIDATED STATEMENTS OF CASH FLOWS\" page?",
+    "answer": "AMAZON.COM, INC.",
+    "level": "L1",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q00"
+  },
+  {
+    "question": "What is the title of the financial statement on this page?",
+    "answer": "CONSOLIDATED STATEMENTS OF CASH FLOWS.",
+    "level": "L1",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q01"
+  },
+  {
+    "question": "For which years are the cash flow figures presented?",
+    "answer": "The years ended December 31, 2017, 2018, and 2019.",
+    "level": "L1",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q02"
+  },
+  {
+    "question": "What was \"Net cash provided by (used in) operating activities\" in 2019?",
+    "answer": "38,514.",
+    "level": "L1",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q03"
+  },
+  {
+    "question": "Which section includes \"Purchases of property and equipment\" and \"Sales and maturities of marketable securities\"?",
+    "answer": "INVESTING ACTIVITIES.",
+    "level": "L2",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q04"
+  },
+  {
+    "question": "What was the ending balance of \"CASH, CASH EQUIVALENTS, AND RESTRICTED CASH\" in 2018, and what was the net increase for that year?",
+    "answer": "The ending balance was 32,173, and the net increase was 10,317.",
+    "level": "L2",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q05"
+  },
+  {
+    "question": "Which financing line item had the largest cash outflow in 2019, and what was the amount?",
+    "answer": "\"Principal repayments of finance leases\" had the largest outflow at (9,628).",
+    "level": "L2",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q06"
+  },
+  {
+    "question": "By how much did \"Net cash provided by (used in) operating activities\" increase from 2017 to 2019?",
+    "answer": "It increased by 20,149, from 18,365 to 38,514.",
+    "level": "L3",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q07"
+  },
+  {
+    "question": "What is the difference between \"Purchases of property and equipment\" and \"Proceeds from property and equipment sales and incentives\" in 2019?",
+    "answer": "The difference is 12,689, with purchases of 16,861 and proceeds of 4,172.",
+    "level": "L3",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q08"
+  },
+  {
+    "question": "What is the total of \"Cash paid for interest on long-term debt\" and \"Cash paid for income taxes, net of refunds\" in 2019?",
+    "answer": "The total is 1,756, combining 875 and 881.",
+    "level": "L3",
+    "doc_id": "en_tbl_031_amazon_p037",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_031_amazon_p037_q09"
+  }
+]

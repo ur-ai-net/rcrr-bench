@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのPMI全体進捗状況は何％ですか？",
+    "answer": "70％です。",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q00"
+  },
+  {
+    "question": "進行中の割合は何％ですか？",
+    "answer": "25％です。",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q01"
+  },
+  {
+    "question": "保留・未着手の割合は何％ですか？",
+    "answer": "5％です。",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q02"
+  },
+  {
+    "question": "STEP1で示されている経営基盤の整備は完了していますか？",
+    "answer": "完了しています。",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q03"
+  },
+  {
+    "question": "このページでは、PMIのスタンダード化によって何を早期に構築するとしていますか？",
+    "answer": "収益改善を生み出す経営基盤です。",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q04"
+  },
+  {
+    "question": "STEP2で進行中の取り組みは何ですか？",
+    "answer": "製造現場改善です。",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q05"
+  },
+  {
+    "question": "STEP3で目指しているのは何ですか？",
+    "answer": "企業価値の向上です。",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q06"
+  },
+  {
+    "question": "完了70％と進行中25％の差は何ポイントですか？",
+    "answer": "45ポイントです。",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q07"
+  },
+  {
+    "question": "完了70％、進行中25％、保留・未着手5％の合計は何％ですか？",
+    "answer": "100％です。",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q08"
+  },
+  {
+    "question": "STEP1の「経営基盤の整備」とSTEP3の「企業価値の向上」の間にあるSTEP2は何ですか？",
+    "answer": "製造現場改善です。",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p012_q09"
+  }
+]

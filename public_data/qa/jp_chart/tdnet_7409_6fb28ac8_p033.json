@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "チタンアルミブレード販売（加工/新材料)のシェアと収益構造",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q00"
+  },
+  {
+    "question": "ページ内で示されている会社名は何ですか？",
+    "answer": "AeroEdge",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q01"
+  },
+  {
+    "question": "新材料の供給開始はいつですか？",
+    "answer": "26年7月",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q02"
+  },
+  {
+    "question": "新材料がフル量産に移行する予定はいつですか？",
+    "answer": "28年1月",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q03"
+  },
+  {
+    "question": "契約更新により、マーケットシェアはいつから拡大するとされていますか？",
+    "answer": "28年1月から",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q04"
+  },
+  {
+    "question": "新材料販売により、収益構造はいつから徐々に変更するとされていますか？",
+    "answer": "27/6期から",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q05"
+  },
+  {
+    "question": "加工のみの収益構造と比べて、新材料販売後の収益構造はどう変わりますか？",
+    "answer": "加工に新材料が加わり、加工+新材料の収益構造になります。",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q06"
+  },
+  {
+    "question": "シェアは25/6期と28/1以降でそれぞれどの水準ですか？",
+    "answer": "25/6期はシェア40%、28/1以降はシェア40%台後半です。",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q07"
+  },
+  {
+    "question": "図の期間表示は25/6期から34/6期まで何期分ありますか？",
+    "answer": "10期分です。",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q08"
+  },
+  {
+    "question": "図中の上限数量は何に基づいて設定されていますか？",
+    "answer": "生産キャパから設定されています。",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p033",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p033_q09"
+  }
+]

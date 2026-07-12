@@ -1,0 +1,202 @@
+[
+  {
+    "question": "本投資主資本等変動計算書の対象期間はいつからいつまでですか？",
+    "answer": "2025年1月1日から2025年6月30日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q00"
+  },
+  {
+    "question": "本書を発行している法人名とその証券コードは何ですか？",
+    "answer": "日本リート投資法人(3296)です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q01"
+  },
+  {
+    "question": "本計算書における金額の単位は何ですか？",
+    "answer": "千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q02"
+  },
+  {
+    "question": "当期首残高における出資総額（純額）はいくらですか？",
+    "answer": "124,015,698千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q03"
+  },
+  {
+    "question": "当期末残高における圧縮積立金はいくらですか？",
+    "answer": "947,091千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q04"
+  },
+  {
+    "question": "当期首残高における純資産合計はいくらですか？",
+    "answer": "129,478,181千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q05"
+  },
+  {
+    "question": "当期末残高における当期未処分利益又は当期未処理損失(△)はいくらですか？",
+    "answer": "6,184,499千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q06"
+  },
+  {
+    "question": "上の表の「当期変動額合計」における「出資総額（純額）」はいくらですか？",
+    "answer": "空欄であり、変動がないため0千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q07"
+  },
+  {
+    "question": "当期中に圧縮積立金として積立られた金額はいくらですか？",
+    "answer": "479,152千円です。これは「圧縮積立金の積立」行の「圧縮積立金」列に記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q08"
+  },
+  {
+    "question": "上の表において、当期変動額合計の「出資総額」と「出資総額控除額」はそれぞれいくらですか？",
+    "answer": "どちらも空欄であり、当期首残高と当期末残高が同額であることから、変動額は0千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q09"
+  },
+  {
+    "question": "下の表において、当期変動額合計の「剰余金合計」はいくらですか？",
+    "answer": "1,669,107千円です。これは「当期変動額合計」行の「剰余金合計」列に記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q10"
+  },
+  {
+    "question": "上の表で、当期中に「出資総額（純額）」に変動はありましたか？",
+    "answer": "いいえ、変動はありませんでした。当期首残高と当期末残高がともに124,015,698千円であり、当期変動額合計も空欄です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q11"
+  },
+  {
+    "question": "下の表で、当期中に「純資産合計」に変動はありましたか？",
+    "answer": "はい、変動がありました。当期首残高は129,478,181千円、当期末残高は131,147,289千円であり、当期変動額合計は1,669,107千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q12"
+  },
+  {
+    "question": "当期中に実施された剰余金の配当額はいくらですか？",
+    "answer": "4,408,571千円です。これは「剰余金の配当」行の「当期未処分利益又は当期未処理損失(△)」列に記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q13"
+  },
+  {
+    "question": "当期純利益はいくらですか？",
+    "answer": "6,077,679千円です。これは下の表の「当期純利益」行の「当期未処分利益又は当期未処理損失(△)」列に記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q14"
+  },
+  {
+    "question": "上の表で、当期首残高の「出資総額（純額）」はどのように計算されますか？",
+    "answer": "「出資総額」から「出資総額控除額」を差し引いて計算されます。具体的には、126,515,601千円から▲2,499,903千円を差し引くと124,015,698千円になります。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q15"
+  },
+  {
+    "question": "上の表で、当期末残高の「任意積立金合計」はどのように計算されますか？",
+    "answer": "当期首残高の「任意積立金合計」に当期変動額合計の「任意積立金合計」を加算して計算されます。具体的には、467,939千円に479,152千円を加算すると947,091千円になります。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q16"
+  },
+  {
+    "question": "下の表で、当期末残高の「投資主資本合計」はどのように計算されますか？",
+    "answer": "当期首残高の「投資主資本合計」に当期変動額合計の「投資主資本合計」を加算して計算されます。具体的には、129,478,181千円に1,669,107千円を加算すると131,147,289千円になります。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q17"
+  },
+  {
+    "question": "当期変動額合計における「純資産合計」の変動額はいくらですか？",
+    "answer": "1,669,107千円です。これは当期末残高（131,147,289千円）から当期首残高（129,478,181千円）を差し引くことで計算できます。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q18"
+  },
+  {
+    "question": "上の表と下の表に記載されている「当期純利益」の数値は一致しますか？",
+    "answer": "はい、一致します。下の表の「当期純利益」行の「当期未処分利益又は当期未処理損失(△)」列、および「剰余金合計」列、さらに「投資主資本合計」列と「純資産合計」列にはすべて6,077,679千円と記載されており、これが当期純利益の数値です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p020_q19"
+  }
+]

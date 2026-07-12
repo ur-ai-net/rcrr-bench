@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"YEAR-OVER-YEAR PERSONAL AUTO NEW APPLICATION GROWTH\".",
+    "level": "L1",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q00"
+  },
+  {
+    "question": "What percentage is shown for the blue line in Q1 2021?",
+    "answer": "The blue line is at 5% in Q1 2021.",
+    "level": "L1",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q01"
+  },
+  {
+    "question": "What percentage is shown for the orange line in Q4 2022?",
+    "answer": "The orange line is at 48% in Q4 2022.",
+    "level": "L1",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q02"
+  },
+  {
+    "question": "How many quarters are displayed on the x-axis?",
+    "answer": "There are 8 quarters displayed on the x-axis.",
+    "level": "L1",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q03"
+  },
+  {
+    "question": "Which line is higher in Q2 2022, and by about how much?",
+    "answer": "The orange line is higher in Q2 2022 by about 9 percentage points.",
+    "level": "L2",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q04"
+  },
+  {
+    "question": "In which quarter do both lines first fall below 0%?",
+    "answer": "Both lines first fall below 0% in Q3 2021.",
+    "level": "L2",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q05"
+  },
+  {
+    "question": "Which quarter shows the lowest value for the blue line, and what is that value?",
+    "answer": "The blue line reaches its lowest value in Q1 2022 at about -28%.",
+    "level": "L2",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q06"
+  },
+  {
+    "question": "What is the change in the blue line from Q1 2022 to Q4 2022?",
+    "answer": "The blue line rises from about -28% to 44%, a gain of 72 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q07"
+  },
+  {
+    "question": "Which line has the larger increase from Q2 2022 to Q4 2022, and by how much?",
+    "answer": "The blue line increases more, rising about 64 points versus 38 points for the orange line, so it is larger by 26 points.",
+    "level": "L3",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q08"
+  },
+  {
+    "question": "What is the approximate spread between the two lines in Q3 2022?",
+    "answer": "In Q3 2022, the orange line is about 26% and the blue line is about 10%, so the spread is about 16 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_034_Line_1820956788_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_034_Line_1820956788_12_crop_0_q09"
+  }
+]

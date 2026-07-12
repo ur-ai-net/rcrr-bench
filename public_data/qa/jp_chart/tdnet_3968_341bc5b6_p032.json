@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "M&A及び資本参加実績",
+    "level": "L1",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q00"
+  },
+  {
+    "question": "今後のM&Aの目的として挙げられているものは何ですか？",
+    "answer": "人材の確保および商圏の拡大です。",
+    "level": "L1",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q01"
+  },
+  {
+    "question": "技術者の確保について、何が最重要課題と認識されていますか？",
+    "answer": "開発・構築等に関わる技術者の確保です。",
+    "level": "L1",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q02"
+  },
+  {
+    "question": "2025年に示されているM&A案件は何ですか？",
+    "answer": "ネットファームズ事業譲受です。",
+    "level": "L1",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q03"
+  },
+  {
+    "question": "M&Aの対象として、どの地域を中心に企業を選んでいると読めますか？",
+    "answer": "国内とASEANです。",
+    "level": "L2",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q04"
+  },
+  {
+    "question": "M&Aの対象企業の事業分野として挙げられている3つは何ですか？",
+    "answer": "セキュリティサービス事業、ITソリューション事業、SEサービス事業です。",
+    "level": "L2",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q05"
+  },
+  {
+    "question": "このページから、M&Aを継続する狙いは何だと推測できますか？",
+    "answer": "技術者を確保しながら継続的な成長を図ることです。",
+    "level": "L2",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q06"
+  },
+  {
+    "question": "M&A実績の年次表示は2013年から2025年までで、何年分ありますか？",
+    "answer": "10年分です。",
+    "level": "L3",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q07"
+  },
+  {
+    "question": "M&A欄に示された案件数は全部でいくつですか？",
+    "answer": "6件です。",
+    "level": "L3",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q08"
+  },
+  {
+    "question": "資本参加欄に示された案件数は全部でいくつですか？",
+    "answer": "7件です。",
+    "level": "L3",
+    "doc_id": "tdnet_3968_341bc5b6_p032",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3968_341bc5b6_p032_q09"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「都内期待利回り推移」において、2009年4月時点の城南ワンルームの期待利回りはいくつですか。",
+    "answer": "6.0%",
+    "evidence": "【2009/4】城南ワンルーム 6.0%",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_m00"
+  },
+  {
+    "question": "「都内期待利回り推移」において、2025年10月時点の城南ワンルームの期待利回りはいくつですか。",
+    "answer": "3.7%",
+    "evidence": "【2025/10】城南ワンルーム 3.7%",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_m01"
+  },
+  {
+    "question": "城南ワンルームの期待利回りについて、値が明示されている2009年4月時点と2025年10月時点では、どちらの時点のほうが高いですか。",
+    "answer": "2009年4月時点",
+    "evidence": "【2009/4】城南ワンルーム 6.0%、【2025/10】城南ワンルーム 3.7%",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p011",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p011_m02"
+  }
+]

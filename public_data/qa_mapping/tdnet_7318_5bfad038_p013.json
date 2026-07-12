@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「株価推移」に示されている2025年2月13日終値の株価はいくらですか？",
+    "answer": "420円",
+    "evidence": "▲株価：420（2025年2月13日終値）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_m00"
+  },
+  {
+    "question": "「株価推移」に示されている2026年2月13日終値の株価はいくらですか？",
+    "answer": "1,265円",
+    "evidence": "▲株価：１,2６５（2026年2月13日終値）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_m01"
+  },
+  {
+    "question": "2025年2月13日終値から2026年2月13日終値にかけて、株価は約何倍になったと示されていますか？",
+    "answer": "約3倍",
+    "evidence": "約3倍 / ▲株価：420（2025年2月13日終値） / ▲株価：１,2６５（2026年2月13日終値）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_m02"
+  }
+]

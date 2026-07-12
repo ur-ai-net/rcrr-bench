@@ -1,0 +1,26 @@
+[
+ {
+  "question": "売上高の注記によると、売上高について連結数値も表記されるようになったのは何年からですか。",
+  "answer": "2012年",
+  "evidence": "「注）売上高は単体数値、2012年から連結数値も表記」。チャート内の「連結」の折れ線も2012年付近から始まっている。",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_4248_a8829d58_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_4248_a8829d58_p022_m00"
+ },
+ {
+  "question": "沿革において、「東証２部上場」と「東証１部上場」はどちらが先の年に示されていますか。",
+  "answer": "東証２部上場",
+  "evidence": "チャート上で「東証２部上場」は「東証１部上場」より左（先の年）の位置に配置されている（間に「オランダ・タイ・インドに現地法人を設立」がある）。",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_4248_a8829d58_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_4248_a8829d58_p022_m01"
+ }
+]

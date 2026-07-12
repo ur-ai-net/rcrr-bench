@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME\".",
+    "level": "L1",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q00"
+  },
+  {
+    "question": "What year-ended period is presented in the table?",
+    "answer": "The table is for \"Year Ended December 31\".",
+    "level": "L1",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q01"
+  },
+  {
+    "question": "What was net income in 2022?",
+    "answer": "Net income in 2022 was $ 7,514.",
+    "level": "L1",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q02"
+  },
+  {
+    "question": "What was comprehensive income in 2020?",
+    "answer": "Comprehensive income in 2020 was $ 2,977.",
+    "level": "L1",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q03"
+  },
+  {
+    "question": "Which line item had the largest negative amount in 2022 under other comprehensive (loss) income?",
+    "answer": "\"Foreign currency translation adjustments, net of hedges and tax\" had the largest negative amount in 2022 at (230).",
+    "level": "L2",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q04"
+  },
+  {
+    "question": "Which year had the highest net income, and what was the amount?",
+    "answer": "2021 had the highest net income at $ 8,060.",
+    "level": "L2",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q05"
+  },
+  {
+    "question": "What is the relationship between net income and comprehensive income in 2022?",
+    "answer": "Comprehensive income was lower than net income by 265, reflecting the negative other comprehensive (loss) income of (265).",
+    "level": "L2",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q06"
+  },
+  {
+    "question": "By how much did net income change from 2021 to 2022?",
+    "answer": "Net income decreased by 546, from $ 8,060 in 2021 to $ 7,514 in 2022.",
+    "level": "L3",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q07"
+  },
+  {
+    "question": "What is the sum of the three 2022 other comprehensive income components?",
+    "answer": "The three 2022 components sum to (265): (87) + (230) + 52 = (265).",
+    "level": "L3",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q08"
+  },
+  {
+    "question": "How many years are shown in the table, and what are they?",
+    "answer": "Three years are shown: 2022, 2021, and 2020.",
+    "level": "L3",
+    "doc_id": "en_tbl_043_americanexpress_p097",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_043_americanexpress_p097_q09"
+  }
+]

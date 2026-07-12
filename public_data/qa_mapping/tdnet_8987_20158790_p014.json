@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「DPU・EPUの見通し」において、第40期（2026/6予想）のDPUはいくらですか。",
+    "answer": "3,050円",
+    "evidence": "3,050（第40期 2026/6（予想）の棒の上に記載、単位：円）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_8987_20158790_p014",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p014_m00"
+  },
+  {
+    "question": "第39期から第40期（予想）にかけての「内部成長」によるDPUの変動額はいくらですか。",
+    "answer": "▲81円",
+    "evidence": "▲81（第39期 2025/12と第40期 2026/6（予想）の間の「内部成長」ステップに記載、単位：円）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_8987_20158790_p014",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p014_m01"
+  },
+  {
+    "question": "第41期（2026/12予想）のDPUに含まれる譲渡益はいくらですか。",
+    "answer": "297円",
+    "evidence": "譲渡益 297（第41期 2026/12（予想）の棒の上部セグメントに記載、単位：円）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_8987_20158790_p014",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p014_m02"
+  }
+]

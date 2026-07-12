@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Loan Growth\".",
+    "level": "L1",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q00"
+  },
+  {
+    "question": "What unit is shown at the top left of the chart?",
+    "answer": "The unit is \"$ in millions\".",
+    "level": "L1",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q01"
+  },
+  {
+    "question": "What are the three legend categories shown in the chart?",
+    "answer": "The legend categories are \"Legacy Loans\", \"Acquired Loan, net\", and \"Covered Loans\".",
+    "level": "L1",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q02"
+  },
+  {
+    "question": "What is the value labeled above the bar for 1Q10?",
+    "answer": "The value labeled above 1Q10 is \"$64\".",
+    "level": "L1",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q03"
+  },
+  {
+    "question": "Which quarter has the highest labeled value on the chart?",
+    "answer": "4Q14 has the highest labeled value, at \"$1,181\".",
+    "level": "L2",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q04"
+  },
+  {
+    "question": "Which quarter shows a labeled value of \"$569\"?",
+    "answer": "The quarter labeled \"$569\" is 4Q13.",
+    "level": "L2",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q05"
+  },
+  {
+    "question": "Which quarter has the lowest labeled value among the positive bars?",
+    "answer": "1Q10 has the lowest labeled value among the positive bars, at \"$64\".",
+    "level": "L2",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q06"
+  },
+  {
+    "question": "How many quarters are shown on the x-axis?",
+    "answer": "There are 20 quarters shown on the x-axis.",
+    "level": "L3",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the highest and lowest labeled values on the chart?",
+    "answer": "The difference is \"$1,117\" ($1,181 minus $64).",
+    "level": "L3",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q08"
+  },
+  {
+    "question": "Which is larger: the labeled value for 4Q14 or 1Q15, and by how much?",
+    "answer": "1Q15 is larger by \"$7\"; it is \"$1,181\" versus \"$1,174\" for 4Q14.",
+    "level": "L3",
+    "doc_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_010_Bar_with_num_1321545477_26_crop_0_q09"
+  }
+]

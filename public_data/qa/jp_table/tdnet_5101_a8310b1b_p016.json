@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの対象となる連結会計年度の期間はいつからいつまでですか。",
+    "answer": "2025年1月1日から2025年12月31日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q00"
+  },
+  {
+    "question": "2025年1月1日時点の資本金はいくらですか。",
+    "answer": "38,909百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q01"
+  },
+  {
+    "question": "2025年12月31日時点の利益剰余金はいくらですか。",
+    "answer": "709,386百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q02"
+  },
+  {
+    "question": "2025年12月31日時点の非支配持分はいくらですか。",
+    "answer": "9,379百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q03"
+  },
+  {
+    "question": "当期利益は親会社の所有者に帰属する持分のどの項目に反映されていますか。",
+    "answer": "利益剰余金に反映されています。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q04"
+  },
+  {
+    "question": "自己株式の取得は資本合計にどのような影響を与えましたか。",
+    "answer": "資本合計を6,008百万円減少させました。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q05"
+  },
+  {
+    "question": "その他の包括利益の合計は、在外営業活動体の換算差額とキャッシュ・フロー・ヘッジの合計と一致しますか。",
+    "answer": "一致しません。合計は54,175百万円です。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q06"
+  },
+  {
+    "question": "当期利益105,398百万円とその他の包括利益54,175百万円の合計はいくらですか。",
+    "answer": "159,573百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q07"
+  },
+  {
+    "question": "2025年12月31日の親会社の所有者に帰属する持分合計は、2025年1月1日残高より何百万円増加しましたか。",
+    "answer": "136,880百万円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q08"
+  },
+  {
+    "question": "2025年12月31日の資本合計1,040,231百万円は、2025年1月1日残高904,013百万円より何百万円多いですか。",
+    "answer": "136,218百万円多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_a8310b1b_p016",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p016_q09"
+  }
+]

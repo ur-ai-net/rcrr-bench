@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2025年12月期 通期の国内店舗売上高前年⽐で、全店は何％ですか？",
+    "answer": "＋10.2％",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q00"
+  },
+  {
+    "question": "2025年12月期 通期の国内店舗売上高前年⽐で、既存店は何％ですか？",
+    "answer": "＋6.3％",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q01"
+  },
+  {
+    "question": "2025年の主な出退店で、3月にオープンした店舗は何ですか？",
+    "answer": "「那須パラダイスヴィレッジ」",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q02"
+  },
+  {
+    "question": "2025年の主な出退店で、10月にオープンした店舗は何ですか？",
+    "answer": "「カフェ・ラ ボエム下北沢」",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q03"
+  },
+  {
+    "question": "改装や休業等で一定期間稼働のない店舗は、どの区分から除外されますか？",
+    "answer": "既存店",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q04"
+  },
+  {
+    "question": "このページの月次推移グラフは、何年の通期売上高前年対比率を示していますか？",
+    "answer": "2025年",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q05"
+  },
+  {
+    "question": "業界全体の数値は、どの団体のデータを参考にしていますか？",
+    "answer": "一般社団法人日本フードサービス協会",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q06"
+  },
+  {
+    "question": "全店の前年⽐は既存店の前年⽐より何ポイント高いですか？",
+    "answer": "3.9ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q07"
+  },
+  {
+    "question": "全店の＋10.2％と既存店の＋6.3％の差は何ポイントですか？",
+    "answer": "3.9ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q08"
+  },
+  {
+    "question": "主な出退店として記載のある店舗数は何店舗ですか？",
+    "answer": "2店舗",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p025",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p025_q09"
+  }
+]

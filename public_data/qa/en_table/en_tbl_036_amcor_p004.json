@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What annual report form is referenced in the forward-looking statements section?",
+    "answer": "The page refers to the \"Annual Report on Form 10-K.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q00"
+  },
+  {
+    "question": "Which company names are used to refer to the reporting entity in this section?",
+    "answer": "The section says references to \"Amcor,\" the \"Company,\" \"we,\" \"our,\" and \"us\" refer to Amcor plc and its consolidated subsidiaries.",
+    "level": "L1",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q01"
+  },
+  {
+    "question": "Under which U.S. law are these statements described as forward-looking statements?",
+    "answer": "They are described as forward-looking statements within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995.",
+    "level": "L1",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q02"
+  },
+  {
+    "question": "What page number appears at the bottom of the page?",
+    "answer": "The page number shown is 4.",
+    "level": "L1",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q03"
+  },
+  {
+    "question": "What two sections are specifically cited as containing additional factors that could cause actual results to differ from expectations?",
+    "answer": "The page cites \"Item 1A. - Risk Factors\" and \"Item 7. - Management’s Discussion and Analysis of Financial Condition and Results of Operations.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q04"
+  },
+  {
+    "question": "What does the page say about Amcor’s obligation to update the information in this report?",
+    "answer": "Amcor says it assumes no obligation, and disclaims any obligation, to update the information contained in this report.",
+    "level": "L2",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q05"
+  },
+  {
+    "question": "What is the relationship between the date of the statements and the events they describe?",
+    "answer": "The page says forward-looking statements relate only to events as of the date on which the statements are made.",
+    "level": "L2",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q06"
+  },
+  {
+    "question": "How many risk factors are listed in the bulleted list on this page?",
+    "answer": "There are 20 bulleted risk factors listed.",
+    "level": "L3",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q07"
+  },
+  {
+    "question": "Which risk factor appears first in the bulleted list, and which appears last?",
+    "answer": "The first is \"Changes in consumer demand patterns and customer requirements in numerous industries;\" and the last is \"changes in tax laws or changes in our geographic mix of earnings.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q08"
+  },
+  {
+    "question": "What is the difference in length between the first and last bulleted risk factors, measured by the number of listed items between them?",
+    "answer": "There are 18 risk factors between the first and last items in the list.",
+    "level": "L3",
+    "doc_id": "en_tbl_036_amcor_p004",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_036_amcor_p004_q09"
+  }
+]

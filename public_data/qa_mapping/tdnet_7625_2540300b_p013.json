@@ -1,0 +1,38 @@
+[
+  {
+    "question": "月次売上高推移において、「ソフトオープン」が示されているのは何年何月ですか？",
+    "answer": "2024年12月",
+    "evidence": "ソフトオープン / 2024年 12月",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_m00"
+  },
+  {
+    "question": "月次売上高推移において、「グランドオープン」が示されているのは何年何月ですか？",
+    "answer": "2025年3月",
+    "evidence": "グランドオープン / 2025年 3月",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_m01"
+  },
+  {
+    "question": "月次売上高推移には「情報番組露出」が2回示されていますが、2回目に示されているのは何月ですか？",
+    "answer": "9月",
+    "evidence": "情報番組露出 … 夏季行楽期 … 情報番組露出 / 9月",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p013_m02"
+  }
+]

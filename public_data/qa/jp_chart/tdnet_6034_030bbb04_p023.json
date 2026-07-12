@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "成長のビジョン",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q00"
+  },
+  {
+    "question": "このページで示されている市場規模の予想は何億円ですか？",
+    "answer": "900億円市場（2035年予想）",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q01"
+  },
+  {
+    "question": "医療人材コンサルティングの市場規模予想は何億円ですか？",
+    "answer": "790億円市場（2026年予想）",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q02"
+  },
+  {
+    "question": "FY2020の取り組みとして示されている内容は何ですか？",
+    "answer": "システム投資、医療人材、基幹システム構築",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q03"
+  },
+  {
+    "question": "この図で「海外」に位置づけられている展開先は何ですか？",
+    "answer": "ASEAN展開",
+    "level": "L2",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q04"
+  },
+  {
+    "question": "FY2023の位置で示されている受託先はどこですか？",
+    "answer": "自治体",
+    "level": "L2",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q05"
+  },
+  {
+    "question": "中長期で構築・展開すると示されているのは何ですか？",
+    "answer": "医療人材、医療DX、プラットフォーム連携サービス",
+    "level": "L2",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q06"
+  },
+  {
+    "question": "790億円市場と900億円市場の差は何億円ですか？",
+    "answer": "110億円",
+    "level": "L3",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q07"
+  },
+  {
+    "question": "900億円市場は790億円市場の何倍ですか？",
+    "answer": "約1.14倍",
+    "level": "L3",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q08"
+  },
+  {
+    "question": "FY2020からFY2026までの年数差は何年ですか？",
+    "answer": "6年",
+    "level": "L3",
+    "doc_id": "tdnet_6034_030bbb04_p023",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p023_q09"
+  }
+]

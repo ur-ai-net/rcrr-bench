@@ -1,0 +1,102 @@
+[
+  {
+    "question": "IV-3の物件名称は何ですか。",
+    "answer": "JEI広島八丁堀ビル",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q00"
+  },
+  {
+    "question": "IV-7の取得価格はいくらですか。",
+    "answer": "1,380百万円",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q01"
+  },
+  {
+    "question": "合計の投資比率は何％ですか。",
+    "answer": "100.0％",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q02"
+  },
+  {
+    "question": "大和南森町ビルの不動産鑑定機関はどこですか。",
+    "answer": "大和不動産鑑定株式会社",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q03"
+  },
+  {
+    "question": "このページで最も取得価格が大きい物件はどれですか。",
+    "answer": "SE札幌ビル",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q04"
+  },
+  {
+    "question": "エリアⅣの期末算定価額は合計でいくらですか。",
+    "answer": "39,044百万円",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q05"
+  },
+  {
+    "question": "SE札幌ビルのDCF価格は直接還元価格より高いですか。",
+    "answer": "はい。DCF価格の12,500百万円の方が直接還元価格の12,700百万円より低いです。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q06"
+  },
+  {
+    "question": "IV-4の直接還元価格とDCF価格の差はいくらですか。",
+    "answer": "200百万円",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q07"
+  },
+  {
+    "question": "エリアⅣの取得価格23,019百万円に対する投資比率は何％ですか。",
+    "answer": "7.9％",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q08"
+  },
+  {
+    "question": "合計の当期末帳簿価額272,046百万円と期末算定価額355,055百万円の差はいくらですか。",
+    "answer": "83,009百万円",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p031",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p031_q09"
+  }
+]

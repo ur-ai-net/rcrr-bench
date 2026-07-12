@@ -1,0 +1,102 @@
+[
+  {
+    "question": "FY28の売上高の財務目標はいくらですか？",
+    "answer": "81.8億円",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q00"
+  },
+  {
+    "question": "FY28の営業利益の財務目標はいくらですか？",
+    "answer": "22.9億円",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q01"
+  },
+  {
+    "question": "FY28の自己資本の財務目標はいくらですか？",
+    "answer": "70億円",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q02"
+  },
+  {
+    "question": "FY28の配当性向の目標は何％前後ですか？",
+    "answer": "40%前後",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q03"
+  },
+  {
+    "question": "FY28の配当額の目標はいくらですか？",
+    "answer": "46円／株以上",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q04"
+  },
+  {
+    "question": "FY28の財務目標は、どのような方針を基本としていますか？",
+    "answer": "安定成長を基本方針としています",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q05"
+  },
+  {
+    "question": "FY28の財務目標は、現時点でどのような点を重視して設定されていますか？",
+    "answer": "保守的かつ達成可能性を重視しています",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q06"
+  },
+  {
+    "question": "FY25の営業利益率は何％ですか？",
+    "answer": "27.8%",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q07"
+  },
+  {
+    "question": "FY28の売上高目標81.8億円は、FY17の売上高5,672百万円より何百万円多いですか？",
+    "answer": "5,508百万円",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q08"
+  },
+  {
+    "question": "FY28の自己資本比率目標50.0%は、FY22の7.0%より何ポイント高いですか？",
+    "answer": "43.0ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_q09"
+  }
+]

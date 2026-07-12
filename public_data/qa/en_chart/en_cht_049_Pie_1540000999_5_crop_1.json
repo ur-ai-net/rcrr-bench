@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart on the page?",
+    "answer": "The title is \"Revenue % of Total\".",
+    "level": "L1",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q00"
+  },
+  {
+    "question": "What subtitle appears directly under the chart title?",
+    "answer": "The subtitle is \"(excluding SP Video CPE Business)\".",
+    "level": "L1",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q01"
+  },
+  {
+    "question": "Which category is shown with 29% of total revenue?",
+    "answer": "\"Switching\" is shown with 29%.",
+    "level": "L1",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q02"
+  },
+  {
+    "question": "Which category is shown with 16% of total revenue?",
+    "answer": "\"NGN Routing\" is shown with 16%.",
+    "level": "L1",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q03"
+  },
+  {
+    "question": "Which category has the largest share of revenue on the chart?",
+    "answer": "\"Switching\" has the largest share at 29%.",
+    "level": "L2",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q04"
+  },
+  {
+    "question": "Which category has the smallest share of revenue on the chart?",
+    "answer": "\"Other\" has the smallest share at 1%.",
+    "level": "L2",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q05"
+  },
+  {
+    "question": "Which categories are tied at 5%?",
+    "answer": "\"Wireless\" and \"SP Video\" are both at 5%.",
+    "level": "L2",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q06"
+  },
+  {
+    "question": "What is the combined percentage of \"Switching\" and \"NGN Routing\"?",
+    "answer": "Together, \"Switching\" and \"NGN Routing\" total 45%.",
+    "level": "L3",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q07"
+  },
+  {
+    "question": "What is the combined percentage of the categories labeled 7%, 5%, 5%, 4%, and 1%?",
+    "answer": "The combined percentage is 22%.",
+    "level": "L3",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q08"
+  },
+  {
+    "question": "How many categories are listed in the legend?",
+    "answer": "There are 8 categories listed in the legend.",
+    "level": "L3",
+    "doc_id": "en_cht_049_Pie_1540000999_5_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_049_Pie_1540000999_5_crop_1_q09"
+  }
+]

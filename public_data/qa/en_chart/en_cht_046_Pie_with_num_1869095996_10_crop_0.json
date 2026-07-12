@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart on this page?",
+    "answer": "The title is \"FEAUM by Remaining Duration\".",
+    "level": "L1",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q00"
+  },
+  {
+    "question": "What percentage is labeled for \"10+ Years\"?",
+    "answer": "\"10+ Years\" is labeled as 31%.",
+    "level": "L1",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q01"
+  },
+  {
+    "question": "What percentage is labeled for \"Perpetual\"?",
+    "answer": "\"Perpetual\" is labeled as 3%.",
+    "level": "L1",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q02"
+  },
+  {
+    "question": "What percentage is labeled for \"0-3 Years\"?",
+    "answer": "\"0-3 Years\" is labeled as 4%.",
+    "level": "L1",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q03"
+  },
+  {
+    "question": "Which remaining duration categories are each labeled at 31%?",
+    "answer": "\"7-10 Years\" and \"10+ Years\" are both labeled at 31%.",
+    "level": "L2",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q04"
+  },
+  {
+    "question": "Which category has the smallest share on the chart, and what is its percentage?",
+    "answer": "\"Perpetual\" has the smallest share at 3%.",
+    "level": "L2",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q05"
+  },
+  {
+    "question": "What is the combined percentage of the categories labeled \"0-3 Years\" and \"Perpetual\"?",
+    "answer": "Together, \"0-3 Years\" and \"Perpetual\" total 7%.",
+    "level": "L2",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q06"
+  },
+  {
+    "question": "What is the combined percentage of all categories shown on the chart?",
+    "answer": "The categories sum to 100%.",
+    "level": "L3",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q07"
+  },
+  {
+    "question": "How much larger is \"10+ Years\" than \"5-7 Years\"?",
+    "answer": "\"10+ Years\" is 19 percentage points larger than \"5-7 Years\".",
+    "level": "L3",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q08"
+  },
+  {
+    "question": "Which two categories together make up the majority of the chart, and what is their combined percentage?",
+    "answer": "\"7-10 Years\" and \"10+ Years\" together make up 62% of the chart.",
+    "level": "L3",
+    "doc_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_046_Pie_with_num_1869095996_10_crop_0_q09"
+  }
+]

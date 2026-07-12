@@ -1,0 +1,15 @@
+[
+ {
+  "question": "「ポジショニング」において、当社以外に位置づけが示されている訪看STの類型をすべて挙げてください。",
+  "answer": "病院附属訪看STと大手運営訪看ST",
+  "evidence": "病院附属訪看ST 大手運営訪看ST（位置づけ要素の名称表示）",
+  "source_element": "in-chart annotation",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p031",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p031_m03"
+ }
+]

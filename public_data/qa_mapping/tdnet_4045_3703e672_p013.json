@@ -1,0 +1,38 @@
+[
+  {
+    "question": "自動車の図中で「注力製品」の枠内に示されている製品のうち、「電気自動車」向けとされているのはどれですか。",
+    "answer": "リチウムイオン電池用バインダー",
+    "evidence": "「注力製品」の枠内に「リチウムイオン電池用バインダー（電気自動車）」と記載（もう一方は「車載電池用接着剤（ハイブリッド車・燃料電池車）」）。",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_m00"
+  },
+  {
+    "question": "自動車の図中で、「車載電池用接着剤」はどのタイプの自動車向けとして示されていますか。",
+    "answer": "ハイブリッド車・燃料電池車",
+    "evidence": "「車載電池用接着剤（ハイブリッド車・燃料電池車）」",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_m01"
+  },
+  {
+    "question": "「モビリティ分野拡販計画」において、「（目標）」と付されているのは何年ですか。",
+    "answer": "2030年",
+    "evidence": "グラフの横軸に「2025年（実績） 2028年（計画） 2030年（目標）」と示されている。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_m02"
+  }
+]

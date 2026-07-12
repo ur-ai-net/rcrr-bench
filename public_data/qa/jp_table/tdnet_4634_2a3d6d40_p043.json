@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "事業別セグメント実績",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q00"
+  },
+  {
+    "question": "連結の当期累計実績の売上高は何億円ですか？",
+    "answer": "3,500億円",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q01"
+  },
+  {
+    "question": "色材・機能材の日本の当期累計実績の営業利益は何億円ですか？",
+    "answer": "6億円",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q02"
+  },
+  {
+    "question": "印刷・情報の海外の第4四半期営業利益は何億円ですか？",
+    "answer": "6億円",
+    "level": "L1",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q03"
+  },
+  {
+    "question": "当期累計実績の連結営業利益が208億円であることから、全体として営業利益は黒字ですか？",
+    "answer": "はい、黒字です。",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q04"
+  },
+  {
+    "question": "第4四半期の連結売上高915億円は、前年同期比で増加ですか減少ですか？",
+    "answer": "増加です。",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q05"
+  },
+  {
+    "question": "パッケージの合計は、第4四半期営業利益16億円と当期累計営業利益55億円のどちらが大きいですか？",
+    "answer": "当期累計営業利益55億円です。",
+    "level": "L2",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q06"
+  },
+  {
+    "question": "連結の第4四半期売上高915億円と当期累計売上高3,500億円の差は何億円ですか？",
+    "answer": "2,585億円",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q07"
+  },
+  {
+    "question": "ポリマー・塗加工の合計で、第4四半期営業利益24億円は前年同期比27.9％増です。前年同期の営業利益は何億円ですか？",
+    "answer": "約18.8億円",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q08"
+  },
+  {
+    "question": "印刷・情報の合計で、当期累計売上高810億円と営業利益45億円の営業利益率は何％ですか？",
+    "answer": "約5.6％",
+    "level": "L3",
+    "doc_id": "tdnet_4634_2a3d6d40_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p043_q09"
+  }
+]

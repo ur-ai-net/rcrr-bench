@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What were the Company's consolidated regulatory assets and liabilities balances as of December 31, 2022?",
+    "answer": "The consolidated regulatory assets balance was $1,030 million and the consolidated regulatory liabilities balance was $1,595 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q00"
+  },
+  {
+    "question": "Which audit firm issued the report on this page?",
+    "answer": "PricewaterhouseCoopers LLP issued the report.",
+    "level": "L1",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q01"
+  },
+  {
+    "question": "In what city and state was the report signed?",
+    "answer": "The report was signed in Philadelphia, Pennsylvania.",
+    "level": "L1",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q02"
+  },
+  {
+    "question": "On what date was the report signed?",
+    "answer": "The report was signed on February 15, 2023.",
+    "level": "L1",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q03"
+  },
+  {
+    "question": "Why did the auditors determine that accounting for the effects of rate regulation was a critical audit matter?",
+    "answer": "It involved significant management judgment about whether regulatory assets and liabilities continued to meet the criteria for probable future recovery or settlement, especially in light of changes in regulatory environments, recent rate orders, and pending or potential legislation.",
+    "level": "L2",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q04"
+  },
+  {
+    "question": "What factors did management consider when assessing regulatory assets and liabilities at the end of each reporting period?",
+    "answer": "Management considered changes in regulatory environments, recent rate orders, and the status of any pending or potential legislation.",
+    "level": "L2",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q05"
+  },
+  {
+    "question": "What audit procedures were performed to address the critical audit matter?",
+    "answer": "The auditors tested controls over the regulatory accounting process and evaluated management’s judgments using correspondence with regulators, the status of regulatory proceedings, past practices, and other relevant information.",
+    "level": "L2",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q06"
+  },
+  {
+    "question": "By how much did regulatory liabilities exceed regulatory assets as of December 31, 2022?",
+    "answer": "Regulatory liabilities exceeded regulatory assets by $565 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q07"
+  },
+  {
+    "question": "How many years had PricewaterhouseCoopers LLP served as the Company's auditor as of the report date?",
+    "answer": "PricewaterhouseCoopers LLP had served as the Company's auditor since 1948, which is 75 years as of February 15, 2023.",
+    "level": "L3",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q08"
+  },
+  {
+    "question": "What is the structural relationship between the critical audit matter discussion and the audit opinion on this page?",
+    "answer": "The page states that communicating the critical audit matter does not alter the opinion on the consolidated financial statements taken as a whole and does not provide a separate opinion on the matter.",
+    "level": "L3",
+    "doc_id": "en_tbl_048_americanwaterworks_p080",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_048_americanwaterworks_p080_q09"
+  }
+]

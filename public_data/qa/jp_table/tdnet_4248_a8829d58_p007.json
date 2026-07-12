@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "2025年12月期業績概要",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q00"
+  },
+  {
+    "question": "日本の2024年12月期の売上高はいくらですか？",
+    "answer": "12,519百万円",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q01"
+  },
+  {
+    "question": "日本の2025年12月期の営業利益はいくらですか？",
+    "answer": "800百万円",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q02"
+  },
+  {
+    "question": "中国の2025年12月期の営業利益率はいくらですか？",
+    "answer": "0.4％",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q03"
+  },
+  {
+    "question": "その他地域の業績改善に貢献した主な国はどこですか？",
+    "answer": "インド",
+    "level": "L2",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q04"
+  },
+  {
+    "question": "その他地域では、アメリカとタイの業績はどうなりましたか？",
+    "answer": "売上・利益ともに改善し、増収、増益",
+    "level": "L2",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q05"
+  },
+  {
+    "question": "日本の営業利益率は2024年12月期から2025年12月期にどう変化しましたか？",
+    "answer": "7.4％から7.3％へ0.1P低下しました",
+    "level": "L2",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q06"
+  },
+  {
+    "question": "日本の売上高は前年比で何百万円減少しましたか？",
+    "answer": "1,510百万円",
+    "level": "L3",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q07"
+  },
+  {
+    "question": "その他地域の売上高は2024年12月期から2025年12月期に何百万円増加しましたか？",
+    "answer": "356百万円",
+    "level": "L3",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q08"
+  },
+  {
+    "question": "中国の営業利益は前年比で何百万円減少しましたか？",
+    "answer": "8百万円",
+    "level": "L3",
+    "doc_id": "tdnet_4248_a8829d58_p007",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p007_q09"
+  }
+]

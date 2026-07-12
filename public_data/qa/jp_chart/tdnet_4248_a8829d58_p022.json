@@ -1,0 +1,102 @@
+[
+  {
+    "question": "竹本容器は何年の歴史を経たと説明されているか。",
+    "answer": "75年",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q00"
+  },
+  {
+    "question": "ページ内で示されている売上高の単位は何か。",
+    "answer": "億円",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q01"
+  },
+  {
+    "question": "竹本容器が事業を開始した場所はどこか。",
+    "answer": "合羽橋",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q02"
+  },
+  {
+    "question": "東証スタンダード市場に移行したのは何年何月か。",
+    "answer": "23年10月",
+    "level": "L1",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q03"
+  },
+  {
+    "question": "このページでは、竹本容器はどの段階にあると位置付けられているか。",
+    "answer": "「海外展開の強化」と「資源循環型への転換」の段階",
+    "level": "L2",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q04"
+  },
+  {
+    "question": "2012年以降の売上高が単体数値だけでなく連結数値も表記されている理由として、注記から何が分かるか。",
+    "answer": "2012年から連結数値も表記している",
+    "level": "L2",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q05"
+  },
+  {
+    "question": "東証1部上場の後に続く次の大きな変化は何か。",
+    "answer": "東証スタンダード市場に移行",
+    "level": "L2",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q06"
+  },
+  {
+    "question": "売上高は1976年頃の0億円から2024年頃の約150億円超まで増えているが、増加幅はおよそ何億円か。",
+    "answer": "約150億円",
+    "level": "L3",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q07"
+  },
+  {
+    "question": "2000年頃の売上高は約50億円、2024年頃は約150億円超である。差はおよそ何億円か。",
+    "answer": "約100億円",
+    "level": "L3",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q08"
+  },
+  {
+    "question": "2016年頃の売上高は約100億円、2020年頃は約150億円弱である。増加はおよそ何億円か。",
+    "answer": "約50億円",
+    "level": "L3",
+    "doc_id": "tdnet_4248_a8829d58_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4248_a8829d58_p022_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the total capitalization and liabilities on December 31, 2021?",
+    "answer": "$ 26,075 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q00"
+  },
+  {
+    "question": "How many shares of common stock were issued on December 31, 2021?",
+    "answer": "186,880,413 shares were issued.",
+    "level": "L1",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q01"
+  },
+  {
+    "question": "What is the amount of long-term debt on December 31, 2020?",
+    "answer": "$ 9,329 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q02"
+  },
+  {
+    "question": "What is the amount of contributions in aid of construction?",
+    "answer": "$ 1,442 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q03"
+  },
+  {
+    "question": "What is the total capitalization on December 31, 2021, and how does it compare with December 31, 2020?",
+    "answer": "Total capitalization was $ 17,642 million in 2021 and $ 15,787 million in 2020. It increased year over year.",
+    "level": "L2",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q04"
+  },
+  {
+    "question": "Which line item shows a decrease from 2020 to 2021 and is related to employee retirement obligations?",
+    "answer": "Accrued pension expense decreased from $ 388 million to $ 285 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q05"
+  },
+  {
+    "question": "What two components make up the total long-term debt shown on the page?",
+    "answer": "Long-term debt of $ 10,341 million and redeemable preferred stock at redemption value of $ 3 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q06"
+  },
+  {
+    "question": "By how much did retained earnings change from December 31, 2020 to December 31, 2021?",
+    "answer": "Retained earnings increased by $ 823 million, from $ 102 million to $ 925 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q07"
+  },
+  {
+    "question": "What is the difference between total current liabilities in 2021 and 2020?",
+    "answer": "Total current liabilities decreased by $ 740 million, from $ 2,881 million to $ 2,141 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q08"
+  },
+  {
+    "question": "What is the combined amount of short-term debt and current portion of long-term debt for December 31, 2021?",
+    "answer": "The combined amount is $ 641 million ($ 584 million + $ 57 million).",
+    "level": "L3",
+    "doc_id": "en_tbl_046_americanwaterworks_p085",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_046_americanwaterworks_p085_q09"
+  }
+]

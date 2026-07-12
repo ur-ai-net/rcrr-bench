@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What were \"Total revenues net of interest expense\" in 2022?",
+    "answer": "$ 52,862 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q00"
+  },
+  {
+    "question": "What was the \"Net income\" for 2021?",
+    "answer": "$ 8,060 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q01"
+  },
+  {
+    "question": "What was the \"Cash dividends declared per common share\" in 2022?",
+    "answer": "$ 2.08.",
+    "level": "L1",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q02"
+  },
+  {
+    "question": "What is the trading symbol mentioned in footnote (b)?",
+    "answer": "AXP.",
+    "level": "L1",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q03"
+  },
+  {
+    "question": "Which year had the highest \"Network volumes (Billions)\" and what was the amount?",
+    "answer": "2022 had the highest network volumes at $ 1,552.8 billion.",
+    "level": "L2",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q04"
+  },
+  {
+    "question": "What was the \"Effective tax rate\" in the year when \"Net income\" was $ 7,514 million?",
+    "answer": "21.6 %.",
+    "level": "L2",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q05"
+  },
+  {
+    "question": "Which balance sheet item increased the most in dollar terms from 2021 to 2022, and by how much?",
+    "answer": "Customer deposits increased the most, by $ 25,857 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q06"
+  },
+  {
+    "question": "By how much did \"Total revenues net of interest expense\" increase from 2021 to 2022?",
+    "answer": "It increased by $ 10,482 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q07"
+  },
+  {
+    "question": "What is the difference between the 2022 and 2020 \"Earnings per common share — diluted\"?",
+    "answer": "$ 6.08 per share.",
+    "level": "L3",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q08"
+  },
+  {
+    "question": "How many sections are listed under the main table before the footnotes, and what are they?",
+    "answer": "There are 3 sections: \"Selected Income Statement Data\", \"Common Share Statistics\", and \"Selected Metrics and Ratios\".",
+    "level": "L3",
+    "doc_id": "en_tbl_044_americanexpress_p044",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_044_americanexpress_p044_q09"
+  }
+]

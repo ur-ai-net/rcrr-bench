@@ -1,0 +1,26 @@
+[
+ {
+  "question": "スマイルカーブ下部に示された役割区分のうち、「保守・サポート」の工程に対応するのはどれですか？",
+  "answer": "PG / Customer success",
+  "evidence": "業務要件 基本計画 システム要件定義 設計 構築・開発 保守・サポート / コンサル 上流SE SE PG / Customer success",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7318_5bfad038_p011",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7318_5bfad038_p011_m00"
+ },
+ {
+  "question": "役割区分「コンサル」が担当する工程は、スマイルカーブ上で「高収益」と「低利益」のどちらに位置づけられていますか？",
+  "answer": "高収益",
+  "evidence": "業務要件 … コンサル / 高収益（業務要件側） 低利益（中間工程）",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7318_5bfad038_p011",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7318_5bfad038_p011_m01"
+ }
+]

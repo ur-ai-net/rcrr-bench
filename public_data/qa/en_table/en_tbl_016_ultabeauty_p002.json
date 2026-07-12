@@ -1,0 +1,102 @@
+[
+  {
+    "question": "By how much did comparable sales increase in the fourth quarter of fiscal 2022?",
+    "answer": "Comparable sales increased 15.6%.",
+    "level": "L1",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q00"
+  },
+  {
+    "question": "What was the gross profit in the fourth quarter of fiscal 2022?",
+    "answer": "Gross profit was $1.2 billion.",
+    "level": "L1",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q01"
+  },
+  {
+    "question": "What was the diluted earnings per share in the fourth quarter of fiscal 2022?",
+    "answer": "Diluted earnings per share increased to $6.68.",
+    "level": "L1",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q02"
+  },
+  {
+    "question": "What was the tax rate for fiscal 2022?",
+    "answer": "The tax rate increased to 24.4%.",
+    "level": "L1",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q03"
+  },
+  {
+    "question": "What factors drove the 15.6% increase in comparable sales for fiscal 2022?",
+    "answer": "It was driven by a 10.8% increase in transactions and a 4.3% increase in average ticket.",
+    "level": "L2",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q04"
+  },
+  {
+    "question": "Why did SG&A expenses decrease as a percentage of net sales in fiscal 2022?",
+    "answer": "It decreased primarily due to lower marketing expenses and leverage of incentive compensation due to higher sales, partially offset by deleverage of corporate overhead due to strategic investments and deleverage of store payroll and benefits due to wage investments.",
+    "level": "L2",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q05"
+  },
+  {
+    "question": "What explains why gross profit as a percentage of net sales was flat in the fourth quarter of fiscal 2022 compared to the fourth quarter of fiscal 2021?",
+    "answer": "It was primarily due to leverage of fixed costs, favorable channel mix shifts, and strong growth in other revenue, offset by higher inventory shrink.",
+    "level": "L2",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q06"
+  },
+  {
+    "question": "How much did operating income increase in fiscal 2022 compared to fiscal 2021?",
+    "answer": "Operating income increased 26.3% to $1.6 billion.",
+    "level": "L3",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q07"
+  },
+  {
+    "question": "What was the difference in gross profit percentage between fiscal 2022 and fiscal 2021?",
+    "answer": "Gross profit increased from 39.0% to 39.6%, a difference of 0.6 percentage points.",
+    "level": "L3",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q08"
+  },
+  {
+    "question": "How did diluted earnings per share change in the fourth quarter of fiscal 2022 compared to the fourth quarter of fiscal 2021?",
+    "answer": "Diluted earnings per share increased from $5.41 to $6.68, an increase of $1.27.",
+    "level": "L3",
+    "doc_id": "en_tbl_016_ultabeauty_p002",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_016_ultabeauty_p002_q09"
+  }
+]

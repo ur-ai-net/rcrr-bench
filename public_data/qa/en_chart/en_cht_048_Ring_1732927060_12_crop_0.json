@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Loan Portfolio Mix\".",
+    "level": "L1",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q00"
+  },
+  {
+    "question": "What percentage is labeled for Fixed loans?",
+    "answer": "Fixed loans are labeled as 69%.",
+    "level": "L1",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q01"
+  },
+  {
+    "question": "What percentage is labeled for Variable loans?",
+    "answer": "Variable loans are labeled as 15%.",
+    "level": "L1",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q02"
+  },
+  {
+    "question": "What percentage is labeled for Adjustable loans?",
+    "answer": "Adjustable loans are labeled as 16%.",
+    "level": "L1",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q03"
+  },
+  {
+    "question": "Which loan type has the largest share in the portfolio?",
+    "answer": "Fixed has the largest share at 69%.",
+    "level": "L2",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q04"
+  },
+  {
+    "question": "Which two loan types together make up less than one-third of the portfolio?",
+    "answer": "Variable and Adjustable together make up 31%.",
+    "level": "L2",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q05"
+  },
+  {
+    "question": "What is the combined percentage of the non-fixed loan types?",
+    "answer": "The non-fixed loan types total 31%.",
+    "level": "L2",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q06"
+  },
+  {
+    "question": "How many loan categories are shown in the chart?",
+    "answer": "There are 3 loan categories shown.",
+    "level": "L3",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q07"
+  },
+  {
+    "question": "By how many percentage points does Fixed exceed Variable?",
+    "answer": "Fixed exceeds Variable by 54 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q08"
+  },
+  {
+    "question": "What is the difference in percentage points between Adjustable and Variable?",
+    "answer": "Adjustable is 1 percentage point higher than Variable.",
+    "level": "L3",
+    "doc_id": "en_cht_048_Ring_1732927060_12_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_048_Ring_1732927060_12_crop_0_q09"
+  }
+]

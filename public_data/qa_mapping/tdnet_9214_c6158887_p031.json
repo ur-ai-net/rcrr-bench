@@ -1,0 +1,26 @@
+[
+ {
+  "question": "ポジショニングマップにおいて、DXが「高」側で満足度が「低」側の象限に位置づけられているのはどのタイプの訪看STですか。",
+  "answer": "大手運営訪看ST",
+  "evidence": "大手運営訪看ST（右下象限）、低 ←→ 高【DX】、【満足度】高／低",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p031",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p031_m01"
+ },
+ {
+  "question": "ポジショニングマップにおいて、満足度が「高」側でDXが「低」側の象限に位置づけられているのはどのタイプの訪看STですか。",
+  "answer": "病院附属訪看ST",
+  "evidence": "病院附属訪看ST（左上象限）、低 ←→ 高【DX】、【満足度】高／低",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p031",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p031_m02"
+ }
+]

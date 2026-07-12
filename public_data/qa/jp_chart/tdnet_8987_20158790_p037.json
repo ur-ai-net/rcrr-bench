@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "投資口価格と東証REIT指数の推移",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q00"
+  },
+  {
+    "question": "左軸は何を示していますか？",
+    "answer": "投資口価格",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q01"
+  },
+  {
+    "question": "右軸は何を示していますか？",
+    "answer": "東証REIT指数",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q02"
+  },
+  {
+    "question": "2014年1月1日に実施された投資口の分割は何分割ですか？",
+    "answer": "5分割",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q03"
+  },
+  {
+    "question": "このページのグラフで、投資口価格と東証REIT指数はどのような関係で推移していますか？",
+    "answer": "概ね連動して推移しています",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q04"
+  },
+  {
+    "question": "2013年12月25日以前の投資口価格は、分割考慮後にどのように記載されていますか？",
+    "answer": "5で除した数値",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q05"
+  },
+  {
+    "question": "グラフの対象期間はいつからいつまでですか？",
+    "answer": "2006年6月27日から2025年12月末まで",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q06"
+  },
+  {
+    "question": "左軸の最大値300千円と最小値0千円の差はいくらですか？",
+    "answer": "300千円",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q07"
+  },
+  {
+    "question": "右軸の最大値4,500ポイントと最小値0ポイントの差はいくらですか？",
+    "answer": "4,500ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q08"
+  },
+  {
+    "question": "左軸の最大値300千円は、右軸の最大値4,500ポイントの何分の1ですか？",
+    "answer": "15分の1",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p037",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p037_q09"
+  }
+]

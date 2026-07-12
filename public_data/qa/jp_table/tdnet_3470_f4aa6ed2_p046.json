@@ -1,0 +1,102 @@
+[
+  {
+    "question": "レジデンス区分のRp-21の物件名称は何ですか。",
+    "answer": "グランエターナ北大前Ⅱ",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q00"
+  },
+  {
+    "question": "商業施設区分のCp-04の鑑定評価額はいくらですか。",
+    "answer": "2,910百万円",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q01"
+  },
+  {
+    "question": "Rp-24の鑑定評価機関はどこですか。",
+    "answer": "日本ヴァリュアーズ株式会社",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q02"
+  },
+  {
+    "question": "Cp-11のNOIは何百万円ですか。",
+    "answer": "59百万円",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q03"
+  },
+  {
+    "question": "レジデンス区分の小計鑑定評価額は何百万円ですか。",
+    "answer": "24,158百万円",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q04"
+  },
+  {
+    "question": "商業施設区分の中で、鑑定評価額が最も大きい物件はどれですか。",
+    "answer": "Cp-04 ヤマダデンキテックランド三原店",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q05"
+  },
+  {
+    "question": "Cp-11の還元利回りは1～2年度と3年度以降で同じですか。",
+    "answer": "同じではありません。1～2年度は4.7％、3年度以降は4.8％です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q06"
+  },
+  {
+    "question": "Rp-22の鑑定評価額と直接還元法による価格の差はいくらですか。",
+    "answer": "9百万円",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q07"
+  },
+  {
+    "question": "商業施設区分のCp-04とCp-05の鑑定評価額の差はいくらですか。",
+    "answer": "1,600百万円",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q08"
+  },
+  {
+    "question": "商業施設区分で鑑定評価額が1,000百万円以上の物件は何件ありますか。",
+    "answer": "9件",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p046_q09"
+  }
+]

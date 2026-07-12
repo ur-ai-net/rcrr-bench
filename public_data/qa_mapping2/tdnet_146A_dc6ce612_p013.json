@@ -1,0 +1,67 @@
+[
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年6月末の流通株主の人数として記載されている値はいくつですか。",
+    "answer": "1,521名",
+    "evidence": "1,521名*（2025年6月末）",
+    "source_element": "in-chart annotation",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m03"
+  },
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年12月末の流通株主の人数として記載されている値はいくつですか。",
+    "answer": "3,075名",
+    "evidence": "3,075名*（2025年12月末）",
+    "source_element": "in-chart annotation",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m04"
+  },
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年6月末の金融機関の割合はいくつですか。",
+    "answer": "18%",
+    "evidence": "2025年6月末のセグメントラベル「18%」、■金融機関 18%→14%に減少",
+    "source_element": "pie/donut segment",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m05"
+  },
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年12月末の金融機関の割合はいくつですか。",
+    "answer": "14%",
+    "evidence": "2025年12月末のセグメントラベル「14%」、■金融機関 18%→14%に減少",
+    "source_element": "pie/donut segment",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m06"
+  },
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年12月末の個人投資家の割合はいくつですか。",
+    "answer": "61%",
+    "evidence": "2025年12月末のセグメントラベル「61%」（個人投資家）",
+    "source_element": "pie/donut segment",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m07"
+  }
+]

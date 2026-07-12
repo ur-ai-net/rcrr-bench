@@ -1,0 +1,15 @@
+[
+ {
+  "question": "沿革と売上高の推移の中で、「東証スタンダード市場に移行」に括弧書きで付されている時期はいつですか。",
+  "answer": "23年10月",
+  "evidence": "「東証スタンダード市場に移行（23年10月）」と示されている。",
+  "source_element": "in-chart annotation",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_4248_a8829d58_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_4248_a8829d58_p022_m03"
+ }
+]

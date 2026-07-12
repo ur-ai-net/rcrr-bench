@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Growing Low Cost Transaction Accounts\".",
+    "level": "L1",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q00"
+  },
+  {
+    "question": "What are the two series shown in the legend?",
+    "answer": "The series are \"Average Transaction Deposits\" and \"Average Time Deposits\".",
+    "level": "L1",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q01"
+  },
+  {
+    "question": "What is the value of \"Average Transaction Deposits\" in YE19?",
+    "answer": "It is \"$3.6\".",
+    "level": "L1",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q02"
+  },
+  {
+    "question": "What is the value of \"Average Time Deposits\" in YE22?",
+    "answer": "It is \"$0.8\".",
+    "level": "L1",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q03"
+  },
+  {
+    "question": "Which deposit type is higher in every year shown?",
+    "answer": "\"Average Transaction Deposits\" is higher in every year shown.",
+    "level": "L2",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q04"
+  },
+  {
+    "question": "What trend is shown for \"Average Time Deposits\" from YE19 to YE22?",
+    "answer": "It declines each year, from \"$1.1\" in YE19 to \"$0.8\" in YE22.",
+    "level": "L2",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q05"
+  },
+  {
+    "question": "What trend is shown for \"Average Transaction Deposits\" from YE19 to YE22?",
+    "answer": "It increases each year, from \"$3.6\" in YE19 to \"$5.9\" in YE22.",
+    "level": "L2",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q06"
+  },
+  {
+    "question": "By how much did \"Average Transaction Deposits\" increase from YE19 to YE22?",
+    "answer": "It increased by \"$2.3\".",
+    "level": "L3",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the two deposit types in YE21?",
+    "answer": "In YE21, \"Average Transaction Deposits\" is \"$5.1\" and \"Average Time Deposits\" is \"$0.9\", so the difference is \"$4.2\".",
+    "level": "L3",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q08"
+  },
+  {
+    "question": "How many years are shown on the chart, and what are they?",
+    "answer": "There are 4 years shown: \"YE19\", \"YE20\", \"YE21\", and \"YE22\".",
+    "level": "L3",
+    "doc_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_011_Bar_with_num_1859843770_20_crop_0_q09"
+  }
+]

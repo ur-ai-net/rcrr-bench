@@ -1,0 +1,67 @@
+[
+  {
+    "question": "FY17〜FY28の推移において、FY28の「売上高」として示されている金額はいくらですか。",
+    "answer": "8,183百万円",
+    "evidence": "売上高 … FY28 に 8,183／単位：百万円",
+    "source_element": "bar data label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m03"
+  },
+  {
+    "question": "FY17〜FY28の推移において、FY22の「自己資本比率」は何％ですか。",
+    "answer": "7.0%",
+    "evidence": "自己資本比率 … FY22 に 7.0%",
+    "source_element": "line point callout",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m04"
+  },
+  {
+    "question": "FY17〜FY28の推移において、FY28の「営業利益率」は何％ですか。",
+    "answer": "28.0%",
+    "evidence": "営業利益率 … FY28 に 28.0%",
+    "source_element": "line point callout",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m05"
+  },
+  {
+    "question": "FY17〜FY28の推移において、FY24の「自己資本」として示されている金額はいくらですか。",
+    "answer": "3,477百万円",
+    "evidence": "自己資本 … FY24 に 3,477／単位：百万円",
+    "source_element": "bar data label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m06"
+  },
+  {
+    "question": "FY17時点の値で比べたとき、「ROIC」と「自己資本比率」のうち値が高いのはどちらですか。",
+    "answer": "自己資本比率",
+    "evidence": "FY17：自己資本比率 53.4%／ROIC 16.6%",
+    "source_element": "line point callout",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m07"
+  }
+]

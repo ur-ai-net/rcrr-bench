@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "AeroEdgeの成長戦略",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q00"
+  },
+  {
+    "question": "ページ右上に記載されている業績の対象期間は何ですか？",
+    "answer": "2026年6月期 2Q業績",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q01"
+  },
+  {
+    "question": "成長戦略01は何を指していますか？",
+    "answer": "チタンアルミブレード加工事業",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q02"
+  },
+  {
+    "question": "成長戦略04は何を指していますか？",
+    "answer": "MRO事業への参入",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q03"
+  },
+  {
+    "question": "このページでは、将来的にどの事業への参入で更なる成長を目指すとしていますか？",
+    "answer": "MRO事業",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q04"
+  },
+  {
+    "question": "新規量産事業として拡大するとされている案件は何ですか？",
+    "answer": "航空機エンジンA、B案件",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q05"
+  },
+  {
+    "question": "チタンアルミブレード新材料の量産実現は、どのような効果を目指していますか？",
+    "answer": "更なる利益拡大",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q06"
+  },
+  {
+    "question": "成長戦略01から04までの数は全部でいくつありますか？",
+    "answer": "4つ",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q07"
+  },
+  {
+    "question": "成長戦略02と成長戦略03の間にある番号は何ですか？",
+    "answer": "02と03の間にある番号はありません",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q08"
+  },
+  {
+    "question": "成長戦略の説明文に含まれる括弧付き番号は何個ありますか？",
+    "answer": "4個",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "当社の成長戦略",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q00"
+  },
+  {
+    "question": "このページで示されているグロース戦略はいくつですか？",
+    "answer": "3つです。",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q01"
+  },
+  {
+    "question": "3つのグロース戦略のうち、ページに記載されている1つ目は何ですか？",
+    "answer": "オーガニックグロースです。",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q02"
+  },
+  {
+    "question": "ページに記載されている投資グロースは、どの時期以降に示されていますか？",
+    "answer": "FY2026以降です。",
+    "level": "L1",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q03"
+  },
+  {
+    "question": "このページの説明から、中期の成長を拡大する方針は何ですか？",
+    "answer": "オーガニックグロース、M&Aグロース、投資グロースの3つです。",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q04"
+  },
+  {
+    "question": "図の中で、最も上位に追加される成長要素として示されているのは何ですか？",
+    "answer": "投資グロースです。",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q05"
+  },
+  {
+    "question": "FY2026以降に向けて、点線で示されている成長の方向性はどうなっていますか？",
+    "answer": "上向きに伸びています。",
+    "level": "L2",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q06"
+  },
+  {
+    "question": "FY2021からFY2026以降までの期間は、何年分の区分がありますか？",
+    "answer": "6区分です。",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q07"
+  },
+  {
+    "question": "FY2026以降の成長イメージでは、オーガニックグロース、M&Aグロース、投資グロースのうち、最も下の層はどれですか？",
+    "answer": "オーガニックグロースです。",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q08"
+  },
+  {
+    "question": "FY2026以降に向けて、図中の点線は何本描かれていますか？",
+    "answer": "3本です。",
+    "level": "L3",
+    "doc_id": "tdnet_3927_0940d83b_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_3927_0940d83b_p044_q09"
+  }
+]

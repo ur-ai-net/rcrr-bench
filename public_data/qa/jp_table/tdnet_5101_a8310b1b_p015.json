@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの表題は何ですか。",
+    "answer": "（３）連結持分変動計算書",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q00"
+  },
+  {
+    "question": "対象となる前連結会計年度の期間はいつからいつまでですか。",
+    "answer": "2024年1月1日から2024年12月31日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q01"
+  },
+  {
+    "question": "2024年1月1日の資本金はいくらですか。",
+    "answer": "38,909百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q02"
+  },
+  {
+    "question": "2024年12月31日の自己株式は何百万円ですか。",
+    "answer": "△15,441百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q03"
+  },
+  {
+    "question": "当期利益は親会社の所有者に帰属する持分を増加させていますか。",
+    "answer": "はい、74,919百万円増加させています。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q04"
+  },
+  {
+    "question": "2024年のその他の包括利益は、在外営業活動体の換算差額とキャッシュ・フロー・ヘッジの両方を含みますか。",
+    "answer": "はい、両方を含みます。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q05"
+  },
+  {
+    "question": "2024年12月31日の非支配持分は2024年1月1日より増加していますか。",
+    "answer": "はい、9,231百万円から10,042百万円に増加しています。",
+    "level": "L2",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q06"
+  },
+  {
+    "question": "2024年12月31日の利益剰余金は2024年1月1日より何百万円増えましたか。",
+    "answer": "109,726百万円増えました。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q07"
+  },
+  {
+    "question": "2024年の当期包括利益は、当期利益より何百万円多いですか。",
+    "answer": "98,666百万円多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q08"
+  },
+  {
+    "question": "2024年12月31日の資本合計は2024年1月1日より何百万円増加しましたか。",
+    "answer": "155,218百万円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_5101_a8310b1b_p015",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_5101_a8310b1b_p015_q09"
+  }
+]

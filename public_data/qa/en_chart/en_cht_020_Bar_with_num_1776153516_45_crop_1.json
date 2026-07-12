@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Effective Bond Portfolio Composition\".",
+    "level": "L1",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q00"
+  },
+  {
+    "question": "What subtitle appears directly under the chart title?",
+    "answer": "The subtitle is \"End of Period\".",
+    "level": "L1",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q01"
+  },
+  {
+    "question": "What percentage of the portfolio was Fixed Rate in Jun. 2023?",
+    "answer": "Fixed Rate was 72% in Jun. 2023.",
+    "level": "L1",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q02"
+  },
+  {
+    "question": "What percentage of the portfolio was Variable Rate in Jun. 2024?",
+    "answer": "Variable Rate was 40% in Jun. 2024.",
+    "level": "L1",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q03"
+  },
+  {
+    "question": "Which rate type is represented by the blue bars, and which by the green bars?",
+    "answer": "Blue bars represent Fixed Rate, and green bars represent Variable Rate.",
+    "level": "L2",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q04"
+  },
+  {
+    "question": "In which month did Fixed Rate and Variable Rate have the smallest gap, and what was that gap?",
+    "answer": "The smallest gap was in Jun. 2024, with a difference of 20 percentage points.",
+    "level": "L2",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q05"
+  },
+  {
+    "question": "What trend is shown for Fixed Rate from Jun. 2023 to Jun. 2024?",
+    "answer": "Fixed Rate declined from 72% to 60% over the period.",
+    "level": "L2",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q06"
+  },
+  {
+    "question": "By how many percentage points did Variable Rate increase from Jun. 2023 to Jun. 2024?",
+    "answer": "Variable Rate increased by 12 percentage points, from 28% to 40%.",
+    "level": "L3",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q07"
+  },
+  {
+    "question": "What is the average Fixed Rate across the five periods shown?",
+    "answer": "The average Fixed Rate is 65.2%.",
+    "level": "L3",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q08"
+  },
+  {
+    "question": "How many total percentage points do Fixed Rate and Variable Rate sum to in each period?",
+    "answer": "They sum to 100% in each period.",
+    "level": "L3",
+    "doc_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_020_Bar_with_num_1776153516_45_crop_1_q09"
+  }
+]

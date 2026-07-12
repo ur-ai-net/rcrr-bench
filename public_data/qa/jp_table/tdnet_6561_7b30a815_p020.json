@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2026年12月期の売上高予想はいくらですか。",
+    "answer": "7,131百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q00"
+  },
+  {
+    "question": "2025年12月期の営業利益はいくらですか。",
+    "answer": "1,998百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q01"
+  },
+  {
+    "question": "2026年12月期の配当予想はいくらですか。",
+    "answer": "42.00円です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q02"
+  },
+  {
+    "question": "2025年12月期の自己資本はいくらですか。",
+    "answer": "4,485百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q03"
+  },
+  {
+    "question": "2026年12月期予想で、売上高の前期比は何％ですか。",
+    "answer": "0.7％減です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q04"
+  },
+  {
+    "question": "2026年12月期予想で、営業利益の前期比は何％ですか。",
+    "answer": "9.9％減です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q05"
+  },
+  {
+    "question": "2026年12月期予想で、配当性向は何％ですか。",
+    "answer": "37.0％です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q06"
+  },
+  {
+    "question": "2026年12月期予想の売上高は、2025年12月期実績より何百万円少ないですか。",
+    "answer": "49百万円少ないです。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q07"
+  },
+  {
+    "question": "2026年12月期予想の当期純利益は、2025年12月期実績より何百万円多いですか。",
+    "answer": "40百万円多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q08"
+  },
+  {
+    "question": "2026年12月期予想の売上高7,131百万円のうち、旅行事業の売上高は何％ですか。",
+    "answer": "約46.0％です。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p020",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p020_q09"
+  }
+]

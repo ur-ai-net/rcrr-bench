@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Rate Base and Earnings per Share\".",
+    "level": "L1",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q00"
+  },
+  {
+    "question": "What years are shown on the x-axis?",
+    "answer": "The years shown are 2008, 2009, 2010, 2011, 2012, 2013, 2014, and 2015.",
+    "level": "L1",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q01"
+  },
+  {
+    "question": "What does the blue bar series represent?",
+    "answer": "The blue bars represent \"Estimated Rate Base (Millions)\".",
+    "level": "L1",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q02"
+  },
+  {
+    "question": "What does the red line series represent?",
+    "answer": "The red line represents \"GAAP Diluted EPS\".",
+    "level": "L1",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q03"
+  },
+  {
+    "question": "Which year shows the highest Estimated Rate Base?",
+    "answer": "2015 shows the highest Estimated Rate Base.",
+    "level": "L2",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q04"
+  },
+  {
+    "question": "Which year shows the lowest GAAP Diluted EPS?",
+    "answer": "2008 shows the lowest GAAP Diluted EPS.",
+    "level": "L2",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q05"
+  },
+  {
+    "question": "Did both Estimated Rate Base and GAAP Diluted EPS increase from 2008 to 2015?",
+    "answer": "Yes. Both series are higher in 2015 than in 2008.",
+    "level": "L2",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q06"
+  },
+  {
+    "question": "By approximately how much did the Estimated Rate Base increase from 2008 to 2015?",
+    "answer": "It increased by about $2,300 million, from roughly $1,100 million to roughly $3,400 million.",
+    "level": "L3",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q07"
+  },
+  {
+    "question": "Between which two consecutive years did GAAP Diluted EPS decline?",
+    "answer": "GAAP Diluted EPS declined from 2012 to 2013.",
+    "level": "L3",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q08"
+  },
+  {
+    "question": "What is the approximate difference between the Estimated Rate Base and GAAP Diluted EPS in 2014, using the chart scales?",
+    "answer": "In 2014, the Estimated Rate Base is about $3,050 million and GAAP Diluted EPS is about $3.00, so the numerical difference on their respective scales is approximately 3,047.",
+    "level": "L3",
+    "doc_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_029_Bar_with_line_1597031099_10_crop_0_q09"
+  }
+]

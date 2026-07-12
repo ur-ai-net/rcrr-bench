@@ -1,0 +1,74 @@
+[
+ {
+  "task_id": "tdnet_3927_0940d83b_p044_m00",
+  "question": "当社の成長戦略の積み上げ面グラフにおいて、最も下の層（土台）に示されているグロース戦略はどれですか。",
+  "answer": "オーガニックグロース",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p044_m01",
+  "question": "当社の成長戦略の積み上げ面グラフにおいて、最も上の層に示されているグロース戦略はどれですか。",
+  "answer": "投資グロース",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p044_m02",
+  "question": "当社の成長戦略の積み上げ面グラフにおいて、M&Aグロースの層はオーガニックグロースの層の上と下のどちらに積み上げられていますか。",
+  "answer": "上",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_3927_0940d83b_p049_m02",
+  "question": "「IT人材の供給動向の予測と平均年齢の推移」のグラフにおいて、中位シナリオの折れ線（2015年を基準とした市場規模指数）の2030年の数値はいくつですか。",
+  "answer": "132.5",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p012_m00",
+  "question": "半導体製造の前工程の図で、「工業化世界初」のバッジが付されている製品はどれですか。",
+  "answer": "六塩化二珪素（HCD）",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4045_3703e672_p012_m02",
+  "question": "「後工程」の図で「現在開発品」の色で示されている製品のうち、「光照射で粘着減」と付記されているのはどれですか。",
+  "answer": "仮固定粘着剤",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_4248_a8829d58_p022_m02",
+  "question": "チャート上部の段階を示す矢印で、「東証への上場」の次に「海外展開の強化」と上下に並列で示されているもう一つの段階は何ですか。",
+  "answer": "資源循環型への転換",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_6034_030bbb04_p023_m02",
+  "question": "「医療人材 医療DX プラットフォーム ASEAN展開」の取り組みは、チャート上のどのレイヤー（帯）に位置付けられていますか。",
+  "answer": "海外",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7318_5bfad038_p011_m02",
+  "question": "図中で点線（破線）の枠で示されている事業領域はどれですか？",
+  "answer": "今後創出する事業領域",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_7409_6fb28ac8_p033_m00",
+  "question": "販売数量のグラフ下部の帯表示によると、26/6期のマーケットシェアはどのように示されていますか？",
+  "answer": "シェア40%",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_8987_20158790_p037_m00",
+  "question": "投資口価格と東証REIT指数の推移グラフにおいて、投資口価格はどちらの軸（左軸・右軸）で示されていますか。",
+  "answer": "左軸",
+  "reason": "owner_review_drop"
+ },
+ {
+  "task_id": "tdnet_9214_c6158887_p031_m00",
+  "question": "ポジショニングマップの縦軸は何を表していますか。",
+  "answer": "満足度",
+  "reason": "owner_review_drop"
+ }
+]

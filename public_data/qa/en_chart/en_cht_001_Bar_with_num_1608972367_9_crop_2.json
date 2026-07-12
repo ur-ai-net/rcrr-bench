@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Consolidated\".",
+    "level": "L1",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q00"
+  },
+  {
+    "question": "What is the total value shown for FY15?",
+    "answer": "The total value for FY15 is 35.",
+    "level": "L1",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q01"
+  },
+  {
+    "question": "What is the total value shown for FY16?",
+    "answer": "The total value for FY16 is 81.",
+    "level": "L1",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q02"
+  },
+  {
+    "question": "What is the total value shown for On-going?",
+    "answer": "The total value for On-going is 118.",
+    "level": "L1",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q03"
+  },
+  {
+    "question": "Which phase is represented by the yellow color in the legend?",
+    "answer": "Yellow represents \"Phase 2\".",
+    "level": "L2",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q04"
+  },
+  {
+    "question": "Which phase appears in all four bars on the chart?",
+    "answer": "\"Phase 1\" appears in all four bars.",
+    "level": "L2",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q05"
+  },
+  {
+    "question": "Which bar includes all three phases: Phase 1, Phase 2, and Phase 3?",
+    "answer": "FY16, FY17, and On-going each include all three phases.",
+    "level": "L2",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q06"
+  },
+  {
+    "question": "By how much does the total increase from FY15 to FY16?",
+    "answer": "The total increases by 46, from 35 to 81.",
+    "level": "L3",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q07"
+  },
+  {
+    "question": "Which phase contributes the largest amount in the On-going bar?",
+    "answer": "\"Phase 2\" contributes the largest amount in the On-going bar.",
+    "level": "L3",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q08"
+  },
+  {
+    "question": "What is the combined total of FY17 and On-going?",
+    "answer": "The combined total is 223, from 105 and 118.",
+    "level": "L3",
+    "doc_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_001_Bar_with_num_1608972367_9_crop_2_q09"
+  }
+]

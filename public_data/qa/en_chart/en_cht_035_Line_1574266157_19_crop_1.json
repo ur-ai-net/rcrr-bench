@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "% of Annual Office Supply Compared to Total Office Stock",
+    "level": "L1",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q00"
+  },
+  {
+    "question": "Which three cities are shown in the legend?",
+    "answer": "London, Paris, and Frankfurt.",
+    "level": "L1",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q01"
+  },
+  {
+    "question": "What year is the first x-axis label on the chart?",
+    "answer": "2010.",
+    "level": "L1",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q02"
+  },
+  {
+    "question": "What is the last x-axis label on the chart?",
+    "answer": "2018F.",
+    "level": "L1",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q03"
+  },
+  {
+    "question": "Which city has the highest value in 2018F?",
+    "answer": "London.",
+    "level": "L2",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q04"
+  },
+  {
+    "question": "Which city appears to have the lowest value in 2015?",
+    "answer": "Frankfurt.",
+    "level": "L2",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q05"
+  },
+  {
+    "question": "Which city shows a generally upward trend from 2010 to 2018F despite some fluctuations?",
+    "answer": "London.",
+    "level": "L2",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q06"
+  },
+  {
+    "question": "By about how many percentage points did London increase from 2010 to 2018F?",
+    "answer": "About 2.3 percentage points, from roughly 1.8% to about 4.1%.",
+    "level": "L3",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q07"
+  },
+  {
+    "question": "Which city had the largest drop between 2014 and 2015?",
+    "answer": "Frankfurt, dropping from about 2.3% to about 1.0%.",
+    "level": "L3",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q08"
+  },
+  {
+    "question": "In 2016F, which city had the highest percentage and which had the lowest?",
+    "answer": "London had the highest percentage and Paris had the lowest.",
+    "level": "L3",
+    "doc_id": "en_cht_035_Line_1574266157_19_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_035_Line_1574266157_19_crop_1_q09"
+  }
+]

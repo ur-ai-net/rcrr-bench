@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"March Unemployment Rates\".",
+    "level": "L1",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q00"
+  },
+  {
+    "question": "What is the National unemployment rate shown for 2016?",
+    "answer": "The National unemployment rate shown for 2016 is 5.0%.",
+    "level": "L1",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q01"
+  },
+  {
+    "question": "Which state is represented by the red line?",
+    "answer": "The red line represents \"South Carolina\".",
+    "level": "L1",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q02"
+  },
+  {
+    "question": "What does the footnote say about the data source scope?",
+    "answer": "It says, \"Data as of February 2016 for Charleston and Columbia metropolitan areas only; not seasonally adjusted\".",
+    "level": "L1",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q03"
+  },
+  {
+    "question": "Which line reaches the highest unemployment rate on the chart, and in what year does it occur?",
+    "answer": "The \"South Carolina\" line reaches the highest rate, peaking in 2009.",
+    "level": "L2",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q04"
+  },
+  {
+    "question": "Which two series are both labeled 5.5% beneath the legend?",
+    "answer": "\"Georgia\" and \"North Carolina\" are both labeled 5.5%.",
+    "level": "L2",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q05"
+  },
+  {
+    "question": "Which series ends at the lowest unemployment rate in 2016?",
+    "answer": "The \"National\" and \"SCE&G Electric Territory*\" series both end at 5.0% in 2016.",
+    "level": "L2",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q06"
+  },
+  {
+    "question": "By how many percentage points did \"South Carolina\" fall from its 2009 peak to 2016?",
+    "answer": "\"South Carolina\" fell from 12.4% in 2009 to 5.7% in 2016, a decline of 6.7 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q07"
+  },
+  {
+    "question": "Which series had the largest drop from 2009 to 2016, and what was the drop?",
+    "answer": "\"South Carolina\" had the largest drop, decreasing from 12.4% in 2009 to 5.7% in 2016, or 6.7 percentage points.",
+    "level": "L3",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q08"
+  },
+  {
+    "question": "How many total series are shown in the legend?",
+    "answer": "There are 5 series shown in the legend.",
+    "level": "L3",
+    "doc_id": "en_cht_036_Line_1604167471_5_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_036_Line_1604167471_5_crop_0_q09"
+  }
+]

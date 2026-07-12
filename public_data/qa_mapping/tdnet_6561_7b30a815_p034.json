@@ -1,0 +1,38 @@
+[
+  {
+    "question": "財務目標のページで、FY20の売上高はいくらですか。",
+    "answer": "948百万円",
+    "evidence": "単位：百万円。FY20の売上高は 948（同年の営業利益は-2,186）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m00"
+  },
+  {
+    "question": "財務目標のページで、FY23の営業利益率は何％ですか。",
+    "answer": "15.9%",
+    "evidence": "営業利益率 … FY23 の点に 15.9%（前後はFY22 -69.2%、FY24 26.0%。同年の下段では自己資本比率19.1%、ROIC 6.7%）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m01"
+  },
+  {
+    "question": "FY17〜FY28の推移のうち、FY28（計画）の「自己資本」として示された金額はいくらですか。",
+    "answer": "7,000百万円",
+    "evidence": "自己資本 … FY28 に 7,000／単位：百万円（同年の自己資本比率は50.0%、ROICは13.2%）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_7b30a815_p034",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p034_m02"
+  }
+]

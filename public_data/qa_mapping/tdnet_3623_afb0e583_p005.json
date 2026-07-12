@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「ビリングシステムの成長の軌跡」において、「PayB 提供開始」と示されているのは何年ですか。",
+    "answer": "2017年",
+    "evidence": "「PayB 提供開始」の注記の矢印が横軸ラベル「2017」の棒を指している。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3623_afb0e583_p005",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p005_m00"
+  },
+  {
+    "question": "「ビリングシステムの成長の軌跡」において、「収納代行 提供開始」と示されているのは何年ですか。",
+    "answer": "2001年",
+    "evidence": "「収納代行 提供開始」の注記の矢印が横軸ラベル「2001」の棒を指している。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3623_afb0e583_p005",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p005_m01"
+  },
+  {
+    "question": "「PayB HUB 提供開始」が示されている年は、「ビリングシステムの成長の軌跡」に示された3つの期間区分のうちどれに含まれますか。",
+    "answer": "各種決済サービスへの積極投資期(16-25)",
+    "evidence": "「PayB HUB 提供開始」の矢印は「2019」の棒を指しており、期間区分として「事業立上げ期(00-04) 決済基盤立上げ・拡大期(05-15) 各種決済サービスへの積極投資期(16-25)」が示されている。",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3623_afb0e583_p005",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p005_m02"
+  }
+]

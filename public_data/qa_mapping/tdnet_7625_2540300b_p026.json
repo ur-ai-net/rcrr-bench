@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「客数」について、2025年12月期 通期の全店の前年対比率はいくつですか？",
+    "answer": "+9.4%",
+    "evidence": "客 数 … 2025年12月期 通期 全店＋９．４％",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_m00"
+  },
+  {
+    "question": "「客単価」について、2025年12月期 通期の全店の前年対比率はいくつですか？",
+    "answer": "+0.8%",
+    "evidence": "客 単 価 … 2025年12月期 通期 全店＋０．８％",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_m01"
+  },
+  {
+    "question": "「客数」の月次推移において、8月に最も高い前年対比率を示している系列はどれですか？",
+    "answer": "国内全店合計",
+    "evidence": "客 数 / 国内全店合計 国内既存店合計 外食業界全体（凡例）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_m02"
+  }
+]

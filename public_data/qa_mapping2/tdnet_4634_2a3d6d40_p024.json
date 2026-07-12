@@ -1,0 +1,67 @@
+[
+  {
+    "question": "「品種別にみた事業規模と収益性の変化」において、「UVインキ」は「成長事業」「収益基盤事業」「構造改革・戦略再構築事業」のうちどれに分類されていますか。",
+    "answer": "成長事業",
+    "evidence": "「UVインキ」の円は「成長事業」を示す橙の区分で描かれている。",
+    "source_element": "series legend",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_m03"
+  },
+  {
+    "question": "「品種別にみた事業規模と収益性の変化」において、「（国内）ラミ接」はどの事業区分に分類されていますか。",
+    "answer": "収益基盤事業",
+    "evidence": "「（国内）ラミ接」の円は「収益基盤事業」を示す薄い水色の区分で描かれている。",
+    "source_element": "series legend",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_m04"
+  },
+  {
+    "question": "「品種別にみた事業規模と収益性の変化」において、「機能性コーディング材」はどの事業区分に分類されていますか。",
+    "answer": "成長事業",
+    "evidence": "「機能性コーディング材」の円は「成長事業」を示す橙の区分で描かれている。",
+    "source_element": "series legend",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_m05"
+  },
+  {
+    "question": "「（国内）ラミ接」と「（海外）ラミ接」のうち、「成長事業」に分類されているのはどちらですか。",
+    "answer": "（海外）ラミ接",
+    "evidence": "「（海外）ラミ接」の円は「成長事業」（橙）、「（国内）ラミ接」の円は「収益基盤事業」（薄い水色）の区分で描かれている。",
+    "source_element": "series legend",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_m06"
+  },
+  {
+    "question": "「（国内）粘着剤」と「（海外）粘着剤」のうち、「成長事業」に分類されているのはどちらですか。",
+    "answer": "（海外）粘着剤",
+    "evidence": "「（海外）粘着剤」の円は「成長事業」（橙）、「（国内）粘着剤」の円は「収益基盤事業」（薄い水色）の区分で描かれている。",
+    "source_element": "series legend",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p024",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p024_m07"
+  }
+]

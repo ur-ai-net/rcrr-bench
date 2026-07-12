@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "（国内）2025年 通期 客数・客単価の前年対比率 月次推移",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q00"
+  },
+  {
+    "question": "客数の2025年12月期 通期の全店合計は何％ですか？",
+    "answer": "＋9.4％",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q01"
+  },
+  {
+    "question": "客単価の2025年12月期 通期の全店合計は何％ですか？",
+    "answer": "＋0.8％",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q02"
+  },
+  {
+    "question": "業界全体の数値は何のデータを参考にしていますか？",
+    "answer": "一般社団法人日本フードサービス協会のデータ",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q03"
+  },
+  {
+    "question": "客数のグラフで、国内全店合計は国内既存店合計より全体的に高いですか？",
+    "answer": "はい",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q04"
+  },
+  {
+    "question": "客単価のグラフで、国内既存店合計は外食業界全体より高い月が多いですか？",
+    "answer": "はい",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q05"
+  },
+  {
+    "question": "客数のグラフで、最も高い月は何月ですか？",
+    "answer": "8月",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q06"
+  },
+  {
+    "question": "客数の通期全店合計＋9.4％は、客単価の通期全店合計＋0.8％より何ポイント高いですか？",
+    "answer": "8.6ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q07"
+  },
+  {
+    "question": "客数のグラフで、8月の国内全店合計は約何％ですか？",
+    "answer": "約＋18％",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q08"
+  },
+  {
+    "question": "客数のグラフで、9月の国内全店合計と国内既存店合計の差は約何ポイントですか？",
+    "answer": "約9ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p026",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p026_q09"
+  }
+]

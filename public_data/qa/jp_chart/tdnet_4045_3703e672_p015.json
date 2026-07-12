@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの成長戦略の注力分野は何ですか？",
+    "answer": "環境インフラシステム（下水道老朽化・耐震防災等の対策製品）です。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q00"
+  },
+  {
+    "question": "陥没事故は年間何件と記載されていますか？",
+    "answer": "2,600件/年です。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q01"
+  },
+  {
+    "question": "塩ビ製マス・マンホールは国内でどのような位置づけですか？",
+    "answer": "国内トップシェアです。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q02"
+  },
+  {
+    "question": "下水道管の老朽化に対する事業として、何への参入が示されていますか？",
+    "answer": "下水道の管路調査・診断事業への参入です。",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q03"
+  },
+  {
+    "question": "道路陥没事故の多発を背景に、需要が増加している製品は何ですか？",
+    "answer": "下水道老朽化対策製品です。",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q04"
+  },
+  {
+    "question": "道路陥没の主な発生箇所はどこだと示されていますか？",
+    "answer": "取付管です。",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q05"
+  },
+  {
+    "question": "このページで示されている事業環境の想定は何ですか？",
+    "answer": "下水道管の老朽化により災害発生リスクが高まり、対策需要が加速することです。",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q06"
+  },
+  {
+    "question": "2025年を100とした場合、2028年（計画）は何%ですか？",
+    "answer": "110%です。",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q07"
+  },
+  {
+    "question": "2025年を100とした場合、2030年（目標）は2025年比で何%増ですか？",
+    "answer": "30%増です。",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q08"
+  },
+  {
+    "question": "2028年（計画）と2030年（目標）の差は何ポイントですか？",
+    "answer": "20ポイントです。",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p015",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p015_q09"
+  }
+]

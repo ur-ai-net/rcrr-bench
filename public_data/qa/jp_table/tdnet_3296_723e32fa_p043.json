@@ -1,0 +1,202 @@
+[
+  {
+    "question": "日本リート投資法人(3296)の当期決算期はいつですか？",
+    "answer": "当期決算期は2025年12月31日です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q00"
+  },
+  {
+    "question": "当期の資産総額計はいくらですか？",
+    "answer": "当期の資産総額計は281,136百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q01"
+  },
+  {
+    "question": "前期の不動産計の保有総額はいくらですか？",
+    "answer": "前期の不動産計の保有総額は1,487百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q02"
+  },
+  {
+    "question": "当期の信託不動産計の対総資産比率は何%ですか？",
+    "answer": "当期の信託不動産計の対総資産比率は90.7%です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q03"
+  },
+  {
+    "question": "「東京経済圏」(注3)とは具体的にどの都道府県を指しますか？",
+    "answer": "「東京経済圏」とは、東京都、神奈川県、千葉県及び埼玉県を指します。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q04"
+  },
+  {
+    "question": "投資有価証券(注5)は、どのような出資持分として記載されていますか？",
+    "answer": "投資有価証券は、合同会社大阪本町ホテルを営業者とする優先匿名組合出資持分です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q05"
+  },
+  {
+    "question": "前期の信託不動産「住宅」の「その他」地域の保有総額はいくらですか？",
+    "answer": "前期の信託不動産「住宅」の「その他」地域の保有総額は3,100百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q06"
+  },
+  {
+    "question": "当期の信託不動産「その他」の「三大都市圏」地域の対総資産比率は何%ですか？",
+    "answer": "当期の信託不動産「その他」の「三大都市圏」地域の対総資産比率は6.4%です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q07"
+  },
+  {
+    "question": "前期と当期で、信託不動産「オフィス」の「東京経済圏」における保有総額はどのように変化しましたか？",
+    "answer": "前期は154,759百万円でしたが、当期は148,953百万円に減少しました。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q08"
+  },
+  {
+    "question": "前期において、信託不動産全体の保有総額のうち、「オフィス」用途が占める割合はどの程度ですか？",
+    "answer": "前期の信託不動産計257,612百万円に対し、信託不動産「オフィス」小計は170,525百万円であり、約66.2%を占めます。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q09"
+  },
+  {
+    "question": "当期において、信託不動産「住宅」の保有総額は、前期と比較して増加しましたか、減少しましたか？",
+    "answer": "前期の信託不動産「住宅」小計は68,769百万円でしたが、当期は65,870百万円に減少しました。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q10"
+  },
+  {
+    "question": "注釈(注2)によると、対総資産比率の合計が小計欄や合計欄の記載と一致しない場合があるのはなぜですか？",
+    "answer": "小数第2位を四捨五入して記載しているため、各比率の合計が一致しない場合があります。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q11"
+  },
+  {
+    "question": "「三大都市圏」(注4)に含まれる「大阪経済圏」は具体的にどの都道府県を指しますか？",
+    "answer": "「大阪経済圏」は大阪府、京都府、兵庫県を指します。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q12"
+  },
+  {
+    "question": "前期の信託不動産「オフィス」において、「東京経済圏」と「三大都市圏（東京経済圏除く）」ではどちらの保有総額が大きいですか？",
+    "answer": "前期では「東京経済圏」が154,759百万円、「三大都市圏（東京経済圏除く）」が14,027百万円であり、「東京経済圏」の方が保有総額が大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q13"
+  },
+  {
+    "question": "当期において、資産総額に対する「預金・その他の資産」の比率は、「投資有価証券」の比率と比較してどの程度大きいですか？",
+    "answer": "当期の「預金・その他の資産」の比率は8.7%、「投資有価証券」の比率は0.0%であり、「預金・その他の資産」の比率の方が8.7%大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q14"
+  },
+  {
+    "question": "当期の信託不動産「オフィス」の「東京経済圏」の保有総額は、前期と比較して何百万円減少しましたか？",
+    "answer": "前期は154,759百万円、当期は148,953百万円なので、5,806百万円（154,759 - 148,953）減少しました。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q15"
+  },
+  {
+    "question": "前期の信託不動産「オフィス」の小計における「東京経済圏」の保有総額の割合（%）を計算せよ。",
+    "answer": "前期の信託不動産「オフィス」小計は170,525百万円、「東京経済圏」は154,759百万円なので、約90.75%（154,759 / 170,525 * 100）を占めます。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q16"
+  },
+  {
+    "question": "当期の資産総額計に対する「不動産計」と「信託不動産計」の合計比率を計算せよ。",
+    "answer": "当期の不動産計の比率は0.5%、信託不動産計の比率は90.7%なので、合計比率は91.2%（0.5% + 90.7%）です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q17"
+  },
+  {
+    "question": "前期の信託不動産「その他」の小計における「その他」地域の保有総額の割合（%）を計算せよ。",
+    "answer": "前期の信託不動産「その他」小計は18,318百万円、「その他」地域は2,029百万円なので、約11.08%（2,029 / 18,318 * 100）を占めます。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q18"
+  },
+  {
+    "question": "当期における「信託不動産」の「オフィス」用途の保有総額は、信託不動産全体の保有総額の何%を占めますか？",
+    "answer": "当期の信託不動産「オフィス」小計は166,561百万円、信託不動産計は255,076百万円なので、約65.30%（166,561 / 255,076 * 100）を占めます。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p043",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p043_q19"
+  }
+]

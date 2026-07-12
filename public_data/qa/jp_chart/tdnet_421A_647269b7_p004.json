@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2026年12月期の売上計画はいくらですか？",
+    "answer": "50億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q00"
+  },
+  {
+    "question": "2026年12月期の営業利益計画はいくらですか？",
+    "answer": "22億9,000万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q01"
+  },
+  {
+    "question": "当社のビジネスは主に何向けですか？",
+    "answer": "BtoBです。",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q02"
+  },
+  {
+    "question": "売上が計上されるタイミングはいつですか？",
+    "answer": "入社が確定し、実際に入社した瞬間です。",
+    "level": "L1",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q03"
+  },
+  {
+    "question": "このビジネスモデルでは、売上の確定が直前になりやすい理由は何ですか？",
+    "answer": "成功報酬型で、入社時に売上が計上されるためです。",
+    "level": "L2",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q04"
+  },
+  {
+    "question": "当社の計画作成は、確定売上を積み上げる方式ですか？",
+    "answer": "いいえ。先に通期目標を置き、それに合わせて組織や運用を整備します。",
+    "level": "L2",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q05"
+  },
+  {
+    "question": "2026年の50億円目標は、いつ頃から見据えて準備を進めていましたか？",
+    "answer": "2025年の早い段階からです。",
+    "level": "L2",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q06"
+  },
+  {
+    "question": "2026年12月期の売上50億円と営業利益22億9,000万円の差はいくらですか？",
+    "answer": "27億1,000万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q07"
+  },
+  {
+    "question": "求人倍率が3.5倍なら、求職者1人に対して求人は何件ありますか？",
+    "answer": "3.5件です。",
+    "level": "L3",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q08"
+  },
+  {
+    "question": "営業利益22億9,000万円は、売上50億円の何％ですか？",
+    "answer": "45.8％です。",
+    "level": "L3",
+    "doc_id": "tdnet_421A_647269b7_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_421A_647269b7_p004_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statements of Stockholders’ Equity (Deficit)\".",
+    "level": "L1",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q00"
+  },
+  {
+    "question": "What period does the statement cover?",
+    "answer": "It covers the \"Three Years Ended December 26, 2015\".",
+    "level": "L1",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q01"
+  },
+  {
+    "question": "What was the total stockholders’ equity (deficit) on December 26, 2015?",
+    "answer": "The total stockholders’ equity (deficit) was \"(412)\" million.",
+    "level": "L1",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q02"
+  },
+  {
+    "question": "How many shares were outstanding on December 27, 2014?",
+    "answer": "There were \"776\" million shares outstanding.",
+    "level": "L1",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q03"
+  },
+  {
+    "question": "Which line item appears in 2014 but not in 2013 or 2015?",
+    "answer": "\"Common stock issued by exercise of warrants\" appears only in 2014.",
+    "level": "L2",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q04"
+  },
+  {
+    "question": "What was the accumulated deficit at December 28, 2013 and at December 26, 2015?",
+    "answer": "The accumulated deficit was \"(6,243)\" million at December 28, 2013 and \"(7,306)\" million at December 26, 2015.",
+    "level": "L2",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q05"
+  },
+  {
+    "question": "Which year shows \"Stock-based compensation related to restructuring and other special charges\"?",
+    "answer": "It appears in 2014, with an amount of \"5\" million.",
+    "level": "L2",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q06"
+  },
+  {
+    "question": "By how much did total stockholders’ equity (deficit) change from December 27, 2014 to December 26, 2015?",
+    "answer": "It changed from \"187\" million to \"(412)\" million, a decrease of \"599\" million.",
+    "level": "L3",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q07"
+  },
+  {
+    "question": "What is the combined amount of stock-based compensation recorded in 2013 and 2014?",
+    "answer": "The combined amount is \"172\" million, from \"91\" million in 2013 and \"81\" million in 2014.",
+    "level": "L3",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q08"
+  },
+  {
+    "question": "How many million shares were added from December 29, 2012 to December 26, 2015?",
+    "answer": "Shares increased from \"713\" million to \"792\" million, so the increase was \"79\" million shares.",
+    "level": "L3",
+    "doc_id": "en_tbl_038_amd_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_038_amd_p059_q09"
+  }
+]

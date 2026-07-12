@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「事業利益増減要因（通期）」において、2026年（通期予想）の「当期事業利益」として示されている金額はいくらですか。",
+    "answer": "1,880億円",
+    "evidence": "「2026年」の位置に「当期事業利益 1,880」と記載（単位は「（億円）」）。左端は「前期事業利益 1,666」（2025年）。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_m00"
+  },
+  {
+    "question": "2026年通期予想の事業利益増減要因のうち、「OHT」要因の増減額はいくらですか。",
+    "answer": "+96億円",
+    "evidence": "「2026年（通期予想）」の増減要因に「OHT +96」と記載。付随の内訳にも「(OHT内訳) +96」と記載。下部の表の上期（+68）・下期（+29）とは別の通期全体値。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_m01"
+  },
+  {
+    "question": "通期予想の事業利益増減要因のうち、「原料価格」要因の内訳に示された「合成ゴム」の増減額はいくらですか。",
+    "answer": "+41億円",
+    "evidence": "「原料価格 +141」に付された内訳に「天然ゴム +15／合成ゴム +41／配合剤 +52／その他 +33」と記載。",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_5101_4a22a7ec_p014",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p014_m02"
+  }
+]

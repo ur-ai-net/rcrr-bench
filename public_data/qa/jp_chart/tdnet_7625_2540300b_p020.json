@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの資料タイトルは何ですか？",
+    "answer": "那須パラダイスヴィレッジ（新業態）の進捗と展望",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q00"
+  },
+  {
+    "question": "このページは何年の取り組みを示していますか？",
+    "answer": "2026年",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q01"
+  },
+  {
+    "question": "商圏のターゲット距離は何kmですか？",
+    "answer": "50km",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q02"
+  },
+  {
+    "question": "愛犬と一緒に宿泊できるプランはいつからスタートしますか？",
+    "answer": "2月",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q03"
+  },
+  {
+    "question": "2025年〜2026年の取り組みは、どのような期と説明されていますか？",
+    "answer": "「体験価値」を創造するソフトビルディング期",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q04"
+  },
+  {
+    "question": "この事業で優先している地域での立ち位置は何ですか？",
+    "answer": "那須エリアにおける独自のポジション確立",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q05"
+  },
+  {
+    "question": "顧客満足度の最大化は、何の基盤になるとされていますか？",
+    "answer": "将来の安定したキャッシュフローの基盤",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q06"
+  },
+  {
+    "question": "閑散期として示されている月は何月と何月ですか？",
+    "answer": "1-2月と6月",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q07"
+  },
+  {
+    "question": "閑散期は全部で何か月分示されていますか？",
+    "answer": "3か月分",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q08"
+  },
+  {
+    "question": "閑散期として示された月のうち、連続している期間は何か月ですか？",
+    "answer": "2か月",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p020",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p020_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q00"
+  },
+  {
+    "question": "Which company is named on the page?",
+    "answer": "The company named is \"AMAZON.COM, INC.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q01"
+  },
+  {
+    "question": "For which years is the statement presented?",
+    "answer": "The statement is presented for the years ended December 31, 2015, 2016, and 2017.",
+    "level": "L1",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q02"
+  },
+  {
+    "question": "What was comprehensive income in 2017?",
+    "answer": "Comprehensive income was $ 3,534 million in 2017.",
+    "level": "L1",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q03"
+  },
+  {
+    "question": "How did total other comprehensive income (loss) change from 2016 to 2017?",
+    "answer": "It changed from (262) in 2016 to 501 in 2017, moving from a loss to a gain.",
+    "level": "L2",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q04"
+  },
+  {
+    "question": "Which component of other comprehensive income (loss) was positive in 2017 but negative in 2015 and 2016?",
+    "answer": "Foreign currency translation adjustments, net of tax of $10, $(49), and $5, was positive at 533 in 2017 but negative at (210) in 2015 and (279) in 2016.",
+    "level": "L2",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q05"
+  },
+  {
+    "question": "What is the relationship between net income and comprehensive income in 2015?",
+    "answer": "Net income was $ 596 million and comprehensive income was $ 384 million, so comprehensive income was lower than net income by $ 212 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q06"
+  },
+  {
+    "question": "By how much did net income increase from 2015 to 2017?",
+    "answer": "Net income increased by $ 2,437 million, from $ 596 million in 2015 to $ 3,033 million in 2017.",
+    "level": "L3",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q07"
+  },
+  {
+    "question": "What is the sum of the 2017 components under \"Net change in unrealized gains (losses) on available-for-sale securities\"?",
+    "answer": "The sum is $(32) million, combining (39), 7, and the resulting net unrealized gains (losses) on available-for-sale securities of (32).",
+    "level": "L3",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q08"
+  },
+  {
+    "question": "How many line items are listed under \"Other comprehensive income (loss):\" before \"Total other comprehensive income (loss)\"?",
+    "answer": "There are 4 line items listed before \"Total other comprehensive income (loss).\"",
+    "level": "L3",
+    "doc_id": "en_tbl_030_amazon_p039",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_030_amazon_p039_q09"
+  }
+]

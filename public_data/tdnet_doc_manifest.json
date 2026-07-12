@@ -1,0 +1,596 @@
+[
+ {
+  "doc_id": "tdnet_1365_de903540_p005",
+  "securities_code": "1365",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1366_ff228a48_p005",
+  "securities_code": "1366",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1367_e1ea0148_p005",
+  "securities_code": "1367",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1368_2589b549_p005",
+  "securities_code": "1368",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1456_126b8add_p005",
+  "securities_code": "1456",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1457_a407969a_p005",
+  "securities_code": "1457",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1466_be4f9845_p005",
+  "securities_code": "1466",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_146A_dc6ce612_p004",
+  "securities_code": "146A",
+  "page": "004",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_146A_dc6ce612_p005",
+  "securities_code": "146A",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_146A_dc6ce612_p006",
+  "securities_code": "146A",
+  "page": "006",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_146A_dc6ce612_p010",
+  "securities_code": "146A",
+  "page": "010",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_146A_dc6ce612_p011",
+  "securities_code": "146A",
+  "page": "011",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_146A_dc6ce612_p012",
+  "securities_code": "146A",
+  "page": "012",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_146A_dc6ce612_p013",
+  "securities_code": "146A",
+  "page": "013",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_1479_1d4c3aa2_p005",
+  "securities_code": "1479",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1593_ba33daa4_p006",
+  "securities_code": "1593",
+  "page": "006",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1599_b4f72ef2_p005",
+  "securities_code": "1599",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_1652_3f5132ee_p005",
+  "securities_code": "1652",
+  "page": "005",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_170A_e053d364_p002",
+  "securities_code": "170A",
+  "page": "002",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_257A_8553bdce_p002",
+  "securities_code": "257A",
+  "page": "002",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3296_723e32fa_p020",
+  "securities_code": "3296",
+  "page": "020",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3296_723e32fa_p021",
+  "securities_code": "3296",
+  "page": "021",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3296_723e32fa_p043",
+  "securities_code": "3296",
+  "page": "043",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3296_723e32fa_p056",
+  "securities_code": "3296",
+  "page": "056",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3296_723e32fa_p060",
+  "securities_code": "3296",
+  "page": "060",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3296_723e32fa_p063",
+  "securities_code": "3296",
+  "page": "063",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3296_723e32fa_p065",
+  "securities_code": "3296",
+  "page": "065",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p013",
+  "securities_code": "3470",
+  "page": "013",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p014",
+  "securities_code": "3470",
+  "page": "014",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p029",
+  "securities_code": "3470",
+  "page": "029",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p035",
+  "securities_code": "3470",
+  "page": "035",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p041",
+  "securities_code": "3470",
+  "page": "041",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p042",
+  "securities_code": "3470",
+  "page": "042",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p046",
+  "securities_code": "3470",
+  "page": "046",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p047",
+  "securities_code": "3470",
+  "page": "047",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3470_f4aa6ed2_p054",
+  "securities_code": "3470",
+  "page": "054",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3623_afb0e583_p005",
+  "securities_code": "3623",
+  "page": "005",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_3623_afb0e583_p035",
+  "securities_code": "3623",
+  "page": "035",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_3807_85a371f0_p010",
+  "securities_code": "3807",
+  "page": "010",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3807_85a371f0_p011",
+  "securities_code": "3807",
+  "page": "011",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_3927_0940d83b_p044",
+  "securities_code": "3927",
+  "page": "044",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_3927_0940d83b_p048",
+  "securities_code": "3927",
+  "page": "048",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_3927_0940d83b_p049",
+  "securities_code": "3927",
+  "page": "049",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_3968_341bc5b6_p032",
+  "securities_code": "3968",
+  "page": "032",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_4045_3703e672_p012",
+  "securities_code": "4045",
+  "page": "012",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_4045_3703e672_p013",
+  "securities_code": "4045",
+  "page": "013",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_4045_3703e672_p015",
+  "securities_code": "4045",
+  "page": "015",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_421A_647269b7_p004",
+  "securities_code": "421A",
+  "page": "004",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_421A_647269b7_p006",
+  "securities_code": "421A",
+  "page": "006",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_4248_a8829d58_p007",
+  "securities_code": "4248",
+  "page": "007",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_4248_a8829d58_p022",
+  "securities_code": "4248",
+  "page": "022",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_4634_2a3d6d40_p024",
+  "securities_code": "4634",
+  "page": "024",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_4634_2a3d6d40_p043",
+  "securities_code": "4634",
+  "page": "043",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_4634_2a3d6d40_p044",
+  "securities_code": "4634",
+  "page": "044",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_5101_4a22a7ec_p007",
+  "securities_code": "5101",
+  "page": "007",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_5101_4a22a7ec_p014",
+  "securities_code": "5101",
+  "page": "014",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_5101_4a22a7ec_p017",
+  "securities_code": "5101",
+  "page": "017",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_5101_a8310b1b_p015",
+  "securities_code": "5101",
+  "page": "015",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_5101_a8310b1b_p016",
+  "securities_code": "5101",
+  "page": "016",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_6034_030bbb04_p023",
+  "securities_code": "6034",
+  "page": "023",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_6034_030bbb04_p028",
+  "securities_code": "6034",
+  "page": "028",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_6561_7b30a815_p007",
+  "securities_code": "6561",
+  "page": "007",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_6561_7b30a815_p013",
+  "securities_code": "6561",
+  "page": "013",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_6561_7b30a815_p020",
+  "securities_code": "6561",
+  "page": "020",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_6561_7b30a815_p031",
+  "securities_code": "6561",
+  "page": "031",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_6561_7b30a815_p034",
+  "securities_code": "6561",
+  "page": "034",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_6561_e67178ee_p025",
+  "securities_code": "6561",
+  "page": "025",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_6561_e67178ee_p035",
+  "securities_code": "6561",
+  "page": "035",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_7314_1d47d4d8_p016",
+  "securities_code": "7314",
+  "page": "016",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7318_5bfad038_p004",
+  "securities_code": "7318",
+  "page": "004",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7318_5bfad038_p007",
+  "securities_code": "7318",
+  "page": "007",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7318_5bfad038_p011",
+  "securities_code": "7318",
+  "page": "011",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7318_5bfad038_p012",
+  "securities_code": "7318",
+  "page": "012",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7318_5bfad038_p013",
+  "securities_code": "7318",
+  "page": "013",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7409_6fb28ac8_p003",
+  "securities_code": "7409",
+  "page": "003",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7409_6fb28ac8_p013",
+  "securities_code": "7409",
+  "page": "013",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7409_6fb28ac8_p033",
+  "securities_code": "7409",
+  "page": "033",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7409_6fb28ac8_p042",
+  "securities_code": "7409",
+  "page": "042",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_7625_2540300b_p013",
+  "securities_code": "7625",
+  "page": "013",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7625_2540300b_p020",
+  "securities_code": "7625",
+  "page": "020",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7625_2540300b_p025",
+  "securities_code": "7625",
+  "page": "025",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7625_2540300b_p026",
+  "securities_code": "7625",
+  "page": "026",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_7625_2540300b_p027",
+  "securities_code": "7625",
+  "page": "027",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_7625_2540300b_p030",
+  "securities_code": "7625",
+  "page": "030",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_8359_ac03550c_p023",
+  "securities_code": "8359",
+  "page": "023",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_8987_20158790_p014",
+  "securities_code": "8987",
+  "page": "014",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_8987_20158790_p037",
+  "securities_code": "8987",
+  "page": "037",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_8987_20158790_p042",
+  "securities_code": "8987",
+  "page": "042",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_8987_20158790_p044",
+  "securities_code": "8987",
+  "page": "044",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_8987_20158790_p046",
+  "securities_code": "8987",
+  "page": "046",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_8987_608c32a3_p013",
+  "securities_code": "8987",
+  "page": "013",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_8987_608c32a3_p014",
+  "securities_code": "8987",
+  "page": "014",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_8987_608c32a3_p030",
+  "securities_code": "8987",
+  "page": "030",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_8987_608c32a3_p031",
+  "securities_code": "8987",
+  "page": "031",
+  "cell": "jp_table"
+ },
+ {
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "securities_code": "9214",
+  "page": "022",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_9214_c6158887_p031",
+  "securities_code": "9214",
+  "page": "031",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_9214_c6158887_p035",
+  "securities_code": "9214",
+  "page": "035",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_9214_c6158887_p044",
+  "securities_code": "9214",
+  "page": "044",
+  "cell": "jp_chart"
+ },
+ {
+  "doc_id": "tdnet_9214_c6158887_p048",
+  "securities_code": "9214",
+  "page": "048",
+  "cell": "jp_chart"
+ }
+]

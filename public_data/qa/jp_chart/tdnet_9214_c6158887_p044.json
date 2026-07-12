@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "短期成長戦略",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q00"
+  },
+  {
+    "question": "拠点間の相互フォローによる効率性向上のため、中心としている展開方法は何ですか？",
+    "answer": "同一沿線上でのドミナント展開",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q01"
+  },
+  {
+    "question": "2025年12月期全体像で出店する地域はどこですか？",
+    "answer": "東京都内 16区（市）",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q02"
+  },
+  {
+    "question": "2026年12月期全体像でエリア拡大する地域として挙げられているのはどこですか？",
+    "answer": "東京都豊島区・板橋区・国分寺市、神奈川県川崎市",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q03"
+  },
+  {
+    "question": "2025年12月期全体像と2026年12月期全体像のどちらが、より広いエリア拡大を示していますか？",
+    "answer": "2026年12月期全体像",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q04"
+  },
+  {
+    "question": "このページでは、事業エリア拡大の理由として何が述べられていますか？",
+    "answer": "拠点間の相互フォローによる効率性向上",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q05"
+  },
+  {
+    "question": "2026年12月期全体像で新たに示された地域は、2025年12月期全体像の記載と比べてどのような違いがありますか？",
+    "answer": "2025年は東京都内16区（市）への出店、2026年は東京都豊島区・板橋区・国分寺市と神奈川県川崎市の拡大が示されている",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q06"
+  },
+  {
+    "question": "2025年12月期全体像では東京都内16区（市）への出店、2026年12月期全体像では4地域の拡大が示されています。増えた地域数はいくつですか？",
+    "answer": "4",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q07"
+  },
+  {
+    "question": "2025年12月期全体像の「東京都内 16区（市）」と、2026年12月期全体像で挙げられた4地域を合計するといくつですか？",
+    "answer": "20",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q08"
+  },
+  {
+    "question": "2026年12月期全体像で挙げられた地域のうち、東京都の地域数と神奈川県の地域数を比べるとどうなりますか？",
+    "answer": "東京都が3地域、神奈川県が1地域",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_q09"
+  }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "question": "訪問看護業界の事業所数の推移において、2020年の事業所数はいくつですか。",
+  "answer": "12,393",
+  "evidence": "12,393（2020年の棒の上に記載）",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p022_m00"
+ },
+ {
+  "question": "2016年の訪問看護事業所数はいくつですか。",
+  "answer": "9,525",
+  "evidence": "9,525（2016年の棒の上に記載）",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p022_m01"
+ },
+ {
+  "question": "「看護職員規模別の事業所割合の推移」において、令和６年（R6）の看護職員５人以上の事業所の割合はいくつですか。",
+  "answer": "46.2%",
+  "evidence": "５人以上（46.2%）（R6の積み上げ棒に赤枠で対応付けられた注記）",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_9214_c6158887_p022",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_9214_c6158887_p022_m02"
+ }
+]

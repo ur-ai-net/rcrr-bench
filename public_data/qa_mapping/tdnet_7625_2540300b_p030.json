@@ -1,0 +1,38 @@
+[
+  {
+    "question": "（国内）コンセプト別営業利益率５期推移において、2023年の権八の営業利益率はいくつですか。",
+    "answer": "24.3%",
+    "evidence": "権八 21.4% 16.5% 24.3% 26.1% 27.5%（2021年〜2025年のデータ表、権八行×2023年列）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_m00"
+  },
+  {
+    "question": "2022年のDinnerの営業利益率はいくつですか。",
+    "answer": "5.4%",
+    "evidence": "Dinner 12.8% 5.4% 12.2% 11.3% 12.4%（2021年〜2025年のデータ表、Dinner行×2022年列）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_m01"
+  },
+  {
+    "question": "2025年において営業利益率が最も低いコンセプトはどれですか。",
+    "answer": "FC&Other",
+    "evidence": "2025年列：ラ・ボエム 19.5%、モンスーン 16.1%、権八 27.5%、ゼスト 13.0%、Dinner 12.4%、FC&Other 6.7%",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7625_2540300b_p030",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p030_m02"
+  }
+]

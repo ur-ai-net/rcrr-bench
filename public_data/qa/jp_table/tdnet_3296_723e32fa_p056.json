@@ -1,0 +1,202 @@
+[
+  {
+    "question": "物件番号A-17の物件名称は何ですか？",
+    "answer": "芝公園三丁目ビルです。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q00"
+  },
+  {
+    "question": "物件番号A-22の運用日数は何日ですか？",
+    "answer": "184日です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q01"
+  },
+  {
+    "question": "物件番号A-23の賃貸事業収益はいくらですか？",
+    "answer": "97,634千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q02"
+  },
+  {
+    "question": "物件番号A-26の管理業務費はいくらですか？",
+    "answer": "3,268千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q03"
+  },
+  {
+    "question": "物件番号A-28の信託報酬はいくらですか？",
+    "answer": "350千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q04"
+  },
+  {
+    "question": "物件番号A-29の物件名称は何ですか？",
+    "answer": "飯田橋リープレックス・ビズです。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q05"
+  },
+  {
+    "question": "物件番号A-30の減価償却費はいくらですか？",
+    "answer": "4,478千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q06"
+  },
+  {
+    "question": "この表の数値の単位は何ですか？",
+    "answer": "千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q07"
+  },
+  {
+    "question": "物件番号A-24の水道光熱費が「非開示」となっている理由は何ですか？",
+    "answer": "エンドテナントより承諾が得られていないためです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q08"
+  },
+  {
+    "question": "物件番号A-27のその他賃貸事業収入に付されている「(注)」は何を意味していますか？",
+    "answer": "2025年6月期に売却済みですが、今期に確定した電気料収入等を計上していることを意味しています。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q09"
+  },
+  {
+    "question": "賃貸NOI (③) は、どの項目からどの項目を引いて算出されますか？",
+    "answer": "賃貸事業収益 (①) から賃貸事業費用 (②) を引いて算出されます。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q10"
+  },
+  {
+    "question": "賃貸事業損益 (⑥) は、どの項目からどの項目を引いて算出されますか？",
+    "answer": "賃貸NOI (③) から減価償却費 (④) と固定資産除却損 (⑤) を引いて算出されます。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q11"
+  },
+  {
+    "question": "物件番号A-19の賃貸事業収益の内訳である賃貸事業収入とその他賃貸事業収入はそれぞれいくらですか？",
+    "answer": "賃貸事業収入は63,605千円、その他賃貸事業収入は8,928千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q12"
+  },
+  {
+    "question": "運用日数が184日ではない物件番号を全て挙げてください。",
+    "answer": "A-29 (57日) です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q13"
+  },
+  {
+    "question": "物件番号A-25の賃貸事業費用を構成する項目の中で、最も金額が大きいのは何ですか？",
+    "answer": "租税公課の7,148千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q14"
+  },
+  {
+    "question": "物件番号A-17の賃貸事業収益234,366千円に対し、賃貸事業費用56,743千円が占める割合（小数点以下第2位を四捨五入）は何パーセントですか？",
+    "answer": "24.22%です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q15"
+  },
+  {
+    "question": "物件番号A-17、A-19、A-21の3物件の賃貸NOIの合計はいくらですか？",
+    "answer": "316,712千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q16"
+  },
+  {
+    "question": "賃貸事業損益が最も高い物件は何ですか？",
+    "answer": "物件番号A-17で159,505千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q17"
+  },
+  {
+    "question": "賃貸事業損益が最も低い物件は何ですか？",
+    "answer": "物件番号A-30で5,668千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q18"
+  },
+  {
+    "question": "物件番号A-28の賃貸事業収益に対する賃貸NOIの割合（賃貸NOI率、小数点以下第2位を四捨五入）は何パーセントですか？",
+    "answer": "79.64%です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p056",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p056_q19"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "事業別セグメント実績（四半期推移）において、FY2025の連結売上高が最も大きいのはどの四半期ですか。",
+    "answer": "第4四半期（Q4）",
+    "evidence": "連結 FY2025 Q1 821／Q2 866／Q3 897／Q4 915",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_m00"
+  },
+  {
+    "question": "事業別セグメント実績（四半期推移）において、ポリマー・塗加工セグメント（合計）のFY2025第2四半期の営業利益はいくらですか。",
+    "answer": "21億円",
+    "evidence": "ポリマー・塗加工 合計 FY2025 Q2 売上高 226 営業利益 21",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_m01"
+  },
+  {
+    "question": "FY2025第1四半期において、営業利益（合計）が最も大きい事業セグメントはどれですか。",
+    "answer": "ポリマー・塗加工",
+    "evidence": "FY2025 Q1 営業利益 合計：色材・機能材 5／ポリマー・塗加工 16／パッケージ 12／印刷・情報 10",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_4634_2a3d6d40_p044",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_4634_2a3d6d40_p044_m02"
+  }
+]

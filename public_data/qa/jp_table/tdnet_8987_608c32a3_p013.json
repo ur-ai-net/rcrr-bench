@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの表は何の計算書ですか。",
+    "answer": "投資主資本等変動計算書です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q00"
+  },
+  {
+    "question": "当期首残高の出資総額は何千円ですか。",
+    "answer": "147,907,649千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q01"
+  },
+  {
+    "question": "当期首残高の出資総額控除額は何千円ですか。",
+    "answer": "△3,999,850千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q02"
+  },
+  {
+    "question": "当期末残高の任意積立金合計は何千円ですか。",
+    "answer": "1,506,268千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q03"
+  },
+  {
+    "question": "自己投資口の消却は当期変動額合計にどのような影響を与えましたか。",
+    "answer": "出資総額（純額）を△3,999,901千円減少させました。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q04"
+  },
+  {
+    "question": "当期変動額合計の圧縮積立金は増加ですか減少ですか。",
+    "answer": "増加です。82,127千円増加しています。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q05"
+  },
+  {
+    "question": "当期末残高の投資主資本合計は、当期首残高から増加しましたか減少しましたか。",
+    "answer": "減少しました。149,074,937千円から145,865,864千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q06"
+  },
+  {
+    "question": "圧縮積立金の積立82,289千円と取崩162千円の差額はいくらですか。",
+    "answer": "82,127千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q07"
+  },
+  {
+    "question": "当期首残高の投資主資本合計149,074,937千円から当期末残高145,865,864千円への増減額はいくらですか。",
+    "answer": "△3,209,073千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q08"
+  },
+  {
+    "question": "当期末残高の剰余金合計5,957,967千円は、当期末残高の当期未処分利益又は当期未処理損失（△）4,451,699千円より何千円多いですか。",
+    "answer": "1,506,268千円多いです。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p013_q09"
+  }
+]

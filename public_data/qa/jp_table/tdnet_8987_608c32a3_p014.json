@@ -1,0 +1,102 @@
+[
+  {
+    "question": "当期首残高の出資総額は何千円ですか。",
+    "answer": "147,907,649千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q00"
+  },
+  {
+    "question": "当期末残高の圧縮積立金は何千円ですか。",
+    "answer": "1,949,714千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q01"
+  },
+  {
+    "question": "当期純利益はいくらですか。",
+    "answer": "4,350,996千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q02"
+  },
+  {
+    "question": "剰余金の分配はいくらですか。",
+    "answer": "△4,008,252千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q03"
+  },
+  {
+    "question": "圧縮積立金の積立と取崩の差し引き後、任意積立金合計は増加しましたか。",
+    "answer": "はい、増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q04"
+  },
+  {
+    "question": "当期末残高の投資主資本合計は当期首残高より増えましたか。",
+    "answer": "はい、増えました。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q05"
+  },
+  {
+    "question": "当期変動額合計の剰余金合計はプラスですか、マイナスですか。",
+    "answer": "プラスです。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q06"
+  },
+  {
+    "question": "圧縮積立金の積立443,609千円から取崩162千円を差し引くといくらですか。",
+    "answer": "443,447千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q07"
+  },
+  {
+    "question": "当期首残高の投資主資本合計145,865,864千円から当期変動額合計342,743千円を加えると当期末残高はいくらですか。",
+    "answer": "146,208,607千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q08"
+  },
+  {
+    "question": "当期末残高の当期未処分利益又は当期未処理損失（△）6,300,710千円は、当期首残高5,957,967千円よりいくら増加しましたか。",
+    "answer": "342,743千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_608c32a3_p014",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_608c32a3_p014_q09"
+  }
+]

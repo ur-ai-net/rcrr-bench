@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the exact name of the registrant shown on the page?",
+    "answer": "The registrant is \"AMCOR PLC\".",
+    "level": "L1",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q00"
+  },
+  {
+    "question": "What is the Date of Report listed on the page?",
+    "answer": "The Date of Report is \"July 1, 2022 (June 30, 2022)\".",
+    "level": "L1",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q01"
+  },
+  {
+    "question": "What is the registrant’s telephone number, including area code?",
+    "answer": "The telephone number is \"+44 117 9753200\".",
+    "level": "L1",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q02"
+  },
+  {
+    "question": "What is the Commission File Number shown for the registrant?",
+    "answer": "The Commission File Number is \"001-38932\".",
+    "level": "L1",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q03"
+  },
+  {
+    "question": "Which exchange is listed for the registrant’s \"Ordinary Shares, par value $0.01 per share\"?",
+    "answer": "The listed exchange is the \"New York Stock Exchange\".",
+    "level": "L2",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q04"
+  },
+  {
+    "question": "What state or other jurisdiction of incorporation is shown, and what IRS Employer Identification No. is listed alongside it?",
+    "answer": "The jurisdiction of incorporation is \"Jersey\" and the IRS Employer Identification No. is \"98-1455367\".",
+    "level": "L2",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q05"
+  },
+  {
+    "question": "Is the registrant identified as an emerging growth company?",
+    "answer": "No. The page shows \"Emerging Growth Company ¨\".",
+    "level": "L2",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q06"
+  },
+  {
+    "question": "How many securities are listed under \"Securities registered pursuant to Section 12(b) of the Act\"?",
+    "answer": "There are 2 securities listed.",
+    "level": "L3",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q07"
+  },
+  {
+    "question": "What is the difference in years between the Date of Report year and the year in the IRS Employer Identification No.?",
+    "answer": "The Date of Report year is 2022 and the IRS Employer Identification No. contains \"98-1455367\"; the page does not provide a comparable year in the IRS number, so no year difference can be calculated from the page alone.",
+    "level": "L3",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q08"
+  },
+  {
+    "question": "How many check boxes are shown under the statement about simultaneous filing obligations?",
+    "answer": "There are 4 check boxes shown.",
+    "level": "L3",
+    "doc_id": "en_tbl_033_amcor_p001",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_033_amcor_p001_q09"
+  }
+]

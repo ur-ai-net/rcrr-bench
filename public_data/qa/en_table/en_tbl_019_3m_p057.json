@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is shown on the statement?",
+    "answer": "3M Company and Subsidiaries.",
+    "level": "L1",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q00"
+  },
+  {
+    "question": "What is the title of the statement on this page?",
+    "answer": "Consolidated Statement of Comprehensive Income.",
+    "level": "L1",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q01"
+  },
+  {
+    "question": "What years are presented in the table?",
+    "answer": "2018, 2017, and 2016.",
+    "level": "L1",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q02"
+  },
+  {
+    "question": "What was \"Net income including noncontrolling interest\" in 2018?",
+    "answer": "$ 5,363 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q03"
+  },
+  {
+    "question": "Which line item had the largest negative amount in 2018 among the other comprehensive income components?",
+    "answer": "Cumulative translation adjustment, at (467).",
+    "level": "L2",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q04"
+  },
+  {
+    "question": "What was the total other comprehensive income (loss), net of tax, for 2017 and 2016?",
+    "answer": "It was 222 in 2017 and (888) in 2016.",
+    "level": "L2",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q05"
+  },
+  {
+    "question": "What is the relationship between \"Comprehensive income (loss) including noncontrolling interest\" and \"Comprehensive income (loss) attributable to 3M\" in 2018?",
+    "answer": "The 2018 comprehensive income (loss) including noncontrolling interest was 5,516, and after subtracting the noncontrolling interest amount of (8), the amount attributable to 3M was $ 5,508.",
+    "level": "L2",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q06"
+  },
+  {
+    "question": "By how much did \"Comprehensive income (loss) attributable to 3M\" increase from 2017 to 2018?",
+    "answer": "It increased by $ 431 million, from $ 5,077 to $ 5,508.",
+    "level": "L3",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q07"
+  },
+  {
+    "question": "What is the difference between the 2018 and 2016 values for \"Defined benefit pension and postretirement plans adjustment\"?",
+    "answer": "The difference is 968, from 444 in 2018 to (524) in 2016.",
+    "level": "L3",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q08"
+  },
+  {
+    "question": "How many line items are listed before the final total \"Comprehensive income (loss) attributable to 3M\"?",
+    "answer": "There are 5 line items before the final total: net income including noncontrolling interest, three other comprehensive income components, and total other comprehensive income (loss), net of tax.",
+    "level": "L3",
+    "doc_id": "en_tbl_019_3m_p057",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_019_3m_p057_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "株価推移｜通期ベースで業績が反映されるタイミング",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q00"
+  },
+  {
+    "question": "このページで「株価は堅調に推移」と示されているか？",
+    "answer": "はい",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q01"
+  },
+  {
+    "question": "2026年2月13日終値の株価はいくらですか？",
+    "answer": "1,265円",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q02"
+  },
+  {
+    "question": "2025年2月13日終値の株価はいくらですか？",
+    "answer": "420円",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q03"
+  },
+  {
+    "question": "サーテックカリヤの業績が通期で反映されるのはいつと示されていますか？",
+    "answer": "2026年5月",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q04"
+  },
+  {
+    "question": "株価推移の説明では、業績が反映されるタイミングは通期ベースですか？",
+    "answer": "はい",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q05"
+  },
+  {
+    "question": "このページでは、株価は約何倍になったと示されていますか？",
+    "answer": "約3倍",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q06"
+  },
+  {
+    "question": "2026年2月13日終値1,265円は、2025年2月13日終値420円の何倍ですか？",
+    "answer": "約3.01倍",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q07"
+  },
+  {
+    "question": "1,265円と420円の差はいくらですか？",
+    "answer": "845円",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q08"
+  },
+  {
+    "question": "2026年2月13日終値1,265円は、420円から何円増加していますか？",
+    "answer": "845円",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p013_q09"
+  }
+]

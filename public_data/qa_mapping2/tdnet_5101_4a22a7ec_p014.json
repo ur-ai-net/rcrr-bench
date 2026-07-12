@@ -1,0 +1,28 @@
+[
+ {
+  "question": "「事業利益増減要因（通期）」において、2026年通期予想の「為替差」要因の増減額として示されているのはいくらですか。",
+  "answer": "▲10億円",
+  "evidence": "「2026年（通期予想）」の増減要因に「為替差 ▲10」と記載（単位「（億円）」）。",
+  "source_element": "waterfall step label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_5101_4a22a7ec_p014",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_5101_4a22a7ec_p014_m03"
+ },
+ {
+  "question": "「事業利益増減要因（通期）」において、2026年通期予想の「固定費」要因の増減額として示されているのはいくらですか。",
+  "answer": "▲71億円",
+  "evidence": "「2026年（通期予想）」の増減要因に「固定費 ▲71」と記載（単位「（億円）」）。",
+  "source_element": "waterfall step label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_5101_4a22a7ec_p014",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_5101_4a22a7ec_p014_m04"
+ }
+]

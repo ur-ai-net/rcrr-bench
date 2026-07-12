@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Average Loans and Leases ($B)\".",
+    "level": "L1",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q00"
+  },
+  {
+    "question": "How many time periods are shown on the x-axis?",
+    "answer": "There are 5 time periods shown: 1Q15, 2Q15, 3Q15, 4Q15, and 1Q16.",
+    "level": "L1",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q01"
+  },
+  {
+    "question": "What is the total value for 1Q16?",
+    "answer": "The total value for 1Q16 is \"$215\".",
+    "level": "L1",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q02"
+  },
+  {
+    "question": "Which category is represented by the dark blue color?",
+    "answer": "The dark blue color represents \"U.S. consumer credit card\".",
+    "level": "L1",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q03"
+  },
+  {
+    "question": "Which category increased from 19 in 1Q15 to 25 in 1Q16?",
+    "answer": "\"Other\" increased from 19 in 1Q15 to 25 in 1Q16.",
+    "level": "L2",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q04"
+  },
+  {
+    "question": "Which category stayed at 43 in both 4Q15 and 1Q16?",
+    "answer": "\"Home equity\" stayed at 43 in both 4Q15 and 1Q16.",
+    "level": "L2",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q05"
+  },
+  {
+    "question": "Which category had the largest value in 1Q16, and what was that value?",
+    "answer": "\"U.S. consumer credit card\" had the largest value in 1Q16 at 84.",
+    "level": "L2",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q06"
+  },
+  {
+    "question": "By how much did the total value increase from 1Q15 to 1Q16?",
+    "answer": "The total increased by \"$15B\", from \"$200\" to \"$215\".",
+    "level": "L3",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q07"
+  },
+  {
+    "question": "What is the combined value of \"Consumer vehicle lending\" and \"Residential mortgage\" in 4Q15?",
+    "answer": "The combined value is 64, from 43 for \"Consumer vehicle lending\" and 21 for \"Residential mortgage\".",
+    "level": "L3",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q08"
+  },
+  {
+    "question": "What is the difference between \"U.S. consumer credit card\" and \"Home equity\" in 2Q15?",
+    "answer": "The difference is 39, because \"U.S. consumer credit card\" is 84 and \"Home equity\" is 45.",
+    "level": "L3",
+    "doc_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_002_Bar_with_num_1592013111_14_crop_4_q09"
+  }
+]

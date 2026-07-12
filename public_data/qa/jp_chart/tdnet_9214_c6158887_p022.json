@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "訪問看護業界の事業所数と規模別割合の推移",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q00"
+  },
+  {
+    "question": "事業所数は毎年どのように推移していますか？",
+    "answer": "毎年増加傾向で推移しています。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q01"
+  },
+  {
+    "question": "看護職員数が5人未満の事業所は全体の何割程度ですか？",
+    "answer": "全体の約5割です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q02"
+  },
+  {
+    "question": "看護職員数が7人未満の事業所は全体の何割程度ですか？",
+    "answer": "7〜8割です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q03"
+  },
+  {
+    "question": "このページでは、小規模運営の事業所が多いといえる理由は何ですか？",
+    "answer": "看護職員数が5人未満の事業所が約5割、7人未満が7〜8割だからです。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q04"
+  },
+  {
+    "question": "事業所数の増加傾向から読み取れることは何ですか？",
+    "answer": "訪問看護事業所の数が拡大していることです。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q05"
+  },
+  {
+    "question": "看護職員規模別の事業所割合の推移は、どのような特徴がありますか？",
+    "answer": "小規模の割合が高い状態が続いています。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q06"
+  },
+  {
+    "question": "2013年の事業所数は何件ですか？",
+    "answer": "7,153件です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q07"
+  },
+  {
+    "question": "2013年から2024年までの事業所数の増加数はいくつですか？",
+    "answer": "10,889件です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q08"
+  },
+  {
+    "question": "2024年の事業所数は2013年の何倍ですか？",
+    "answer": "約2.52倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p022",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p022_q09"
+  }
+]

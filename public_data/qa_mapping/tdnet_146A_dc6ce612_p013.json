@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年6月末の個人投資家の割合はいくつですか。",
+    "answer": "35%",
+    "evidence": "2025年6月末のドーナツのセグメントラベル「35%」、凡例「個人投資家」",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m00"
+  },
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年12月末の外国法人の割合はいくつですか。",
+    "answer": "19%",
+    "evidence": "2025年12月末のドーナツのセグメントラベル「19%」、凡例「外国法人 16%→19%に増加」",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m01"
+  },
+  {
+    "question": "「流通株主（役員除く）構成変化」において、2025年12月末に最も割合が大きい株主区分はどれですか。",
+    "answer": "個人投資家",
+    "evidence": "2025年12月末のドーナツ：61%（個人投資家）、19%（外国法人）、14%（金融機関）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p013",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p013_m02"
+  }
+]

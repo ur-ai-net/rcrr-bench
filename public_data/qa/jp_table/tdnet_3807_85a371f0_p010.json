@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの表題は何ですか。",
+    "answer": "株主資本等変動計算書です。",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q00"
+  },
+  {
+    "question": "前事業年度の対象期間はいつからいつまでですか。",
+    "answer": "2024年1月1日から2024年12月31日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q01"
+  },
+  {
+    "question": "当期首残高の資本金はいくらですか。",
+    "answer": "14,857千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q02"
+  },
+  {
+    "question": "当期末残高の新株予約権はいくらですか。",
+    "answer": "5,996千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q03"
+  },
+  {
+    "question": "前事業年度の当期純損失はいくらですか。",
+    "answer": "297,680千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q04"
+  },
+  {
+    "question": "当期末残高の株主資本合計は当期首残高より増加しましたか、減少しましたか。",
+    "answer": "減少しました。",
+    "level": "L2",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q05"
+  },
+  {
+    "question": "当期末残高の純資産合計は、当期首残高からどれだけ増減しましたか。",
+    "answer": "183,613千円増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q06"
+  },
+  {
+    "question": "当期首残高の株主資本合計304,833千円から当期末残高7,153千円への変化額はいくらですか。",
+    "answer": "297,680千円の減少です。",
+    "level": "L3",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q07"
+  },
+  {
+    "question": "当期末残高のその他有価証券評価差額金223,619千円は、当期首残高△254,403千円からいくら変化しましたか。",
+    "answer": "478,023千円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q08"
+  },
+  {
+    "question": "当期末残高の純資産合計236,769千円は、当期首残高53,155千円の何倍ですか。",
+    "answer": "約4.45倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_3807_85a371f0_p010",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3807_85a371f0_p010_q09"
+  }
+]

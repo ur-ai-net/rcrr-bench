@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is named in the title of the consolidated statements of changes in shareholders’ equity?",
+    "answer": "The company is \"ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q00"
+  },
+  {
+    "question": "For what years are the consolidated statements of changes in shareholders’ equity presented?",
+    "answer": "They are presented for the years ended December 31, 2019, 2018, and 2017.",
+    "level": "L1",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q01"
+  },
+  {
+    "question": "What was the total shareholders’ equity at December 31, 2019?",
+    "answer": "Total shareholders’ equity was $12,805 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q02"
+  },
+  {
+    "question": "What amount of dividends was reported for 2018?",
+    "answer": "Dividends were $259 million, shown as \"Dividends ($0.34 per common share).\"",
+    "level": "L1",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q03"
+  },
+  {
+    "question": "Which year shows the cumulative impact from adoption of a new revenue accounting standard, and what was the effect on total shareholders’ equity?",
+    "answer": "It appears in 2018, with an effect of $91 million on total shareholders’ equity.",
+    "level": "L2",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q04"
+  },
+  {
+    "question": "What was the net income reported for 2017 and 2019, and which year was higher?",
+    "answer": "Net income was $273 million in 2017 and $1,503 million in 2019. 2019 was higher.",
+    "level": "L2",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q05"
+  },
+  {
+    "question": "How did accumulated other comprehensive income (loss) change from December 31, 2018 to December 31, 2019?",
+    "answer": "It changed from $(601) million to $(619) million, a decrease of $18 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q06"
+  },
+  {
+    "question": "What is the difference between total shareholders’ equity at December 31, 2019 and December 31, 2016?",
+    "answer": "Total shareholders’ equity increased by $3,686 million, from $9,119 million to $12,805 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q07"
+  },
+  {
+    "question": "How many common stock shares were outstanding at December 31, 2017, 2018, and 2019, and what was the total increase from 2017 to 2019?",
+    "answer": "The shares were 1,186 million in 2017, 1,192 million in 2018, and 1,197 million in 2019. The total increase from 2017 to 2019 was 11 million shares.",
+    "level": "L3",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q08"
+  },
+  {
+    "question": "What is the combined amount of share-based compensation expense related to employee stock options and restricted stock units for 2018 and 2019?",
+    "answer": "The combined amount is $375 million, consisting of $211 million in 2018 and $164 million in 2019.",
+    "level": "L3",
+    "doc_id": "en_tbl_024_activisionblizzard_p072",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_024_activisionblizzard_p072_q09"
+  }
+]

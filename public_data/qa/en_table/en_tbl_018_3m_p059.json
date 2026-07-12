@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is named in the title of the statement?",
+    "answer": "The statement is for \"3M Company and Subsidiaries.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q00"
+  },
+  {
+    "question": "What is the title of this financial statement?",
+    "answer": "It is the \"Consolidated Statement of Changes in Equity.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q01"
+  },
+  {
+    "question": "For what years is the statement presented?",
+    "answer": "The statement covers the \"Years Ended December 31\" for 2018, 2017, and 2016.",
+    "level": "L1",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q02"
+  },
+  {
+    "question": "What was the balance at December 31, 2018?",
+    "answer": "The balance at December 31, 2018 was \"$ 9,848\" million.",
+    "level": "L1",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q03"
+  },
+  {
+    "question": "Which line item shows a negative change of \"(4,888)\" in 2018?",
+    "answer": "The line item is \"Reacquired stock.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q04"
+  },
+  {
+    "question": "What was the total other comprehensive income (loss), net of tax, in 2017, and what was the main cumulative translation adjustment that year?",
+    "answer": "Total other comprehensive income (loss), net of tax, was \"222\" million in 2017, and the \"Cumulative translation adjustment\" was \"373\" million.",
+    "level": "L2",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q05"
+  },
+  {
+    "question": "Which year had the largest dividends declared per share, and what was the amount?",
+    "answer": "2018 had the largest dividends declared per share at \"$5.44 per share.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q06"
+  },
+  {
+    "question": "By how much did the total balance change from December 31, 2017 to December 31, 2018?",
+    "answer": "The total balance decreased by \"$1,774\" million, from \"$11,622\" million to \"$9,848\" million.",
+    "level": "L3",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q07"
+  },
+  {
+    "question": "How many treasury shares were outstanding at the ending balance on December 31, 2018, and how does that compare with December 31, 2017?",
+    "answer": "The ending treasury stock balance was \"367,457,888\" shares in 2018, compared with \"349,148,819\" shares in 2017.",
+    "level": "L3",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q08"
+  },
+  {
+    "question": "What is the net effect of \"Reacquired stock\" and \"Issuances pursuant to stock option and benefit plans\" on total equity in 2018?",
+    "answer": "The net effect was a decrease of \"$4,388\" million, combining \"(4,888)\" million for reacquired stock and \"500\" million for issuances pursuant to stock option and benefit plans.",
+    "level": "L3",
+    "doc_id": "en_tbl_018_3m_p059",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_018_3m_p059_q09"
+  }
+]

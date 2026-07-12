@@ -1,0 +1,202 @@
+[
+  {
+    "question": "この決算短信の対象となるETFの名称は何ですか？",
+    "answer": "iFreeETF MSCI 日本株女性活躍指数(WIN)です。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q00"
+  },
+  {
+    "question": "このETFの証券コードは何ですか？",
+    "answer": "1652です。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q01"
+  },
+  {
+    "question": "第17期の報告基準日はいつですか？",
+    "answer": "2026年1月10日現在です。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q02"
+  },
+  {
+    "question": "第16期における売買目的有価証券の当計算期間の損益に含まれた評価差額はいくらですか？",
+    "answer": "48,956,282円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q03"
+  },
+  {
+    "question": "コール・ローン等の金銭債権及び金銭債務等の時価は、何にほぼ等しいとされていますか？",
+    "answer": "帳簿価額にほぼ等しいとされています。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q04"
+  },
+  {
+    "question": "第17期における株価指数先物取引（買建）の時価はいくらですか？",
+    "answer": "15,902,500円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q05"
+  },
+  {
+    "question": "注記3によると、契約額等には何が含まれていませんか？",
+    "answer": "手数料相当額が含まれていません。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q06"
+  },
+  {
+    "question": "株価指数先物取引の残高は、どのようなベースで表示されていますか？",
+    "answer": "契約額ベースで表示されています。",
+    "level": "L1",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q07"
+  },
+  {
+    "question": "有価証券の時価の算定方法に関する詳細な情報は、どこに記載されていますか？",
+    "answer": "「重要な会計方針に係る事項に関する注記」に記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q08"
+  },
+  {
+    "question": "デリバティブ取引に関する注記において、どのようなデリバティブ取引が記載されていますか？",
+    "answer": "ヘッジ会計が適用されていないデリバティブ取引が記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q09"
+  },
+  {
+    "question": "第16期から第17期にかけて、売買目的有価証券の当計算期間の損益に含まれた評価差額はどのように変化しましたか？",
+    "answer": "第16期は48,956,282円でしたが、第17期には129,850,956円に増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q10"
+  },
+  {
+    "question": "株価指数先物取引の時価は、原則としてどのように評価されると注記1にありますか？",
+    "answer": "計算期間末日に知りうる直近の日の主たる取引所の発表する清算値段又は最終相場で評価されます。",
+    "level": "L2",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q11"
+  },
+  {
+    "question": "コール・ローン等の金銭債権及び金銭債務等の時価が帳簿価額にほぼ等しいとされる主な理由は何ですか？",
+    "answer": "これらが短期間で決済されるため、時価と帳簿価額に大きな差が生じにくいからです。",
+    "level": "L2",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q12"
+  },
+  {
+    "question": "第17期における株価指数先物取引（買建）の評価損益は、第16期と比較してどのように変化しましたか？",
+    "answer": "第16期は19,200円の評価損益でしたが、第17期には629,500円に増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q13"
+  },
+  {
+    "question": "注記4によると、契約額等及び時価の合計欄の金額は、それぞれ何を表していますか？",
+    "answer": "各々の合計金額を表しています。",
+    "level": "L2",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q14"
+  },
+  {
+    "question": "第16期における株価指数先物取引（買建）の評価損益は、契約額等に対して何パーセントですか？（小数点以下第2位を四捨五入）",
+    "answer": "契約額等10,156,800円に対し評価損益19,200円なので、約0.19%です。",
+    "level": "L3",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q15"
+  },
+  {
+    "question": "第17期における株価指数先物取引（買建）の評価損益は、契約額等に対して何パーセントですか？（小数点以下第2位を四捨五入）",
+    "answer": "契約額等15,273,000円に対し評価損益629,500円なので、約4.12%です。",
+    "level": "L3",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q16"
+  },
+  {
+    "question": "第16期から第17期にかけて、売買目的有価証券の当計算期間の損益に含まれた評価差額の増加率は何パーセントですか？（小数点以下第2位を四捨五入）",
+    "answer": "第16期は48,956,282円、第17期は129,850,956円なので、増加率は約165.23%です。",
+    "level": "L3",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q17"
+  },
+  {
+    "question": "株価指数先物取引において、第16期と第17期の両方で、時価と契約額等の関係性からどのような傾向が読み取れますか？",
+    "answer": "両期間ともに時価が契約額等を上回っており、評価益が発生している傾向が読み取れます。",
+    "level": "L3",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q18"
+  },
+  {
+    "question": "このページに記載されている金融商品の時価の算定方法の記述から、会社が時価評価を重視していることがどのように示唆されますか？",
+    "answer": "有価証券やデリバティブ取引について詳細な注記を参照するよう指示し、コール・ローン等についても短期間で決済されるため時価が帳簿価額にほぼ等しいと明記していることから、金融商品の時価評価を適切に行うことを重視していると示唆されます。",
+    "level": "L3",
+    "doc_id": "tdnet_1652_3f5132ee_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1652_3f5132ee_p005_q19"
+  }
+]

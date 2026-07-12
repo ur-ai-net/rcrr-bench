@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「営業利益計画差異分析」において、期初営利予算（期初計画）として示されている値はいくらですか。",
+    "answer": "4,729百万円",
+    "evidence": "4,729（期初の棒のラベル）、期初計画4,729百万円→5,600百万円",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_m00"
+  },
+  {
+    "question": "「営業利益計画差異分析」において、11月末時点４Q計画の値はいくらですか。",
+    "answer": "871百万円",
+    "evidence": "871（棒の上のラベル）、横軸ラベル「11月末時点４Q計画」",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_m01"
+  },
+  {
+    "question": "「営業利益計画差異分析」に示されている、通期営利実績の期初計画差異はいくらですか。",
+    "answer": "+1,300百万円",
+    "evidence": "期初計画差異 ＋1,300百万円",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_146A_dc6ce612_p006",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p006_m02"
+  }
+]

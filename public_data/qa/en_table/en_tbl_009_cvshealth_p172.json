@@ -1,0 +1,102 @@
+[
+  {
+    "question": "As of December 31, 2022, how many store leases did the Company guarantee, excluding the lease guarantees related to Linens ‘n Things?",
+    "answer": "The Company guaranteed 67 such store leases.",
+    "level": "L1",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q00"
+  },
+  {
+    "question": "Through what year did the maximum remaining lease term extend for the guaranteed store leases?",
+    "answer": "The maximum remaining lease term extended through 2034.",
+    "level": "L1",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q01"
+  },
+  {
+    "question": "Which former subsidiaries are specifically named as having been sold or spun off between 1995 and 1997?",
+    "answer": "Bob’s Stores and Linens ‘n Things are named, and Marshalls is also mentioned.",
+    "level": "L1",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q02"
+  },
+  {
+    "question": "What was the Company's total guaranty fund assessments liability at both December 31, 2022 and 2021?",
+    "answer": "The Company’s total guaranty fund assessments liability was immaterial at both December 31, 2022 and 2021.",
+    "level": "L1",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q03"
+  },
+  {
+    "question": "Why could the Company be required to satisfy lease obligations for former subsidiaries' store leases?",
+    "answer": "If any of the purchasers or any of the former subsidiaries fail to make the required payments under a store lease, the Company could be required to satisfy those obligations.",
+    "level": "L2",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q04"
+  },
+  {
+    "question": "What factor does the page say increases the risk that the Company will have to satisfy lease obligations under its guarantees?",
+    "answer": "Any significant adverse impact of COVID-19 on such purchasers and/or former subsidiaries increases the risk.",
+    "level": "L2",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q05"
+  },
+  {
+    "question": "How are the Company’s assessments for guaranty fund laws generally determined?",
+    "answer": "They are generally based on a formula relating to the Company’s health care premiums in the state compared to the premiums of other insurers.",
+    "level": "L2",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q06"
+  },
+  {
+    "question": "What is the difference in years between the earliest and latest dates mentioned for the subsidiary dispositions and the lease guarantee horizon?",
+    "answer": "The subsidiary dispositions are described as occurring between 1995 and 1997, while the lease guarantees extend through 2034, so the span from 1995 to 2034 is 39 years.",
+    "level": "L3",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q07"
+  },
+  {
+    "question": "How does the page distinguish between the treatment of Linens ‘n Things lease guarantees and the other 67 store lease guarantees?",
+    "answer": "The lease guarantees related to Linens ‘n Things have been recorded as a liability on the consolidated balance sheets, while the other 67 store leases are excluded from that liability reference.",
+    "level": "L3",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q08"
+  },
+  {
+    "question": "What structural categories are used in this page to discuss the Company’s contingent obligations and risks?",
+    "answer": "The page is organized into the sections \"Lease Guarantees,\" \"Guaranty Fund Assessments, Market Stabilization and Other Non-Voluntary Risk Sharing Pools,\" and \"Litigation and Regulatory Proceedings.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_009_cvshealth_p172",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_009_cvshealth_p172_q09"
+  }
+]

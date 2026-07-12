@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title at the top of the page?",
+    "answer": "The title is \"India: A Growing Market\".",
+    "level": "L1",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q00"
+  },
+  {
+    "question": "What is the chart title in the center of the page?",
+    "answer": "The chart title is \"Indian Crop Nutrient Shipments\".",
+    "level": "L1",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q01"
+  },
+  {
+    "question": "What are the three legend categories shown in the chart?",
+    "answer": "The three categories are \"Phosphate (Domestic)\", \"Phosphate (Import)\", and \"Potash\".",
+    "level": "L1",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q02"
+  },
+  {
+    "question": "What source is listed at the bottom left of the page?",
+    "answer": "The source is \"Mosaic Estimates\".",
+    "level": "L1",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q03"
+  },
+  {
+    "question": "Which year on the chart is marked with \"F\" and appears at the far right?",
+    "answer": "The far-right forecast year is \"2018F\".",
+    "level": "L2",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q04"
+  },
+  {
+    "question": "What does the arrow labeled \"+50% Expected\" indicate about the chart's outlook?",
+    "answer": "It indicates that shipments are expected to rise by about 50% toward the forecast period.",
+    "level": "L2",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q05"
+  },
+  {
+    "question": "Which nutrient category is represented by the yellow bars?",
+    "answer": "The yellow bars represent \"Potash\".",
+    "level": "L2",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q06"
+  },
+  {
+    "question": "In 2018F, what are the three segment values shown inside the stacked bar?",
+    "answer": "The segments are labeled 4, 8, and 6.",
+    "level": "L3",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q07"
+  },
+  {
+    "question": "Using the 2018F segment labels, what is the total shipment value for that year?",
+    "answer": "The total is 18 million tonnes.",
+    "level": "L3",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q08"
+  },
+  {
+    "question": "Which is larger in 2018F: \"Phosphate (Import)\" or \"Potash\", and by how much?",
+    "answer": "\"Phosphate (Import)\" is larger by 2 million tonnes, with 8 versus 6 for \"Potash\".",
+    "level": "L3",
+    "doc_id": "en_cht_041_Bar_1302003983_64_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_041_Bar_1302003983_64_crop_0_q09"
+  }
+]

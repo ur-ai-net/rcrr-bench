@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「過去5年のキャッシュフロー推移」において、営業CFがマイナスとなっているのは何年ですか。",
+    "answer": "2022年",
+    "evidence": "凡例「営業CF」の棒が横軸「2022」でのみ0を下回っている（他の年はプラス）。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_m00"
+  },
+  {
+    "question": "「預り金影響を除いた実態ベースのキャッシュフロー推移」において、実質営業CFが最も高いのは何年ですか。",
+    "answer": "2021年",
+    "evidence": "凡例「実質営業CF」の棒は横軸「2021」が最も高い（2021 > 2024 > 2023 > 2025 > 2022）。",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_m01"
+  },
+  {
+    "question": "「預り金影響を除いた実態ベースのキャッシュフロー推移」において、実質FCFが最も低いのは何年ですか。",
+    "answer": "2022年",
+    "evidence": "凡例「実質FCF」の折れ線は横軸「2022」で最も低い値まで落ち込んでいる。",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_3623_afb0e583_p035",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_3623_afb0e583_p035_m02"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2026年6月期2Qの売上高進捗率は何%ですか。",
+    "answer": "49.0%",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q00"
+  },
+  {
+    "question": "2026年6月期2Qの営業利益進捗率は何%ですか。",
+    "answer": "69.0%",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q01"
+  },
+  {
+    "question": "2026年6月期2Qの売上高通期予想は何百万円ですか。",
+    "answer": "5,050百万円",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q02"
+  },
+  {
+    "question": "2026年6月期2Qの営業利益通期予想は何百万円ですか。",
+    "answer": "1,070百万円",
+    "level": "L1",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q03"
+  },
+  {
+    "question": "25/6期2Qの売上高進捗率が100%未満であることから、2Q実績は通期実績の半分未満ですか。",
+    "answer": "はい",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q04"
+  },
+  {
+    "question": "図では2Q受託開発売上分減少の要因として何が示されていますか。",
+    "answer": "取引先年末休暇による販売数減",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q05"
+  },
+  {
+    "question": "季節性の説明として、2Qの受託開発売上は約いくらと示されていますか。",
+    "answer": "約3億円",
+    "level": "L2",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q06"
+  },
+  {
+    "question": "2026年6月期2Qの売上高は通期予想5,050百万円の何百万円分ですか。",
+    "answer": "2,473百万円",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q07"
+  },
+  {
+    "question": "2026年6月期2Qの営業利益進捗率69.0%は、25/6期2Qの42.3%より何ポイント高いですか。",
+    "answer": "26.7ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q08"
+  },
+  {
+    "question": "2026年6月期2Qの売上高進捗率49.0%と25/6期2Qの47.0%では、どちらが高く、差は何ポイントですか。",
+    "answer": "2026年6月期2Qが高く、差は2.0ポイントです",
+    "level": "L3",
+    "doc_id": "tdnet_7409_6fb28ac8_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p013_q09"
+  }
+]

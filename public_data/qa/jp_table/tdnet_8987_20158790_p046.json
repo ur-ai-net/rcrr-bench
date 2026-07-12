@@ -1,0 +1,102 @@
+[
+  {
+    "question": "第39期（2025.12）の資産合計はいくらですか。",
+    "answer": "291,192百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q00"
+  },
+  {
+    "question": "第38期（2025.6）の現金及び預金はいくらですか。",
+    "answer": "4,332百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q01"
+  },
+  {
+    "question": "第39期（2025.12）の信託不動産はいくらですか。",
+    "answer": "254,366百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q02"
+  },
+  {
+    "question": "第39期（2025.12）の負債合計はいくらですか。",
+    "answer": "144,983百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q03"
+  },
+  {
+    "question": "資産合計に占める固定資産の構成比は、第39期で何％ですか。",
+    "answer": "94.5％です。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q04"
+  },
+  {
+    "question": "第39期の純資産合計が負債合計を上回っているかどうか。",
+    "answer": "上回っています。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q05"
+  },
+  {
+    "question": "第39期の流動負債は、固定負債より少ないですか。",
+    "answer": "はい、少ないです。",
+    "level": "L2",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q06"
+  },
+  {
+    "question": "第39期の資産合計は第38期より何百万円減少しましたか。",
+    "answer": "4,573百万円減少しました。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q07"
+  },
+  {
+    "question": "第39期の長期借入金は第38期より何百万円増加しましたか。",
+    "answer": "4,210百万円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q08"
+  },
+  {
+    "question": "第39期の流動負債と固定負債の合計はいくらですか。",
+    "answer": "144,983百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_q09"
+  }
+]

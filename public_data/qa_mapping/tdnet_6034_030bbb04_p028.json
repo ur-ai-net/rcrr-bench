@@ -1,0 +1,38 @@
+[
+  {
+    "question": "医師人材ビジネス市場のページで、医師人材/教育・情報プラットフォーム/データビジネスの市場規模はいくらと示されていますか。",
+    "answer": "2,676億円",
+    "evidence": "■医師人材/教育・情報プラットフォーム/データビジネス 2,676億円(29.2%増)",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_m00"
+  },
+  {
+    "question": "2030年予測において、「医師人材ビジネス」「教育・情報プラットフォームビジネス」「データビジネス」の3区分のうち金額が最も大きい区分はどれですか。",
+    "answer": "データビジネス",
+    "evidence": "3区分：医師人材ビジネス／教育・情報プラットフォームビジネス／データビジネス。2030年予測ではデータビジネスの金額が最も大きい",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_m01"
+  },
+  {
+    "question": "医師人材ビジネス市場のページに示された年のうち、「予測」と付されているのは何年ですか。",
+    "answer": "2030年",
+    "evidence": "2022年 2023年 2024年 2025年見込 2030年予測",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_m02"
+  }
+]

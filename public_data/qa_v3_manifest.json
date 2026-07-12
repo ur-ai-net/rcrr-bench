@@ -1,0 +1,7914 @@
+{
+ "summary": {
+  "total": 1240,
+  "by_status": {
+   "kept": 1053,
+   "review": 70,
+   "excluded": 117
+  },
+  "excluded_by_reason": {
+   "audit_v3:both_impossible": 2,
+   "legacy_audit:gold_wrong": 21,
+   "legacy_audit:not_on_page": 4,
+   "self_contained": 73,
+   "legacy_audit:chart_geometry": 20,
+   "legacy_audit:ambiguous": 1
+  },
+  "kept_by_cell": {
+   "jp_table": 664,
+   "jp_chart": 389
+  },
+  "review_task_ids": [
+   "tdnet_1365_de903540_p005_q15",
+   "tdnet_1456_126b8add_p005_q04",
+   "tdnet_1456_126b8add_p005_q14",
+   "tdnet_1457_a407969a_p005_q01",
+   "tdnet_146A_dc6ce612_p005_q00",
+   "tdnet_146A_dc6ce612_p005_q01",
+   "tdnet_146A_dc6ce612_p005_q03",
+   "tdnet_146A_dc6ce612_p011_q01",
+   "tdnet_1593_ba33daa4_p006_q11",
+   "tdnet_1593_ba33daa4_p006_q12",
+   "tdnet_1593_ba33daa4_p006_q16",
+   "tdnet_1593_ba33daa4_p006_q18",
+   "tdnet_1599_b4f72ef2_p005_q13",
+   "tdnet_1652_3f5132ee_p005_q16",
+   "tdnet_1652_3f5132ee_p005_q19",
+   "tdnet_170A_e053d364_p002_q09",
+   "tdnet_170A_e053d364_p002_q12",
+   "tdnet_257A_8553bdce_p002_q02",
+   "tdnet_3296_723e32fa_p020_q07",
+   "tdnet_3296_723e32fa_p020_q09",
+   "tdnet_3296_723e32fa_p043_q17",
+   "tdnet_3296_723e32fa_p056_q18",
+   "tdnet_3296_723e32fa_p056_q19",
+   "tdnet_3296_723e32fa_p060_q13",
+   "tdnet_3296_723e32fa_p060_q16",
+   "tdnet_3296_723e32fa_p063_q08",
+   "tdnet_3296_723e32fa_p065_q05",
+   "tdnet_3296_723e32fa_p065_q16",
+   "tdnet_3470_f4aa6ed2_p014_q06",
+   "tdnet_3470_f4aa6ed2_p029_q09",
+   "tdnet_3470_f4aa6ed2_p041_q09",
+   "tdnet_3470_f4aa6ed2_p042_q05",
+   "tdnet_3470_f4aa6ed2_p047_q00",
+   "tdnet_3470_f4aa6ed2_p054_q07",
+   "tdnet_3623_afb0e583_p005_q07",
+   "tdnet_3807_85a371f0_p011_q04",
+   "tdnet_3968_341bc5b6_p032_q07",
+   "tdnet_3968_341bc5b6_p032_q09",
+   "tdnet_4045_3703e672_p012_q01",
+   "tdnet_4045_3703e672_p013_q01",
+   "tdnet_4045_3703e672_p015_q07",
+   "tdnet_4045_3703e672_p015_q08",
+   "tdnet_4248_a8829d58_p022_q05",
+   "tdnet_4248_a8829d58_p022_q06",
+   "tdnet_4248_a8829d58_p022_q09",
+   "tdnet_5101_4a22a7ec_p007_q09",
+   "tdnet_5101_4a22a7ec_p014_q05",
+   "tdnet_5101_a8310b1b_p016_q06",
+   "tdnet_6034_030bbb04_p023_q01",
+   "tdnet_6561_7b30a815_p007_q04",
+   "tdnet_6561_7b30a815_p013_q09",
+   "tdnet_6561_e67178ee_p025_q02",
+   "tdnet_7314_1d47d4d8_p016_q08",
+   "tdnet_7314_1d47d4d8_p016_q09",
+   "tdnet_7318_5bfad038_p004_q06",
+   "tdnet_7318_5bfad038_p011_q01",
+   "tdnet_7318_5bfad038_p011_q03",
+   "tdnet_7409_6fb28ac8_p003_q08",
+   "tdnet_7625_2540300b_p020_q00",
+   "tdnet_7625_2540300b_p026_q04",
+   "tdnet_7625_2540300b_p026_q05",
+   "tdnet_7625_2540300b_p026_q06",
+   "tdnet_8987_20158790_p014_q02",
+   "tdnet_8987_20158790_p037_q04",
+   "tdnet_8987_20158790_p042_q05",
+   "tdnet_8987_608c32a3_p030_q04",
+   "tdnet_8987_608c32a3_p031_q05",
+   "tdnet_8987_608c32a3_p031_q07",
+   "tdnet_9214_c6158887_p031_q09",
+   "tdnet_9214_c6158887_p048_q02"
+  ]
+ },
+ "questions": {
+  "tdnet_1365_de903540_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1365_de903540_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1365_de903540_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1365_de903540_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1365_de903540_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1365_de903540_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1365_de903540_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1365_de903540_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1365_de903540_p005_q15": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1365_de903540_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1365_de903540_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1365_de903540_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1365_de903540_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1366_ff228a48_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1366_ff228a48_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1366_ff228a48_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1366_ff228a48_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1366_ff228a48_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1366_ff228a48_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1366_ff228a48_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1366_ff228a48_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1366_ff228a48_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1366_ff228a48_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1366_ff228a48_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1366_ff228a48_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1366_ff228a48_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1367_e1ea0148_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1367_e1ea0148_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1367_e1ea0148_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1367_e1ea0148_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1367_e1ea0148_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1367_e1ea0148_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1367_e1ea0148_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1367_e1ea0148_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1367_e1ea0148_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1367_e1ea0148_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1367_e1ea0148_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1367_e1ea0148_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1367_e1ea0148_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1368_2589b549_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1368_2589b549_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1368_2589b549_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1368_2589b549_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1368_2589b549_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1368_2589b549_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1368_2589b549_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1368_2589b549_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1368_2589b549_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1368_2589b549_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1368_2589b549_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1368_2589b549_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1368_2589b549_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1456_126b8add_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q04": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1456_126b8add_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1456_126b8add_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1456_126b8add_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1456_126b8add_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1456_126b8add_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1456_126b8add_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1456_126b8add_p005_q14": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1456_126b8add_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1456_126b8add_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1456_126b8add_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1456_126b8add_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1456_126b8add_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1457_a407969a_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q01": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1457_a407969a_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1457_a407969a_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1457_a407969a_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1457_a407969a_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1457_a407969a_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1457_a407969a_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1457_a407969a_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1457_a407969a_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1457_a407969a_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1457_a407969a_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1457_a407969a_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1457_a407969a_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1466_be4f9845_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1466_be4f9845_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1466_be4f9845_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1466_be4f9845_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1466_be4f9845_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1466_be4f9845_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1466_be4f9845_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1466_be4f9845_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1466_be4f9845_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1466_be4f9845_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1466_be4f9845_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1466_be4f9845_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1466_be4f9845_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p005_q00": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q01": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q03": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p010_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p010_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p010_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p010_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p010_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p010_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p010_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p010_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p010_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p010_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p010_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p010_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p010_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q14": {
+   "status": "excluded",
+   "reasons": [
+    "audit_v3:both_impossible"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1479_1d4c3aa2_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1593_ba33daa4_p006_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1593_ba33daa4_p006_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1593_ba33daa4_p006_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1593_ba33daa4_p006_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1593_ba33daa4_p006_q11": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1593_ba33daa4_p006_q12": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1593_ba33daa4_p006_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1593_ba33daa4_p006_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1593_ba33daa4_p006_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1593_ba33daa4_p006_q16": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1593_ba33daa4_p006_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1593_ba33daa4_p006_q18": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1593_ba33daa4_p006_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1599_b4f72ef2_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1599_b4f72ef2_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1599_b4f72ef2_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1599_b4f72ef2_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1599_b4f72ef2_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1599_b4f72ef2_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1599_b4f72ef2_p005_q13": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1599_b4f72ef2_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1599_b4f72ef2_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1599_b4f72ef2_p005_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1599_b4f72ef2_p005_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1599_b4f72ef2_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1599_b4f72ef2_p005_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1652_3f5132ee_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_1652_3f5132ee_p005_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1652_3f5132ee_p005_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1652_3f5132ee_p005_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1652_3f5132ee_p005_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1652_3f5132ee_p005_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1652_3f5132ee_p005_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1652_3f5132ee_p005_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_1652_3f5132ee_p005_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1652_3f5132ee_p005_q16": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1652_3f5132ee_p005_q17": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1652_3f5132ee_p005_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_1652_3f5132ee_p005_q19": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_170A_e053d364_p002_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_170A_e053d364_p002_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_170A_e053d364_p002_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_170A_e053d364_p002_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_170A_e053d364_p002_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_170A_e053d364_p002_q12": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_170A_e053d364_p002_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_170A_e053d364_p002_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_170A_e053d364_p002_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_170A_e053d364_p002_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_170A_e053d364_p002_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_170A_e053d364_p002_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_170A_e053d364_p002_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_257A_8553bdce_p002_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q02": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_257A_8553bdce_p002_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_257A_8553bdce_p002_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_257A_8553bdce_p002_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_257A_8553bdce_p002_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_257A_8553bdce_p002_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_257A_8553bdce_p002_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_257A_8553bdce_p002_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_257A_8553bdce_p002_q15": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:not_on_page"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_257A_8553bdce_p002_q16": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:not_on_page"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_257A_8553bdce_p002_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_257A_8553bdce_p002_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_257A_8553bdce_p002_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p020_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q07": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p020_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p020_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p020_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p020_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p020_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p020_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p020_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p020_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p020_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p020_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p020_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p020_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p021_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p021_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p021_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p021_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p021_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p021_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p021_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p021_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p021_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p021_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p021_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p021_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p021_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p043_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p043_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p043_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p043_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p043_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p043_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p043_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p043_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p043_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p043_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p043_q17": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p043_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p043_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p056_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p056_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p056_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p056_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p056_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p056_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p056_q13": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p056_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p056_q15": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p056_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p056_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p056_q18": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p056_q19": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p060_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q07": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p060_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p060_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p060_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p060_q11": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p060_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p060_q13": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p060_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p060_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p060_q16": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p060_q17": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p060_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p060_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p063_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p063_q08": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p063_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p063_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p063_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p063_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p063_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p063_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p063_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p063_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p063_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p063_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p063_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p065_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q05": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3296_723e32fa_p065_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p065_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p065_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p065_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p065_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p065_q13": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p065_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3296_723e32fa_p065_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p065_q16": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p065_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p065_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3296_723e32fa_p065_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q04": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p013_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q06": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p014_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q15": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q18": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p029_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q10": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q11": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q12": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q13": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q14": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q15": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q16": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q17": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q18": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p035_q19": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q06": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p041_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q05": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q07": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:not_on_page"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p042_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p046_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q00": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p047_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q07": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3470_f4aa6ed2_p054_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3807_85a371f0_p010_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p010_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p010_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p010_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p010_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3807_85a371f0_p010_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3807_85a371f0_p010_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3807_85a371f0_p010_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3807_85a371f0_p010_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3807_85a371f0_p010_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3807_85a371f0_p011_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p011_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p011_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p011_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_3807_85a371f0_p011_q04": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3807_85a371f0_p011_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3807_85a371f0_p011_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_3807_85a371f0_p011_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3807_85a371f0_p011_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_3807_85a371f0_p011_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4248_a8829d58_p007_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p007_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p007_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p007_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p007_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4248_a8829d58_p007_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4248_a8829d58_p007_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4248_a8829d58_p007_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4248_a8829d58_p007_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4248_a8829d58_p007_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p043_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p043_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p043_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p043_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p043_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p043_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p043_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p043_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p043_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p043_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p044_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p044_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p044_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p044_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p044_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p044_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p044_q06": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p044_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p044_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p044_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_5101_a8310b1b_p015_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p015_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p015_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p015_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p015_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_5101_a8310b1b_p015_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_5101_a8310b1b_p015_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_5101_a8310b1b_p015_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_5101_a8310b1b_p015_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_5101_a8310b1b_p015_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_5101_a8310b1b_p016_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p016_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p016_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p016_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_5101_a8310b1b_p016_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_5101_a8310b1b_p016_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_5101_a8310b1b_p016_q06": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_5101_a8310b1b_p016_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_5101_a8310b1b_p016_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_5101_a8310b1b_p016_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p013_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p013_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p013_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p013_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p013_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p013_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p020_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p020_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p020_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p020_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p020_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p020_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p020_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p020_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p020_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p020_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_e67178ee_p035_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p035_q01": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:not_on_page"
+   ],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p035_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p035_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p035_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_e67178ee_p035_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_e67178ee_p035_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_6561_e67178ee_p035_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_e67178ee_p035_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_6561_e67178ee_p035_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p042_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p042_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p042_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p042_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p042_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p042_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p042_q06": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p042_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p042_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p042_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p027_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p027_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p027_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p027_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p027_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p027_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p027_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p027_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p027_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p027_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p042_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p042_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p042_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p042_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p042_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p042_q05": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p042_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p042_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p042_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p042_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p044_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p044_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p044_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p044_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p044_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p044_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p044_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p044_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p044_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p044_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p046_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p046_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p046_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p046_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p046_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p046_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p046_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p046_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p046_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p046_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p013_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p013_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p013_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p013_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p013_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p013_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p014_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p014_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p014_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p014_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p014_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p014_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p014_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p014_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p014_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p014_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p030_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p030_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p030_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p030_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p030_q04": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p030_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p030_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p030_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p030_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p030_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p031_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p031_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p031_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p031_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L1"
+  },
+  "tdnet_8987_608c32a3_p031_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p031_q05": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p031_q06": {
+   "status": "excluded",
+   "reasons": [
+    "audit_v3:both_impossible"
+   ],
+   "cell": "jp_table",
+   "level": "L2"
+  },
+  "tdnet_8987_608c32a3_p031_q07": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p031_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_8987_608c32a3_p031_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_table",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p004_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p004_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p004_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p004_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p004_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p004_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p004_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p004_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p004_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p004_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p006_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p006_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p006_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p006_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p006_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p006_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p006_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p006_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p006_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p006_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p011_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p011_q01": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p011_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p011_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p011_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p011_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p011_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p011_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p011_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p011_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p012_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p012_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p012_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p012_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p012_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p012_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p012_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p012_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p012_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p012_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p013_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p013_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_146A_dc6ce612_p013_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_146A_dc6ce612_p013_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p013_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_146A_dc6ce612_p013_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3623_afb0e583_p005_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p005_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p005_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p005_q03": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p005_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3623_afb0e583_p005_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3623_afb0e583_p005_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3623_afb0e583_p005_q07": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3623_afb0e583_p005_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry",
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3623_afb0e583_p005_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3623_afb0e583_p035_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p035_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p035_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p035_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3623_afb0e583_p035_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3623_afb0e583_p035_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3623_afb0e583_p035_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3623_afb0e583_p035_q07": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3623_afb0e583_p035_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3623_afb0e583_p035_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p044_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p044_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p044_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p044_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p044_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p044_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p044_q06": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p044_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p044_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p044_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p048_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p048_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p048_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p048_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p048_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p048_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p048_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p048_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p048_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p048_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p049_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p049_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p049_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p049_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3927_0940d83b_p049_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p049_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p049_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3927_0940d83b_p049_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p049_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3927_0940d83b_p049_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3968_341bc5b6_p032_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3968_341bc5b6_p032_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3968_341bc5b6_p032_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3968_341bc5b6_p032_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_3968_341bc5b6_p032_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3968_341bc5b6_p032_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3968_341bc5b6_p032_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_3968_341bc5b6_p032_q07": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3968_341bc5b6_p032_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_3968_341bc5b6_p032_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p012_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p012_q01": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p012_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p012_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p012_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p012_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p012_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p012_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p012_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p012_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p013_q01": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p013_q02": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p013_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p013_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p013_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry",
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p013_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry",
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p015_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p015_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p015_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p015_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4045_3703e672_p015_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p015_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p015_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4045_3703e672_p015_q07": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p015_q08": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4045_3703e672_p015_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_421A_647269b7_p004_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p004_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p004_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p004_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p004_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_421A_647269b7_p004_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_421A_647269b7_p004_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_421A_647269b7_p004_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_421A_647269b7_p004_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_421A_647269b7_p004_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_421A_647269b7_p006_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p006_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p006_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p006_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_421A_647269b7_p006_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_421A_647269b7_p006_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_421A_647269b7_p006_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_421A_647269b7_p006_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_421A_647269b7_p006_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_421A_647269b7_p006_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4248_a8829d58_p022_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p022_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p022_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p022_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4248_a8829d58_p022_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4248_a8829d58_p022_q05": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4248_a8829d58_p022_q06": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4248_a8829d58_p022_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4248_a8829d58_p022_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4248_a8829d58_p022_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p024_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p024_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p024_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p024_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_4634_2a3d6d40_p024_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p024_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p024_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_4634_2a3d6d40_p024_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p024_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_4634_2a3d6d40_p024_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p007_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p007_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p007_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p007_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p007_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p007_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p007_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p007_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p007_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p007_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p014_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p014_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p014_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p014_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p014_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p014_q05": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p014_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p014_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p014_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p014_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p017_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p017_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p017_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p017_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_5101_4a22a7ec_p017_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p017_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p017_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_5101_4a22a7ec_p017_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p017_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_5101_4a22a7ec_p017_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6034_030bbb04_p023_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p023_q01": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p023_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p023_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p023_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6034_030bbb04_p023_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6034_030bbb04_p023_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6034_030bbb04_p023_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6034_030bbb04_p023_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6034_030bbb04_p023_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6034_030bbb04_p028_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p028_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p028_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p028_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6034_030bbb04_p028_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6034_030bbb04_p028_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6034_030bbb04_p028_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6034_030bbb04_p028_q07": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6034_030bbb04_p028_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6034_030bbb04_p028_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry",
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p007_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p007_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p007_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p007_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p007_q04": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p007_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p007_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p007_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p007_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p007_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p031_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p031_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p031_q02": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:ambiguous"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p031_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p031_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p031_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p031_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p031_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p031_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p031_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p034_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p034_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p034_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p034_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p034_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_7b30a815_p034_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p034_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p034_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_7b30a815_p034_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_7b30a815_p034_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_e67178ee_p025_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p025_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p025_q02": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p025_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_6561_e67178ee_p025_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_e67178ee_p025_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_e67178ee_p025_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_6561_e67178ee_p025_q07": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_e67178ee_p025_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_6561_e67178ee_p025_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7314_1d47d4d8_p016_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7314_1d47d4d8_p016_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7314_1d47d4d8_p016_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7314_1d47d4d8_p016_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7314_1d47d4d8_p016_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7314_1d47d4d8_p016_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7314_1d47d4d8_p016_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7314_1d47d4d8_p016_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7314_1d47d4d8_p016_q08": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7314_1d47d4d8_p016_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p004_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p004_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p004_q02": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p004_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p004_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p004_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p004_q06": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p004_q07": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p004_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p004_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p007_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p007_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p007_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p007_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p007_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p007_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p007_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p007_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p007_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p007_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p011_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p011_q01": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p011_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p011_q03": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p011_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p011_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p011_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p011_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p011_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p011_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p012_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p012_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p012_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p012_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p012_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p012_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p012_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p012_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p012_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p012_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p013_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p013_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7318_5bfad038_p013_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7318_5bfad038_p013_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p013_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7318_5bfad038_p013_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p003_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p003_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p003_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p003_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p003_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p003_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p003_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p003_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p003_q08": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p003_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p013_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p013_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p013_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p013_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p013_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p013_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p033_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p033_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p033_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p033_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7409_6fb28ac8_p033_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p033_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p033_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7409_6fb28ac8_p033_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p033_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7409_6fb28ac8_p033_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p013_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p013_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p013_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p013_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p013_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p013_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p013_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p013_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p013_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p013_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p020_q00": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p020_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p020_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p020_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p020_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p020_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p020_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p020_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p020_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p020_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p025_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p025_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p025_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p025_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p025_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p025_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p025_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p025_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p025_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p025_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p026_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p026_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p026_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p026_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p026_q04": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p026_q05": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p026_q06": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p026_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p026_q08": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p026_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:chart_geometry"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p030_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p030_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p030_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p030_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_7625_2540300b_p030_q04": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p030_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p030_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_7625_2540300b_p030_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p030_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_7625_2540300b_p030_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8359_ac03550c_p023_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8359_ac03550c_p023_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8359_ac03550c_p023_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8359_ac03550c_p023_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8359_ac03550c_p023_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8359_ac03550c_p023_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8359_ac03550c_p023_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8359_ac03550c_p023_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8359_ac03550c_p023_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8359_ac03550c_p023_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p014_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p014_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p014_q02": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p014_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p014_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p014_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p014_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p014_q07": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p014_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p014_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p037_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p037_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p037_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p037_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_8987_20158790_p037_q04": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p037_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p037_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_8987_20158790_p037_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p037_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_8987_20158790_p037_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p022_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p022_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p022_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p022_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p022_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p022_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p022_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p022_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p022_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p022_q09": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p031_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p031_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p031_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p031_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p031_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p031_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p031_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p031_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p031_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p031_q09": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p035_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p035_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p035_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p035_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p035_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p035_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p035_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p035_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p035_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p035_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p044_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p044_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p044_q02": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p044_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p044_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p044_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p044_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p044_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p044_q08": {
+   "status": "excluded",
+   "reasons": [
+    "self_contained"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p044_q09": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p048_q00": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p048_q01": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p048_q02": {
+   "status": "review",
+   "reasons": [
+    "audit_v3:split_verdict"
+   ],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p048_q03": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L1"
+  },
+  "tdnet_9214_c6158887_p048_q04": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p048_q05": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p048_q06": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L2"
+  },
+  "tdnet_9214_c6158887_p048_q07": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p048_q08": {
+   "status": "kept",
+   "reasons": [],
+   "cell": "jp_chart",
+   "level": "L3"
+  },
+  "tdnet_9214_c6158887_p048_q09": {
+   "status": "excluded",
+   "reasons": [
+    "legacy_audit:gold_wrong"
+   ],
+   "cell": "jp_chart",
+   "level": "L3"
+  }
+ }
+}

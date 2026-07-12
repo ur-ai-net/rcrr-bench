@@ -1,0 +1,38 @@
+[
+  {
+    "question": "第39期（2025.12）の短期借入金はいくらですか。",
+    "answer": "5,000百万円",
+    "evidence": "短期借入金 6,800 5,000 ▲ 1,800",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_m00"
+  },
+  {
+    "question": "固定負債の構成比（％）が高いのは、第38期と第39期のどちらですか。",
+    "answer": "第39期",
+    "evidence": "Ⅱ．固定負債 118,582 40.1 120,588 41.4",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_m01"
+  },
+  {
+    "question": "流動負債の項目のうち、第38期には計上がなく（－）、第39期に新たに計上されている項目はどれですか。",
+    "answer": "未払消費税等",
+    "evidence": "未払消費税等 - 430 430",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_8987_20158790_p046",
+    "cell": "jp_table",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_8987_20158790_p046_m02"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Adjusted EPS³ and Dividend Trend\".",
+    "level": "L1",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q00"
+  },
+  {
+    "question": "What does the blue series represent?",
+    "answer": "The blue series represents \"TTM Adjusted EPS\".",
+    "level": "L1",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q01"
+  },
+  {
+    "question": "What does the gold series represent?",
+    "answer": "The gold series represents \"Annualized Quarterly Dividend\".",
+    "level": "L1",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q02"
+  },
+  {
+    "question": "What is the last quarter shown on the x-axis?",
+    "answer": "The last quarter shown is \"1Q15\".",
+    "level": "L1",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q03"
+  },
+  {
+    "question": "How do the blue bars generally change from 1Q12 to 1Q15?",
+    "answer": "They generally rise over time, increasing from about $1.33 to about $2.15.",
+    "level": "L2",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q04"
+  },
+  {
+    "question": "How do the gold bars generally change from 1Q12 to 1Q15?",
+    "answer": "They stay near $0.40 to $0.50 for most quarters, then rise to about $0.78 in 1Q15.",
+    "level": "L2",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q05"
+  },
+  {
+    "question": "In which quarter do both series appear to reach their highest values on the page?",
+    "answer": "Both series appear highest in \"1Q15\".",
+    "level": "L2",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q06"
+  },
+  {
+    "question": "What is the approximate difference between TTM Adjusted EPS and Annualized Quarterly Dividend in 1Q15?",
+    "answer": "The difference is about $1.37, based on roughly $2.15 minus $0.78.",
+    "level": "L3",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q07"
+  },
+  {
+    "question": "By approximately how much did TTM Adjusted EPS increase from 1Q12 to 1Q15?",
+    "answer": "It increased by about $0.82, from roughly $1.33 to about $2.15.",
+    "level": "L3",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q08"
+  },
+  {
+    "question": "How many quarters are shown on the x-axis, and how many series are displayed?",
+    "answer": "There are 13 quarters shown and 2 series displayed.",
+    "level": "L3",
+    "doc_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_018_Bar_with_num_1320488373_2_crop_1_q09"
+  }
+]

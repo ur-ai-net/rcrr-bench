@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの見出しは何ですか？",
+    "answer": "新たな事業セグメント創出の取組み",
+    "level": "L1",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q00"
+  },
+  {
+    "question": "国交省のどの取組みに指定されたと記載されていますか？",
+    "answer": "「交通空白解消に向けたパイロット・プロジェクト第4弾」",
+    "level": "L1",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q01"
+  },
+  {
+    "question": "労働力不足に悩むどのような事業者への貢献が示されていますか？",
+    "answer": "バス事業者",
+    "level": "L1",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q02"
+  },
+  {
+    "question": "共同提案体を構成する3社はどこですか？",
+    "answer": "小田原機器、MaaS Tech Japan、長崎自動車",
+    "level": "L1",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q03"
+  },
+  {
+    "question": "左側の取組みの名称は何ですか？",
+    "answer": "デジタルバス停システム",
+    "level": "L2",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q04"
+  },
+  {
+    "question": "右側の取組みの名称は何ですか？",
+    "answer": "ダイヤ作成支援システム",
+    "level": "L2",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q05"
+  },
+  {
+    "question": "デジタルバス停システムは、何によって時刻表貼替作業を省力化すると説明されていますか？",
+    "answer": "低廉な「バス・バス停間通信」",
+    "level": "L2",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q06"
+  },
+  {
+    "question": "このページで示されている取組みは全部でいくつですか？",
+    "answer": "2つ",
+    "level": "L3",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q07"
+  },
+  {
+    "question": "共同提案体の会社数は、国交省の指定名に含まれる第4弾の数字と比べていくつ少ないですか？",
+    "answer": "1つ少ない",
+    "level": "L3",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q08"
+  },
+  {
+    "question": "ページ内で明示されている「3社」と「第4弾」の差はいくつですか？",
+    "answer": "1",
+    "level": "L3",
+    "doc_id": "tdnet_7314_1d47d4d8_p016",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7314_1d47d4d8_p016_q09"
+  }
+]

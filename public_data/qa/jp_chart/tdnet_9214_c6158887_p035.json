@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのテーマは何ですか？",
+    "answer": "【訪問看護】延べ訪問件数が積み上がるモデルです。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q00"
+  },
+  {
+    "question": "1利用者あたりの平均サービス継続期間は何日前後ですか？",
+    "answer": "590日前後です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q01"
+  },
+  {
+    "question": "新規利用者獲得によって何が積みあがるモデルですか？",
+    "answer": "延べ訪問件数です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q02"
+  },
+  {
+    "question": "凡例で黄色は何を表していますか？",
+    "answer": "新規契約です。",
+    "level": "L1",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q03"
+  },
+  {
+    "question": "凡例で緑色は何を表していますか？",
+    "answer": "既存契約です。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q04"
+  },
+  {
+    "question": "この図は、利用者が長期にわたってサービスを受けることを示していますか？",
+    "answer": "はい、長期のサービス提供を示しています。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q05"
+  },
+  {
+    "question": "訪問件数が積み上がる背景として、このページで示されている要因は何ですか？",
+    "answer": "新規利用者獲得です。",
+    "level": "L2",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q06"
+  },
+  {
+    "question": "棒グラフの月数は全部で何段階ありますか？",
+    "answer": "6段階です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q07"
+  },
+  {
+    "question": "棒グラフの月数のうち、最初と最後はそれぞれ何か月ですか？",
+    "answer": "2か月と12か月です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q08"
+  },
+  {
+    "question": "棒グラフの月数は2か月から12か月まで何か月分増えていますか？",
+    "answer": "10か月分です。",
+    "level": "L3",
+    "doc_id": "tdnet_9214_c6158887_p035",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p035_q09"
+  }
+]

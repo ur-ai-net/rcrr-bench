@@ -1,0 +1,102 @@
+[
+  {
+    "question": "中内さんは、2025年12月期の決算をどう評価していますか？",
+    "answer": "非常に良い形で終えられたと評価しています。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q00"
+  },
+  {
+    "question": "中内さんは、2027年12月期の営業利益水準についてどう述べていますか？",
+    "answer": "1年前倒しで達成できることが現実的に見えてきたと述べています。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q01"
+  },
+  {
+    "question": "2025年12月期の売上高は、25年8月開示の計画比で何％ですか？",
+    "answer": "100.8％です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q02"
+  },
+  {
+    "question": "2025年12月期の営業利益は、25年8月開示の計画比で何％ですか？",
+    "answer": "127.5％です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q03"
+  },
+  {
+    "question": "中内さんの発言から、2025年12月期の好調は何によるものだと考えていますか？",
+    "answer": "一つひとつの事業を積み上げた結果だと考えています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q04"
+  },
+  {
+    "question": "TOPICの見出しでは、2026年12月期業績予想は何を修正したとされていますか？",
+    "answer": "25年8月開示の中計から上方修正したとされています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q05"
+  },
+  {
+    "question": "2025年12月期の営業利益率は、25年8月開示の計画比で何ポイント上回っていますか？",
+    "answer": "+4.4ptです。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q06"
+  },
+  {
+    "question": "2025年12月期の売上高は、25年12月期計画の39,618に対して実績37,084でした。差額はいくらですか？",
+    "answer": "2,534です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q07"
+  },
+  {
+    "question": "2025年12月期の営業利益は、25年12月期計画の4,729に対して実績6,028でした。差額はいくらですか？",
+    "answer": "1,299です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q08"
+  },
+  {
+    "question": "2026年12月期の営業利益予想は7,600で、2025年12月期実績6,028からどれだけ増加する見込みですか？",
+    "answer": "1,572です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p004",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p004_q09"
+  }
+]

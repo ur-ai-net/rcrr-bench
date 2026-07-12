@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What were the \"Total Alliance revenues included above\" for the three months ended July 2, 2023?",
+    "answer": "$1,967 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q00"
+  },
+  {
+    "question": "What was the revenue for \"Pfizer CentreOne\" for the six months ended July 3, 2022?",
+    "answer": "$655 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q01"
+  },
+  {
+    "question": "Which product is listed with the primary indication \"Anemia\"?",
+    "answer": "Retacrit.",
+    "level": "L1",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q02"
+  },
+  {
+    "question": "As of July 2, 2023, what was the total amount of Comirnaty deferred revenues?",
+    "answer": "$1.2 billion.",
+    "level": "L1",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q03"
+  },
+  {
+    "question": "Which Business Innovation line had revenues of $10 million for the three months ended July 2, 2023?",
+    "answer": "Pfizer Ignite.",
+    "level": "L2",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q04"
+  },
+  {
+    "question": "What amount of revenue was recognized during the second quarter of 2023 that was included in the balance of Comirnaty deferred revenues as of December 31, 2022?",
+    "answer": "Approximately $300 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q05"
+  },
+  {
+    "question": "Which product had the largest revenue among the oncology products shown for the six months ended July 2, 2023?",
+    "answer": "Ruxience, with $214 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q06"
+  },
+  {
+    "question": "By how much did Sutent revenue change from the three months ended July 3, 2022 to the three months ended July 2, 2023?",
+    "answer": "It decreased by $52 million, from $97 million to $45 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q07"
+  },
+  {
+    "question": "What is the combined revenue for Ruxience and Xalkori for the six months ended July 2, 2023?",
+    "answer": "$411 million, calculated as $214 million plus $197 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q08"
+  },
+  {
+    "question": "How much larger were the six-month 2023 \"Total Alliance revenues included above\" than the six-month 2022 amount?",
+    "answer": "$603 million larger, increasing from $4,028 million to $4,631 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_014_pfizer_p040",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_014_pfizer_p040_q09"
+  }
+]

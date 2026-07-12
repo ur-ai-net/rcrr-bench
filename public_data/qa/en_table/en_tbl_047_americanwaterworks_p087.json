@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statements of Comprehensive Income.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q00"
+  },
+  {
+    "question": "Which company and subsidiary companies are named in the heading?",
+    "answer": "\"American Water Works Company, Inc. and Subsidiary Companies\" are named in the heading.",
+    "level": "L1",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q01"
+  },
+  {
+    "question": "For which years are the results presented on this page?",
+    "answer": "The results are presented for 2021, 2020, and 2019.",
+    "level": "L1",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q02"
+  },
+  {
+    "question": "What is the net income attributable to common shareholders in 2021?",
+    "answer": "Net income attributable to common shareholders was $ 1,263 in 2021.",
+    "level": "L1",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q03"
+  },
+  {
+    "question": "Which item shows a foreign currency translation adjustment, and what was its value in 2019?",
+    "answer": "The item is \"Foreign currency translation adjustment,\" and its value in 2019 was (1).",
+    "level": "L2",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q04"
+  },
+  {
+    "question": "What is the net other comprehensive income (loss) for 2020, and is it positive or negative?",
+    "answer": "Net other comprehensive income (loss) was (13) in 2020, which is negative.",
+    "level": "L2",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q05"
+  },
+  {
+    "question": "What is the comprehensive income attributable to common shareholders in 2019, and how does it compare with net income attributable to common shareholders for that year?",
+    "answer": "Comprehensive income attributable to common shareholders was $ 619 in 2019, which is 2 less than net income attributable to common shareholders of $ 621.",
+    "level": "L2",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q06"
+  },
+  {
+    "question": "By how much did net income attributable to common shareholders increase from 2020 to 2021?",
+    "answer": "It increased by $ 554, from $ 709 in 2020 to $ 1,263 in 2021.",
+    "level": "L3",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q07"
+  },
+  {
+    "question": "What is the total of net other comprehensive income (loss) across 2021, 2020, and 2019?",
+    "answer": "The total is (11), calculated as 4 + (13) + (2).",
+    "level": "L3",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q08"
+  },
+  {
+    "question": "Which year had the highest comprehensive income attributable to common shareholders, and what was the amount?",
+    "answer": "2021 had the highest comprehensive income attributable to common shareholders at $ 1,267.",
+    "level": "L3",
+    "doc_id": "en_tbl_047_americanwaterworks_p087",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_047_americanwaterworks_p087_q09"
+  }
+]

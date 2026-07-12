@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the x-axis year shown at the far left of the chart?",
+    "answer": "The far-left year is \"2015\".",
+    "level": "L1",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q00"
+  },
+  {
+    "question": "What is the x-axis year shown at the far right of the chart?",
+    "answer": "The far-right year is \"2024\".",
+    "level": "L1",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q01"
+  },
+  {
+    "question": "What is the label of the left y-axis?",
+    "answer": "The left y-axis is labeled \"Notional ($ in millions)\".",
+    "level": "L1",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q02"
+  },
+  {
+    "question": "What percentage is annotated near the peak of the line chart?",
+    "answer": "The peak is annotated as \"3.79%\".",
+    "level": "L1",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q03"
+  },
+  {
+    "question": "Which year appears to have the highest notional value on the stacked bars?",
+    "answer": "\"2016\" has the highest stacked bar.",
+    "level": "L2",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q04"
+  },
+  {
+    "question": "In which year does the line reach its highest point?",
+    "answer": "The line reaches its highest point in \"2019\".",
+    "level": "L2",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q05"
+  },
+  {
+    "question": "What is the general trend of the stacked bars from 2016 to 2024?",
+    "answer": "They generally decline over time after peaking in \"2016\".",
+    "level": "L2",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q06"
+  },
+  {
+    "question": "By how much does the line value change from the annotated peak to the final annotated value?",
+    "answer": "It decreases from \"3.79%\" to \"1.72%\", a drop of \"2.07 percentage points\".",
+    "level": "L3",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q07"
+  },
+  {
+    "question": "Which year has the largest stacked bar, and which year has the smallest stacked bar?",
+    "answer": "\"2016\" has the largest stacked bar, and \"2024\" has the smallest.",
+    "level": "L3",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q08"
+  },
+  {
+    "question": "How many years are shown on the x-axis, and what is the span from the first to the last year?",
+    "answer": "There are \"10\" years shown, spanning from \"2015\" to \"2024\".",
+    "level": "L3",
+    "doc_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_027_Bar_with_line_1271557455_26_crop_0_q09"
+  }
+]

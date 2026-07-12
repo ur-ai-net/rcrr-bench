@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの成長戦略の注力分野は何ですか？",
+    "answer": "モビリティ",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q00"
+  },
+  {
+    "question": "2025年の実績を100としたとき、2030年の目標は何％ですか？",
+    "answer": "220%",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q01"
+  },
+  {
+    "question": "2028年の計画は2025年比で何％ですか？",
+    "answer": "140%",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q02"
+  },
+  {
+    "question": "このページで強みとして挙げられている自動車タイプは何ですか？",
+    "answer": "燃料電池車（FCV）、ハイブリッド車（HV）、電気自動車（EV）、ガソリン車",
+    "level": "L1",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q03"
+  },
+  {
+    "question": "このページの記載から、同社はどのような自動車市場に対応しているといえますか？",
+    "answer": "すべてのタイプの自動車に対応している",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q04"
+  },
+  {
+    "question": "ESG要請の高度化により、事業環境では何が進展すると想定されていますか？",
+    "answer": "電動化・自動運転化、環境対応製品の導入",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q05"
+  },
+  {
+    "question": "技術向上の要望に常に応えることで、何を確保していると記載されていますか？",
+    "answer": "競争優位性",
+    "level": "L2",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q06"
+  },
+  {
+    "question": "2030年の目標は2025年実績より何ポイント高いですか？",
+    "answer": "120ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q07"
+  },
+  {
+    "question": "2028年計画は2025年実績より何ポイント高いですか？",
+    "answer": "40ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q08"
+  },
+  {
+    "question": "2028年計画から2030年目標への上昇幅は何ポイントですか？",
+    "answer": "80ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_4045_3703e672_p013",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_4045_3703e672_p013_q09"
+  }
+]

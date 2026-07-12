@@ -1,0 +1,102 @@
+[
+  {
+    "question": "2025年12月に新株発行で調達した金額はいくらですか。",
+    "answer": "約22億円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q00"
+  },
+  {
+    "question": "2026年に積極的に加速したい投資は何ですか。",
+    "answer": "大型案件への投資です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q01"
+  },
+  {
+    "question": "新規投資可能額はだいたいいくらと説明されていますか。",
+    "answer": "だいたい100億円程度です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q02"
+  },
+  {
+    "question": "売上に直接反映されるのはいつ以降とされていますか。",
+    "answer": "2027年以降です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q03"
+  },
+  {
+    "question": "2026年から良い影響が出てくると見込まれているのは何の強化ですか。",
+    "answer": "財務基盤の強化です。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q04"
+  },
+  {
+    "question": "2027年の計画について、会社はどのような姿勢を示していますか。",
+    "answer": "現在精査中で、必ず達成できる数字が固まり次第開示する方針です。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q05"
+  },
+  {
+    "question": "2027年の開示時期として想定しているのはいつ頃ですか。",
+    "answer": "第2四半期が終わったあたりです。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q06"
+  },
+  {
+    "question": "2025年12月期の実績見込みは約22億円、2026年12月期の予想は100億円規模です。差額はいくらですか。",
+    "answer": "約78億円です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q07"
+  },
+  {
+    "question": "2026年12月期の100億円規模の新規投資は、2025年12月期の約22億円の何倍ですか。",
+    "answer": "約4.5倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q08"
+  },
+  {
+    "question": "2025年12月期の約22億円に対し、2026年12月期の100億円規模は何％増ですか。",
+    "answer": "約355％増です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p012",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p012_q09"
+  }
+]

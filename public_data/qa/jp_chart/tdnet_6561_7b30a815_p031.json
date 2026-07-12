@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "Initiatives to Improve Capital Efficiency 資本効率改善に向けた取り組み",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q00"
+  },
+  {
+    "question": "このページで目指している状態は何ですか？",
+    "answer": "ROIC＞WACCの定着",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q01"
+  },
+  {
+    "question": "ROICとWACCの推移のグラフで、実績と計画はそれぞれ何で示されていますか？",
+    "answer": "実績と計画",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q02"
+  },
+  {
+    "question": "収益性向上の取り組みとして挙げられているものは何ですか？",
+    "answer": "特定の国や地域に依存することなく分散、FIT分野の需要獲得強化、新規プラットフォームの展開、収益性の高い欧米豪の取扱い拡充、業務デジタル化などによる生産性向上",
+    "level": "L1",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q03"
+  },
+  {
+    "question": "このページでは、今後も拡大が見込まれる需要としてどの分野が挙げられていますか？",
+    "answer": "FIT分野",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q04"
+  },
+  {
+    "question": "資産効率向上の項目で、旅行事業に対して挙げられている施策は何ですか？",
+    "answer": "システム投資",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q05"
+  },
+  {
+    "question": "成長投資の項目で、M&Aの検討先として優先されているのは何ですか？",
+    "answer": "IT企業",
+    "level": "L2",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q06"
+  },
+  {
+    "question": "FY17のROICは何%ですか？",
+    "answer": "17.0%",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q07"
+  },
+  {
+    "question": "FY21のROICは何%ですか？",
+    "answer": "-16.0%",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q08"
+  },
+  {
+    "question": "FY25のROICとWACCの差は何ポイントですか？",
+    "answer": "約8.0ポイント",
+    "level": "L3",
+    "doc_id": "tdnet_6561_7b30a815_p031",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6561_7b30a815_p031_q09"
+  }
+]

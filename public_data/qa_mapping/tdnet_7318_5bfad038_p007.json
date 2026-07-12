@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「自己資本比率の見通し」において、2026年3月想定の自己資本比率は何％ですか。",
+    "answer": "23.6％",
+    "evidence": "2026年3月想定 の棒の下に 自己資本比率 23.6％（前後は2025年12月 21.0％、2027年3月想定 27.6％）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_m00"
+  },
+  {
+    "question": "「自己資本比率の見通し」において、2029年3月想定の自己資本比率は何％ですか。",
+    "answer": "34.3％",
+    "evidence": "2029年3月想定 … 自己資本比率 34.3％",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_m01"
+  },
+  {
+    "question": "「自己資本比率の見通し」に示された5つの時点のうち、自己資本比率が最も低いのはどの時点ですか。",
+    "answer": "2025年12月",
+    "evidence": "2025年12月 自己資本比率 21.0％（以降は23.6％、27.6％、31.1％、34.3％と上昇）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p007",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p007_m02"
+  }
+]

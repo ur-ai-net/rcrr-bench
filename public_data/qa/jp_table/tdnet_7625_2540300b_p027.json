@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "（連結）展開コンセプト",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q00"
+  },
+  {
+    "question": "2025年12月末時点の計画店舗数は合計何店舗ですか？",
+    "answer": "48店舗",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q01"
+  },
+  {
+    "question": "権八の業態は何ですか？",
+    "answer": "創作和食＆寿司",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q02"
+  },
+  {
+    "question": "カフェ ラ・ボエムの店舗数は何店舗ですか？",
+    "answer": "15店舗",
+    "level": "L1",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q03"
+  },
+  {
+    "question": "このページで最も店舗数が多いコンセプトは何ですか？",
+    "answer": "カフェ ラ・ボエム",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q04"
+  },
+  {
+    "question": "権八の売上高シェアは何％ですか？",
+    "answer": "25%",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q05"
+  },
+  {
+    "question": "FCは何の略ですか？",
+    "answer": "FOOD COLOSSEUM（フードコート業態）",
+    "level": "L2",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q06"
+  },
+  {
+    "question": "カフェ ラ・ボエムの売上高3,221百万円とモンスーン カフェの2,103百万円の差はいくらですか？",
+    "answer": "1,118百万円",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q07"
+  },
+  {
+    "question": "権八の7店舗とゼスト キャンティーナの5店舗を合計すると何店舗ですか？",
+    "answer": "12店舗",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q08"
+  },
+  {
+    "question": "掲載されている各コンセプトの店舗数を合計すると何店舗ですか？",
+    "answer": "48店舗",
+    "level": "L3",
+    "doc_id": "tdnet_7625_2540300b_p027",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_7625_2540300b_p027_q09"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statement of Comprehensive Income.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q00"
+  },
+  {
+    "question": "Which company and subsidiaries are named in the statement?",
+    "answer": "The statement is for \"PepsiCo, Inc. and Subsidiaries.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q01"
+  },
+  {
+    "question": "What fiscal years are presented on the page?",
+    "answer": "The fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020.",
+    "level": "L1",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q02"
+  },
+  {
+    "question": "What was PepsiCo's net income in 2022?",
+    "answer": "Net income in 2022 was $ 8,978 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q03"
+  },
+  {
+    "question": "How many components are listed under \"Other comprehensive (loss)/income, net of taxes:\"?",
+    "answer": "There are 4 components listed: Net currency translation adjustment, Net change on cash flow hedges, Net pension and retiree medical adjustments, and Other.",
+    "level": "L2",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q04"
+  },
+  {
+    "question": "What is the relationship between \"Comprehensive income\" and \"Comprehensive Income Attributable to PepsiCo\" in 2022?",
+    "answer": "In 2022, comprehensive income was 8,570 and after subtracting 64 attributable to noncontrolling interests, \"Comprehensive Income Attributable to PepsiCo\" was $ 8,506 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q05"
+  },
+  {
+    "question": "Which year had the highest \"Comprehensive income\"?",
+    "answer": "2022 had the highest \"Comprehensive income\" at 8,570.",
+    "level": "L2",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q06"
+  },
+  {
+    "question": "What is the difference between net income and comprehensive income in 2021?",
+    "answer": "In 2021, comprehensive income was 8,257 and net income was 7,679, so the difference was 578 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q07"
+  },
+  {
+    "question": "Which year had the largest negative \"Net currency translation adjustment,\" and what was it?",
+    "answer": "2020 had the largest negative \"Net currency translation adjustment\" at (650).",
+    "level": "L3",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q08"
+  },
+  {
+    "question": "What is the total of \"Comprehensive income attributable to noncontrolling interests\" across all three years?",
+    "answer": "The total is 180 million, calculated as 64 + 61 + 55.",
+    "level": "L3",
+    "doc_id": "en_tbl_012_pepsico_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_012_pepsico_p063_q09"
+  }
+]

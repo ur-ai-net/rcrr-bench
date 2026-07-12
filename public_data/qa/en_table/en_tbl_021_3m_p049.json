@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statement of Comprehensive Income (Loss)\".",
+    "level": "L1",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q00"
+  },
+  {
+    "question": "Which company is named in the statement?",
+    "answer": "The company named is \"3M Company and Subsidiaries\".",
+    "level": "L1",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q01"
+  },
+  {
+    "question": "For what years are the results presented?",
+    "answer": "The results are presented for the years ended December 31, 2022, 2021, and 2020.",
+    "level": "L1",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q02"
+  },
+  {
+    "question": "What was \"Net income including noncontrolling interest\" in 2022?",
+    "answer": "It was $ 5,791 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q03"
+  },
+  {
+    "question": "Which other comprehensive income item had the largest positive amount in 2021?",
+    "answer": "\"Defined benefit pension and postretirement plans adjustment\" had the largest positive amount in 2021 at 1,345 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q04"
+  },
+  {
+    "question": "What was the total other comprehensive income (loss), net of tax, in 2020, and what does that imply about the overall direction of other comprehensive items that year?",
+    "answer": "It was 411 million, which indicates the other comprehensive items were net positive in 2020.",
+    "level": "L2",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q05"
+  },
+  {
+    "question": "What is the difference between \"Comprehensive income (loss) including noncontrolling interest\" and \"Comprehensive income (loss) attributable to 3M\" in 2022?",
+    "answer": "The difference is 6 million, reflecting the \"Comprehensive (income) loss attributable to noncontrolling interest\" of (6).",
+    "level": "L2",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q06"
+  },
+  {
+    "question": "By how much did \"Comprehensive income (loss) attributable to 3M\" change from 2021 to 2022?",
+    "answer": "It decreased by 1,038 million, from 6,892 million in 2021 to 5,854 million in 2022.",
+    "level": "L3",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q07"
+  },
+  {
+    "question": "What is the sum of the 2022 amounts for \"Cumulative translation adjustment,\" \"Defined benefit pension and postretirement plans adjustment,\" and \"Cash flow hedging instruments\"?",
+    "answer": "The sum is 69 million: (893) + 915 + 47 = 69.",
+    "level": "L3",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q08"
+  },
+  {
+    "question": "Which year had the highest \"Comprehensive income (loss) attributable to 3M,\" and what was the amount?",
+    "answer": "2021 had the highest amount at 6,892 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_021_3m_p049",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_021_3m_p049_q09"
+  }
+]

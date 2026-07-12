@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What company is named in the title of the Consolidated Balance Sheets?",
+    "answer": "American Water Works Company, Inc. and Subsidiary Companies.",
+    "level": "L1",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q00"
+  },
+  {
+    "question": "What are the two dates shown at the top of the balance sheet columns?",
+    "answer": "December 31, 2022 and December 31, 2021.",
+    "level": "L1",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q01"
+  },
+  {
+    "question": "What is the amount of Property, plant and equipment, net for December 31, 2022?",
+    "answer": "$ 23,223 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q02"
+  },
+  {
+    "question": "What is the amount of Total assets for December 31, 2021?",
+    "answer": "$ 26,075 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q03"
+  },
+  {
+    "question": "Which current asset line item increased from $ 4 million in 2021 to $ 114 million in 2022?",
+    "answer": "Income tax receivable.",
+    "level": "L2",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q04"
+  },
+  {
+    "question": "Which long-term asset line item appears in 2021 but is shown as \"—\" in 2022?",
+    "answer": "Postretirement benefit assets.",
+    "level": "L2",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q05"
+  },
+  {
+    "question": "Which current asset line item is listed as \"Assets held for sale\" and what was its 2021 amount?",
+    "answer": "Assets held for sale, and the 2021 amount was $ 683 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q06"
+  },
+  {
+    "question": "By how much did Property, plant and equipment, net increase from December 31, 2021 to December 31, 2022?",
+    "answer": "It increased by $ 2,139 million, from $ 21,084 million to $ 23,223 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q07"
+  },
+  {
+    "question": "What is the difference between Total current assets in 2022 and 2021?",
+    "answer": "Total current assets decreased by $ 304 million, from $ 1,554 million to $ 1,250 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q08"
+  },
+  {
+    "question": "What is the combined 2022 amount of Regulatory assets and Seller promissory note from the sale of the Homeowner Services Group?",
+    "answer": "The combined amount is $ 1,710 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_049_americanwaterworks_p081",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_049_americanwaterworks_p081_q09"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「ROICとWACCの推移」において、FY21時点でマイナス圏にあるのはROICとWACCのどちらですか。",
+    "answer": "ROIC",
+    "evidence": "FY21時点でROICは-13.0%〜-18.0%付近、WACCはプラス圏（2.0%〜7.0%付近）にある",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_e67178ee_p025",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p025_m00"
+  },
+  {
+    "question": "「ROICとWACCの推移」において、FY26以降の区間は「実績」と「計画」のどちらの期間ですか。",
+    "answer": "計画",
+    "evidence": "FY17〜FY28の期間が 実績／計画 と区分され、FY26以降（成長イメージと付された区間）が計画側にあたる",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_e67178ee_p025",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p025_m01"
+  },
+  {
+    "question": "「ROICとWACCの推移」において、FY24時点で高い値を示しているのはROICとWACCのどちらですか。",
+    "answer": "ROIC",
+    "evidence": "FY24時点でROICは12.0%を超える水準、WACCは7.0%前後にある",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_6561_e67178ee_p025",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p025_m02"
+  }
+]

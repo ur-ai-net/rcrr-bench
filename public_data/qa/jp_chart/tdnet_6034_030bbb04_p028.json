@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページのタイトルは何ですか？",
+    "answer": "医師人材ビジネス市場",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q00"
+  },
+  {
+    "question": "ページ上部に示された市場規模はいくらですか？",
+    "answer": "2,676億円",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q01"
+  },
+  {
+    "question": "ページ上部に示された増加率はいくらですか？",
+    "answer": "29.2%増",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q02"
+  },
+  {
+    "question": "このページの出典は何ですか？",
+    "answer": "富士経済「製薬企業向けビジメスを見据えた医師向け注目人材・教育・情報プラットフォームビジネス市場」",
+    "level": "L1",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q03"
+  },
+  {
+    "question": "グラフの凡例にある3つの区分は何ですか？",
+    "answer": "医師人材ビジネス、教育・情報プラットフォームビジネス、データビジネス",
+    "level": "L2",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q04"
+  },
+  {
+    "question": "この市場はどの分野における市場として示されていますか？",
+    "answer": "医療分野",
+    "level": "L2",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q05"
+  },
+  {
+    "question": "グラフの予測対象として示されている年は何年ですか？",
+    "answer": "2030年",
+    "level": "L2",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q06"
+  },
+  {
+    "question": "2022年から2030年予測までの市場規模の増加額は約いくらですか？",
+    "answer": "約850億円",
+    "level": "L3",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q07"
+  },
+  {
+    "question": "2022年と2025年見込を比べると、どちらの市場規模が大きいですか？",
+    "answer": "2025年見込",
+    "level": "L3",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q08"
+  },
+  {
+    "question": "2022年から2030年予測までの市場規模は何倍程度になっていますか？",
+    "answer": "約1.5倍",
+    "level": "L3",
+    "doc_id": "tdnet_6034_030bbb04_p028",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_6034_030bbb04_p028_q09"
+  }
+]

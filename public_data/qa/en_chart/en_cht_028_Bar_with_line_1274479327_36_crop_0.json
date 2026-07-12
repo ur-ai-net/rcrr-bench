@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Annual Adj. EBITDA and Margin\".",
+    "level": "L1",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q00"
+  },
+  {
+    "question": "What unit is shown for the bar values?",
+    "answer": "The bar values are shown as \"($ in millions)\".",
+    "level": "L1",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q01"
+  },
+  {
+    "question": "What is the Adj. EBITDA value for 2008?",
+    "answer": "The Adj. EBITDA value for 2008 is \"$62\".",
+    "level": "L1",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q02"
+  },
+  {
+    "question": "What is the Adj. EBITDA Margin for 2012?",
+    "answer": "The Adj. EBITDA Margin for 2012 is \"25%\".",
+    "level": "L1",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q03"
+  },
+  {
+    "question": "In which year did Adj. EBITDA first exceed $100 million?",
+    "answer": "Adj. EBITDA first exceeded $100 million in 2013, when it reached \"$118\".",
+    "level": "L2",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q04"
+  },
+  {
+    "question": "Which year had the highest Adj. EBITDA Margin shown on the chart?",
+    "answer": "2008 had the highest Adj. EBITDA Margin at \"26%\".",
+    "level": "L2",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q05"
+  },
+  {
+    "question": "What trend does Adj. EBITDA Margin show from 2008 to 2014?",
+    "answer": "It declines from \"26%\" in 2008 to \"21%\" in 2009, then rises to \"25%\" in 2012 before ending at \"23%\" in 2014.",
+    "level": "L2",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q06"
+  },
+  {
+    "question": "By how much did Adj. EBITDA increase from 2008 to 2014?",
+    "answer": "Adj. EBITDA increased by \"$131\" million, from \"$62\" in 2008 to \"$193\" in 2014.",
+    "level": "L3",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q07"
+  },
+  {
+    "question": "Which year had the largest year-over-year increase in Adj. EBITDA, and what was the increase?",
+    "answer": "2014 had the largest year-over-year increase, rising by \"$75\" million from \"$118\" in 2013 to \"$193\" in 2014.",
+    "level": "L3",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q08"
+  },
+  {
+    "question": "How many years are shown on the chart, and what are they?",
+    "answer": "There are 7 years shown: 2008, 2009, 2010, 2011, 2012, 2013, and 2014.",
+    "level": "L3",
+    "doc_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_028_Bar_with_line_1274479327_36_crop_0_q09"
+  }
+]

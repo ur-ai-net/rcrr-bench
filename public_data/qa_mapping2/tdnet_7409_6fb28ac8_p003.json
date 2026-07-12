@@ -1,0 +1,41 @@
+[
+ {
+  "question": "「AeroEdgeの成長戦略」の成長イメージにおいて、「成長戦略02」に対応する事業はどれですか？",
+  "answer": "チタンアルミブレード新材料事業",
+  "evidence": "チタンアルミブレード新材料事業 / 成長戦略02",
+  "source_element": "stacked segment label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7409_6fb28ac8_p003",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7409_6fb28ac8_p003_m03"
+ },
+ {
+  "question": "「AeroEdgeの成長戦略」の成長イメージにおいて、「成長戦略01」に対応する事業はどれですか？",
+  "answer": "チタンアルミブレード加工事業",
+  "evidence": "チタンアルミブレード加工事業 / 成長戦略01",
+  "source_element": "stacked segment label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7409_6fb28ac8_p003",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7409_6fb28ac8_p003_m04"
+ },
+ {
+  "question": "「AeroEdgeの成長戦略」の成長イメージにおいて、「プラス成長」の範囲に含まれると示されている成長戦略はどれですか？",
+  "answer": "成長戦略02、成長戦略03、成長戦略04",
+  "evidence": "成長戦略02 成長戦略03 成長戦略04 / プラス成長",
+  "source_element": "in-chart annotation",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7409_6fb28ac8_p003",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7409_6fb28ac8_p003_m05"
+ }
+]

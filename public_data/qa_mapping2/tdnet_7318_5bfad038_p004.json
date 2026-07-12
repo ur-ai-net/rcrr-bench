@@ -1,0 +1,67 @@
+[
+  {
+    "question": "連結売上高の「増減分析」において、2025年3月期3Qの値はいくらですか。",
+    "answer": "15,458百万円",
+    "evidence": "2025年3月期 3Q … 15,458／（単位：百万円）",
+    "source_element": "waterfall step label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m03"
+  },
+  {
+    "question": "連結売上高の「増減分析」において、2026年3月期3Qの値はいくらですか。",
+    "answer": "35,338百万円",
+    "evidence": "2026年3月期 3Q … 35,338／（単位：百万円）",
+    "source_element": "waterfall step label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m04"
+  },
+  {
+    "question": "連結売上高の「増減分析」において、「オートモーティブ」要因の増減額はいくらですか。",
+    "answer": "738百万円",
+    "evidence": "オートモーティブ 738",
+    "source_element": "waterfall step label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m05"
+  },
+  {
+    "question": "連結売上高の「増減分析」において、「インベストメント」区分の増減額はいくらですか。",
+    "answer": "10百万円",
+    "evidence": "インベストメント 10",
+    "source_element": "waterfall step label",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m06"
+  },
+  {
+    "question": "連結売上高の「増減分析」において、「オートモーティブ」と「企画開発型」の2つの要因が属する事業区分として付されている名称は何ですか。",
+    "answer": "モノづくり",
+    "evidence": "モノづくり（オートモーティブ／企画開発型の帯に付された区分名。ほかに プロフェッショナル、インベストメント）",
+    "source_element": "in-chart annotation",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m07"
+  }
+]

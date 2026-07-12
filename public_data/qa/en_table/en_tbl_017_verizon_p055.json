@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statements of Comprehensive Income.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q00"
+  },
+  {
+    "question": "Which company and subsidiaries are named in the statement?",
+    "answer": "The statement is for \"Verizon Communications Inc. and Subsidiaries.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q01"
+  },
+  {
+    "question": "What are the years ended December 31 shown on the page?",
+    "answer": "The years shown are 2022, 2021, and 2020.",
+    "level": "L1",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q02"
+  },
+  {
+    "question": "What was Net Income in 2022?",
+    "answer": "Net Income in 2022 was $ 21,748 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q03"
+  },
+  {
+    "question": "Which item had the largest negative amount in Other Comprehensive Loss for 2022?",
+    "answer": "Defined benefit pension and postretirement plans had the largest negative amount in 2022 at (651).",
+    "level": "L2",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q04"
+  },
+  {
+    "question": "What was the total comprehensive income attributable to Verizon in 2021, and how does it relate to total comprehensive income?",
+    "answer": "Comprehensive income attributable to Verizon was 21,209 in 2021. It is lower than Total Comprehensive Income of $ 21,762 because $ 553 was attributable to noncontrolling interests.",
+    "level": "L2",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q05"
+  },
+  {
+    "question": "Which line item changed from a loss in 2021 to a gain in 2022, and what were the amounts?",
+    "answer": "Unrealized gain (loss) on cash flow hedges changed from (85) in 2021 to 322 in 2022.",
+    "level": "L2",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q06"
+  },
+  {
+    "question": "By how much did Total Comprehensive Income change from 2021 to 2022?",
+    "answer": "Total Comprehensive Income decreased by $ 952 million, from $ 21,762 in 2021 to $ 20,810 in 2022.",
+    "level": "L3",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q07"
+  },
+  {
+    "question": "What is the difference between Net Income and Total Comprehensive Income in 2020?",
+    "answer": "The difference is $ 1,069 million, since Net Income was $ 18,348 and Total Comprehensive Income was $ 17,279 in 2020.",
+    "level": "L3",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q08"
+  },
+  {
+    "question": "How many separate components are listed under Other Comprehensive Loss, Net of Tax (Expense) Benefit?",
+    "answer": "There are 5 separate components listed under Other Comprehensive Loss, Net of Tax (Expense) Benefit.",
+    "level": "L3",
+    "doc_id": "en_tbl_017_verizon_p055",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_017_verizon_p055_q09"
+  }
+]

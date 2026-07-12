@@ -1,0 +1,202 @@
+[
+  {
+    "question": "2025年12月期通期実績の売上高はいくらですか？",
+    "answer": "2025年12月期通期実績の売上高は37,084百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q00"
+  },
+  {
+    "question": "2024年12月期通期実績の営業利益はいくらですか？",
+    "answer": "2024年12月期通期実績の営業利益は3,892百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q01"
+  },
+  {
+    "question": "2025年12月期通期実績の不動産開発事業の売上高はいくらですか？",
+    "answer": "2025年12月期通期実績の不動産開発事業の売上高は34,771百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q02"
+  },
+  {
+    "question": "2025年12月期通期実績のAM報酬はいくらですか？",
+    "answer": "2025年12月期通期実績のAM報酬は405百万円です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q03"
+  },
+  {
+    "question": "2024年12月期通期実績の売上総利益率は何%ですか？",
+    "answer": "2024年12月期通期実績の売上総利益率は27.0%です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q04"
+  },
+  {
+    "question": "2025年12月期通期実績の当期純利益率は何%ですか？",
+    "answer": "2025年12月期通期実績の当期純利益率は9.3%です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q05"
+  },
+  {
+    "question": "2025年12月期の営業利益の前年同期比増加率は何%ですか？",
+    "answer": "2025年12月期の営業利益の前年同期比増加率は+54.9%です。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q06"
+  },
+  {
+    "question": "アセットマネジメント事業が営業開始されたのは何年からですか？",
+    "answer": "アセットマネジメント事業は2025年から営業開始されました。",
+    "level": "L1",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q07"
+  },
+  {
+    "question": "2025年12月期において、売上総利益率が前年同期比で▲3.6pt低下した主な要因は何と説明されていますか？",
+    "answer": "売上総利益率が低下した主な要因は、バリューアップ比率が高いため前期比で粗利率が低下したためと説明されています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q08"
+  },
+  {
+    "question": "2025年12月期において、不動産開発事業の売上高が前年同期比で+81.3%と大きく増収した主な要因は何ですか？",
+    "answer": "不動産開発事業の売上高が大きく増収した主な要因は、大型物件の売却によるものです。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q09"
+  },
+  {
+    "question": "2025年12月期において、不動産運営事業の売上高が前年同期比で+28.4%と増収した主な要因は何ですか？",
+    "answer": "不動産運営事業の売上高が増収した主な要因は、コロンビア・コミュニティとコロンビア・アセットマネジメントの外部案件受託により計画比を超えて増収したためです。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q10"
+  },
+  {
+    "question": "水山氏のコメントによると、2025年12月期の営業利益が期初の予想（21.5%増）を超えて着地できた要因として、どのような点が挙げられていますか？",
+    "answer": "要因としては、建築費等の物価高騰に対するコスト管理、金利上昇が想定以上に緩やかだった点、およびアセットマネジメント事業のお預かりする資産(AUM)が想定以上に増えた点が挙げられています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q11"
+  },
+  {
+    "question": "2025年12月期において、販売費及び一般管理費が前年同期比で+47.3%増加した主な要因は何ですか？",
+    "answer": "販売費及び一般管理費が増加した主な要因は、主に子会社の業績拡大に合わせた人員増の影響と説明されています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q12"
+  },
+  {
+    "question": "2025年12月期において、賃料収入が前年同期比で▲6.2%減少した主な要因は何ですか？",
+    "answer": "賃料収入は固定資産から発生する賃料の他、バリューアップ型物件からも発生するため変動すると説明されています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q13"
+  },
+  {
+    "question": "2025年12月期の営業利益率が前期比で低下したにもかかわらず、高い水準を維持できた理由は何と説明されていますか？",
+    "answer": "前期比でバリューアップ型が多く粗利率が低下したものの、販管費率が前期比▲1.4ptだった分、高い水準を維持できたと説明されています。",
+    "level": "L2",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q14"
+  },
+  {
+    "question": "2025年12月期通期実績において、不動産開発事業の「自社バリューアップ」の売上高は、同事業の「不動産開発」の売上高の約何倍ですか？（小数点以下第1位まで）",
+    "answer": "2025年12月期通期実績において、「自社バリューアップ」の売上高（8,049百万円）は「不動産開発」の売上高（3,403百万円）の約2.4倍です。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q15"
+  },
+  {
+    "question": "2025年12月期通期実績の売上総利益は、2024年12月期通期実績と比較して何百万円増加しましたか？",
+    "answer": "2025年12月期通期実績の売上総利益（8,656百万円）は、2024年12月期通期実績（5,673百万円）と比較して2,983百万円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q16"
+  },
+  {
+    "question": "2025年12月期通期実績において、売上高に占める不動産開発事業の割合と不動産運営事業の割合を比較すると、どちらの事業の割合が高いですか？",
+    "answer": "2025年12月期通期実績において、売上高に占める不動産開発事業の割合は約93.8%（34,771百万円/37,084百万円）、不動産運営事業の割合は約6.2%（2,313百万円/37,084百万円）であるため、不動産開発事業の割合が高いです。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q17"
+  },
+  {
+    "question": "2025年12月期通期実績において、不動産開発事業の「ファンドバリューアップ」の売上高は、同事業の「他社協業」の売上高と比較して何百万円大きいですか？",
+    "answer": "2025年12月期通期実績において、「ファンドバリューアップ」の売上高（15,436百万円）は「他社協業」の売上高（5,844百万円）と比較して9,592百万円大きいです。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q18"
+  },
+  {
+    "question": "2025年12月期の営業利益が前年対比で54.9%増という実績を残せたことについて、水山氏が「まず一安心している」とコメントしているのは、どのような背景からですか？",
+    "answer": "水山氏は、期初の予想21.5%増を大きく上回る54.9%増という実績を残せたこと、コスト管理や金利上昇の抑制、アセットマネジメント事業のAUM増加により成長のステージが一段上がったと認識しているため、「まず一安心している」とコメントしています。",
+    "level": "L3",
+    "doc_id": "tdnet_146A_dc6ce612_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_146A_dc6ce612_p005_q19"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "短期成長戦略のページにおいて、2025年12月期全体像では東京都内の何区（市）へ出店しているとされていますか。",
+    "answer": "16区（市）",
+    "evidence": "2025年12月期全体像 … 東京都内 16区（市）へ出店（左側の地図の見出し）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_m00"
+  },
+  {
+    "question": "2026年12月期全体像でエリア拡大の対象とされている神奈川県の市はどこですか。",
+    "answer": "川崎市",
+    "evidence": "2026年12月期全体像 … 東京都豊島区・板橋区・国分寺市、神奈川県川崎市のエリア拡大（右側の地図の見出し）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_m01"
+  },
+  {
+    "question": "2026年12月期のエリア拡大対象として挙げられている東京都の自治体のうち、「市」はどこですか。",
+    "answer": "国分寺市",
+    "evidence": "東京都豊島区・板橋区・国分寺市、神奈川県川崎市のエリア拡大",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_9214_c6158887_p044",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_9214_c6158887_p044_m02"
+  }
+]

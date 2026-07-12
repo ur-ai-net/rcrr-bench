@@ -1,0 +1,202 @@
+[
+  {
+    "question": "この文書が対象とするETFの名称は何ですか？",
+    "answer": "iFreeETF 日経平均レバレッジ・インデックス (1365) です。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q00"
+  },
+  {
+    "question": "「親投資信託受益証券」の右側の列に記載されている、当計算期間の損益に含まれた評価差額はいくらですか？",
+    "answer": "7,786,900円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q01"
+  },
+  {
+    "question": "「株式関連」の項目で詳細が示されているデリバティブ取引の種類は何ですか？",
+    "answer": "株価指数先物取引です。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q02"
+  },
+  {
+    "question": "第10期における「株価指数先物取引 (買建)」の契約額等はいくらでしたか？",
+    "answer": "19,567,378,000円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q03"
+  },
+  {
+    "question": "第11期における「株価指数先物取引 (買建)」の評価損益はいくらでしたか？",
+    "answer": "551,860,000円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q04"
+  },
+  {
+    "question": "注記3によると、「契約額等」には何が含まれていませんか？",
+    "answer": "手数料相当額が含まれていません。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q05"
+  },
+  {
+    "question": "第10期における1口当たり純資産額はいくらでしたか？",
+    "answer": "41,854.6円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q06"
+  },
+  {
+    "question": "第11期における10口当たり純資産額はいくらでしたか？",
+    "answer": "704,998円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q07"
+  },
+  {
+    "question": "注記1によると、株価指数先物取引の時価はどのように評価されますか？",
+    "answer": "原則として計算期間末日に知りうる直近の日の主たる取引所の発表する清算値段又は最終相場で評価されます。",
+    "level": "L2",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q08"
+  },
+  {
+    "question": "「関連当事者との取引に関する注記」における第11期の期間はいつからいつまでですか？",
+    "answer": "自2025年1月11日から至2026年1月10日までです。",
+    "level": "L2",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q09"
+  },
+  {
+    "question": "この文書によると、一般の取引条件と異なる関連当事者との取引は行われましたか？",
+    "answer": "いいえ、市場価格その他当該取引に係る価格を勘案して、一般の取引条件と異なる関連当事者との取引は行なわれていないため、該当事項はありません。",
+    "level": "L2",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q10"
+  },
+  {
+    "question": "第10期と第11期における「株価指数先物取引 (買建)」の評価損益は、それぞれ利益と損失のどちらでしたか？",
+    "answer": "第10期は▲99,378,000円で損失、第11期は551,860,000円で利益でした。",
+    "level": "L2",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q11"
+  },
+  {
+    "question": "注記2によると、株価指数先物取引の残高はどのようなベースで表示されますか？",
+    "answer": "契約額ベースで表示されます。",
+    "level": "L2",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q12"
+  },
+  {
+    "question": "注記1によると、時価が発表されていない場合の株価指数先物取引の評価方法は何ですか？",
+    "answer": "計算期間末日に最も近い最終相場や気配値等、原則に準ずる方法で評価されます。",
+    "level": "L2",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q13"
+  },
+  {
+    "question": "「親投資信託受益証券」の当計算期間の損益に含まれた評価差額の合計はいくらですか？",
+    "answer": "2,683,905円と7,786,900円の合計で、10,470,805円です。",
+    "level": "L2",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q14"
+  },
+  {
+    "question": "第10期と第11期の「株価指数先物取引 (買建)」の評価損益の差額はいくらですか？",
+    "answer": "第11期の評価損益551,860,000円から第10期の評価損益▲99,378,000円を引くと、差額は651,238,000円です。",
+    "level": "L3",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q15"
+  },
+  {
+    "question": "第10期における「株価指数先物取引 (買建)」の契約額等と時価の差額はいくらですか？",
+    "answer": "契約額等19,567,378,000円から時価19,468,000,000円を引くと、差額は99,378,000円です。",
+    "level": "L3",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q16"
+  },
+  {
+    "question": "第10期から第11期にかけて、1口当たり純資産額は何パーセント増加しましたか？",
+    "answer": "第10期の41,854.6円から第11期の70,499.8円への増加率は、((70,499.8 - 41,854.6) / 41,854.6) * 100 = 約68.44%です。",
+    "level": "L3",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q17"
+  },
+  {
+    "question": "第10期から第11期にかけて、「株価指数先物取引 (買建)」の評価損益の状況はどのように変化しましたか？",
+    "answer": "第10期では▲99,378,000円の評価損（損失）でしたが、第11期では551,860,000円の評価益（利益）となり、評価損益は大幅に改善しました。",
+    "level": "L3",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q18"
+  },
+  {
+    "question": "この決算短信で報告されているiFreeETF 日経平均レバレッジ・インデックス (1365)の主な評価差額の対象となっている金融商品は何ですか？",
+    "answer": "親投資信託受益証券です。",
+    "level": "L3",
+    "doc_id": "tdnet_1365_de903540_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1365_de903540_p005_q19"
+  }
+]

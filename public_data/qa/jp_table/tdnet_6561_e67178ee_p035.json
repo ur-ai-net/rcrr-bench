@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの出典は何ですか？",
+    "answer": "各空港ホームページ「フライトスケジュール」をもとに当社作成。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q00"
+  },
+  {
+    "question": "2025年冬ダイヤの対象期間は何ですか？",
+    "answer": "2025年 冬ダイヤです。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q01"
+  },
+  {
+    "question": "韓国の2025年冬ダイヤ便数は全体で何便/週ですか？",
+    "answer": "1,508便/週です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q02"
+  },
+  {
+    "question": "台湾の対2024年冬ダイヤの比率は全体で何%ですか？",
+    "answer": "114.8%です。",
+    "level": "L1",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q03"
+  },
+  {
+    "question": "中国路線が減便となっている理由は何ですか？",
+    "answer": "日本への渡航自粛要請により減便です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q04"
+  },
+  {
+    "question": "「世界各国」と記載がある主要空港はどこですか？",
+    "answer": "成田、羽田、関西です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q05"
+  },
+  {
+    "question": "「東南アジア、ハワイ、グアム」と記載がある空港はどこですか？",
+    "answer": "中部空港です。",
+    "level": "L2",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q06"
+  },
+  {
+    "question": "韓国の全体便数1,508便/週と中国の全体便数1,066便/週の差は何便/週ですか？",
+    "answer": "442便/週です。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q07"
+  },
+  {
+    "question": "台湾の全体便数811便/週と香港の全体便数496便/週を合計すると何便/週ですか？",
+    "answer": "1,307便/週です。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q08"
+  },
+  {
+    "question": "地方空港の対2024年冬ダイヤ比率で、台湾と香港の差は何ポイントですか？",
+    "answer": "43.4ポイントです。",
+    "level": "L3",
+    "doc_id": "tdnet_6561_e67178ee_p035",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_6561_e67178ee_p035_q09"
+  }
+]

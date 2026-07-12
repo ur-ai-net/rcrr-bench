@@ -1,0 +1,26 @@
+[
+ {
+  "question": "販売数量について「上限数量」が設定されている期間は、いつからいつまでと示されていますか？",
+  "answer": "28/1から30/12まで",
+  "evidence": "28/1 上限数量 30/12 / 生産キャパから上限数量設定",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7409_6fb28ac8_p033",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7409_6fb28ac8_p033_m01"
+ },
+ {
+  "question": "販売数量の推移において、「新材料」が初めて示されるのはどの期ですか？",
+  "answer": "27/6期",
+  "evidence": "27/6期 … 新材料 / 新材料は26年7月から供給開始",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_7409_6fb28ac8_p033",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_7409_6fb28ac8_p033_m02"
+ }
+]

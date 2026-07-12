@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Shared Wireless Quarterly Revenue\".",
+    "level": "L1",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q00"
+  },
+  {
+    "question": "What unit is used for the revenue values?",
+    "answer": "The values are shown \"In Millions\".",
+    "level": "L1",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q01"
+  },
+  {
+    "question": "What is the revenue for 2Q13?",
+    "answer": "The revenue for 2Q13 is \"$0.20\".",
+    "level": "L1",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q02"
+  },
+  {
+    "question": "What guidance range is shown on the chart?",
+    "answer": "The guidance range is \"$0.80 -$1.00\".",
+    "level": "L1",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q03"
+  },
+  {
+    "question": "Which quarter first reaches a revenue above $0.70?",
+    "answer": "1Q14 is the first quarter above $0.70, at \"$0.74\".",
+    "level": "L2",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q04"
+  },
+  {
+    "question": "How does the 4Q14 revenue compare with the guidance range?",
+    "answer": "The 4Q14 revenue is \"$0.90\", which falls within the \"$0.80 -$1.00\" guidance range.",
+    "level": "L2",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q05"
+  },
+  {
+    "question": "Which two consecutive quarters have the same revenue value?",
+    "answer": "1Q14 and 2Q14 both show \"$0.74\".",
+    "level": "L2",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q06"
+  },
+  {
+    "question": "By how much did revenue increase from 2Q13 to 3Q13?",
+    "answer": "It increased by \"$0.34\" million, from \"$0.20\" to \"$0.54\".",
+    "level": "L3",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q07"
+  },
+  {
+    "question": "What is the total increase in revenue from 2Q13 to 4Q14?",
+    "answer": "The total increase is \"$0.70\" million, from \"$0.20\" to \"$0.90\".",
+    "level": "L3",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q08"
+  },
+  {
+    "question": "How many quarters are shown before the dashed guidance line and how many are shown after it?",
+    "answer": "There are 6 quarters before the dashed line and 1 quarter after it.",
+    "level": "L3",
+    "doc_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_009_Bar_with_num_1284534863_18_crop_0_q09"
+  }
+]

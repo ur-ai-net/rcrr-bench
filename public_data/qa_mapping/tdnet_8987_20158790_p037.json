@@ -1,0 +1,26 @@
+[
+ {
+  "question": "東証REIT指数の系列が対応する軸の目盛りの単位は何ですか。",
+  "answer": "ポイント",
+  "evidence": "東証REIT指数（右軸） … 右軸の単位表記（ポイント）",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_8987_20158790_p037",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p037_m01"
+ },
+ {
+  "question": "「投資口価格と東証REIT指数の推移」の起点となっている上場日はいつですか。",
+  "answer": "2006年6月27日",
+  "evidence": "横軸左端：6月27日（上場日） … ２００６年",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_8987_20158790_p037",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p037_m02"
+ }
+]

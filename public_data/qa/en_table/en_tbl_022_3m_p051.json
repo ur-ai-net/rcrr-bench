@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the statement shown on this page?",
+    "answer": "The title is \"Consolidated Statement of Changes in Equity.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q00"
+  },
+  {
+    "question": "For what years is the statement presented?",
+    "answer": "It is presented for the years ended December 31, 2022, 2021, and 2020.",
+    "level": "L1",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q01"
+  },
+  {
+    "question": "What was the balance at December 31, 2022 for Total equity?",
+    "answer": "The balance at December 31, 2022 was $ 14,770 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q02"
+  },
+  {
+    "question": "How much were dividends declared in 2021, and what was the per-share amount?",
+    "answer": "Dividends declared in 2021 were $(3,420) million, or $5.92 per share.",
+    "level": "L1",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q03"
+  },
+  {
+    "question": "Which line item appears in 2022 but not in 2021 or 2020?",
+    "answer": "\"Split-off of Food Safety business\" appears in 2022 and not in 2021 or 2020.",
+    "level": "L2",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q04"
+  },
+  {
+    "question": "What was the non-controlling interest balance at December 31, 2020, and how did it change by December 31, 2022?",
+    "answer": "The non-controlling interest balance was 64 at December 31, 2020 and 48 at December 31, 2022, so it decreased by 16.",
+    "level": "L2",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q05"
+  },
+  {
+    "question": "Which component of other comprehensive income (loss) had the largest positive amount in 2021?",
+    "answer": "\"Defined benefit pension and post-retirement plans adjustment\" had the largest positive amount in 2021 at 1,345.",
+    "level": "L2",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q06"
+  },
+  {
+    "question": "By how much did Total equity increase from December 31, 2020 to December 31, 2022?",
+    "answer": "Total equity increased by $1,839 million, from $12,931 million to $14,770 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q07"
+  },
+  {
+    "question": "What was the net change in treasury stock from the beginning balance in 2022 to the ending balance in 2022?",
+    "answer": "Treasury stock increased by 22,600,373 shares, from 372,187,578 to 394,787,951.",
+    "level": "L3",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q08"
+  },
+  {
+    "question": "What is the sum of the 2022 amounts for \"Net income\" and \"Total other comprehensive income (loss), net of tax\"?",
+    "answer": "The sum is 5,860, combining 5,791 for net income and 69 for total other comprehensive income (loss), net of tax.",
+    "level": "L3",
+    "doc_id": "en_tbl_022_3m_p051",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_022_3m_p051_q09"
+  }
+]

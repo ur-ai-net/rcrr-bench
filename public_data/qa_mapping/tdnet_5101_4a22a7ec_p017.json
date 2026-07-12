@@ -1,0 +1,38 @@
+[
+  {
+    "question": "「事業利益増減要因（上期）」において、2026年の当期事業利益はいくらですか。",
+    "answer": "750億円",
+    "evidence": "当期事業利益 750（2026年）／（億円）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_m00"
+  },
+  {
+    "question": "2026年上期予想の事業利益増減要因のうち、「OHT」要因の増減額はいくらですか。",
+    "answer": "+68億円",
+    "evidence": "OHT +68（増益要因）。「(OHT内訳) +68」の記載もある。",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_m01"
+  },
+  {
+    "question": "2026年上期予想の事業利益増減要因のうち、減益幅が最も大きい項目はどれですか。",
+    "answer": "固定費",
+    "evidence": "固定費 ▲32（他の減益要因は販売量 ▲15、物流費等 ▲12、製造原価 ▲4、価格/MIX ▲1、その他 ▲3）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_5101_4a22a7ec_p017",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_5101_4a22a7ec_p017_m02"
+  }
+]

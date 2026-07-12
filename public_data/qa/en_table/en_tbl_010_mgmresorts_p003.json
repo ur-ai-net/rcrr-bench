@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What was diluted earnings per share for the three months ended December 31, 2022?",
+    "answer": "$0.69.",
+    "level": "L1",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q00"
+  },
+  {
+    "question": "What was Adjusted EPS for the three months ended December 31, 2021?",
+    "answer": "$0.12.",
+    "level": "L1",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q01"
+  },
+  {
+    "question": "What was the consolidated net revenue in the full year 2022?",
+    "answer": "$13.1 billion.",
+    "level": "L1",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q02"
+  },
+  {
+    "question": "Which acquisition is noted as occurring in May 2022 and contributing to current-year results?",
+    "answer": "The Cosmopolitan.",
+    "level": "L1",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q03"
+  },
+  {
+    "question": "Why did operating income decrease in 2022 compared to the prior year, according to the page?",
+    "answer": "It was due to a $2.5 billion increase in noncash amortization expense of the MGM Grand Paradise gaming subconcession and a $1.1 billion increase in rent expense related to triple-net operating leases and ground leases, partially offset by gains on REIT transactions and the disposition of The Mirage.",
+    "level": "L2",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q04"
+  },
+  {
+    "question": "What does the page say about the current-year results included in consolidated net revenues of $13.1 billion?",
+    "answer": "They include the operating results of The Cosmopolitan upon its acquisition in May 2022, a full year of Aria and Vdara due to its acquisition in September 2021, and the results of The Mirage until its disposition in December 2022.",
+    "level": "L2",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q05"
+  },
+  {
+    "question": "What is the relationship between net income attributable to MGM Resorts and diluted earnings per share in 2022 versus 2021?",
+    "answer": "Net income attributable to MGM Resorts increased from $1.3 billion in the prior year to $1.5 billion in 2022, while diluted earnings per share increased from $2.41 to $3.49.",
+    "level": "L2",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q06"
+  },
+  {
+    "question": "By how much did consolidated net revenues increase from the prior year to 2022?",
+    "answer": "They increased by $3.4 billion, from $9.7 billion to $13.1 billion.",
+    "level": "L3",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q07"
+  },
+  {
+    "question": "What is the difference between Las Vegas Strip Resorts net revenues in the current year and the prior year?",
+    "answer": "The difference is $3.7 billion, increasing from $4.7 billion to $8.4 billion.",
+    "level": "L3",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q08"
+  },
+  {
+    "question": "How many adjustment lines are listed between diluted earnings per share and Adjusted EPS in the reconciliation table?",
+    "answer": "Five adjustment lines are listed: Property transactions, net; Investments and other; Foreign currency gain on MGM China senior notes; Change in fair value of unhedged MGP swaps; and Income tax impact on net income adjustments.",
+    "level": "L3",
+    "doc_id": "en_tbl_010_mgmresorts_p003",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_010_mgmresorts_p003_q09"
+  }
+]

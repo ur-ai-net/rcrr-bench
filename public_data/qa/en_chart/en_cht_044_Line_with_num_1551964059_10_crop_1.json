@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the yellow line in the chart?",
+    "answer": "“12/31/15 NYMEX Strip Pricing - Before Hedges”.",
+    "level": "L1",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q00"
+  },
+  {
+    "question": "What is the title of the orange line in the chart?",
+    "answer": "“12/31/15 Strip Pricing - After Hedges”.",
+    "level": "L1",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q01"
+  },
+  {
+    "question": "What year is shown at the leftmost point of the chart?",
+    "answer": "2016.",
+    "level": "L1",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q02"
+  },
+  {
+    "question": "What is the dollar value labeled for the orange line in 2016?",
+    "answer": "$4.19.",
+    "level": "L1",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q03"
+  },
+  {
+    "question": "Which line is higher in 2016, before hedges or after hedges?",
+    "answer": "After hedges is higher in 2016.",
+    "level": "L2",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q04"
+  },
+  {
+    "question": "In which year do the two lines appear closest to each other?",
+    "answer": "2020.",
+    "level": "L2",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q05"
+  },
+  {
+    "question": "What overall trend does the orange line show from 2016 to 2020?",
+    "answer": "It declines overall, from $4.19 in 2016 to $3.38 in 2020.",
+    "level": "L2",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q06"
+  },
+  {
+    "question": "By how much does the yellow line increase from 2016 to 2020?",
+    "answer": "It increases by $0.68, from $2.50 to $3.18.",
+    "level": "L3",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q07"
+  },
+  {
+    "question": "What is the difference between the two lines in 2017?",
+    "answer": "The difference is $0.93, with $3.72 after hedges and $2.79 before hedges.",
+    "level": "L3",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q08"
+  },
+  {
+    "question": "In which year is the gap between the two lines the largest, and what is that gap?",
+    "answer": "2016, with a gap of $1.69.",
+    "level": "L3",
+    "doc_id": "en_cht_044_Line_with_num_1551964059_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_044_Line_with_num_1551964059_10_crop_1_q09"
+  }
+]

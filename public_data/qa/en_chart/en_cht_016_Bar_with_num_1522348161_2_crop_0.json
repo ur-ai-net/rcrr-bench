@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Avg. Consumer Deposits ($B)\".",
+    "level": "L1",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q00"
+  },
+  {
+    "question": "What is the total value shown for 4Q12?",
+    "answer": "The total value for 4Q12 is \"$704\".",
+    "level": "L1",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q01"
+  },
+  {
+    "question": "What is the Consumer Banking value for 4Q15?",
+    "answer": "The Consumer Banking value for 4Q15 is \"$557\".",
+    "level": "L1",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q02"
+  },
+  {
+    "question": "What is the GWIM value for 4Q14?",
+    "answer": "The GWIM value for 4Q14 is \"$239\".",
+    "level": "L1",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q03"
+  },
+  {
+    "question": "Which category is represented by the red bars?",
+    "answer": "The red bars represent \"Consumer Banking\".",
+    "level": "L2",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q04"
+  },
+  {
+    "question": "Which category is represented by the gray bars?",
+    "answer": "The gray bars represent \"GWIM\".",
+    "level": "L2",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q05"
+  },
+  {
+    "question": "In which quarter did the chart show the highest total average consumer deposits?",
+    "answer": "The highest total is in 4Q15 at \"$809\".",
+    "level": "L2",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q06"
+  },
+  {
+    "question": "By how much did the total average consumer deposits increase from 4Q12 to 4Q15?",
+    "answer": "It increased by \"$105\" ($809 minus $704).",
+    "level": "L3",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q07"
+  },
+  {
+    "question": "How much larger was Consumer Banking than GWIM in 4Q13?",
+    "answer": "Consumer Banking was \"$258\" larger than GWIM in 4Q13 ($498 versus $240).",
+    "level": "L3",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q08"
+  },
+  {
+    "question": "What is the combined total of the Consumer Banking and GWIM values in 4Q14?",
+    "answer": "The combined total is \"$757\" ($518 plus $239).",
+    "level": "L3",
+    "doc_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_016_Bar_with_num_1522348161_2_crop_0_q09"
+  }
+]

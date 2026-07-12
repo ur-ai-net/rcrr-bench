@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart on this page?",
+    "answer": "The title is \"Order Softness Drove Backlog Decline\".",
+    "level": "L1",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q00"
+  },
+  {
+    "question": "What unit is shown in parentheses under the chart title?",
+    "answer": "The unit is \"($MM)\".",
+    "level": "L1",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q01"
+  },
+  {
+    "question": "What is the backlog value shown for 2Q23?",
+    "answer": "The backlog value for 2Q23 is \"$223.2\".",
+    "level": "L1",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q02"
+  },
+  {
+    "question": "What is the backlog value shown for 2Q24?",
+    "answer": "The backlog value for 2Q24 is \"$115.8\".",
+    "level": "L1",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q03"
+  },
+  {
+    "question": "Which quarter has the highest backlog value on the chart?",
+    "answer": "2Q23 has the highest backlog value at \"$223.2\".",
+    "level": "L2",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q04"
+  },
+  {
+    "question": "Which quarters are shown with blue bars?",
+    "answer": "The blue bars are shown for 2Q23 and 2Q24.",
+    "level": "L2",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q05"
+  },
+  {
+    "question": "What overall trend does the chart show from 2Q23 to 2Q24?",
+    "answer": "The chart shows a decline in backlog from \"$223.2\" in 2Q23 to \"$115.8\" in 2Q24.",
+    "level": "L2",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q06"
+  },
+  {
+    "question": "By how much did the backlog decline from 2Q23 to 2Q24?",
+    "answer": "It declined by \"$107.4\" million, from \"$223.2\" to \"$115.8\".",
+    "level": "L3",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q07"
+  },
+  {
+    "question": "What is the difference between the backlog values in 3Q23 and 4Q23?",
+    "answer": "The difference is \"$26.6\" million, with 3Q23 at \"$196.9\" and 4Q23 at \"$170.3\".",
+    "level": "L3",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q08"
+  },
+  {
+    "question": "How many quarters are displayed in the chart?",
+    "answer": "There are 5 quarters displayed: 2Q23, 3Q23, 4Q23, 1Q24, and 2Q24.",
+    "level": "L3",
+    "doc_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_008_Bar_with_num_1785352624_8_crop_1_q09"
+  }
+]

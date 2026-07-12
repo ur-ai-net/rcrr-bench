@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart on this page?",
+    "answer": "The title is \"Unrealized Gain / Loss\".",
+    "level": "L1",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q00"
+  },
+  {
+    "question": "What unit is shown on the y-axis?",
+    "answer": "The y-axis is labeled \"($M)\".",
+    "level": "L1",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q01"
+  },
+  {
+    "question": "What is the total value shown above the 2014 bar?",
+    "answer": "The total value above the 2014 bar is \"3,173\".",
+    "level": "L1",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q02"
+  },
+  {
+    "question": "What are the two legend categories shown at the bottom of the chart?",
+    "answer": "The legend categories are \"Interest-bearing(1)\" and \"Equity/Owned(2)\".",
+    "level": "L1",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q03"
+  },
+  {
+    "question": "Which year has the largest total unrealized gain/loss on the chart?",
+    "answer": "2014 has the largest total unrealized gain/loss, at \"3,173\".",
+    "level": "L2",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q04"
+  },
+  {
+    "question": "In Q1 16, which component is larger: Interest-bearing(1) or Equity/Owned(2)?",
+    "answer": "Interest-bearing(1) is larger in Q1 16, with \"1,668\" versus \"320\" for Equity/Owned(2).",
+    "level": "L2",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q05"
+  },
+  {
+    "question": "Which year shows the smallest Equity/Owned(2) amount?",
+    "answer": "2015 shows the smallest Equity/Owned(2) amount, at \"272\".",
+    "level": "L2",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q06"
+  },
+  {
+    "question": "By how much does the total in 2014 exceed the total in 2015?",
+    "answer": "2014 exceeds 2015 by \"2,148\". This is the difference between \"3,173\" and \"1,025\".",
+    "level": "L3",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q07"
+  },
+  {
+    "question": "What is the combined total of the Interest-bearing(1) amounts across all three periods?",
+    "answer": "The combined Interest-bearing(1) total is \"5,187\". It is the sum of \"2,766\", \"753\", and \"1,668\".",
+    "level": "L3",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q08"
+  },
+  {
+    "question": "What is the difference between the Interest-bearing(1) and Equity/Owned(2) amounts in 2015?",
+    "answer": "The difference in 2015 is \"481\". It is calculated from \"753\" minus \"272\".",
+    "level": "L3",
+    "doc_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_012_Bar_with_num_1611565235_10_crop_1_q09"
+  }
+]

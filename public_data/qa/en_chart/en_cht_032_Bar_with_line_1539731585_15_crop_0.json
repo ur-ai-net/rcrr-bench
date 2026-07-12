@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Sales & Premium Written\".",
+    "level": "L1",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q00"
+  },
+  {
+    "question": "What unit is shown on the chart for the values?",
+    "answer": "The values are shown in \"$ millions\".",
+    "level": "L1",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q01"
+  },
+  {
+    "question": "What is the Sales value for 2009?",
+    "answer": "The Sales value for 2009 is 4.7.",
+    "level": "L1",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q02"
+  },
+  {
+    "question": "What is the Life Premium Written value for 2015?",
+    "answer": "The Life Premium Written value for 2015 is $102 million.",
+    "level": "L1",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q03"
+  },
+  {
+    "question": "Which year has the highest Sales value?",
+    "answer": "2014 has the highest Sales value at 11.1.",
+    "level": "L2",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q04"
+  },
+  {
+    "question": "In which year did Sales first rise above 6?",
+    "answer": "Sales first rose above 6 in 2012, when it reached 6.4.",
+    "level": "L2",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q05"
+  },
+  {
+    "question": "Did Life Premium Written increase or decrease from 2011 to 2014?",
+    "answer": "It increased from about $99 million in 2011 to about $102 million in 2014.",
+    "level": "L2",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q06"
+  },
+  {
+    "question": "By how much did Sales change from 2010 to 2015?",
+    "answer": "Sales increased by 6.5, from 4.4 in 2010 to 10.9 in 2015.",
+    "level": "L3",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q07"
+  },
+  {
+    "question": "What is the difference between the highest and lowest Sales values shown?",
+    "answer": "The difference is 6.7, from 4.4 in 2010 to 11.1 in 2014.",
+    "level": "L3",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q08"
+  },
+  {
+    "question": "How many years are shown on the chart?",
+    "answer": "There are 7 years shown, from 2009 through 2015.",
+    "level": "L3",
+    "doc_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_032_Bar_with_line_1539731585_15_crop_0_q09"
+  }
+]

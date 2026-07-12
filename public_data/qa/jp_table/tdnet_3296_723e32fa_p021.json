@@ -1,0 +1,202 @@
+[
+  {
+    "question": "当期首の出資総額はいくらか？",
+    "answer": "当期首の出資総額は126,515,601千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q00"
+  },
+  {
+    "question": "当期末の出資総額(純額)はいくらか？",
+    "answer": "当期末の出資総額(純額)は124,015,698千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q01"
+  },
+  {
+    "question": "当期首の圧縮積立金はいくらか？",
+    "answer": "当期首の圧縮積立金は947,091千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q02"
+  },
+  {
+    "question": "当期末の任意積立金合計はいくらか？",
+    "answer": "当期末の任意積立金合計は2,876,934千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q03"
+  },
+  {
+    "question": "当期純利益はいくらか？",
+    "answer": "当期純利益は6,650,037千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q04"
+  },
+  {
+    "question": "当期首の当期未処分利益又は当期未処理損失(△)はいくらか？",
+    "answer": "当期首の当期未処分利益又は当期未処理損失(△)は6,184,499千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q05"
+  },
+  {
+    "question": "当期末の純資産合計はいくらか？",
+    "answer": "当期末の純資産合計は133,650,475千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q06"
+  },
+  {
+    "question": "当期変動額合計の剰余金合計はいくらか？",
+    "answer": "当期変動額合計の剰余金合計は2,503,186千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q07"
+  },
+  {
+    "question": "当期中に買換特例圧縮積立金はどのように変動したか？",
+    "answer": "当期中に買換特例圧縮積立金は1,934,000千円積立され、4,157千円取り崩されました。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q08"
+  },
+  {
+    "question": "当期中に剰余金の配当は行われたか？行われた場合、その金額はいくらか？",
+    "answer": "はい、当期中に剰余金の配当が行われました。その金額は4,146,851千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q09"
+  },
+  {
+    "question": "当期首の投資主資本合計はいくらか？",
+    "answer": "当期首の投資主資本合計は131,147,289千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q10"
+  },
+  {
+    "question": "当期末の投資主資本合計はいくらか？",
+    "answer": "当期末の投資主資本合計は133,650,475千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q11"
+  },
+  {
+    "question": "当期首の剰余金合計はいくらか？",
+    "answer": "当期首の剰余金合計は7,131,591千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q12"
+  },
+  {
+    "question": "当期末の剰余金合計はいくらか？",
+    "answer": "当期末の剰余金合計は9,634,777千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q13"
+  },
+  {
+    "question": "当期変動額合計において、出資総額(純額)は変動したか？",
+    "answer": "いいえ、当期変動額合計において出資総額(純額)は変動していません。変動額は0千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q14"
+  },
+  {
+    "question": "当期首の出資総額(純額)はどのように計算されるか？その金額はいくらか？",
+    "answer": "当期首の出資総額(純額)は、出資総額126,515,601千円に、出資総額控除額▲2,499,903千円を加算して計算されます。その金額は124,015,698千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q15"
+  },
+  {
+    "question": "当期末の投資主資本合計は、当期首の投資主資本合計からどのように変動したか？",
+    "answer": "当期末の投資主資本合計は133,650,475千円であり、当期首の131,147,289千円から2,503,186千円増加しました。これは当期変動額合計の投資主資本合計と一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q16"
+  },
+  {
+    "question": "当期末の剰余金合計は、当期首の剰余金合計からどのように変動したか？",
+    "answer": "当期末の剰余金合計は9,634,777千円であり、当期首の7,131,591千円から2,503,186千円増加しました。これは当期変動額合計の剰余金合計と一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q17"
+  },
+  {
+    "question": "当期変動額合計における「買換特例圧縮積立金の積立」と「買換特例圧縮積立金の取崩」の純額はいくらか？",
+    "answer": "積立が1,934,000千円、取崩が▲4,157千円であるため、純額は1,934,000千円 - 4,157千円 = 1,929,843千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q18"
+  },
+  {
+    "question": "当期末の純資産合計は、当期末の投資主資本合計と一致するか？",
+    "answer": "はい、当期末の純資産合計133,650,475千円と当期末の投資主資本合計133,650,475千円は一致します。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p021",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p021_q19"
+  }
+]

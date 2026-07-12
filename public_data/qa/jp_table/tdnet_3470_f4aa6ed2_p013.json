@@ -1,0 +1,202 @@
+[
+  {
+    "question": "この投資主資本等変動計算書は、どの投資法人に関するものですか？",
+    "answer": "マリモ地方創生リート投資法人に関するものです。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q00"
+  },
+  {
+    "question": "マリモ地方創生リート投資法人の証券コードは何ですか？",
+    "answer": "3470です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q01"
+  },
+  {
+    "question": "この計算書の対象期間はいつからいつまでですか？",
+    "answer": "2025年1月1日から2025年6月30日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q02"
+  },
+  {
+    "question": "当期首残高における「出資総額(純額)」はいくらでしたか？",
+    "answer": "29,337,975千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q03"
+  },
+  {
+    "question": "「その他の出資総額控除額」における「当期純利益」の金額はいくらですか？",
+    "answer": "△39,972千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q04"
+  },
+  {
+    "question": "当期末残高における「剰余金合計」はいくらでしたか？",
+    "answer": "919,447千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q05"
+  },
+  {
+    "question": "当期首残高における「投資主資本合計」はいくらでしたか？",
+    "answer": "30,314,846千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q06"
+  },
+  {
+    "question": "当期首残高における「一時差異等調整引当額」はいくらでしたか？",
+    "answer": "△18,017千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q07"
+  },
+  {
+    "question": "当期中に「出資総額(純額)」はどのように変動しましたか？",
+    "answer": "当期首残高の29,337,975千円から、当期末残高の29,296,595千円へと、△41,379千円減少しました。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q08"
+  },
+  {
+    "question": "「出資総額控除額合計」の「当期変動額合計」を構成する項目は何ですか？",
+    "answer": "「一時差異等調整引当額」の△1,407千円と、「その他の出資総額控除額」の△39,972千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q09"
+  },
+  {
+    "question": "「剰余金の配当」は「投資主資本合計」にどのような影響を与えましたか？",
+    "answer": "「剰余金の配当」により、「投資主資本合計」は△976,784千円減少しました。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q10"
+  },
+  {
+    "question": "当期における「純資産合計」の全体的な変動について説明してください。",
+    "answer": "「純資産合計」は、期首の30,314,846千円から期末の30,216,042千円へと、全体で△98,803千円減少しました。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q11"
+  },
+  {
+    "question": "「剰余金合計」の「当期変動額合計」の主な要因は何ですか？",
+    "answer": "主な要因は「剰余金の配当」による△976,784千円の減少と、「当期純利益」による919,359千円の増加です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q12"
+  },
+  {
+    "question": "「当期純利益」は「出資総額控除額」と「剰余金」のそれぞれにどのように影響していますか？",
+    "answer": "「当期純利益」は「その他の出資総額控除額」を△39,972千円減少させ、同時に「当期未処分利益又は当期未処理損失(△)」および「剰余金合計」を919,359千円増加させています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q13"
+  },
+  {
+    "question": "この計算書において、「当期未処分利益又は当期未処理損失(△)」と「剰余金合計」の関係はどうなっていますか？",
+    "answer": "この計算書では、「当期未処分利益又は当期未処理損失(△)」の金額が全ての行で「剰余金合計」と一致しており、両者が同じ金額を表しているか、または「剰余金合計」が「当期未処分利益又は当期未処理損失(△)」のみで構成されていることを示しています。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q14"
+  },
+  {
+    "question": "当期末残高における「出資総額控除額合計」を計算してください。",
+    "answer": "当期末残高の「一時差異等調整引当額」△19,425千円と「その他の出資総額控除額」△1,016,669千円を合計すると、△1,036,094千円となります。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q15"
+  },
+  {
+    "question": "「純資産合計」の「当期変動額合計」を、その構成要素である「当期変動額」の各項目から計算し、記載されている値と比較してください。",
+    "answer": "「剰余金の配当」△976,784千円、「一時差異等調整引当額による利益超過分配」△1,407千円、「その他の利益超過分配」△39,972千円、「当期純利益」919,359千円を合計すると、△98,804千円となります。これは記載されている「当期変動額合計」の△98,803千円と1千円の差があります。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q16"
+  },
+  {
+    "question": "「出資総額(純額)」の「当期変動額合計」と「投資主資本合計」の「当期変動額合計」の差額は何を示していますか？",
+    "answer": "「出資総額(純額)」の「当期変動額合計」は△41,379千円、「投資主資本合計」の「当期変動額合計」は△98,803千円です。この差額△57,424千円（△98,803千円 - △41,379千円）は、「剰余金合計」の「当期変動額合計」に相当します。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q17"
+  },
+  {
+    "question": "当期中に「利益超過分配」が「出資総額控除額合計」に与えた総影響額を計算してください。",
+    "answer": "「一時差異等調整引当額による利益超過分配」の△1,407千円と「その他の利益超過分配」の△39,972千円を合計すると、総影響額は△41,379千円となります。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q18"
+  },
+  {
+    "question": "当期首から当期末にかけて、「純資産合計」は何パーセント変動しましたか？小数点以下第3位を四捨五入して答えてください。",
+    "answer": "「純資産合計」は当期首30,314,846千円から当期末30,216,042千円へ△98,804千円減少しました。変動率は (△98,804千円 / 30,314,846千円) × 100% ≈ -0.326%です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p013",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p013_q19"
+  }
+]

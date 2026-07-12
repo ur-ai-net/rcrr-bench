@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What was the \"Gain on disposal of Russian business, net\" in 2023?",
+    "answer": "It was \"$215 million\".",
+    "level": "L1",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q00"
+  },
+  {
+    "question": "What were \"Restructuring and related expenses, net\" in 2022?",
+    "answer": "They were \"(96)\" million.",
+    "level": "L1",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q01"
+  },
+  {
+    "question": "In which fiscal year were \"Russia-Ukraine impairment expenses\" recorded?",
+    "answer": "They were recorded in fiscal year 2022.",
+    "level": "L1",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q02"
+  },
+  {
+    "question": "What was the total \"Restructuring, impairment, and other related activities, net\" in 2021?",
+    "answer": "It was \"$ (94)\" million.",
+    "level": "L1",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q03"
+  },
+  {
+    "question": "Which event led to the recognition of the pre-tax net gain on disposal of the Company's Russian business in fiscal year 2023?",
+    "answer": "The gain was recognized after the disposal of the Company's three manufacturing facilities in Russia, referred to as the \"Russian business.\"",
+    "level": "L2",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q04"
+  },
+  {
+    "question": "What prior action affected the carrying value of the Russian business before its 2023 disposal?",
+    "answer": "The carrying value had previously been impaired by \"$90 million\" in the fourth quarter of fiscal year 2022.",
+    "level": "L2",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q05"
+  },
+  {
+    "question": "Why did the Company recognize the additional \"$48 million\" of expenses in the conflict region?",
+    "answer": "The Company expected that certain assets not held for sale in the conflict region would not be recoverable.",
+    "level": "L2",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q06"
+  },
+  {
+    "question": "By how much did \"Restructuring, impairment, and other related activities, net\" change from 2022 to 2023?",
+    "answer": "It increased by \"$338 million\", from \"(234)\" million to \"$104 million\".",
+    "level": "L3",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q07"
+  },
+  {
+    "question": "What is the difference between the 2023 gain on disposal of Russian business and the 2022 Russia-Ukraine impairment expenses?",
+    "answer": "The difference is \"$77 million\" ($215 million minus $138 million).",
+    "level": "L3",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q08"
+  },
+  {
+    "question": "Which note should be consulted for information on restructuring and related expenses, net?",
+    "answer": "Refer to Note 7, \"Restructuring.\"",
+    "level": "L3",
+    "doc_id": "en_tbl_035_amcor_p063",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_035_amcor_p063_q09"
+  }
+]

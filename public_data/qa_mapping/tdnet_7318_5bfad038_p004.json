@@ -1,0 +1,38 @@
+[
+  {
+    "question": "連結売上高の「増減分析」において、「新規連結子会社」による増加額はいくらですか。",
+    "answer": "18,911百万円",
+    "evidence": "増減分析 … 新規連結子会社（※1）の棒上に 18,911／（単位：百万円）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m00"
+  },
+  {
+    "question": "連結売上高の「増減分析」において、「プロフェッショナル」区分の増減額はいくらですか。",
+    "answer": "404百万円",
+    "evidence": "増減分析 … プロフェッショナル の帯の下の棒に 404（モノづくり側はオートモーティブ 738・企画開発型 ▲183、インベストメントは10）",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m01"
+  },
+  {
+    "question": "連結売上高の「増減分析」に示された増減要因のうち、マイナス（減少）となっているのはどれですか。",
+    "answer": "企画開発型",
+    "evidence": "企画開発型 ▲183（他の要因はオートモーティブ 738、プロフェッショナル 404、インベストメント 10、新規連結子会社 18,911でいずれもプラス）",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7318_5bfad038_p004",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p004_m02"
+  }
+]

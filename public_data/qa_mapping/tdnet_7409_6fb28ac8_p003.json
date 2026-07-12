@@ -1,0 +1,38 @@
+[
+  {
+    "question": "成長イメージ図の右側に示された区分のうち、「成長戦略04」に対応する事業領域はどれですか？",
+    "answer": "MRO事業",
+    "evidence": "MRO事業 / 成長戦略04",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_m00"
+  },
+  {
+    "question": "成長イメージ図において、「プラス成長」ではなく「基礎成長」に区分されている成長戦略はどれですか？",
+    "answer": "成長戦略01",
+    "evidence": "成長戦略01 チタンアルミブレード加工事業 / 基礎成長 / プラス成長",
+    "level": "M2",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_m01"
+  },
+  {
+    "question": "成長イメージ図において、「エンジンA」「エンジンB」のアイコンが描かれている事業領域はどれですか？",
+    "answer": "新規量産事業",
+    "evidence": "エンジンA エンジンB 新規量産事業",
+    "level": "M1",
+    "qtype": "mapping",
+    "doc_id": "tdnet_7409_6fb28ac8_p003",
+    "cell": "jp_chart",
+    "content_type": "mapping",
+    "lang": "jp",
+    "task_id": "tdnet_7409_6fb28ac8_p003_m02"
+  }
+]

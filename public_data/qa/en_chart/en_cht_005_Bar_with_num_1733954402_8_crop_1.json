@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the chart?",
+    "answer": "The title is \"Debt-to-Capital Ratio\".",
+    "level": "L1",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q00"
+  },
+  {
+    "question": "What is the debt-to-capital ratio shown for 2020?",
+    "answer": "The ratio for 2020 is 29.5%.",
+    "level": "L1",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q01"
+  },
+  {
+    "question": "What is the debt-to-capital ratio shown for Q3 2024?",
+    "answer": "The ratio for Q3 2024 is 12.3%.",
+    "level": "L1",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q02"
+  },
+  {
+    "question": "How many years or periods are displayed on the chart?",
+    "answer": "There are 5 periods shown: 2020, 2021, 2022, 2023, and Q3 2024.",
+    "level": "L1",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q03"
+  },
+  {
+    "question": "Which period has the highest debt-to-capital ratio, and what is it?",
+    "answer": "2020 has the highest ratio at 29.5%.",
+    "level": "L2",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q04"
+  },
+  {
+    "question": "Which period has the lowest debt-to-capital ratio, and what is it?",
+    "answer": "Q3 2024 has the lowest ratio at 12.3%.",
+    "level": "L2",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q05"
+  },
+  {
+    "question": "What is the overall trend in the debt-to-capital ratio from 2020 to Q3 2024?",
+    "answer": "The ratio declines steadily from 29.5% in 2020 to 12.3% in Q3 2024.",
+    "level": "L2",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q06"
+  },
+  {
+    "question": "By how many percentage points did the debt-to-capital ratio change from 2020 to 2021?",
+    "answer": "It decreased by 8.2 percentage points, from 29.5% to 21.3%.",
+    "level": "L3",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q07"
+  },
+  {
+    "question": "What is the difference between the 2022 and 2023 debt-to-capital ratios?",
+    "answer": "The difference is 2.8 percentage points, with 2022 at 18.7% and 2023 at 15.9%.",
+    "level": "L3",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q08"
+  },
+  {
+    "question": "What is the average debt-to-capital ratio across all five periods shown?",
+    "answer": "The average is 19.54%.",
+    "level": "L3",
+    "doc_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_005_Bar_with_num_1733954402_8_crop_1_q09"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "物件番号B-1の物件名称は何ですか？",
+    "answer": "物件番号B-1の物件名称は「タワーコート北品川」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q00"
+  },
+  {
+    "question": "物件番号B-7の賃貸事業収益はいくらですか？",
+    "answer": "物件番号B-7の賃貸事業収益は25,706千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q01"
+  },
+  {
+    "question": "物件番号B-10の運用日数は何日ですか？",
+    "answer": "物件番号B-10の運用日数は184日です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q02"
+  },
+  {
+    "question": "物件番号B-12の信託報酬はいくらですか？",
+    "answer": "物件番号B-12の信託報酬は350千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q03"
+  },
+  {
+    "question": "物件番号B-4のその他賃貸事業収入はいくらですか？",
+    "answer": "物件番号B-4のその他賃貸事業収入は911千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q04"
+  },
+  {
+    "question": "物件番号B-14の賃貸事業収益はいくらですか？",
+    "answer": "物件番号B-14の賃貸事業収益は36千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q05"
+  },
+  {
+    "question": "物件番号B-11の水道光熱費が非開示である理由は何ですか？",
+    "answer": "物件番号B-11の水道光熱費が非開示である理由は、転借人であるテナントより承諾が得られていないためです。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q06"
+  },
+  {
+    "question": "物件番号B-13の賃貸事業費用はいくらですか？",
+    "answer": "物件番号B-13の賃貸事業費用は△100千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q07"
+  },
+  {
+    "question": "物件番号B-14は、2025年12月期決算短信においてどのような状況にあると説明されていますか？",
+    "answer": "物件番号B-14は2025年6月期に売却済みですが、今期に確定した電気料収入等を計上していると説明されています。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q08"
+  },
+  {
+    "question": "物件番号B-1の賃貸事業収益の内訳を見ると、賃貸事業収入とその他賃貸事業収入のどちらが大きいですか？",
+    "answer": "物件番号B-1の賃貸事業収益の内訳では、賃貸事業収入（422,055千円）がその他賃貸事業収入（19,055千円）よりも大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q09"
+  },
+  {
+    "question": "物件番号B-12の賃貸事業収益の内訳を見ると、賃貸事業収入とその他賃貸事業収入のどちらが大きいですか？",
+    "answer": "物件番号B-12の賃貸事業収益の内訳では、賃貸事業収入（148,851千円）がその他賃貸事業収入（16,910千円）よりも大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q10"
+  },
+  {
+    "question": "物件番号B-11の水道光熱費が非開示であること以外に、他に非開示となっている費用項目はありますか？",
+    "answer": "いいえ、物件番号B-11において非開示と明記されている費用項目は水道光熱費のみです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q11"
+  },
+  {
+    "question": "物件番号B-1の賃貸事業費用の中で最も大きな割合を占める費用項目は何ですか？",
+    "answer": "物件番号B-1の賃貸事業費用の中で最も大きな割合を占める費用項目は管理業務費（32,283千円）です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q12"
+  },
+  {
+    "question": "物件番号B-13の賃貸事業費用が△100千円であることについて、この値は他の物件と比較してどのような特徴がありますか？",
+    "answer": "物件番号B-13の賃貸事業費用は△100千円であり、他の物件が正の費用を計上しているのに対し、唯一マイナスの値を示しています。これは費用が回収されたか、特別な調整があったことを示唆しています。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q13"
+  },
+  {
+    "question": "物件番号B-1の賃貸事業費用と物件番号B-2の賃貸事業費用を比較すると、どちらの物件の費用がより大きいですか？",
+    "answer": "物件番号B-1の賃貸事業費用は94,276千円、物件番号B-2は9,739千円であるため、物件番号B-1の費用の方が大きいです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q14"
+  },
+  {
+    "question": "物件番号B-1の賃貸NOIは、定義式「①賃貸事業収益 - ②賃貸事業費用」に基づいて計算するといくらになりますか？",
+    "answer": "物件番号B-1の賃貸NOIは、441,111千円（賃貸事業収益）- 94,276千円（賃貸事業費用）= 346,835千円となります。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q15"
+  },
+  {
+    "question": "物件番号B-12の賃貸事業損益は、定義式「③賃貸NOI - ④減価償却費 - ⑤固定資産除却損」に基づいて計算するといくらになりますか？",
+    "answer": "物件番号B-12の賃貸事業損益は、129,691千円（賃貸NOI）- 16,340千円（減価償却費）- 0千円（固定資産除却損）= 113,351千円となります。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q16"
+  },
+  {
+    "question": "このページに記載されている物件の中で、賃貸事業収益が最も高い物件は何ですか？またその物件名称は何ですか？",
+    "answer": "このページに記載されている物件の中で、賃貸事業収益が最も高い物件は物件番号B-12で、その物件名称は「Primegate飯田橋」です（165,761千円）。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q17"
+  },
+  {
+    "question": "物件番号B-1の賃貸事業費用に占める管理業務費の割合を計算してください。",
+    "answer": "物件番号B-1の賃貸事業費用（94,276千円）に占める管理業務費（32,283千円）の割合は、約34.24%です（32,283 ÷ 94,276 × 100）。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q18"
+  },
+  {
+    "question": "物件番号B-1とB-2の賃貸事業損益を比較し、その差額を計算してください。",
+    "answer": "物件番号B-1の賃貸事業損益は289,096千円、B-2は35,200千円です。その差額は289,096千円 - 35,200千円 = 253,896千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p060",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p060_q19"
+  }
+]

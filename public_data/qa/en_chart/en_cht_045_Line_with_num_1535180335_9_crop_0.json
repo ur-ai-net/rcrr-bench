@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the chart title?",
+    "answer": "\"15 Year 3.0% MBS OAS ²\".",
+    "level": "L1",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q00"
+  },
+  {
+    "question": "What is the label of the green solid line in the legend?",
+    "answer": "\"Qtrly Avg. 15 Yr 3.0% OAS\".",
+    "level": "L1",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q01"
+  },
+  {
+    "question": "What is the label of the black dashed line in the legend?",
+    "answer": "\"Avg. 15 Yr 3.0% OAS\".",
+    "level": "L1",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q02"
+  },
+  {
+    "question": "What is the quarterly value shown for Q1-12?",
+    "answer": "The value for Q1-12 is \"16.9\".",
+    "level": "L1",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q03"
+  },
+  {
+    "question": "Which quarter has the highest quarterly value on the chart?",
+    "answer": "Q1-12 has the highest quarterly value at \"16.9\".",
+    "level": "L2",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q04"
+  },
+  {
+    "question": "Which quarter has the lowest quarterly value on the chart?",
+    "answer": "Q1-15 has the lowest quarterly value at \"-18.2\".",
+    "level": "L2",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q05"
+  },
+  {
+    "question": "In which quarter does the quarterly value first turn positive after being negative in the prior quarter?",
+    "answer": "It first turns positive in Q1-13, where the value is \"1.3\" after \"-3.9\" in Q4-12.",
+    "level": "L2",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q06"
+  },
+  {
+    "question": "What is the difference between the highest and lowest quarterly values shown?",
+    "answer": "The difference is \"35.1\" points, from \"16.9\" in Q1-12 to \"-18.2\" in Q1-15.",
+    "level": "L3",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q07"
+  },
+  {
+    "question": "How many quarters are shown on the x-axis?",
+    "answer": "There are \"16\" quarters shown on the x-axis.",
+    "level": "L3",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q08"
+  },
+  {
+    "question": "How many quarterly values are below the dashed average line?",
+    "answer": "There are \"8\" quarterly values below the dashed average line.",
+    "level": "L3",
+    "doc_id": "en_cht_045_Line_with_num_1535180335_9_crop_0",
+    "cell": "en_chart",
+    "content_type": "chart",
+    "lang": "en",
+    "task_id": "en_cht_045_Line_with_num_1535180335_9_crop_0_q09"
+  }
+]

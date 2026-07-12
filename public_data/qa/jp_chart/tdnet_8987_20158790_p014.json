@@ -1,0 +1,102 @@
+[
+ {
+  "question": "第39期（2025/12）のDPUはいくらですか？",
+  "answer": "2,977円です。",
+  "level": "L1",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q00"
+ },
+ {
+  "question": "第40期（2026/6予想）のDPUはいくらですか？",
+  "answer": "3,050円です。",
+  "level": "L1",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q01"
+ },
+ {
+  "question": "第41期（2026/12予想）のDPUはいくらですか？",
+  "answer": "2,713円です。",
+  "level": "L1",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q02"
+ },
+ {
+  "question": "第41期（2026/12予想）の内部留保は何円ですか？",
+  "answer": "88円です。",
+  "level": "L1",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q03"
+ },
+ {
+  "question": "第39期から第40期にかけて、DPUが増加する要因として示されているものは何ですか？",
+  "answer": "譲渡益279円です。",
+  "level": "L2",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q04"
+ },
+ {
+  "question": "第40期から第41期にかけて、DPUの増加要因として示されている内部留保はいくらですか？",
+  "answer": "88円です。",
+  "level": "L2",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q05"
+ },
+ {
+  "question": "第39期のEPUが減少する主な理由として、ページ上で挙げられているものは何ですか？",
+  "answer": "財務コストの増加や一時的な収益の剥落です。",
+  "level": "L2",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q06"
+ },
+ {
+  "question": "第39期のDPU 2,977円から第40期のDPU 2,770円への変化は何円ですか？",
+  "answer": "207円の減少です。",
+  "level": "L3",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q07"
+ },
+ {
+  "question": "第40期のDPU 2,770円から第41期のDPU 2,713円への変化は何円ですか？",
+  "answer": "57円の減少です。",
+  "level": "L3",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q08"
+ },
+ {
+  "question": "第39期の譲渡益58円と第40期の譲渡益279円を合計すると何円ですか？",
+  "answer": "337円です。",
+  "level": "L3",
+  "doc_id": "tdnet_8987_20158790_p014",
+  "cell": "jp_chart",
+  "content_type": "chart",
+  "lang": "jp",
+  "task_id": "tdnet_8987_20158790_p014_q09"
+ }
+]

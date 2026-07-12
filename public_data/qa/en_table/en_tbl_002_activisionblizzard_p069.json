@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the title of the financial statement shown on this page?",
+    "answer": "The title is \"CONSOLIDATED BALANCE SHEETS.\"",
+    "level": "L1",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q00"
+  },
+  {
+    "question": "As of December 31, 2019, what were \"Cash and cash equivalents\"?",
+    "answer": "\"Cash and cash equivalents\" were $5,794 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q01"
+  },
+  {
+    "question": "How many shares of common stock were issued at December 31, 2018?",
+    "answer": "There were 1,192,093,991 shares issued at December 31, 2018.",
+    "level": "L1",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q02"
+  },
+  {
+    "question": "What was the amount of \"Goodwill\" at December 31, 2019?",
+    "answer": "\"Goodwill\" was $9,764 million.",
+    "level": "L1",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q03"
+  },
+  {
+    "question": "Which line item increased the most in the current assets section from December 31, 2018 to December 31, 2019?",
+    "answer": "\"Cash and cash equivalents\" increased the most, rising from $4,225 million to $5,794 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q04"
+  },
+  {
+    "question": "What is the relationship between total liabilities and total shareholders’ equity at December 31, 2019?",
+    "answer": "Total liabilities were $7,040 million and total shareholders’ equity was $12,805 million, so equity was higher than liabilities.",
+    "level": "L2",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q05"
+  },
+  {
+    "question": "Which asset category had the largest decrease from December 31, 2018 to December 31, 2019 among the listed asset line items?",
+    "answer": "\"Other current assets\" had the largest decrease, falling from $539 million to $296 million.",
+    "level": "L2",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q06"
+  },
+  {
+    "question": "By how much did total assets exceed total liabilities at December 31, 2019?",
+    "answer": "Total assets exceeded total liabilities by $12,805 million ($19,845 million minus $7,040 million).",
+    "level": "L3",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q07"
+  },
+  {
+    "question": "What was the change in total current assets from December 31, 2018 to December 31, 2019?",
+    "answer": "Total current assets increased by $1,186 million, from $6,106 million to $7,292 million.",
+    "level": "L3",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q08"
+  },
+  {
+    "question": "How many shares of common stock were authorized, and what does the page say about the par value?",
+    "answer": "There were 2,400,000,000 shares authorized, and the par value was $0.000001 per share.",
+    "level": "L3",
+    "doc_id": "en_tbl_002_activisionblizzard_p069",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_002_activisionblizzard_p069_q09"
+  }
+]

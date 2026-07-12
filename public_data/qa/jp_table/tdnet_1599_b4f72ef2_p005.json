@@ -1,0 +1,202 @@
+[
+  {
+    "question": "この決算短信が対象としているiFreeETFの銘柄名とコードは何ですか？",
+    "answer": "iFreeETF JPX日経400(1599)です。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q00"
+  },
+  {
+    "question": "第24期の決算期間はいつからいつまでですか？",
+    "answer": "自2025年7月11日から至2026年1月10日までです。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q01"
+  },
+  {
+    "question": "金融商品の時価の算定において、どのような前提条件が採用されていますか？",
+    "answer": "一定の前提条件等が採用されており、異なる前提条件等に拠った場合、当該価額が異なることがあります。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q02"
+  },
+  {
+    "question": "デリバティブ取引に関する契約額等は、何を示すものではないと記載されていますか？",
+    "answer": "デリバティブ取引に係る市場リスクを示すものではありません。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q03"
+  },
+  {
+    "question": "第24期（2026年1月10日現在）において、金融商品の時価と貸借対照表計上額との差額はありますか？",
+    "answer": "金融商品はすべて時価で計上されているため、貸借対照表計上額と時価との差額はありません。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q04"
+  },
+  {
+    "question": "コール・ローン等の金銭債権及び金銭債務等の時価はどのように算定されますか？",
+    "answer": "これらは短期間で決済されるため、時価は帳簿価額にほぼ等しいことから、当該帳簿価額を時価としています。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q05"
+  },
+  {
+    "question": "第23期末（2025年7月10日現在）の売買目的有価証券（株式）の当計算期間の損益に含まれた評価差額はいくらですか？",
+    "answer": "16,166,685,907円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q06"
+  },
+  {
+    "question": "第24期末（2026年1月10日現在）のヘッジ会計が適用されていない株価指数先物取引（買建）の評価損益はいくらですか？",
+    "answer": "174,164,192円です。",
+    "level": "L1",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q07"
+  },
+  {
+    "question": "第24期において、金融商品の時価と貸借対照表計上額に差額がないとされている主な理由は何ですか？",
+    "answer": "金融商品はすべて時価で計上されているため、貸借対照表計上額と時価との差額は発生しません。",
+    "level": "L2",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q08"
+  },
+  {
+    "question": "このページに記載されている情報に基づくと、デリバティブ取引の時価の算定方法について、どのような指示がありますか？",
+    "answer": "デリバティブ取引に関する注記に記載されているとされています。",
+    "level": "L2",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q09"
+  },
+  {
+    "question": "ヘッジ会計が適用されていないデリバティブ取引として、このページに具体的に記載されている種類は何ですか？",
+    "answer": "株式関連の株価指数先物取引（買建）が記載されています。",
+    "level": "L2",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q10"
+  },
+  {
+    "question": "売買目的有価証券（株式）の当計算期間の損益に含まれた評価差額は、第23期から第24期にかけてどのように変化しましたか？",
+    "answer": "第23期の16,166,685,907円から、第24期には108,712,380,401円へと増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q11"
+  },
+  {
+    "question": "ヘッジ会計が適用されていない株価指数先物取引（買建）の契約額等は、第23期から第24期にかけてどのように変化しましたか？",
+    "answer": "第23期の3,614,382,560円から、第24期には4,669,737,308円へと増加しました。",
+    "level": "L2",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q12"
+  },
+  {
+    "question": "金融商品の時価の算定方法において、「有価証券」と「デリバティブ取引」の共通する指示は何ですか？",
+    "answer": "どちらも「重要な会計方針に係る事項に関する注記」または「デリバティブ取引に関する注記」に記載されているとされています。",
+    "level": "L2",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q13"
+  },
+  {
+    "question": "金融商品の時価等に関する事項についての補足説明では、時価の算定結果についてどのような注意点が述べられていますか？",
+    "answer": "時価の算定には一定の前提条件等が採用されており、異なる前提条件等に拠った場合、当該価額が異なる可能性があると述べられています。",
+    "level": "L2",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q14"
+  },
+  {
+    "question": "第23期末（2025年7月10日現在）のヘッジ会計が適用されていない株価指数先物取引（買建）において、時価は契約額等をいくら上回っていますか？",
+    "answer": "時価3,622,656,000円から契約額等3,614,382,560円を差し引くと、8,273,440円上回っています。これは評価損益と同額です。",
+    "level": "L3",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q15"
+  },
+  {
+    "question": "第24期末（2026年1月10日現在）のヘッジ会計が適用されていない株価指数先物取引（買建）において、時価は契約額等をいくら上回っていますか？",
+    "answer": "時価4,843,901,500円から契約額等4,669,737,308円を差し引くと、174,164,192円上回っています。これは評価損益と同額です。",
+    "level": "L3",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q16"
+  },
+  {
+    "question": "第23期末から第24期末にかけて、売買目的有価証券（株式）の当計算期間の損益に含まれた評価差額はどれだけ増加しましたか？",
+    "answer": "第24期の108,712,380,401円から第23期の16,166,685,907円を差し引くと、92,545,694,494円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q17"
+  },
+  {
+    "question": "第23期末から第24期末にかけて、ヘッジ会計が適用されていない株価指数先物取引（買建）の評価損益はどれだけ増加しましたか？",
+    "answer": "第23期の8,273,440円から第24期の174,164,192円を差し引くと、165,890,752円増加しました。",
+    "level": "L3",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q18"
+  },
+  {
+    "question": "この文書で示されている金融商品の時価等に関する情報のうち、第24期末（2026年1月10日現在）において最も大きな評価益（評価差額または評価損益）を計上している項目とその金額は何ですか？",
+    "answer": "売買目的有価証券（株式）の評価差額が最も大きく、108,712,380,401円です。",
+    "level": "L3",
+    "doc_id": "tdnet_1599_b4f72ef2_p005",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_1599_b4f72ef2_p005_q19"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "このページの見出しは何ですか？",
+    "answer": "合併によるグループ再編で価値創出の基盤を構築",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q00"
+  },
+  {
+    "question": "このページで示されている当社コンサル事業の領域は何ですか？",
+    "answer": "当社コンサル事業 領域",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q01"
+  },
+  {
+    "question": "このページで示されているテクノロジーズの領域は何ですか？",
+    "answer": "テクノロジーズ 事業領域",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q02"
+  },
+  {
+    "question": "このページで「今後創出する事業領域」はどのように表現されていますか？",
+    "answer": "今後創出する事業領域",
+    "level": "L1",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q03"
+  },
+  {
+    "question": "当社コンサル事業とテクノロジーズの事業領域を融合すると、どのような提供が可能になると書かれていますか？",
+    "answer": "上流から実装まで一気通貫で価値提供が可能",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q04"
+  },
+  {
+    "question": "今後創出する事業領域への進出で、何を実現すると書かれていますか？",
+    "answer": "高収益化",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q05"
+  },
+  {
+    "question": "システムインテグレーション事業のスマイルカーブで、収益性が高いと示されているのはどの工程ですか？",
+    "answer": "業務要件と保守・サポート",
+    "level": "L2",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q06"
+  },
+  {
+    "question": "業務要件から保守・サポートまでの工程数はいくつですか？",
+    "answer": "6工程",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q07"
+  },
+  {
+    "question": "スマイルカーブ上で、低利益と示されている位置は高収益の両端と比べてどのような関係ですか？",
+    "answer": "両端の高収益より低い",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q08"
+  },
+  {
+    "question": "このページで示されている工程のうち、上流工程から下流工程までの順番で4番目は何ですか？",
+    "answer": "設計",
+    "level": "L3",
+    "doc_id": "tdnet_7318_5bfad038_p011",
+    "cell": "jp_chart",
+    "content_type": "chart",
+    "lang": "jp",
+    "task_id": "tdnet_7318_5bfad038_p011_q09"
+  }
+]

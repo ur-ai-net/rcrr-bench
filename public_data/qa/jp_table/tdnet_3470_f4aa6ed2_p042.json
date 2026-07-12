@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Cp-18の物件名称は何ですか。",
+    "answer": "ＭＲＲ江別です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q00"
+  },
+  {
+    "question": "Cp-20の所在地はどこですか。",
+    "answer": "兵庫県姫路市です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q01"
+  },
+  {
+    "question": "Hp-03の建築時期はいつですか。",
+    "answer": "2021年6月18日です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q02"
+  },
+  {
+    "question": "Ct-02のテナント数はいくつですか。",
+    "answer": "1です。",
+    "level": "L1",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q03"
+  },
+  {
+    "question": "稼働率が100.0％の物件は、このページでは何件ありますか。",
+    "answer": "13件です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q04"
+  },
+  {
+    "question": "このページで総賃料収入が最も大きい物件はどれですか。",
+    "answer": "フジグラン宇部です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q05"
+  },
+  {
+    "question": "ホテル区分の物件は何件掲載されていますか。",
+    "answer": "4件です。",
+    "level": "L2",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q06"
+  },
+  {
+    "question": "Cp-24の総賃料収入はCp-20より何百万円多いですか。",
+    "answer": "25百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q07"
+  },
+  {
+    "question": "Cp-18の賃貸面積と賃貸可能面積の差はいくつですか。",
+    "answer": "0㎡です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q08"
+  },
+  {
+    "question": "ホテル区分4件の総賃料収入の合計はいくつですか。",
+    "answer": "14百万円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3470_f4aa6ed2_p042",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3470_f4aa6ed2_p042_q09"
+  }
+]

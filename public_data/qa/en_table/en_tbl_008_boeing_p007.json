@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What year was Boeing originally incorporated in the State of Washington?",
+    "answer": "Boeing was originally incorporated in the State of Washington in 1916.",
+    "level": "L1",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q00"
+  },
+  {
+    "question": "In what year was Boeing reincorporated in Delaware?",
+    "answer": "Boeing was reincorporated in Delaware in 1934.",
+    "level": "L1",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q01"
+  },
+  {
+    "question": "What is Boeing's principal executive office address?",
+    "answer": "Boeing's principal executive offices are located at 929 Long Bridge Drive, Arlington, Virginia 22202.",
+    "level": "L1",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q02"
+  },
+  {
+    "question": "What is Boeing's telephone number listed on the page?",
+    "answer": "Boeing's telephone number is (703) 465-3500.",
+    "level": "L1",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q03"
+  },
+  {
+    "question": "What materials are identified as raw materials that Boeing depends on?",
+    "answer": "The page identifies aluminum, titanium, and composites as raw materials, including carbon and boron in the composites.",
+    "level": "L2",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q04"
+  },
+  {
+    "question": "Why did Boeing suspend purchasing titanium from Russia during 2022, and what was the effect on operations?",
+    "answer": "During 2022, as a result of the Russia Ukraine war, Boeing suspended purchasing titanium from Russia. This did not disrupt operations because Boeing used inventory on hand and identified alternative sources.",
+    "level": "L2",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q05"
+  },
+  {
+    "question": "What risk does Boeing face if suppliers or subcontractors fail to meet commitments?",
+    "answer": "Failure of suppliers or subcontractors to meet commitments could adversely affect production schedules and program/contract profitability, thereby jeopardizing Boeing's ability to fulfill commitments to customers.",
+    "level": "L2",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q06"
+  },
+  {
+    "question": "How long could qualification of alternative raw material sources take?",
+    "answer": "Qualification of the sources could take a year or more.",
+    "level": "L3",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q07"
+  },
+  {
+    "question": "How many categories of raw materials are explicitly listed in the page's opening sentence?",
+    "answer": "Three categories are explicitly listed: aluminum, titanium, and composites.",
+    "level": "L3",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q08"
+  },
+  {
+    "question": "What sections are referenced for executive officers and for the company's website and SEC filings?",
+    "answer": "Executive officers are referenced in “Item 10. Directors, Executive Officers and Corporate Governance” in Part III, and the website/SEC filing information appears under “Other Information.”",
+    "level": "L3",
+    "doc_id": "en_tbl_008_boeing_p007",
+    "cell": "en_table",
+    "content_type": "table",
+    "lang": "en",
+    "task_id": "en_tbl_008_boeing_p007_q09"
+  }
+]

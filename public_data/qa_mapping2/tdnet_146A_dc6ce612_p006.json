@@ -1,0 +1,41 @@
+[
+ {
+  "question": "「営業利益計画差異分析」において、通期営利実績の値はいくらですか。",
+  "answer": "6,028百万円",
+  "evidence": "6,028（横目盛ラベル「通期営利実績」の値ラベル、単位は百万円）",
+  "source_element": "waterfall step label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_146A_dc6ce612_p006",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_146A_dc6ce612_p006_m03"
+ },
+ {
+  "question": "「営業利益計画差異分析」において、11月27日修正の修正営利予算の値はいくらですか。",
+  "answer": "5,600百万円",
+  "evidence": "5,600（「11月27日修正 営利予算」（修正営利予算）の値ラベル）",
+  "source_element": "waterfall step label",
+  "level": "M1",
+  "qtype": "mapping",
+  "doc_id": "tdnet_146A_dc6ce612_p006",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_146A_dc6ce612_p006_m04"
+ },
+ {
+  "question": "「営業利益計画差異分析」において、「計画以上の家賃収入や外部受託の影響」という注記が付されているのはどの増減項目ですか。",
+  "answer": "運営事業粗利増",
+  "evidence": "「計画以上の家賃収入や外部受託の影響」の注記が「運営事業粗利増」のステップに付されている。",
+  "source_element": "in-chart annotation",
+  "level": "M2",
+  "qtype": "mapping",
+  "doc_id": "tdnet_146A_dc6ce612_p006",
+  "cell": "jp_chart",
+  "content_type": "mapping",
+  "lang": "jp",
+  "task_id": "tdnet_146A_dc6ce612_p006_m07"
+ }
+]

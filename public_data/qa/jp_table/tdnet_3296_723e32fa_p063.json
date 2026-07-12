@@ -1,0 +1,202 @@
+[
+  {
+    "question": "物件番号B-45の物件名称は何ですか？",
+    "answer": "物件番号B-45の物件名称は「ミューズ両国II」です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q00"
+  },
+  {
+    "question": "物件番号B-49の運用日数は何日ですか？",
+    "answer": "物件番号B-49の運用日数は184日です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q01"
+  },
+  {
+    "question": "物件番号B-56の賃貸事業収入はいくらですか？",
+    "answer": "物件番号B-56の賃貸事業収入は23,368千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q02"
+  },
+  {
+    "question": "物件番号B-47のその他賃貸事業費用はいくらですか？",
+    "answer": "物件番号B-47のその他賃貸事業費用は33千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q03"
+  },
+  {
+    "question": "物件番号B-53の管理業務費が非開示である理由は何と記載されていますか？",
+    "answer": "物件番号B-53の管理業務費が非開示である理由は、「転借人であるテナントより承諾が得られていないことから非開示」と記載されています。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q04"
+  },
+  {
+    "question": "物件番号B-46の賃貸NOIはいくらですか？",
+    "answer": "物件番号B-46の賃貸NOIは6,087千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q05"
+  },
+  {
+    "question": "物件番号B-54の信託報酬はいくらですか？",
+    "answer": "物件番号B-54の信託報酬は400千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q06"
+  },
+  {
+    "question": "物件番号B-50の損害保険料はいくらですか？",
+    "answer": "物件番号B-50の損害保険料は50千円です。",
+    "level": "L1",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q07"
+  },
+  {
+    "question": "運用日数が57日の物件は、物件番号B-45からB-50の範囲でいくつありますか？",
+    "answer": "運用日数が57日の物件は、B-46、B-47、B-48の3つです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q08"
+  },
+  {
+    "question": "物件B-49とB-55のうち、賃貸事業収益が高いのはどちらですか？",
+    "answer": "物件B-55の賃貸事業収益が72,648千円であり、B-49の47,380千円よりも高いため、B-55の方が高いです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q09"
+  },
+  {
+    "question": "物件B-45の賃貸事業費用の中で、最も金額が大きい項目は何ですか？",
+    "answer": "物件B-45の賃貸事業費用の中で最も金額が大きい項目は修繕費で、1,670千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q10"
+  },
+  {
+    "question": "賃貸NOI (③) の計算式は、賃貸事業収益 (①) と賃貸事業費用 (②) を用いてどのように表されますか？",
+    "answer": "賃貸NOI (③) の計算式は、①賃貸事業収益 - ②賃貸事業費用です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q11"
+  },
+  {
+    "question": "物件B-51とB-52の賃貸事業収入を比較すると、どちらが高いですか？",
+    "answer": "物件B-51の賃貸事業収入は27,420千円、B-52は26,624千円であるため、B-51の方が高いです。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q12"
+  },
+  {
+    "question": "物件B-48の賃貸事業費用の中で、管理業務費、水道光熱費、損害保険料、信託報酬の合計額はいくらですか？",
+    "answer": "物件B-48の管理業務費(264千円)、水道光熱費(62千円)、損害保険料(7千円)、信託報酬(95千円)の合計額は428千円です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q13"
+  },
+  {
+    "question": "物件B-54の賃貸事業収益の内訳は何と何ですか？",
+    "answer": "物件B-54の賃貸事業収益の内訳は、賃貸事業収入とその他賃貸事業収入です。",
+    "level": "L2",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q14"
+  },
+  {
+    "question": "物件B-45の賃貸事業費用に占める管理業務費の割合（小数点以下第2位を四捨五入）はいくらですか？",
+    "answer": "物件B-45の管理業務費1,340千円を賃貸事業費用5,516千円で割ると、約24.29%になります。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q15"
+  },
+  {
+    "question": "物件B-49とB-55の賃貸事業損益の合計はいくらですか？",
+    "answer": "物件B-49の賃貸事業損益26,138千円とB-55の賃貸事業損益59,641千円の合計は85,779千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q16"
+  },
+  {
+    "question": "物件B-46の賃貸事業損益を、賃貸NOIと減価償却費から計算してください。",
+    "answer": "物件B-46の賃貸NOIは6,087千円、減価償却費は629千円なので、賃貸事業損益は6,087千円 - 629千円 = 5,458千円です。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q17"
+  },
+  {
+    "question": "物件B-45とB-46の1日あたりの賃貸事業収益を比較すると、どちらが高いですか？",
+    "answer": "B-45は20,063千円/184日 = 約109.04千円/日、B-46は7,290千円/57日 = 約127.89千円/日なので、B-46の方が1日あたりの賃貸事業収益が高いです。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q18"
+  },
+  {
+    "question": "物件B-53の賃貸事業損益は、賃貸NOI、減価償却費、固定資産除却損からどのように計算されますか？",
+    "answer": "物件B-53の賃貸事業損益は、③賃貸NOIから④減価償却費と⑤固定資産除却損を引くことで計算されます（③賃貸NOI - ④減価償却費 - ⑤固定資産除却損）。",
+    "level": "L3",
+    "doc_id": "tdnet_3296_723e32fa_p063",
+    "cell": "jp_table",
+    "content_type": "table",
+    "lang": "jp",
+    "task_id": "tdnet_3296_723e32fa_p063_q19"
+  }
+]
