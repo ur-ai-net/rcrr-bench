@@ -1,7 +1,8 @@
 # RCRR Benchmark — how much *meaning* survives document conversion?
 
 Companion repository for the Ur AI technical report
-**“Which document conversion systems preserve the meaning of Japanese IR materials?”** ([REPORT URL]).
+**“Which document conversion systems preserve the meaning of Japanese IR materials?”**
+(https://ur-ai.net/blog/rcrr-technical-report / Japanese: https://ur-ai.net/ja/blog/rcrr-technical-report).
 
 RCRR (reading-comprehension recovery) measures document-conversion quality by outcome:
 after a page is converted to Markdown, can an AI reader still answer validated questions
@@ -120,7 +121,8 @@ issuers. Removal requests: contact@ur-ai.net.
 
 ## License & citation
 
-Code: [LICENSE TBD]. Data (questions/results): [LICENSE TBD].
+Code and data are released under the Apache License 2.0 (see `LICENSE`). Source
+documents remain the property of their issuers (see Source documents above).
 
 > Ur AI (2026). *RCRR: a meaning-survival benchmark for Japanese document AI.*
-> [REPORT URL]
+> https://ur-ai.net/blog/rcrr-technical-report
