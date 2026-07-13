@@ -116,8 +116,9 @@ published via TDnet (Tokyo Stock Exchange). We do not redistribute the source PD
 `public_data/tdnet_doc_manifest.json` identifies each page (securities code + page
 number), and the filings are retrievable from public disclosure archives. Questions,
 gold answers, and model answers contain short factual excerpts from these public filings,
-included for evaluation and research purposes. All documents remain the property of their
-issuers. Removal requests: contact@ur-ai.net.
+included for evaluation and research purposes. Copyright and all other rights in the
+source documents belong to their respective issuers and other rights holders. Removal
+or correction requests: contact@ur-ai.net.
 
 ## Acknowledgements
 
